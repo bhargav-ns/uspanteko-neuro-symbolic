@@ -18,12 +18,14 @@ vocab_size = len(word_vocab)
 output_size = len(gloss_vocab)
 embedding_dim = 128
 hidden_dim = 256
-n_layers = 2
+n_layers = 3
+
+print("CUDA availability: ", torch.cuda.is_available())
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 # Instantiate the model
 model = BiDirectLSTM(vocab_size, output_size, embedding_dim, hidden_dim, n_layers)
-
-
+model = model.to(device)
 ###########
 # Training
 ###########
@@ -33,7 +35,7 @@ loss_func = nn.CrossEntropyLoss()
 optimizer = optim.Adam(model.parameters(), lr=0.001)
 
 # Training loop
-epochs = 10
+epochs = 7
 
 for epoch in tqdm(range(epochs)):
     train_loss = 0.0

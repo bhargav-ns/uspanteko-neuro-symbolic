@@ -10,6 +10,10 @@ import ast
 from tqdm import tqdm
 # Load the csv file using pandas
 
+print("CUDA availability: ", torch.cuda.is_available())
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+print(device)
+
 data = pd.read_csv('../data/uspanteko_data.csv')
 
 data['segmented_text'] = data['segmented_text'].apply(ast.literal_eval)
@@ -53,6 +57,11 @@ gloss_padded = pad_and_create_tensors(data['gloss_indices'])
 # Splitting the dataset
 X_train, X_val, y_train, y_val = train_test_split(segmented_text_padded, gloss_padded, test_size=0.2, random_state=42)
 X_val, X_test, y_val, y_test = train_test_split(X_val, y_val, test_size=0.5, random_state=42)
+
+# Move tensors to the device
+X_train, y_train = X_train.to(device), y_train.to(device)
+X_val, y_val = X_val.to(device), y_val.to(device)
+X_test, y_test = X_test.to(device), y_test.to(device)
 
 # Creating Dataloaders
 batch_size = 32
