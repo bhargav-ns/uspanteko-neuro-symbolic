@@ -13,19 +13,30 @@ import torch.optim as optim
 import ast
 from tqdm import tqdm
 import pdb
+import argparse
 
 from load_data import train_loader, val_loader, test_loader, word_vocab, gloss_vocab
 from load_data import indices_to_tokens
 from model import BiDirectLSTM
 
+parser = argparse.ArgumentParser(description="Load model")
+
+# Add the arguments
+parser.add_argument('--student_eval', action='store_true', help='evaluate the student model')
+parser.add_argument('--teacher_eval', action='store_true', help='evaluate the teacher model')
+
+# Parse the arguments
+args = parser.parse_args()
+
 # Load the model
-vocab_size = len(word_vocab)
-output_size = len(gloss_vocab)
-embedding_dim = 128
-hidden_dim = 256
-n_layers = 2
-model = BiDirectLSTM(vocab_size, output_size, embedding_dim, hidden_dim, n_layers)
-model.load_state_dict(torch.load('bi_direct_lstm2.pth'))
+
+if args.student_eval:
+    model = BiDirectLSTM(len(word_vocab), len(gloss_vocab), 128, 256, 2)
+    model.load_state_dict(torch.load('student_model.pth', map_location=torch.device('cpu')))
+    
+elif args.teacher_eval:
+    model = BiDirectLSTM(len(word_vocab), len(gloss_vocab), 128, 512, 2)
+    model.load_state_dict(torch.load('teacher_model.pth', map_location=torch.device('cpu')))
 
 # Evaluate the model
 model.eval()
@@ -63,6 +74,6 @@ print(f"Accuracy score: {acc}")
 pdb.set_trace()
 
 # Save the predictions
-with open('bi_direct_lstm2_predictions.json', 'w') as f:
+with open('bi_direct_lstm2_predictions_student.json', 'w') as f:
     json.dump({'y_true': y_true_labels, 'y_pred': y_pred_labels}, f)
     
