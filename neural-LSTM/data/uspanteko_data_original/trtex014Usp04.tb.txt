@@ -1,0 +1,3464 @@
+\nom Jun wunaq meb'a'
+
+\ref trtex014Usp04 001
+\t Tengo el gusto de entrevistar a Anastasio Pinula Chamatun, la fecha de hoy es 3 de mayo del año 2,004. El joven tiene 23 años de edad, es agricultor sus padres son oriundos de Uspantán pero él actualmente recide en la aldea Chipaj. El nombre de la historia que nos va relatar es Un Hombre huérfano, él autoriza a la asosiación KMA para que se publique esta gravación en todos los medios qea posibles. Dejo en compañia de ustedes a Anastacio Pinula Chamatun. If. Ójor iin ti wi' juun kristyaan kita'+
+
+\ref trtex014Usp04 002
+\t o sey xtok rixoqiil+
+\m o' sea x- tok r- ixóqiil
+\g o sea COM buscar E3S -esposa
+\c conj adv tam vt pers s
+\l O sea busca esposa.
+\gs GL GL GT GL GT GL
+\p conj adv COM#tam vt E3S#pers s
+
+\ref trtex014Usp04 003
+\t i... i... i ta' richooch+
+\m i i i ta' r- ichooch
+\g CONJ CONJ CONJ NEG E3S casa
+\c conj conj conj part pers s
+\l Y y no tiene casa.
+\gs GT GT GT GT GT GL
+\p CONJ#conj CONJ#conj CONJ#conj NEG#part E3S#pers s
+
+\ref trtex014Usp04 004
+\t ta' nada chi wi' ra richooch+
+\m ta' nada chi wi' ra r- ichooch
+\g NEG nada PRE EXS DIM E3S casa
+\c part adv prep exist part pers s
+\l No hay nada que hay en su casa.
+\gs GT GL GT GT GT GT GL
+\p NEG#part adv PRE#prep EXS#exist DIM#part E3S#pers s
+
+\ref trtex014Usp04 005
+\t pwes ra jupul jaa qe+
+\m pwees ra jup -ul jaa qe
+\g pues DIM embrocado AP casa PART
+\c adv part pos suf s part
+\l Pues solo es una casa embrocada.
+\gs GL GT GL GT GL GT
+\p adv DIM#part pos AP#suf s PART#part
+
+\ref trtex014Usp04 006
+\t k'ark'aq jaa qe+
+\m k'ark' -aq jaa qe
+\g separado PL casa PART
+\c adj part s part
+\l Es muy ralo la casa.
+\gs GL GT GL GT
+\p adj PL#part s PART#part
+
+\ref trtex014Usp04 007
+\t xe' juntiir+
+\m xe' juntiir
+\g SR todo
+\c srel adv
+\l Debajo de todo.
+\gs GL GL
+\p srel adv
+
+\ref trtex014Usp04 008
+\t i... kitz... wi' lok.. maq rech'elxik lomi taq jpwaqaq juntiir+
+\m i (kitz) wi' (lok) maq r- ech'elxik lomi taq j- pwaq -aq juntiir
+\g CONJ *** EXS *** ART E3S -pariente lomismo PL E3S dinero PL todo
+\c conj *** exist *** art pers s adv partl pers s part adv
+\l Y tienen sus parientes lo que no tienen dinero todos.
+\gs GT logged GT logged GT GT GL GL GT GT GL GT GL
+\p CONJ#conj error EXS#exist error ART#art E3S#pers s adv PL#partl E3S#pers s PL#part adv
+
+\ref trtex014Usp04 009
+\t rechaq galani' richoochaq juntiir+
+\m rechaq galaan -i' r- ichooch -aq juntiir
+\g ellos/ellas galán ENF E3S casa PL todo
+\c pron adj part pers s part adv
+\l Ellos tienen buenas casas todos.
+\gs GL GL GT GT GL GT GL
+\p pron adj ENF#part E3S#pers s PL#part adv
+
+\ref trtex014Usp04 010
+\t qusi' juntiir qleen rechaq,+
+\m qus -i' juntiir qleen rechaq
+\g bueno ENF todo cosas ellos/ellas
+\c adj part adv s pron
+\l Son buenas todas las cosas de ellos.
+\gs GL GT GL GL GL
+\p adj ENF#part adv s pron
+
+\ref trtex014Usp04 011
+\t wi' jkwa'yaq,+
+\m wi' j- kwa'y -aq
+\g EXS E3S caballo PL
+\c exist pers s part
+\l Tienen sus caballos,
+\gs GT GT GL GT
+\p EXS#exist E3S#pers s PL#part
+
+\ref trtex014Usp04 012
+\t wákixaq.+
+\m wakix -aq
+\g vaca PL
+\c s part
+\l Sus vacas.
+\gs GL GT
+\p s PL#part
+
+\ref trtex014Usp04 013
+\t Juntiir qleen rechaq,+
+\m juntiir qleen rechaq
+\g todo cosas ellos/ellas
+\c adv s pron
+\l Todas las cosas de ellos.
+\gs GL GL GL
+\p adv s pron
+
+\ref trtex014Usp04 014
+\t i sik' rech'elxikaq+
+\m i sik' r- ch'elxik -aq
+\g CONJ AFE E3S -pariente PL
+\c conj part pers s part
+\l Y sus pobres parientes.
+\gs GT GT GT GL GT
+\p CONJ#conj AFE#part E3S#pers s PL#part
+
+\ref trtex014Usp04 015
+\t koom, neen tren re jpobriil juun.+
+\m koom neen t- r- en re j- pobre -iil jun
+\g como INT INC E3S haceer PART E3S pobre SAB uno
+\c adv adv tam pers vt part pers adj suf num
+\l Como que puede hacer uno por su pobreza.
+\gs GL GT GT GT GL GT GT GL GT GL
+\p adv INT#adv INC#tam E3S#pers vt PART#part E3S#pers adj SAB#suf num
+
+\ref trtex014Usp04 016
+\t Entoons re xtok rixóqil,+
+\m entoons re x- tok r- ixóqil
+\g entonces él/ella COM buscar E3S -esposa
+\c adv pron tam vt pers s
+\l Entonces él busco esposa.
+\gs GL GL GT GL GT GL
+\p adv pron COM#tam vt E3S#pers s
+
+\ref trtex014Usp04 017
+\t kita' jq'unik twer taq+
+\m kita' j- q'unik t- wer taq
+\g PART E3S chamarra INC dormir PL
+\c part pers s tam vi part
+\l No tienen chamarras para dormir.
+\gs GT GT GL GT GL GT
+\p PART#part E3S#pers s INC#tam vi PL#part
+
+\ref trtex014Usp04 018
+\t i kita' juntiir+
+\m i kita' juntiir
+\g CONJ PART todo
+\c conj part adv
+\l Y no tienen todo.
+\gs GT GT GL
+\p CONJ#conj PART#part adv
+
+\ref trtex014Usp04 019
+\t kita' qleen rechaq,+
+\m kita' qleen r- ech -aq
+\g PART cosas E3S SR PL
+\c part s pers srel part
+\l No tienen sus cosas de ellos.
+\gs GT GL GT GL GT
+\p PART#part s E3S#pers srel PL#part
+
+\ref trtex014Usp04 020
+\t i xen taq maq kirtyaan xe' jchajej taq sik' wunaq.+
+\m i x- en taq maq kirtyaan xe' j- chaje -j taq sik' wunaq
+\g CONJ COM hacer PL ART persona ir E3S cuidar SC PL AFE hombre
+\c conj tam vt part art s vi pers vt suf part part s
+\l Y lo que hicieron las personas se fueron a cuidar al pobre hombre.
+\gs GT GT GL GT GT GL GL GT GL GT GT GT GL
+\p CONJ#conj COM#tam vt PL#part ART#art s vi E3S#pers vt SC#suf PL#part AFE#part s
+
+\ref trtex014Usp04 021
+\t -Jo' qachajej man kristyaan li+
+\m jo' qa- chaje -j man kirtyaan li
+\g vamos E1P cuidar SC ART persona DEM
+\c vi pers vt suf art s dem
+\l Vamos a cuidar esa persona.
+\gs GL GT GL GT GT GL GT
+\p vi E1P#pers vt SC#suf ART#art s DEM#dem
+
+\ref trtex014Usp04 022
+\t ¿nemoo twer laj richooch?+
+\m nen moo t- wer laj r- ichooch
+\g INT modo INC dormir DEM E3S casa
+\c part adv tam vi dem pers s
+\l Como duerme en su casa.
+\gs GT GL GT GL GT GT GL
+\p INT#part adv INC#tam vi DEM#dem E3S#pers s
+
+\ref trtex014Usp04 023
+\t porke ta' k'ii qleen re,+
+\m porke ta' k'ii qleen re
+\g porque NEG mucho cosas él/ella
+\c adv part adv s pron
+\l Porque no hay muchas cosas de él.
+\gs GL GT GL GL GL
+\p adv NEG#part adv s pron
+
+\ref trtex014Usp04 024
+\t tiqil ooj.+
+\m ti- q- il ooj
+\g INC E1P -ver nosotros
+\c tam pers vt pron
+\l Miramos nosotros.
+\gs GT GT GL GL
+\p INC#tam E1P#pers vt pron
+
+\ref trtex014Usp04 025
+\t If.Che',+
+\m cha'
+\g dice
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 026
+\t che' man rech'elxik.+
+\m che' man r- ech'elxik
+\g dice ART E2S -pariente
+\c vi art pers s
+\l Dicen sus parientes.
+\gs GL GT GT GL
+\p vi ART#art E2S#pers s
+
+\ref trtex014Usp04 027
+\t -Jaan.+
+\m jaan
+\g esta@bien
+\c adv
+\l Esta bien.
+\gs GL
+\p adv
+
+\ref trtex014Usp04 028
+\t If.Che'+
+\m cha'
+\g dice
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 029
+\t xe' chajej taq sik' kristyaan+
+\m xe' chaje -j taq sik' kirtyaan
+\g ir cuidar SC PL pobre persona
+\c vi vt suf part adj s
+\l Se fueron a cuidar al pobre hombre.
+\gs GL GL GT GT GL GL
+\p vi vt SC#suf PL#part adj s
+
+\ref trtex014Usp04 030
+\t i sik' wunaq twer peech rixóqil.+
+\m i sik' wunaq t- wer peech sik'- ixóqil
+\g CONJ AFE hombre INC dormir compañía AFE -esposa
+\c conj part s tam vi s part s
+\l Y él pobre hombre duerme en compañia de su pobre esposa.
+\gs GT GT GL GT GL GL GT GL
+\p CONJ#conj AFE#part s INC#tam vi s AFE#part s
+
+\ref trtex014Usp04 031
+\t Koom kita' jq'u'aq tresaaj ruuq sik' rixóqil,+
+\m koom kita' j- q'u' -aq t- r- e- saj r- uuq sik' r- ixóqil
+\g como PART E3S chamarra PL INC E3S sacar PAS E3S corte AFE E3S -esposa
+\c adv part pers s part tam pers vt suf pers s part pers s
+\l Como no tienen chamarra saca su corte la pobre esposa.
+\gs GL GT GT GL GT GT GT GL GT GT GL GT GT GL
+\p adv PART#part E3S#pers s PL#part INC#tam E3S#pers vt PAS#suf E3S#pers s AFE#part E3S#pers s
+
+\ref trtex014Usp04 032
+\t tijkoj chirijaq jilon li,+
+\m ti- j- koj chi- r- ij -aq jilon li
+\g INC E3S meter PREP E3P SR PL DEM DEM
+\c tam pers vt prep pers srel part dem dem
+\l Se ponen encima asi es.
+\gs GT GT GL GT GT GL GT GT GT
+\p INC#tam E3S#pers vt PREP#prep E3P#pers srel PL#part DEM#dem DEM#dem
+
+\ref trtex014Usp04 033
+\t jilon li tijq'asaaj jbidaq chuch uleew+
+\m jilon li ti- j- q'a -saaj j- bida -aq ch- uch uleew
+\g DEM DEM INC E3S pasar PAS E3S vida PL PREP SR tierra
+\c adv dem tam pers vi part pers s part prep srel s
+\l Asi se pasavan sus vidas en la tierra.
+\gs GT GT GT GT GL GT GT GL GT GT GL GL
+\p DEM#adv DEM#dem INC#tam E3S#pers vi PAS#part E3S#pers s PL#part PREP#prep srel s
+
+\ref trtex014Usp04 034
+\t i (xi') xsaqer laj kaab' q'iij+
+\m i x- saq -er laj kaab' q'iij
+\g CONJ COM blanco ITR PREP dos día
+\c conj tam adj suf prep num s
+\l Y amaneció al segundo dias.
+\gs GT GT GL GT GT GL GL
+\p CONJ#conj COM#tam adj ITR#suf PREP#prep num s
+
+\ref trtex014Usp04 035
+\t xiij sik' wunaq re sik' rixóqil.+
+\m x- iij sik' wunaq re sik' r- ixóqil
+\g COM dijo AFE hombre PART AFE E3S -esposa
+\c tam vt part s part adj pers s
+\l Dijo el pobre hombre a su pobre esposa.
+\gs GT GL GT GL GT GT GT GL
+\p COM#tam vt AFE#part s PART#part AFE#adj E3S#pers s
+
+\ref trtex014Usp04 036
+\t -Inb'eena+
+\m in- b'e -na
+\g E1S ir PART
+\c pers vi part
+\l Me tengo que ir.
+\gs GT GL GT
+\p E1S#pers vi PART#part
+
+\ref trtex014Usp04 037
+\t ¿abeer neench b'inte'?+
+\m abeer neen -ch b'- in- te'
+\g haber INT PART DIR E1S encotrar
+\c adj part part dir pers vt
+\l Haber que puedo conseguir.
+\gs GL GT GT GT GT GL
+\p adj INT#part PART#part DIR#dir E1S#pers vt
+
+\ref trtex014Usp04 038
+\t re tiqatiij nojeel q'iij,+
+\m re ti- qa- tij nojeel q'iij
+\g PART INC E1P comer todo día
+\c part tam pers vt adv s
+\l Para comer todos los dias.
+\gs GT GT GT GL GL GL
+\p PART#part INC#tam E1P#pers vt adv s
+
+\ref trtex014Usp04 039
+\t por ke si ta' ineel ta' nada qleen qe t'ókich.+
+\m por ke si ta' in- eel ta' nada qleen qe t'- ok -ich
+\g por que si NEG E1S -salir NEG nada cosas PART INC entrar DIR
+\c adv part adv part pers vi part adv s part tam vt dir
+\l Por que si no salgo no entra nuestras cosas.
+\gs GL GL GL GT GT GL GT GL GL GT GT GL GT
+\p adv part adv NEG#part E1S#pers vi NEG#part adv s PART#part INC#tam vt DIR#dir
+
+\ref trtex014Usp04 040
+\t If. Che' sik' wunaq re.+
+\m cha' sik' wunaq re
+\g dice AFE hombre él/ella
+\c vi part s pron
+\l Dijo el pobre hombre a ella.
+\gs GL GT GL GL
+\p vi AFE#part s pron
+
+\ref trtex014Usp04 041
+\t Entonses xiij sik' anm re.+
+\m entoons x- b'iij sik' ánim re
+\g entonces COM decir AFE mujer SR
+\c adv tam vt part s srel
+\l Entonces dijo la pobre mujer a él.
+\gs GL GT GL GT GL GL
+\p adv COM#tam vt AFE#part s srel
+
+\ref trtex014Usp04 042
+\t -Per iin ta' chwaaj tachap alaaq',+
+\m per iin ta' ch- waaj t- a- chap alaaq'
+\g pero yo NEG INC querer INC E2S agarrar robar
+\c adv pron part tam vt tam pers vt vt
+\l Pero yo no quiero que robes.
+\gs GL GL GT GT GL GT GT GL GL
+\p adv pron NEG#part INC#tam vt INC#tam E2S#pers vt vt
+
+\ref trtex014Usp04 043
+\t ta' chwaaj tachap alaaq',+
+\m ta' ch- waaj t- a- chap alaaq'
+\g NEG INC querer INC E2S agarrar robar
+\c part tam vt tam pers vt vt
+\l No quiero que robes.
+\gs GT GT GL GT GT GL GL
+\p NEG#part INC#tam vt INC#tam E2S#pers vt vt
+
+\ref trtex014Usp04 044
+\t wi' tene' qleen tob'ool laq b'ee+
+\m wi' te ne' qleen tob'ol laq b'ee
+\g EXS INC ENF cosas tirado PREP camino
+\c exist tam part s pos prep s
+\l Talves hay cosas tiradas en el camino.
+\gs GT GT GT GL GL GT GL
+\p EXS#exist INC#tam ENF#part s pos PREP#prep s
+
+\ref trtex014Usp04 045
+\t juntiir at'ok laq jaa.+
+\m juntiir at'- ok laq jaa
+\g todo A2S entrar PREP casa
+\c adv pers vt prep s
+\l No entres en todas las casas.
+\gs GL GT GL GT GL
+\p adv A2S#pers vt PREP#prep s
+
+\ref trtex014Usp04 046
+\t Laq jaa (tene') at'ok tawesaajch qleen+
+\m laq jaa (tene') at'- ok t- aw- e -saaj -ch qleen
+\g PREP casa ??? A2S entrar INC E2S sacar PAS DIR cosas
+\c prep s ??? pers vt tam pers vt suf dir s
+\l En las casas tevas a entrar a sacar cosas.
+\gs GT GL GT GL GT GT GL GT GT GL
+\p PREP#prep s ??? A2S#pers vt INC#tam E2S#pers vt PAS#suf DIR#dir s
+
+\ref trtex014Usp04 047
+\t para ke jilon li taya' chwe iin.+
+\m para ke jilon li t- a- ya' ch- we iin
+\g para que AFI DEM INC E2S dar PART SR yo
+\c prep part part dem tam pers vt part srel pron
+\l Paraque asi me lo des a mi.
+\gs GL GL GT GT GT GT GL GT GL GL
+\p prep part AFI#part DEM#dem INC#tam E2S#pers vt PART#part srel pron
+
+\ref trtex014Usp04 048
+\t If. Che' sik' anm re+
+\m cha' sik' ánim re
+\g dice AFE mujer él/ella
+\c vi part s pron
+\l Le dijo la pobre mujer a él.
+\gs GL GT GL GL
+\p vi AFE#part s pron
+
+\ref trtex014Usp04 049
+\t sik' richijiil.+
+\m sik' r- ichijil
+\g AFE E3S Esposo
+\c adj pers s
+\l El pobre esposo.
+\gs GT GT GL
+\p AFE#adj E3S#pers s
+
+\ref trtex014Usp04 050
+\t Toons xiij sik' wunaq re.+
+\m entoons x- iij sik' wunaq re
+\g entonces COM dijo AFE hombre él/ella
+\c adv tam vt part s pron
+\l Entonces dijo él pobre hombre a ella.
+\gs GL GT GL GT GL GL
+\p adv COM#tam vt AFE#part s pron
+
+\ref trtex014Usp04 051
+\t -In in b'i' pero Dyosi' tankuxtaaj laq b'ee+
+\m in iin b'i peer Dyoos -i' t- an- kuxtaa -j laq b'ee
+\g yo E1S DIR pero Dios ENF INC E2S recordar SC PREP camino
+\c pron pers dir adv s part tam pers vt suf prep s
+\l Si pero yo me encomiendo a Dios en el camino.
+\gs GL GT GT GL GL GT GT GT GL GT GT GL
+\p pron E1S#pers DIR#dir adv s ENF#part INC#tam E2S#pers vt SC#suf PREP#prep s
+
+\ref trtex014Usp04 052
+\t ma... ma qleen ta' tinchape' laq jaa.+
+\m ma ma qleen ta' t- in- chap -e' laq jaa
+\g NEG NEG cosas NEG INC E1S agarrar ENF PREP casa
+\c part part s part tam pers vt part prep s
+\l No son cosas de las casas loque voy agarro.
+\gs GT GT GL GT GT GT GL GT GT GL
+\p NEG#part NEG#part s NEG#part INC#tam E1S#pers vt ENF#part PREP#prep s
+
+\ref trtex014Usp04 053
+\t If. Che' sik' wunaq re.+
+\m cha' sik' wunaq re
+\g dice AFE hombre él/ella
+\c vi part s pron
+\l Dijo el pobre hombre a ella.
+\gs GL GT GL GL
+\p vi AFE#part s pron
+
+\ref trtex014Usp04 054
+\t -Baa jaat b'en+
+\m baa jaat b'en
+\g vaya vete pues.
+\c voc vi adj
+\l Baya vete pues.
+\gs GL GL GL
+\p voc vi adj
+
+\ref trtex014Usp04 055
+\t ¿abeer neen che' Dyos chaab'?+
+\m abeer neen cha' Dyoos ch- a- ab'
+\g aver INT dice Dios PREP E2S SR
+\c adv adv vi s part pers srel
+\l Haber que dice Dios por bos.
+\gs GL GT GL GL GT GT GL
+\p adv INT#adv vi s PREP#part E2S#pers srel
+
+\ref trtex014Usp04 056
+\t If.Che' sik' anm re.+
+\m cha' sik' ánim re
+\g dice AFE mujer él/ella
+\c vi part s pron
+\l Dijo la pobre mujer a él.
+\gs GL GT GL GL
+\p vi AFE#part s pron
+
+\ref trtex014Usp04 057
+\t Sik' wunaq+
+\m sik' wunaq
+\g AFE hombre
+\c part s
+\l El pobre hombre.
+\gs GT GL
+\p AFE#part s
+
+\ref trtex014Usp04 058
+\t xpet laq b'ee,+
+\m x- pet laq b'ee
+\g COM venir PREP camino
+\c tam vi prep s
+\l Se vino en el camino.
+\gs GT GL GT GL
+\p COM#tam vi PREP#prep s
+
+\ref trtex014Usp04 059
+\t pensar tren, pensar tren,+
+\m pensar t- r- en pensar t- r- en
+\g pensar IN CE3S hacer pensar INC E3S hacer
+\c vt tam pers vt vt tam pers vt
+\l Se puso a pensar.
+\gs GL GT GT GL GL GT GT GL
+\p vt IN#tam CE3S#pers vt vt INC#tam E3S#pers vt
+
+\ref trtex014Usp04 060
+\t petzelch baa tikuxtaj Dyos+
+\m petz -el -ch baa ti- kuxta -j Dyoos
+\g venir PP DIR baya INC recordar SC Dios
+\c vi suf dir voc tam vt suf s
+\l Venía rogando a Dios.
+\gs GL GT GT GL GT GL GT GL
+\p vi PP#suf DIR#dir voc INC#tam vt SC#suf s
+
+\ref trtex014Usp04 061
+\t ¿Neen tijk'am b'i re sik' rixóqil?.+
+\m neen ti- j- k'am b'i re sik' r- ixóqil
+\g INT INC E3S recibir DIR él/ella AFE E3S -esposa
+\c part tam pers vt dir pron part pers s
+\l Estava pensado que llevarle a su pobre esposa.
+\gs GT GT GT GL GT GL GT GT GL
+\p INT#part INC#tam E3S#pers vt DIR#dir pron AFE#part E3S#pers s
+
+\ref trtex014Usp04 062a
+\t I xpe, (xpeen)+
+\m i x- pe ?
+\g CONJ COM venir ?
+\c conj tam vi ?
+\l Y vino
+\gs GT GT GL logged
+\p CONJ#conj COM#tam vi error
+
+\ref trtex014Usp04 062b
+\t xpet kabaal koom kab'lojuuj qeselch sik' wunaq,+
+\m x- pet kabaal koom *** *** sik' wunaq
+\g COM venir cabal como *** *** pobre hombre
+\c tam vi adj part *** *** adj s
+\l Y vino cabal como las doce venia bajando él pobre hombre.
+\gs GT GL GL GL logged logged GL GL
+\p COM#tam vi adj part error error adj s
+
+\ref trtex014Usp04 063
+\t qeselch li k'ichelaaj,+
+\m qe -sel -ch li k'iche'laaj
+\g bajar PAS DIR DEM montaña
+\c vt suf dir prep s
+\l Venía bajando de la montaña.
+\gs GL GT GT GT GL
+\p vt PAS#suf DIR#dir DEM#prep s
+
+\ref trtex014Usp04 064
+\t qeselch jun jun utiiw k'omolch jun ajtzoo' jwi'l.+
+\m qe -sel -ch jun jun utiiw k'om -ol -ch jun ajtzoo' j- wi'l
+\g bajar PAS DIR uno uno coyote recibir AGT DIR uno chompipe E3S SR
+\c vt suf dir num num s vt suf dir num s pers srel
+\l Venía bajando un coyote traía un chompipe.
+\gs GL GT GT GL GL GL GL GT GT GL GL GT GL
+\p vt PAS#suf DIR#dir num num s vt AGT#suf DIR#dir num s E3S#pers srel
+
+\ref trtex014Usp04 065
+\t Kwando (te) wi' jun nim rij chee',+
+\m kwaand (te) wi' jun nim r- ij chee'
+\g cuándo ??? EXS uno grande E3S SR árbol
+\c adv ??? exist num adj pers srel s
+\l Cuando hay un árbol bien grueso.
+\gs GL GT GL GL GT GL GL
+\p adv ??? EXS#exist num adj E3S#pers srel s
+
+\ref trtex014Usp04 066
+\t ke sik' wunaq xmuq rib' chi rij jun nim rij chee'.+
+\m ke sik' wunaq x- muq r- ib' chi r- ij jun nim r- ij chee'
+\g que AFE hombre COM esconder E3S SR PRE E3S SR uno grande E3S SR árbol
+\c part adj s tam vt pers srel prep pers srel num adj pers srel s
+\l Que el pobre hombre se escondio detras de un árbol grande.
+\gs GL GT GL GT GL GT GL GT GT GL GL GL GT GL GL
+\p part AFE#adj s COM#tam vt E3S#pers srel PRE#prep E3S#pers srel num adj E3S#pers srel s
+
+\ref trtex014Usp04 067
+\t I xye' retal xqeejch man utiiw,+
+\m i x- ye' r- etal x- qeej -ch man utiiw
+\g CONJ COM dar E3S seña COM bajar DIR ART coyote
+\c conj tam vt pers adv tam vi dir art s
+\l Y solo se fijó cuando bajo él coyote.
+\gs GT GT GL GT GL GT GL GT GT GL
+\p CONJ#conj COM#tam vt E3S#pers adv COM#tam vi DIR#dir ART#art s
+
+\ref trtex014Usp04 068
+\t ¡kwando tok man utiiw chi jnaaq,+
+\m kwaand t- ok man utiiw chi j- naaq
+\g cuándo INC entrar ART coyote PRE E3S cerca
+\c adv tam vt art s prep pers adv
+\l Cuando pasó él coyote serca de él.
+\gs GL GT GL GT GL GT GT GL
+\p adv INC#tam vt ART#art s PRE#prep E3S#pers adv
+
+\ref trtex014Usp04 069
+\t xtzaq jch'ool man utiiw!.+
+\m x- tzaq j- ch'ool man utiiw
+\g COM botar E3S estómago ART coyote
+\c tam vt pers s art s
+\l Asusto al coyote.
+\gs GT GL GT GL GT GL
+\p COM#tam vt E3S#pers s ART#art s
+
+\ref trtex014Usp04 070
+\t Jwi'l tzaqoomch'olaal man utiiw kanjtzaqe' rajtzoo'.+
+\m j- wi'l tzaq -oom -ch'ol -aal man utiiw kan -j -t'oj -e' r- ajtzoo'
+\g E3S SR botar PAS estómago ASB ART coyote quedar E3S tirar ENF E3S chompipe
+\c pers srel vt suf *** suf art s vi pers vt part pers s
+\l Por miedo el coyote dejo tirado su chompipe.
+\gs GT GL GL GT GL GT GT GL GL GT GL GT GT GL
+\p E3S#pers srel vt PAS#suf *** ASB#suf ART#art s vi E3S#pers vt ENF#part E3S#pers s
+
+\ref trtex014Usp04 071
+\t Entonses xpe sik' wunaq kla' xq'ajw li b'ee,+
+\m entoons x- pe sik' wunaq kla' x- q'aj -w li b'ee
+\g entonces COM venir AFE hombre allí COM regresar PART PREP camino
+\c adv tam vi part s adv tam vi part prep s
+\l Entonces vino el pobre hombre allí regreso en el camino.
+\gs GL GT GL GT GL GL GT GL GT GT GL
+\p adv COM#tam vi AFE#part s adv COM#tam vi PART#part PREP#prep s
+
+\ref trtex014Usp04 072
+\t xk'am b'i man ajtzoo'.+
+\m x- k'am b'i man ajtzoo'
+\g COM recibir DIR ART chompipe
+\c tam vt dir art s
+\l Se llevo el chompipe.
+\gs GT GL GT GT GL
+\p COM#tam vt DIR#dir ART#art s
+
+\ref trtex014Usp04 073
+\t Xtaw chi richooch.+
+\m x- taw chi r- ichooch
+\g COM llegar PRE E3S casa
+\c tam vt prep pers s
+\l Llego en su casa.
+\gs GT GL GT GT GL
+\p COM#tam vt PRE#prep E3S#pers s
+
+\ref trtex014Usp04 074
+\t -Iin xinta'ch' juun inportuun.+
+\m iin x- in- ta' -ch' jun in- portuun
+\g yo COM E1S encontrar DIR uno E1S fortuna
+\c pron tam pers vt dir num pers s
+\l Yo encontre una mi fortuna.
+\gs GL GT GT GL GT GL GT GL
+\p pron COM#tam E1S#pers vt DIR#dir num E1S#pers s
+
+\ref trtex014Usp04 075
+\t If.Che' re sik' anm.+
+\m cha' re sik' ánim
+\g dice PART AFE mujer
+\c vi part part s
+\l Le dijo a la mujer.
+\gs GL GT GT GL
+\p vi PART#part AFE#part s
+
+\ref trtex014Usp04 076
+\t -¿Neen chiki' li?+
+\m neen chik -i' li
+\g INT PART ENF DEM
+\c adv part suf dem
+\l Que sera eso.
+\gs GT GT GT GT
+\p INT#adv PART#part ENF#suf DEM#dem
+
+\ref trtex014Usp04 077
+\t If. Xche' sik' anm re.+
+\m x- che' sik' ánim re
+\g COM decir AFE mujer él/ella
+\c tam vi part s pron
+\l Dijo la pobre mujer a él.
+\gs GT GL GT GL GL
+\p COM#tam vi AFE#part s pron
+
+\ref trtex014Usp04 078
+\t -Iin xintach' juun jun qati' rex.+
+\m iin x- in- ta' -ch' jun jun qa- ti' rex
+\g yo COM E1S encontrar DIR uno uno E1P carne verde
+\c pron tam pers vt dir num num pers s adj
+\l Yo encontre una carne verde (cruda).
+\gs GL GT GT GL GT GL GL GT GL GL
+\p pron COM#tam E1S#pers vt DIR#dir num num E1P#pers s adj
+
+\ref trtex014Usp04 079
+\t If. Xche' re sik' anm peyor xawalq'aajch qe,+
+\m x- che' re sik' ánim peyor x- aw- alq' -aj -ch qe
+\g COM dice él/ella AFE mujer peor COM E2S robar AGT DIR PART
+\c tam vi pron part s adv tam pers vt part dir part
+\l Le dijo a la pobre mujer, peor si lo robastes.
+\gs GT GL GL GT GL GL GT GT GL GT GT GT
+\p COM#tam vi pron AFE#part s adv COM#tam E2S#pers vt AGT#part DIR#dir PART#part
+
+\ref trtex014Usp04 080
+\t xawelq'aajch qe rik'il kristyaan,+
+\m x- aw- elq' -aaj -ch qe r- ik'iil kirtyaan
+\g COM E2S robar AGT DIR PART E3S SR persona
+\c tam pers vt part dir part pers srel s
+\l Peor si lo robastes con la gente.
+\gs GT GT GL GT GT GT GT GL GL
+\p COM#tam E2S#pers vt AGT#part DIR#dir PART#part E3S#pers srel s
+
+\ref trtex014Usp04 081
+\t laq b'ee tine' wi' ajtzoo' tachapch takamsaj+
+\m laq b'ee ti -ne' wi' ajtzoo' t- a- chap -ch t- a- kam -sáaj
+\g PREP camino INC ENF EXS chompipe INC E2S agarrar DIR INC E2S morir CAU
+\c prep s tam part exist s tam pers vt dir tam pers vi suf
+\l A lo mejor que en el camino estava cuando lo tragistes y lo vas a matar.
+\gs GT GL GT GT GT GL GT GT GL GT GT GT GL GT
+\p PREP#prep s INC#tam ENF#part EXS#exist s INC#tam E2S#pers vt DIR#dir INC#tam E2S#pers vi CAU#suf
+
+\ref trtex014Usp04 082
+\t i chwe taya' chiqeoj awaas+
+\m i ch- we t- a- ye' chi- qe -oj awaas
+\g CONJ PREP SR INC E2S dar PRE SR nosotros pecado
+\c conj prep srel tam pers vt prep srel pron s
+\l y a mi me lo das es pecado.
+\gs GT GT GL GT GT GL GT GL GL GL
+\p CONJ#conj PREP#prep srel INC#tam E2S#pers vt PRE#prep srel pron s
+
+\ref trtex014Usp04 083
+\t chuch Dyos.+
+\m ch- uch Dyoos
+\g PREP SR Dios
+\c prep srel s
+\l Es pecado delante de Dios.
+\gs GT GL GL
+\p PREP#prep srel s
+
+\ref trtex014Usp04 084
+\t -No si ri juun utiiw k'amownaqch qesélch,+
+\m no si ri juun utiiw k'am -ow -naq -ch qes -el -ch
+\g no si DEM uno coyote recibir AP PP DIR bajar ? DIR
+\c adv adv dem num s vt suf suf dir vi ? dir
+\l No si un coyote lo traía, que venía vajando.
+\gs GL GL GT GL GL GL GT GT GT GL logged GT
+\p adv adv DEM#dem num s vt AP#suf PP#suf DIR#dir vi error DIR#dir
+
+\ref trtex014Usp04 085
+\t laq b'ee iin xinmuq wib' chirij juun chee'.+
+\m laq b'ee iin x- in- muq wib' chi -r -ij juun chee'
+\g PREP camino yo COM E1S enterrar SR PREP E3S SR uno árbol
+\c prep s pron tam pers vt srel prep pers srel num s
+\l En el camino yo me escondide tras de un árbol.
+\gs GT GL GL GT GT GL GL GT GT GL GL GL
+\p PREP#prep s pron COM#tam E1S#pers vt srel PREP#prep E3S#pers srel num s
+
+\ref trtex014Usp04 086
+\t ¡Xintzaq jch'ool!.+
+\m x- in- tzaq j- ch'ool
+\g COM E1S botar E3S estómago
+\c tam pars vt pers s
+\l Lo asuste.
+\gs GT GT GL GT GL
+\p COM#tam E1S#pars vt E3S#pers s
+
+\ref trtex014Usp04 087
+\t I xkanjtzaqe' sik' ra sik' rajtzoo'+
+\m i x- kan -j -tzaq -e' sik' ra sik' r- ajtzoo'
+\g CONJ COM quedar E3S botar ENF AFE DIM AFE E3S chompipe
+\c conj tam vi pers vt part part part part pers s
+\l Y dejo tirado su chompipe.
+\gs GT GT GL GT GL GT GT GT GT GT GL
+\p CONJ#conj COM#tam vi E3S#pers vt ENF#part AFE#part DIM#part AFE#part E3S#pers s
+
+\ref trtex014Usp04 088
+\t i xink'amch.+
+\m i x- in- k'am -ch
+\g CONJ COM A1S traer DIR
+\c conj tam pers vt dir
+\l Y lo traje.
+\gs GT GT GT GL GT
+\p CONJ#conj COM#tam A1S#pers vt DIR#dir
+
+\ref trtex014Usp04 089
+\t Iinalaq'ta' tanb'an.+
+\m iin alaq' -ta' t- an- b'an
+\g yo robar NEG INC A1S hacer
+\c pron vt part tam pers vt
+\l Yo no estoy robando.
+\gs GL GL GT GT GT GL
+\p pron vt NEG#part INC#tam A1S#pers vt
+
+\ref trtex014Usp04 090
+\t If. Wen si jiloni' li,+
+\m wen si jilon -i' li
+\g bueno si AFI ENF DEM
+\c adv adv part part dem
+\l Bueno si es así.
+\gs GL GL GT GT GT
+\p adv adv AFI#part ENF#part DEM#dem
+
+\ref trtex014Usp04 091
+\t entoons xen tijwá'xik sik' ajtzoo',+
+\m entoons x- en ti- j- wa'x -ik sik' ajtzoo'
+\g entonces COM hacer INC E3S componer/arreglar SC AFE chompipe
+\c adv tam vt tam pers vt suf part s
+\l Entonces arreglo al pobre chompipe.
+\gs GL GT GL GT GT GL GT GT GL
+\p adv COM#tam vt INC#tam E3S#pers vt SC#suf AFE#part s
+
+\ref trtex014Usp04 092
+\t xtijtaq, xtijtaq baa laj kaab' q'iij,+
+\m x- tij -taq x- tij -taq baa laj kaab' q'iij
+\g COM comer PL COM comer PL vaya PREP dos día
+\c tam vt part tam vt part voc prep num s
+\l Lo comierón al siguente dia.
+\gs GT GL GT GT GL GT GL GT GL GL
+\p COM#tam vt PL#part COM#tam vt PL#part voc PREP#prep num s
+
+\ref trtex014Usp04 093a
+\t lajrox q'iij ta' chiki' neen tijtij+
+\m laj - r- ox q'iij ta' chik -i' neen ti- j -tij
+\g PREP E3S tercero día NEG PART ENF INT INC E3S comer
+\c prep pers num s part part suf part tam pers vt
+\l Al tecer dia ya no tienían que comer
+\gs GT GT GT GL GL GT GT GT GT GT GT GL
+\p PREP#prep # E3S#pers num s NEG#part PART#part ENF#suf INT#part INC#tam E3S#pers vt
+
+\ref trtex014Usp04 093b
+\t che',+
+\m cha'
+\g dice
+\c vi
+\l dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 094
+\t xe' chik sik' wunaq chik,+
+\m xe' chik sik' wunaq chik
+\g ir PART AFE hombre PART
+\c vi part part s part
+\l Se fue otra vez el pobre hombre.
+\gs GL GT GT GL GT
+\p vi PART#part AFE#part s PART#part
+
+\ref trtex014Usp04 095
+\t xe' chik sik' wunaq chik,+
+\m xe' chik sik' wunaq chik
+\g ir PART AFE hombre PART
+\c vi part part s part
+\l Se fue otra vez el pobre hombre otra vez.
+\gs GL GT GT GL GT
+\p vi PART#part AFE#part s PART#part
+
+\ref trtex014Usp04 096
+\t xqej chik laq b'ee, laq b'ee qesél b'ik,+
+\m x- qej chik laq b'ee laq b'ee qe -s -él b'ik
+\g COM bajar PART PREP camino PREP camino bajar ITR PP DIR
+\c tam vi part prep s prep s vt suf suf dir
+\l Bajó otra vez en el camino, benía bajando.
+\gs GT GL GT GT GL GT GL GL GT GT GT
+\p COM#tam vi PART#part PREP#prep s PREP#prep s vt ITR#suf PP#suf DIR#dir
+
+\ref trtex014Usp04 097
+\t xq'aax la jun niim k'ichelaaj chaq tril+
+\m x- q'ax la jun nim k'iche'laaj chaq t- r- il
+\g COM pasar PRE uno grande montaña PART INC E3S ver
+\c tam vi prep num adj s part tam pers vt
+\l Paso en una montaña grande cuando vio.
+\gs GT GL GT GL GL GL GT GT GT GL
+\p COM#tam vi PRE#prep num adj s PART#part INC#tam E3S#pers vt
+
+\ref trtex014Usp04 098
+\t che',+
+\m cha'
+\g dice
+\c vi
+\l dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 099
+\t chaq tril qesélch juun ra k'isik',+
+\m chaq t- r- il qe -s -el -ch jun ra k'isik'
+\g PART INC E3S ver bajr ITR PAS DIR uno DIM cabra
+\c part tam pers vt vt suf suf dir num part s
+\l Cuando vio venia bajando una cabrita.
+\gs GT GT GT GL GL GT GT GT GL GT GL
+\p PART#part INC#tam E3S#pers vt vt ITR#suf PAS#suf DIR#dir num DIM#part s
+
+\ref trtex014Usp04 100
+\t qesélch juun ra k'isik'.+
+\m qe -s -el -ch jun ra k'isik'
+\g bajar ITR PAS DIR uno DIM cabra
+\c vt part suf dir num part s
+\l Venía bajando una cabra grande.
+\gs GL GT GT GT GL GT GL
+\p vt ITR#part PAS#suf DIR#dir num DIM#part s
+
+\ref trtex014Usp04 101
+\t Entoons xiij re laj raanm,+
+\m entoons x- iij re laj ra- anm
+\g entonces COM decir él/ella PREP E3S -alma
+\c adv tam vi pron prep pers s
+\l Entonces dijo él en su corazón.
+\gs GL GT GL GL GT GT GL
+\p adv COM#tam vi pron PREP#prep E3S#pers s
+
+\ref trtex014Usp04 102
+\t k'omool xresaaj jpatb'a,+
+\m k'am -ool x- r- es -aaj j- patb'a
+\g recibir AGT COM E3S sacar PAS E3S sombrero
+\c vt suf tam pers vt suf pers s
+\l Traía, saco su sombrero.
+\gs GL GT GT GT GL GT GT GL
+\p vt AGT#suf COM#tam E3S#pers vt PAS#suf E3S#pers s
+
+\ref trtex014Usp04 103
+\t pwes xiij laj ránim.+
+\m pwees x- iij laj r- ánim
+\g pues COM decir PREP E3S alma
+\c adv tam vi prep pers s
+\l Pues dijo en su corazón.
+\gs GL GT GL GT GT GL
+\p adv COM#tam vi PREP#prep E3S#pers s
+
+\ref trtex014Usp04 104
+\t -Tanqasaaj na, tanqasaaj na inpat'b'aa,+
+\m t- an- qa -saj na t- an- qa -saj na in- pat'b'aa
+\g INC E1S bajar PAS PART INC E1S bajar PAS PART E1S sombrero
+\c tam pers vt suf part tam pers vt suf part pers s
+\l Bajare mi sombrero.
+\gs GT GT GL GT GT GT GT GL GT GT GT GL
+\p INC#tam E1S#pers vt PAS#suf PART#part INC#tam E1S#pers vt PAS#suf PART#part E1S#pers s
+
+\ref trtex014Usp04 105
+\t tanye' li b'ee+
+\m t- an- ye' li b'ee
+\g INC E1S dar PREP camino
+\c tam pers vt prep s
+\l Lo pongo en el camino.
+\gs GT GT GL GT GL
+\p INC#tam E1S#pers vt PREP#prep s
+
+\ref trtex014Usp04 106
+\t ¿abeer neen, abeer si kwando ra k'isik'+
+\m abeer neen abeer si kwaand ra k'isik'
+\g haber INT haber si cuándo DIM cabra
+\c adv part adv adv adv part s
+\l Haber si cuando la cabrita.
+\gs GL GT GL GL GL GT GL
+\p adv INT#part adv adv adv DIM#part s
+
+\ref trtex014Usp04 107
+\t tijtij peent atz'aam ch'ool re tinya' re?.+
+\m ti- j- tij peent atz'aam ch'ool re t- in- ya' re
+\g INC E3S comer derrepente. sal estómago SR INC A1S dar SR
+\c tam pers vt adv s s srel tam pers vt srel
+\l Derrepente sal dice él que le doy.
+\gs GT GT GL GL GL GL GL GT GT GL GL
+\p INC#tam E3S#pers vt adv s s srel INC#tam A1S#pers vt srel
+
+\ref trtex014Usp04 108
+\t If. Che' re laj ránim.+
+\m cha' re laj r- ánim
+\g dice él/ella PREP E3S alma
+\c vi pron prep pers s
+\l Dijo en su corazón.
+\gs GL GL GT GT GL
+\p vi pron PREP#prep E3S#pers s
+
+\ref trtex014Usp04 109
+\t Re xresaj jpatb'aa xkanjye' li b'ee+
+\m re x- r- e saj j -patb'a x- kan - j- ye' li b'ee
+\g él/ella COM E3S saqcar PAS E3S sombrero COM quedar E3S dar PREP camino
+\c pron tam pers vt suf pers s tam vi pers vt prep s
+\l Él saco su sombrero lo dejo en el camino del cabrito.
+\gs GL GT GT GL GT GT GL GT GL GT GT GL GT GL
+\p pron COM#tam E3S#pers vt PAS#suf E3S#pers s COM#tam vi # E3S#pers vt PREP#prep s
+
+\ref trtex014Usp04 110
+\t xijmuqe' rib' chralaaj juun chee',+
+\m x- i- j- muq -e' r- ib' ch- r- laaj jun chee'
+\g COM DIR E3S esconder ENF E3S SR INC E3S SR uno árbol
+\c tam dir pers vt part pers srel tam pers srel num s
+\l Se escondio detras de un árbol.
+\gs GT GT GT GL GT GT GL GT GT GT GL GL
+\p COM#tam DIR#dir E3S#pers vt ENF#part E3S#pers srel INC#tam E3S#pers SR#srel num s
+
+\ref trtex014Usp04 111
+\t xejmuqe' rib' chrelaaj juun chee'.+
+\m x- e- j- muq -e' ch- r- -elaaj jun chee'
+\g COM DIR E3S esconder ENF INC E3S SR uno árbol
+\c tam dir pers vt part tam pers srel num s
+\l Se fue a esconder debajo de un árbol.
+\gs GT GT GT GL GT GT GT GT GL GL
+\p COM#tam DIR#dir E3S#pers vt ENF#part INC#tam E3S#pers SR#srel num s
+
+\ref trtex014Usp04 112
+\t Xpe sik', pe sik', sik' sik' wunaq+
+\m x- pe sik' pe sik' sik' sik' wunaq
+\g COM venir AFE venir AFE AFE AFE hombre
+\c tam vi part vi part adj adj s
+\l Vino el pobre pobre pobre hombre.
+\gs GT GL GT GL GT GT GT GL
+\p COM#tam vi AFE#part vi AFE#part AFE#adj AFE#adj s
+
+\ref trtex014Usp04 113
+\t xejmuqe' rib' chrelaaj juun chee'.+
+\m x- e- j- muq -e' ch- r- elaaj jun chee'
+\g COM DIR E3S esconder ENF INC E3S SR uno árbol
+\c tam dir pers vt part tam pers srel num s
+\l Se escondio debajo de un árbol.
+\gs GT GT GT GL GT GT GT GT GL GL
+\p COM#tam DIR#dir E3S#pers vt ENF#part INC#tam E3S#pers SR#srel num s
+
+\ref trtex014Usp04 114
+\t Kwando xil ra k'isik' qeseel ch'opiin ra k'isik' qeseelch.+
+\m kwaand x- il ra k'isik' qe seel ch'opiin ra k'isik' qe- seel -ch
+\g cuándo COM ver DIM cabra bajr PAS brincar DIM cabra ITS PAS DIR
+\c adv tam vt dim s vt suf vi part s ITS suf dir
+\l Cuando vio que venía una cabrita brincando para abajo.
+\gs GL GT GL GT GL GL GT GL GT GL GT GT GT
+\p adv COM#tam vt DIM#dim s vt PAS#suf vi DIM#part s ITS#ITS PAS#suf DIR#dir
+
+\ref trtex014Usp04 115
+\t xpee xijtek'e' jpaam man jpat'b'aa sik' wunaq,+
+\m x- pee x- i- j- tek -e' j- paam man j- pat'b'aa sik' wunaq
+\g COM venir COM DIR E3S lamer ENF E3S SR ART E3S sombrero AFE hombre
+\c tam vi tam dir pers vt part pers srel art pers s part s
+\l Vino fue a lamber el fondo del sombrero del pobre hombre.
+\gs GT GL GT GT GT GL GT GT GL GT GT GL GT GL
+\p COM#tam vi COM#tam DIR#dir E3S#pers vt ENF#part E3S#pers srel ART#art E3S#pers s AFE#part s
+
+\ref trtex014Usp04 116
+\t jtek'e' jpaam patb'aa sik' wunaq.+
+\m j- tek' -e' j- paam patbaa' sik' wunaq
+\g E3S lamer ENF E3S SR sombrero AFE hombre
+\c pers vt part pers srel s adj s
+\l Lamió el fondo del sombrero del pobre hombre.
+\gs GT GL GT GT GL GL GT GL
+\p E3S#pers vt ENF#part E3S#pers srel s AFE#adj s
+
+\ref trtex014Usp04 117
+\t Xril koow jpatb'aa sik' wunaq+
+\m x- il koow j- patb'aa sik' wunaq
+\g COM ver duro E3S sombrero AFE hombre
+\c tam vt adj pers s adj s
+\l Vio fijamente el sombrero del pobre hombre.
+\gs GT GL GL GT GL GT GL
+\p COM#tam vt adj E3S#pers s AFE#adj s
+
+\ref trtex014Usp04 118
+\t i... i lo ke xen xk'oner ra k'isik'+
+\m i i lo ke x- en x- k'on -er ra k'isik'
+\g CONJ CONJ lo que COM hacer COM encogerse ITR DIM cabra
+\c conj conj part part tam vt tam vi part part s
+\l Y lo que hizo se inco o se pandio la cabra.
+\gs GT GT GL GL GT GL GT GL GT GT GL
+\p CONJ#conj CONJ#conj part part COM#tam vt COM#tam vi ITR#part DIM#part s
+
+\ref trtex014Usp04 119
+\t i xchuluun xilij jpatb'aa ra wunaq.+
+\m i x- chulu -n xílij j- patb'aa ra wunaq
+\g CONJ COM orinar AP SR E3S sombrero DIM hombre
+\c conj tam vt suf srel pers s part s
+\l Y se orinó dentro del sombrero del hombre.
+\gs GT GT GL GT GL GT GL GT GL
+\p CONJ#conj COM#tam vt AP#suf srel E3S#pers s DIM#part s
+
+\ref trtex014Usp04 120
+\t Entoones xiij sik' wunaq,+
+\m entoons x- iij sik' wunaq
+\g entonces COM decir AFE hombre
+\c adv tam vi part s
+\l Entonces dijo el pobre hombre.
+\gs GL GT GL GT GL
+\p adv COM#tam vi AFE#part s
+
+\ref trtex014Usp04 121
+\t xiij sik' wunaq ke.+
+\m x- iij sik' wunaq ke
+\g COM decir AFE hombre que
+\c tam vi adj s part
+\l Dijo el pobre hombre que.
+\gs GT GL GT GL GL
+\p COM#tam vi AFE#adj s part
+
+\ref trtex014Usp04 122
+\t -Aay mat xinya' na inpetb'aa re man k'isik'+
+\m aay mat x- in- ya' na in- petb'aa re man k'isik'
+\g aah NEG COM E1S dar PART PRON sombrero él/ella ART cabra
+\c voc part tam pers vt part pron s pron art s
+\l Hay no ubiera puesto mi sombrero delante de la cabra.
+\gs GL GT GT GT GL GT GT GL GL GT GL
+\p voc NEG#part COM#tam E1S#pers vt PART#part PRON#pron s pron ART#art s
+
+\ref trtex014Usp04 123
+\t xaq xkanchulaaj man inpatb'aa+
+\m xaq x- kan- chulaa -j man in- patb'aa
+\g PART COM quedar orinar SC ART PRON sombrero
+\c part tam vi vt suf art pron s
+\l Solo dejo orinado mi sombrero.
+\gs GT GT GL GL GT GT GT GL
+\p PART#part COM#tam vi vt SC#suf ART#art PRON#pron s
+
+\ref trtex014Usp04 124
+\t ¿Neen moo tajkoj chik b'ik?+
+\m neen mood ta- j- koj chik b'ik
+\g INT modo INC E3S meter PART DIR
+\c part adv tam pers vt part dir
+\l Como lo boy aponer otra vez.
+\gs GT GL GT GT GL GT GT
+\p INT#part adv INC#tam E3S#pers vt PART#part DIR#dir
+
+\ref trtex014Usp04 125
+\t Iin inb'e na li juun tilmiit,+
+\m iin in- b'e na li juun tilmiit
+\g yo E1S ir PART PREP uno pueblo
+\c pron pers vi part prep num s
+\l Yo me tengo que ir en un pueblo.
+\gs GL GT GL GT GT GL GL
+\p pron E1S#pers vi PART#part PREP#prep num s
+
+\ref trtex014Usp04 126
+\t a... tanye' na kla' chulaaj na.+
+\m a t- an- ye' na kla' chulaa j na
+\g a INC E1S dar PART allí orinar SC PART
+\c prep tam pers vt part adv s suf part
+\l A lo dejare allí que lo orine.
+\gs GL GT GT GL GT GL GL GT GT
+\p prep INC#tam E1S#pers vt PART#part adv s SC#suf PART#part
+
+\ref trtex014Usp04 127
+\t If.Che' sik' wunaq.+
+\m cha' sik' wunaq
+\g dice AFE hombre
+\c vi part s
+\l Dijo el pobre hombre.
+\gs GL GT GL
+\p vi AFE#part s
+
+\ref trtex014Usp04 128
+\t Kwando chaq li xkajne' ra k'isik',+
+\m kwaand chaq li x- kan -j -ne' ra k'isik'
+\g cuándo PART DEM COM quedar E3S ENF DIM cabra
+\c adv part dem tam vt pers part part s
+\l Cuando solo eso dejo hecho la cabrita.
+\gs GL GT GT GT GL GT GT GT GL
+\p adv PART#part DEM#dem COM#tam vt E3S#pers ENF#part DIM#part s
+
+\ref trtex014Usp04 129
+\t xch'ejej ra k'isik',+
+\m x- ch'eje -j ra k'isik'
+\g COM gritar SC DIM cabra
+\c tam vi suf part s
+\l Grito la cabrita.
+\gs GT GL GT GT GL
+\p COM#tam vi SC#suf DIM#part s
+
+\ref trtex014Usp04 130
+\t xe' chik li wataal,+
+\m xe chik li wataal
+\g ir PART PREP guatal
+\c vi part prep s
+\l Se fue en el guatal.
+\gs GL GT GT GL
+\p vi PART#part PREP#prep s
+
+\ref trtex014Usp04 131
+\t xe' chik li k'ichelaaj,+
+\m xe' chik li k'iche'laaj
+\g ir PART PREP montaña
+\c vi part prep s
+\l Se fue otra vez en la montaña.
+\gs GL GT GT GL
+\p vi PART#part PREP#prep s
+
+\ref trtex014Usp04 132
+\t xjaaw b'ik, jaaw b'ik.+
+\m x- jaaw b'ik jaw b'ik
+\g COM subir DIR subir DIR
+\c tam vt dir vt dir
+\l Subio subio.
+\gs GT GL GT GL GT
+\p COM#tam vt DIR#dir vt DIR#dir
+
+\ref trtex014Usp04 133
+\t -Entonses xinb'ona' tewile' chik sik wunaq.+
+\m entonses x- in- b'on -a' te- w- il -e' chik sik' wunaq
+\g entonces COM E1S hacer ENF INC E3S ver ENF PART AFE hombre
+\c adv tam pers vt part tam pers vt part part part s
+\l Entonces me boy a ver el pobre hombre.
+\gs GL GT GT GL GT GT GT GL GT GT GT GL
+\p adv COM#tam E1S#pers vt ENF#part INC#tam E3S#pers vt ENF#part PART#part AFE#part s
+
+\ref trtex014Usp04 134
+\t If. Chaq tril nojsol jpatb'aa solo chaq chi pwaq nojsel.+
+\m chaq t- r- il nojso -l j- patb'aa sol chaq chi pwaq nojs -el
+\g PART INC E3S ver llenar SC E3S sombrero solo PART PRE dinero llenar PAS
+\c part tam pers vt vt suf pers s adv part prep s vt suf
+\l Cuando vio lleno su sombrero solo de dinero.
+\gs GT GT GT GL GL GT GT GL GL GT GT GL GL GT
+\p PART#part INC#tam E3S#pers vt vt SC#suf E3S#pers s adv PART#part PRE#prep s vt PAS#suf
+
+\ref trtex014Usp04 135
+\t Entoons kla' xuker sik' wunaq,+
+\m entoons kla' xuk -er sik' wunaq
+\g entonces allí arrodillar ITR pobre hombre
+\c adv adv pos suf adj s
+\l Entonces allí se arrodillo el pobre hombre.
+\gs GL GL GL GT GL GL
+\p adv adv pos ITR#suf adj s
+
+\ref trtex014Usp04 136
+\t xuker sik' wunaq,+
+\m xuk -er sik' wunaq
+\g arrodillar ITR AFE hombre
+\c pos suf part s
+\l Se arrodillo el pobre hombre.
+\gs GL GT GT GL
+\p pos ITR#suf AFE#part s
+
+\ref trtex014Usp04 137
+\t xuker xtaa re Dyos.+
+\m xuk -er x- ta re Dyoos
+\g arrodillar ITR COM PART PART Dios
+\c pos suf tam part part s
+\l se arrodillo le pidio a Dios.
+\gs GL GT GT GT GT GL
+\p pos ITR#suf COM#tam PART#part PART#part s
+
+\ref trtex014Usp04 138
+\t -K'omo re sik' ka'n in sweerte,+
+\m k'omo re sik' ka'n in sweerte
+\g gracias PART AFE animal yo suerte
+\c adj part part s pron s
+\l Gracias al pobre animal es mi suerte.
+\gs GL GT GT GL GL GL
+\p adj PART#part AFE#part s pron s
+
+\ref trtex014Usp04 139
+\t inportuun niri.+
+\m in- portuun niri
+\g A1S fortuna aqui
+\c pers s adv
+\l Mi fortuna.
+\gs GT GL GL
+\p A1S#pers s adv
+
+\ref trtex014Usp04 140
+\t If. Che' re sik' wunaq,+
+\m cha' re sik' wunaq
+\g decir él/ella AFE hombre
+\c vi pron adj s
+\l Dijo él pobre hombre.
+\gs GL GL GT GL
+\p vi pron AFE#adj s
+
+\ref trtex014Usp04 141
+\t xuker kla' xq'aj b'ik rik'il rixóqil.+
+\m xuk -er kla' x- q'aj b'ik r- ik'il sik' -ixóqil
+\g arrodillar ITR allí COM regresar DIR E3S SR AFE -esposa
+\c pos suf adv tam vi dir pers srel part s
+\l Se arrodilló allí, y se regresó con su pobre esposa.
+\gs GL GT GL GT GL GT GT GL GT GL
+\p pos ITR#suf adv COM#tam vi DIR#dir E3S#pers srel AFE#part s
+
+\ref trtex014Usp04 142
+\t Kwando xtaaw chi richooch, xiij,+
+\m kwaand x- taw chi r- ichooch x- iij
+\g cuándo COM llegar PRE E3S casa COM dijo
+\c adv tam vt prep pers s tam vt
+\l Cuando llego en su casa dijo.
+\gs GL GT GL GT GT GL GT GL
+\p adv COM#tam vt PRE#prep E3S#pers s COM#tam vt
+
+\ref trtex014Usp04 143
+\t xiij re rixóqil.+
+\m x- iij re r- ixóqil
+\g COM decir PART E3S -esposa
+\c tam vt part pers s
+\l Le dijo a su esposa.
+\gs GT GL GT GT GL
+\p COM#tam vt PART#part E3S#pers s
+
+\ref trtex014Usp04 144
+\t -Iin juun insweerte,+
+\m in jun in- sweerte
+\g E1S uno Yo suerte
+\c pers num pron adj
+\l Yo tengo un mi suerte.
+\gs GT GL GL GL
+\p E1S#pers num pron adj
+
+\ref trtex014Usp04 145
+\t inportuun xintaaw,+
+\m in- portuun x- in- ta'w
+\g E1S fortuna COM E1S encontrar
+\c pers s tam pers vt
+\l Mi fortuna que encontre.
+\gs GT GL GT GT GL
+\p E1S#pers s COM#tam E1S#pers vt
+
+\ref trtex014Usp04 146
+\t ra k'isik' intantzaq jch'ool tanb'ij iin,+
+\m ra k'isik' in- t- an- tzaq j- ch'ool t- an -b'ij iin
+\g DIM cabra E1S INC E1S botar E3S estómago INC hacer -decir yo
+\c part s pers tam pers vt pers s tam vt vt pron
+\l Yo pensava asustar la cabrita.
+\gs GT GL GT GT GT GL GT GL GT GL GL GL
+\p DIM#part s E1S#pers INC#tam E1S#pers vt E3S#pers s INC#tam vt vt pron
+
+\ref trtex014Usp04 147
+\t xinya' inpatb'aa,+
+\m x- in- ya' in- patb'a
+\g COM E1S dar E1S sombrero
+\c tam pers vt pers s
+\l Di mi sombrero.
+\gs GT GT GL GT GL
+\p COM#tam E1S#pers vt E1S#pers s
+
+\ref trtex014Usp04 148
+\t chi nch'ol iin+
+\m chi in- ch'ool iin
+\g PRE E1S estómago yo
+\c prep pers s pron
+\l Yo pensé.
+\gs GT GT GL GL
+\p PRE#prep E1S#pers s pron
+
+\ref trtex014Usp04 149
+\t atz'aam tanye' re.+
+\m atz'aam t- in- ye' re
+\g sal INC A1S dar él/ella
+\c s tam pers vt pron
+\l Sal le doy a ella.
+\gs GL GT GT GL GL
+\p s INC#tam A1S#pers vt pron
+
+\ref trtex014Usp04 150
+\t Xpe re xijtek'ee jpaam inpatb'aa,+
+\m x- pe re x- i- j- tek' -e' j- paam in- patb'aa
+\g COM venir él/ella COM DIR E3S lamer ENF E3S SR E3S sombrero
+\c tam vi pron tam dir pers vt part pers srel pers s
+\l Vino ella fue a lamber el fondo de mi sombrero.
+\gs GT GL GL GT GT GT GL GT GT GL GT GL
+\p COM#tam vi pron COM#tam DIR#dir E3S#pers vt ENF#part E3S#pers srel E3S#pers s
+
+\ref trtex014Usp04 151
+\t xch'ejejch xqejch,+
+\m x- ch'eje -j -ch x- qej -ch
+\g COM gritar SC DIR COM bajar DIR
+\c tam vi suf dir tam vi dir
+\l Grito cuando bajó.
+\gs GT GL GT GT GT GL GT
+\p COM#tam vi SC#suf DIR#dir COM#tam vi DIR#dir
+
+\ref trtex014Usp04 152
+\t xijtek'ee' inpatb'aa, chaq twiil iin+
+\m x- i- j- tek' -ee' in- patb'aa chaq t- w- iil iin
+\g COM DIR E3S lamer ENF E1S sombrero PART INC E1S ver yo
+\c tam dir pers vt part pers s part tam pers vt pron
+\l Cuando yo ví fue a lamer mi sombrero.
+\gs GT GT GT GL GT GT GL GT GT GT GL GL
+\p COM#tam DIR#dir E3S#pers vt ENF#part E1S#pers s PART#part INC#tam E1S#pers vt pron
+
+\ref trtex014Usp04 153
+\t xk'oner xilij inpatb'aa.+
+\m x- k'on -er xílij in- patb'aa
+\g COM encoger ITR SR E1S sobrero
+\c tam pos suf srel pers s
+\l Se encogió dentro de mi sombrero. (posisión de orinarse)
+\gs GT GL GT GL GT GL
+\p COM#tam pos ITR#suf srel E1S#pers s
+
+\ref trtex014Usp04 154
+\t Xinb'ij iin jchul xen+
+\m x- iin- b'ij iin j- chul x- en
+\g COM yo -decir yo E3S orina COM hacer
+\c tam pron vi pron pers s tam vt
+\l Yo dige que solo se orino.
+\gs GT GL GL GL GT GL GT GL
+\p COM#tam pron vi pron E3S#pers s COM#tam vt
+
+\ref trtex014Usp04 155
+\t i pwaq xkanjye' xilij inpatb'aa,+
+\m i pwaq x- kan - j- ye' xílij in -patb'aa
+\g CONJ dinero COM quedar E3S dar SR E1S sobrero
+\c conj s tam vi pers vt srel pers s
+\l Que si dinero dejo dentro de mi sombrero.
+\gs GT GL GT GL GT GT GL GL GT GL
+\p CONJ#conj s COM#tam vi # E3S#pers vt srel E1S#pers s
+
+\ref trtex014Usp04 156
+\t iil inpuuch ri bee. If. Che'. -Entoons talbes ri aportuuni' li,+
+\m il in- puuch ri bee cha' entonces talbes ri a- portuun -i' li
+\g ver E2S PART DEM vocativo dice entonces talvez DEM E2S fortuna ENF DEM
+\c vt pers part dem voc vi adv adv dem pers s suf dem
+\l Mira pues, a si pues entonces talbes es tu fortuna.
+\gs GL GT GT GT GL GL GL GL GT GT GL GT GT
+\p vt E2S#pers PART#part DEM#dem voc vi adv adv DEM#dem E2S#pers s ENF#suf DEM#dem
+
+\ref trtex014Usp04 157
+\t ma tz'eet, tz'eet ta'iij, k'omoo re Dyos.+
+\m ma tz'eet tz'eet t- a'- iij k'omo re Dyoos
+\g NEG cierto cierto INC E2S -decir gracias SR Dios
+\c part adv adv tam pers vi adv srel s
+\l Es cierto cierto lo que dices, gracias a Dios.
+\gs GT GL GL GT GT GL GL GL GL
+\p NEG#part adv adv INC#tam E2S#pers vi adv srel s
+
+\ref trtex014Usp04 158
+\t I si we xawelq'aj qe awaas chuch Dyos.+
+\m i si we x- aw- elq' -aaj qe awaas ch- uch Dyoos
+\g CONJ si COND COM E2S robar PAS PART limitación PREP SR Dios
+\c conj adv part tam pers vt suf part s prep srel s
+\l Y si lo robastes, es pecado delante de Dios.
+\gs GT GL GT GT GT GL GT GT GL GT GL GL
+\p CONJ#conj adv COND#part COM#tam E2S#pers vt PAS#suf PART#part s PREP#prep srel s
+
+\ref trtex014Usp04 159
+\t If. Che' chwe'in dyunabes.+
+\m cha' ch- we -in dyunabes
+\g dice PREP SR yo de@una@vez
+\c vi prep srel pron adv
+\l Me dijo de una vez.
+\gs GL GT GL GL GL
+\p vi PREP#prep srel pron adv
+
+\ref trtex014Usp04 160
+\t Lo ke xen entonses xiij re sik' anm.+
+\m lo ke x- en entonses x- iij re sik' ánim
+\g lo que COM hacer entonces COM dijo PART AFE mujer
+\c part part tam vt adv tam vt part part s
+\l Lo que hizo, entonces dijo a la pobre mujer.
+\gs GL GL GT GL GL GT GL GT GT GL
+\p part part COM#tam vt adv COM#tam vt PART#part AFE#part s
+
+\ref trtex014Usp04 161
+\t -¿Peer neen tiqa'an oom?+
+\m - peer neen ti- qa- 'an oombre
+\g pero INT INC E1P hacer hombre
+\c adv adv tam pers vt voc
+\l Pero que hacemos hombre.
+\gs GT GL GT GT GT GL GL
+\p # adv INT#adv INC#tam E1P#pers vt voc
+
+\ref trtex014Usp04 162
+\t si ra pwaq ri xkanjye' ra k'isik' chi qe.+
+\m si ra pwaq ri x- kan - j- ye' ra k'isik' chi q -e
+\g si DIM dinero DEM COM quedar E3S dar DIM cabra PRE E1P SR
+\c adv part s dem tam vi pers vt part s prep pers srel
+\l Si éste dinero que nos dejo la cabrita a nosotros.
+\gs GL GT GL GT GT GL GT GT GL GT GL GT GT GL
+\p adv DIM#part s DEM#dem COM#tam vi # E3S#pers vt DIM#part s PRE#prep E1P#pers srel
+
+\ref trtex014Usp04 163
+\t If.Xe' taq li li kayb'il+
+\m xe' taq li li kay -b'il
+\g ir PL PREP PREP venta INS
+\c vi part prep prep s suf
+\l Se fueron al mercado.
+\gs GL GT GT GT GL GT
+\p vi PL#part PREP#prep PREP#prep s INS#suf
+
+\ref trtex014Usp04 164
+\t i xe' chi jloq'iik ruuq sik' rixóqil,+
+\m i xe' chi j- loq' -ik r- uuq sik' r- ixóqil
+\g CONJ ir PRE E3S comprar SC E3S corte AFE E3S -esposa
+\c conj vi prep pers vt suf pers s adj pers s
+\l Y se fue a comprar corte de su pobre esposa.
+\gs GT GL GT GT GL GT GT GL GT GT GL
+\p CONJ#conj vi PRE#prep E3S#pers vt SC#suf E3S#pers s AFE#adj E3S#pers s
+
+\ref trtex014Usp04 165
+\t jq'unikaq,+
+\m j- q'unik -aq
+\g E3S chamarra PL
+\c pers s part
+\l Sus chamarras.
+\gs GT GL GT
+\p E3S#pers s PL#part
+
+\ref trtex014Usp04 166
+\t juntiir lo ke tikoj taq laj richochaq.+
+\m juntiir lo ke ti- j- koj taq laj r- ichoch -aq
+\g todo lo que INC E2S meter PL PREP E3S casa PL
+\c adv part part tam pers vt part prep pers s part
+\l todo lo que usan en sus casas.
+\gs GL GL GL GT GT GL GT GT GT GL GT
+\p adv part part INC#tam E2S#pers vt PL#part PREP#prep E3S#pers s PL#part
+
+\ref trtex014Usp04 167
+\t I xen jwá'x richooch juntiir.+
+\m i x- en j- wa'x r- ichooch juntiir
+\g CONJ COM hacer E3S componer E3S casa todo
+\c conj tam vt pers vi pers s adv
+\l Y arreglo todo su casa.
+\gs GT GT GL GT GL GT GL GL
+\p CONJ#conj COM#tam vt E3S#pers vi E3S#pers s adv
+
+\ref trtex014Usp04 168
+\t Xloq' nik'ij kwa'y,+
+\m x- loq' nik'ij kwa'y
+\g COM comprar algunos caballo
+\c tam vt adv s
+\l Compro unos caballos.
+\gs GT GL GL GL
+\p COM#tam vt adv s
+
+\ref trtex014Usp04 169
+\t juntiir qleen re juntiir.+
+\m juntiir qleen re juntiir
+\g todo cosas PART todo
+\c adv s part adv
+\l Todas sus cosas de todo.
+\gs GL GL GT GL
+\p adv s PART#part adv
+
+\ref trtex014Usp04 170
+\t Xen jwa'x richooch (jmaal) juntiir.+
+\m x- en j- wa'x r- ichooch juntiir
+\g COM hacer E3S componer/arreglar E3S casa todo
+\c tam vt pers vi pers s adv
+\l Arreglo su casa todo.
+\gs GT GL GT GL GT GL GL
+\p COM#tam vt E3S#pers vi E3S#pers s adv
+
+\ref trtex014Usp04 171
+\t i peechi rixóqil.+
+\m i peech -i' sik'- ixóqil
+\g CONJ compañía ENF AFE -esposa
+\c conj s suf part s
+\l Y en compañia de su esposa.
+\gs GT GL GT GT GL
+\p CONJ#conj s ENF#suf AFE#part s
+
+\ref trtex014Usp04 172
+\t Entonses xril chik maq rech'elxik.+
+\m entoons x- r- il chik maq r- ech'elxik
+\g entonces COM E3S ver PART ART E3S -pariente
+\c adv tam pers vt part art pers s
+\l Entonces vieron sus familiares.
+\gs GL GT GT GL GT GT GT GL
+\p adv COM#tam E3S#pers vt PART#part ART#art E3S#pers s
+
+\ref trtex014Usp04 173
+\t -¿I neen mood man kristyaan li xb'it rib'?.+
+\m - i neen mood man kirtyaan li x- b'it r -ib'
+\g CONJ INT modo ART persona DEM COM levantar E3S SR
+\c conj part adv art s dem tam vt pers srel
+\l ¿Y cómo fue que estas personas se levantaron?.
+\gs GT GT GT GL GT GL GT GT GL GT GL
+\p # CONJ#conj INT#part adv ART#art s DEM#dem COM#tam vt E3S#pers srel
+
+\ref trtex014Usp04 174
+\t Ooj ojchakun laq'aab'+
+\m ooj oj- chaak -un laq'aab'
+\g nosotros A1P trabajo AP noche
+\c pron pers s suf adv
+\l Nosotros trabajamos de noche.
+\gs GL GT GL GT GL
+\p pron A1P#pers s AP#suf adv
+
+\ref trtex014Usp04 175
+\t i wi' besees b'esel q'iij ojqeejch li chaak+
+\m i wi' abeses b'esel q'iij oj- qej -ch li chaak
+\g CONJ EXS a@veces ir día E1P bajar DIR PREP trabajo
+\c conj exist adv pos s pers vi dir prep s
+\l ¿Y hay veces que regesamos bien tarde del traajo?.
+\gs GT GT GL GL GL GT GL GT GT GL
+\p CONJ#conj EXS#exist adv pos s E1P#pers vi DIR#dir PREP#prep s
+
+\ref trtex014Usp04 176
+\t i ta' qleen qe ta' nada.+
+\m i ta' qleen qe ta' nada
+\g CONJ NEG cosas PART NEG nada
+\c conj part s part part adv
+\l Y no tenemos nuestras cosas nada.
+\gs GT GT GL GT GT GL
+\p CONJ#conj NEG#part s PART#part NEG#part adv
+
+\ref trtex014Usp04 177
+\t I re ya xloq'a' jkwa'y,+
+\m i re ya x- loq' -a' j- kwa'y
+\g CONJ él/ella ya COM comprar ENF E3S caballo
+\c conj pron voc tam vt part pers s
+\l Y él ya compro sus caballos.
+\gs GT GL GL GT GL GT GT GL
+\p CONJ#conj pron voc COM#tam vt ENF#part E3S#pers s
+
+\ref trtex014Usp04 178
+\t xloq'a' juntiir.+
+\m x- loq' -a' juntiir
+\g COM comprar ENF todo
+\c tam vt part adv
+\l Compro todo.
+\gs GT GL GT GL
+\p COM#tam vt ENF#part adv
+
+\ref trtex014Usp04 179
+\t Xena' jwa'x richooch,+
+\m x- en -na' j- wa'x r- ichooch
+\g COM haceer ENF E3S componer/arreglar E3S casa
+\c tam vt part pers vi pers s
+\l Arreglo su casa.
+\gs GT GL GT GT GL GT GL
+\p COM#tam vt ENF#part E3S#pers vi E3S#pers s
+
+\ref trtex014Usp04 180
+\t ya wi' chaq juntiir qleen re.+
+\m ya wi' chaq juntiir qleen r- e
+\g ya EXS PL todo cosas E3S SR
+\c voc exist part adv s pers srel
+\l Ya tenia todas sus cosas.
+\gs GL GT GT GL GL GT GL
+\p voc EXS#exist PL#part adv s E3S#pers srel
+
+\ref trtex014Usp04 181
+\t ¿Inchak ta' ka' chaak la jaa qe tiwa'x?.+
+\m neenchaak ta' ka' chaak la jaa qe ti- wa'x
+\g porqué NEG PART trabajo PRE casa PART INC estar
+\c adv part part s prep s part tam vi
+\l Porque si no tiene trabajo, solo en la casa se mantiene.
+\gs GL GT GT GL GT GL GT GT GL
+\p adv NEG#part PART#part s PRE#prep s PART#part INC#tam vi
+
+\ref trtex014Usp04 182
+\t Xo'laqb'ee qe tjoliin.+
+\m xo'l- aq- b'ee qe t- jol -iin
+\g SR PL camino solo INC correr -el/ella
+\c srel part s adv tam vt pron
+\l Solamente en las calles handa corriendo.
+\gs GL GT GL GL GT GL GL
+\p srel PL#part s adv INC#tam vt pron
+
+\ref trtex014Usp04 183
+\t If.Che' taq re.+
+\m cha' taq re
+\g dice PL el/ella
+\c vi part pron
+\l Le dicen a él.
+\gs GL GT GL
+\p vi PL#part pron
+
+\ref trtex014Usp04 184
+\t - I ooj chaak tiqa'an+
+\m i ooj chaak ti- qa- 'an
+\g CONJ nosotros trabajo INC E1P hacer
+\c conj pron s tam pers vt
+\l Y nosotros solo trabajando nos mantenemos.
+\gs GT GL GL GT GT GL
+\p CONJ#conj pron s INC#tam E1P#pers vt
+
+\ref trtex014Usp04 185
+\t i ta' ojkwin.+
+\m i ta' oj- kwin
+\g CONJ NEG A1P poder
+\c conj part pers vi
+\l Y no podemos.
+\gs GT GT GT GL
+\p CONJ#conj NEG#part A1P#pers vi
+
+\ref trtex014Usp04 186
+\t If. Che' taq,+
+\m cha' taq
+\g dice PL
+\c vi part
+\l Dicen la gente.
+\gs GL GT
+\p vi PL#part
+
+\ref trtex014Usp04 187
+\t lo ke xen taq,+
+\m lo ke x- en taq
+\g lo que COM hacer PL
+\c part part tam vt part
+\l Lo que hicieron.
+\gs GL GL GT GL GT
+\p part part COM#tam vt PL#part
+
+\ref trtex014Usp04 188
+\t x-tz'onaaj taq re,+
+\m x- tz'onaa -j taq re
+\g COM preguntar SC PL él/ella
+\c tam vt suf part pron
+\l Le preguntaron a él.
+\gs GT GL GT GT GL
+\p COM#tam vt SC#suf PL#part pron
+
+\ref trtex014Usp04 189
+\t che',+
+\m cha'
+\g dice
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 190
+\t xtz'onaaj taq re sik' wunaq.+
+\m x- tz'ona -j taq re sik' wunaq
+\g COM preguntar SC PL él/ella AFE hombre
+\c tam vt suf part pron adj s
+\l Le preguntaron al pobre hombre.
+\gs GT GL GT GT GL GT GL
+\p COM#tam vt SC#suf PL#part pron AFE#adj s
+
+\ref trtex014Usp04 191
+\t -¿ Nemoo xab'an?+
+\m - nemoo x- a -'an
+\g como COM E2S hacer
+\c adv tam pers vt
+\l Como lo hicistes.
+\gs GT GL GT GT GL
+\p # adv COM#tam E2S#pers vt
+
+\ref trtex014Usp04 192
+\t ¿xab'it awib'+
+\m x- a- b'it aw- ib'
+\g COM E2S levantar E2S SR
+\c tam pers vt pers srel
+\l ¿Como te levantastes?
+\gs GT GT GL GT GL
+\p COM#tam E2S#pers vt E2S#pers srel
+
+\ref trtex014Usp04 193
+\t o alaq' xa'an?+
+\m o alaq' x- a- 'an
+\g o robar COM E2S hacer
+\c conj vt tam pers vt
+\l ¡O solo te robastes!.
+\gs GL GL GT GT GL
+\p conj vt COM#tam E2S#pers vt
+
+\ref trtex014Usp04 194
+\t o ¿neen neen xak'ayeej?+
+\m o neen neen x- a- k'ay -eej
+\g o INT INT COM E2S venta ADV
+\c conj part part tam pers s suf
+\l o que que vendistes
+\gs GL GT GT GT GT GL GT
+\p conj INT#part INT#part COM#tam E2S#pers s ADV#suf
+
+\ref trtex014Usp04 195
+\t If.Che' taq re,+
+\m cha' taq re
+\g dice PL él/ella
+\c vi part pron
+\l Le decian.
+\gs GL GT GL
+\p vi PL#part pron
+
+\ref trtex014Usp04 196
+\t No iin wi' inportuun xinta'w,+
+\m no' iin wi' in- portuun x- in- ta'w
+\g no yo EXS A1S fortuna COM E1S encontrar
+\c adv pron exist pers s tam pers vt
+\l No yo encontre una mi fortuna.
+\gs GL GL GT GT GL GT GT GL
+\p adv pron EXS#exist A1S#pers s COM#tam E1S#pers vt
+
+\ref trtex014Usp04 197
+\t koom ataq ta'an tawila'tiqan,+
+\m koom ataq t- a- 'an t- aw- il -a' -tiq -a'n
+\g como ustedes INC E2S hacer INC E2S ver ENF PL ENF
+\c part pron tam pers vt tam pers vt part part part
+\l Como ustedes se dan cuenta de todo.
+\gs GL GL GT GT GL GT GT GL GT GT GT
+\p part pron INC#tam E2S#pers vt INC#tam E2S#pers vt ENF#part PL#part ENF#part
+
+\ref trtex014Usp04 198
+\t iin ta' inchakuun+
+\m iin ta' in- chaku -n
+\g yo NEG A1S trabajar AP
+\c pron part pers s suf
+\l Yo no trabajo.
+\gs GL GT GT GL GT
+\p pron NEG#part A1S#pers s AP#suf
+
+\ref trtex014Usp04 199
+\t i ta'an taq burlaar inwich,+
+\m i t- a- 'an taq burlaar in- wiich
+\g CONJ INC E3S hacer PL burlar A1S cara
+\c conj tam pers vt part vi pers s
+\l Y ustedes se burlan de mi.
+\gs GT GT GT GL GT GL GT GL
+\p CONJ#conj INC#tam E3S#pers vt PL#part vi A1S#pers s
+
+\ref trtex014Usp04 200
+\t ta'an taq k'ex chwee,+
+\m t- a- 'an taq k'ex ch- we
+\g INC E2P hacer PL daño PREP SR
+\c tam pers vt part adj prep srel
+\l Me hacen daño a mi.
+\gs GT GT GL GT GL GT GL
+\p INC#tam E2P#pers vt PL#part adj PREP#prep srel
+
+\ref trtex014Usp04 201
+\t aasta inawile' taq iin li uuq,+
+\m aasta in- aw- il -e' taq iin li uuq
+\g asta A1S E1S ver ENF PL yo PREP corte
+\c adv pers pers vt part part pron prep s
+\l Asta me miravan a mi entre cortes.
+\gs GL GT GT GL GT GT GL GT GL
+\p adv A1S#pers E1S#pers vt ENF#part PL#part pron PREP#prep s
+
+\ref trtex014Usp04 202
+\t li ma k'ixb'eel ta'n+
+\m li ma k'ixb' -eel ta'n
+\g DEM NEG vergüenza PAS NEG
+\c dem part s suf adv
+\l Eso no es vergueza.
+\gs GT GT GL GT GT
+\p DEM#dem NEG#part s PAS#suf NEG#adv
+
+\ref trtex014Usp04 203
+\t porke li uuq inwer.+
+\m porke li uuq in- wer
+\g porque PREP corte E1S dormir
+\c adv prep s pers vi
+\l porque en corte me duermo.
+\gs GL GT GL GT GL
+\p adv PREP#prep s E1S#pers vi
+
+\ref trtex014Usp04 204
+\t If.Che' re maq kristyaan,+
+\m cha' re maq kirtyaan
+\g dice él/ella ART persona
+\c vi pron art s
+\l Le dijo a esas personas.
+\gs GL GL GT GL
+\p vi pron ART#art s
+
+\ref trtex014Usp04 205
+\t xok taq chijtze'j sik' wunaq+
+\m x- ok taq chi- j- tze'j sik' wunaq
+\g COM entrar PL PREP E3S reir AFE hombre
+\c tam vi part prep pers vi part s
+\l Se empezarón a reirse del pobre hombre.
+\gs GT GL GT GT GT GL GT GL
+\p COM#tam vi PL#part PREP#prep E3S#pers vi AFE#part s
+
+\ref trtex014Usp04 206
+\t -¿Peer nemood b'an juun toq'ob' chi qe+
+\m - peer ne -mood b'an juun toq'ob' chi q -e
+\g pero INT modo hacer uno favor PREP E1P SR
+\c adv part adv vt num s prep pers srel
+\l Pero cómo nos pudieras hacer un favor.
+\gs GT GL GT GL GL GL GL GT GT GL
+\p # adv INT#part adv vt num s PREP#prep E1P#pers srel
+
+\ref trtex014Usp04 207
+\t b'iij chi qe ne mo xa'an?.+
+\m b'ij chi q- e neen mod x- a- b'an
+\g decir PRE E1P SR INT modo COM E2S hacer
+\c vt prep pers srel part adv tam pers vt
+\l ¿Dinos cómo hicistes?.
+\gs GL GT GT GL GT GL GT GT GL
+\p vt PRE#prep E1P#pers srel INT#part adv COM#tam E2S#pers vt
+
+\ref trtex014Usp04 208
+\t Para ke xab'it ayb',+
+\m para ke x- a- b'it a- yb'
+\g para que COM E2S levantar E2S SR
+\c prep part tam pers vt pers srel
+\l Paraque te levantastes.
+\gs GL GL GT GT GL GT GL
+\p prep part COM#tam E2S#pers vt E2S#pers srel
+
+\ref trtex014Usp04 209
+\t xa'an awichooch,+
+\m x- a- 'an aw- ichooch
+\g COM E2S hacer E2S casa
+\c tam pers vt pers s
+\l Hisistes tu casa.
+\gs GT GT GL GT GL
+\p COM#tam E2S#pers vt E2S#pers s
+
+\ref trtex014Usp04 210
+\t xaloq' awákix+
+\m x- a- loq' at- wakix
+\g COM E2S comprar E2S vaca
+\c tam pers vt pers s
+\l Comprastes tus vacas.
+\gs GT GT GL GT GL
+\p COM#tam E2S#pers vt E2S#pers s
+
+\ref trtex014Usp04 211
+\t juntiir akwa'y,+
+\m juntiir a- kwa'y
+\g todo E2S caballo
+\c adv pers s
+\l Todos tus caballos.
+\gs GL GT GL
+\p adv E2S#pers s
+
+\ref trtex014Usp04 212
+\t wi' chaq ruuq awxóqil,+
+\m wi' chaq r- uuq aw- ixóqil
+\g EXS PL E3S corte E2S esposa
+\c exist part pers s pers s
+\l Ya tiene corte tu mujer.
+\gs GT GT GT GL GT GL
+\p EXS#exist PL#part E3S#pers s E2S#pers s
+
+\ref trtex014Usp04 213
+\t aq'uniik juntiir.+
+\m a- q'uniik juntiir
+\g E2S chamarra todo
+\c pers s adv
+\l Tu chamarra y todo.
+\gs GT GL GL
+\p E2S#pers s adv
+
+\ref trtex014Usp04 214
+\t - Iin tanyool chawe,+
+\m - iin t- an -yol ch- aw -e
+\g yo INC E1S platicar PREP E2S SR
+\c pron tam pers vt prep pers srel
+\l Yo te cuento.
+\gs GT GL GT GT GL GT GT GL
+\p # pron INC#tam E1S#pers vt PREP#prep E2S#pers srel
+
+\ref trtex014Usp04 215
+\t koom iin insweerte+
+\m koom iin in- sweerte
+\g como yo E1S suerte
+\c part pron pers s
+\l Como eso es mi suerte.
+\gs GL GL GT GL
+\p part pron E1S#pers s
+
+\ref trtex014Usp04 216
+\t o aaber neen inb'aniik,+
+\m o aaber neen in- b'an -ik
+\g o haber INT E1S hacer SC
+\c conj adv part pers vt suf
+\l O saber como soy.
+\gs GL GL GT GT GL GT
+\p conj adv INT#part E1S#pers vt SC#suf
+
+\ref trtex014Usp04 217
+\t ri li Dyos+
+\m ri li Dyoos
+\g DEM DEM Dios
+\c dem dem s
+\l Eso es Dios.
+\gs GT GT GL
+\p DEM#dem DEM#dem s
+
+\ref trtex014Usp04 218
+\t o aaber sweerte inportuun+
+\m o aaber sweerte in- portuun
+\g o haber suerte E1S fortuna
+\c conj adv s pers s
+\l O saber si es mi suerte mi fortuna.
+\gs GL GL GL GT GL
+\p conj adv s E1S#pers s
+
+\ref trtex014Usp04 219
+\t xesaajch.+
+\m x- e -saj -ch
+\g COM sacar PAS DIR
+\c tam vt suf dir
+\l Me dieron.
+\gs GT GL GT GT
+\p COM#tam vt PAS#suf DIR#dir
+
+\ref trtex014Usp04 220
+\t Nab'ee bweelt+
+\m nab'ee bweelt
+\g primero vuelta
+\c num adv
+\l Primera vez.
+\gs GL GL
+\p num adv
+
+\ref trtex014Usp04 221
+\t juun juun utiiw xinmaaj rajtzoo' xijtij+
+\m jun jun utiiw x- in- maaj r- ajtzoo' xi- j- tij
+\g uno uno coyote COM E1S quitar E3S chompipe COM E3S comer
+\c num num s tam pers vt pers s tam pers vt
+\l Un un coyote le quite su chompipe.
+\gs GL GL GL GT GT GL GT GL GT GT GL
+\p num num s COM#tam E1S#pers vt E3S#pers s COM#tam E3S#pers vt
+
+\ref trtex014Usp04 222
+\t i laj kaab' q'iij chik xinb'ek+
+\m i laj kaab' q'iij chik x- in- b'ek
+\g CONJ PREP dos día PART COM E1S ir
+\c conj prep num s part tam pers vi
+\l Y al siguiente día me fui otra vez.
+\gs GT GT GL GL GT GT GT GL
+\p CONJ#conj PREP#prep num s PART#part COM#tam E1S#pers vi
+
+\ref trtex014Usp04 223
+\t i b'eselkin li k'ichelaaj,+
+\m i b'es -el -k -in li k'ichelaaj
+\g CONJ ir *** SC yo PREP montaña
+\c conj vi *** suf pron prep s
+\l Iva yo por la montaña.
+\gs GT GL logged GT GL GT GL
+\p CONJ#conj vi error SC#suf pron PREP#prep s
+
+\ref trtex014Usp04 224
+\t xinq'ax li k'ichelaaj chaq twil ra k'isik' qeselch+
+\m x- in- q'ax li k'iche'laaj chaq t- w -il ra k'isik' qes -el -ch
+\g COM E1S pasar PREP montaña PART INC E1S ver DIM cabra bajar *** DIR
+\c tam pers vi prep s part tam pers vt part s vt *** dir
+\l Cuando pase en la montaña cuando mire la cabrita venia bajando.
+\gs GT GT GL GT GL GT GT GT GL GT GL GL logged GT
+\p COM#tam E1S#pers vi PREP#prep s PART#part INC#tam E1S#pers vt DIM#part s vt error DIR#dir
+
+\ref trtex014Usp04 225
+\t i tanye' inpatb'aa re tijteek',+
+\m i t- an- ye' in- patb'aa re ti- j- teek'
+\g CONJ INC E1S dar E1S sobre él/ella INC E3S lamer
+\c conj tam pers vt pers s pron tam pers vt
+\l Y le di mi sombrero para que lo lame.
+\gs GT GT GT GL GT GL GL GT GT GL
+\p CONJ#conj INC#tam E1S#pers vt E1S#pers s pron INC#tam E3S#pers vt
+
+\ref trtex014Usp04 226
+\t peent li kwando tijtek' inpatb'aa+
+\m peent li kwaand ti- j- tek' in- patb'aa
+\g derrepente. DEM cuándo INC E3S lamer E1S sombrero
+\c adv dem adv tam pers vt pers s
+\l Derepente cuando lame mi sombrero.
+\gs GL GT GL GT GT GL GT GL
+\p adv DEM#dem adv INC#tam E3S#pers vt E1S#pers s
+
+\ref trtex014Usp04 227
+\t ¡Tanchap!+
+\m t- an- chap
+\g INC E1S agarrar
+\c tam pers vt
+\l Lo agarro.
+\gs GT GT GL
+\p INC#tam E1S#pers vt
+
+\ref trtex014Usp04 228
+\t tanche' laj wanm iin.+
+\m t- an- che' laj w- anm iin
+\g INC E1S -decir PREP E1S alma yo
+\c tam pers vi prep pers s pron
+\l Decía en mi corazón.
+\gs GT GT GL GT GT GL GL
+\p INC#tam E1S#pers vi PREP#prep E1S#pers s pron
+
+\ref trtex014Usp04 229
+\t Jilon ta' li xeel.+
+\m jilon ta' li xeel
+\g AFI NEG DEM salir
+\c part part dem vi
+\l Asi no fue.
+\gs GT GT GT GL
+\p AFI#part NEG#part DEM#dem vi
+
+\ref trtex014Usp04 230
+\t If.Xche' sik' wunaq.+
+\m x- che' sik' wunaq
+\g COM dicir AFE hombre
+\c tam vi part s
+\l Dijo el pobre hombre.
+\gs GT GL GT GL
+\p COM#tam vi AFE#part s
+
+\ref trtex014Usp04 231
+\t -¿Nemoo xa'an chik?.+
+\m neen moo x- a- 'an chik
+\g INT modo COM E2S hacer PART
+\c part adv tam pers vt part
+\l Pero como hicistes otra vez.
+\gs GT GL GT GT GL GT
+\p INT#part adv COM#tam E2S#pers vt PART#part
+
+\ref trtex014Usp04 232
+\t -Komoo xk'onoor,+
+\m komoo x- k'ono -r
+\g -como COM pando ITR
+\c part tam pos suf
+\l Como se encogió.
+\gs GL GT GL GT
+\p part COM#tam pos ITR#suf
+
+\ref trtex014Usp04 233
+\t xchulaaj inpatb'aa+
+\m x- chulaa -j in- patb'aa
+\g COM orinar SC E1S sombrero
+\c tam vt suf pers s
+\l Orino mi sombrero.
+\gs GT GL GT GT GL
+\p COM#tam vt SC#suf E1S#pers s
+
+\ref trtex014Usp04 234
+\t i pwaq xkanjye'.+
+\m i pwaq x- kan - j- ye'
+\g CONJ dinero COM quedar E3S dar
+\c conj s tam vi pers vt
+\l Y dinero fue loque dejo.
+\gs GT GL GT GL GT GT GL
+\p CONJ#conj s COM#tam vi # E3S#pers vt
+
+\ref trtex014Usp04 235
+\t I jilon li xinb'it wi'b'.+
+\m i jilon li x- in- b'it w- i'b'
+\g CONJ AFI DEM COM E1S levantar E1S SR
+\c conj p0art dem tam pers vt pers srel
+\l Y así fue como me levante.
+\gs GT GT GT GT GT GL GT GT
+\p CONJ#conj AFI#p0art DEM#dem COM#tam E1S#pers vt E1S#pers SR#srel
+
+\ref trtex014Usp04 236
+\t Iin xaq li tanb'iij chawe,+
+\m iin xaq li t- an- b'iij ch- aw- e
+\g yo PART DEM INC E1S -decir PREP E2S SR
+\c pron part dem tam pers vi prep pers srel
+\l Solo eso te puedo decir.
+\gs GL GT GT GT GT GL GT GT GL
+\p pron PART#part DEM#dem INC#tam E1S#pers vi PREP#prep E2S#pers srel
+
+\ref trtex014Usp04 237
+\t lo ke lo ke xye'sáj chwe iin.+
+\m lo ke lo ke x- ye' ch- iin
+\g lo que lo que COM dar INC yo
+\c part part part part tam vt tam pron
+\l Eso fue loque me dieron a mi.
+\gs GL GL GL GL GT GL GT GL
+\p part part part part COM#tam vt INC#tam pron
+
+\ref trtex014Usp04 238
+\t If.Entoons xiij man wunaq.+
+\m entoons x- iij man wunaq
+\g entonces COM decir ART hombre
+\c adv tam vi art s
+\l Entonces dijo ese hombre.
+\gs GL GT GL GT GL
+\p adv COM#tam vi ART#art s
+
+\ref trtex014Usp04 239
+\t ¿Tye'sáji' chwe'in+
+\m t- ye' -sáj -i' ch -we' -i'n
+\g INC dar PAS ENF PREP E1S ENF
+\c tam vt suf part prep pers part
+\l ¿Me daran ami?
+\gs GT GL GT GT GT GT GT
+\p INC#tam vt PAS#suf ENF#part PREP#prep E1S#pers ENF#part
+
+\ref trtex014Usp04 240
+\t si iin tanb'an we in?+
+\m si iin t- an- b'an we iin
+\g si yo INC E1S hacer SR yo
+\c adv pron tam pers vt srel pron
+\l Si yo hiciera lomismo.
+\gs GL GL GT GT GL GL GL
+\p adv pron INC#tam E1S#pers vt srel pron
+
+\ref trtex014Usp04 241
+\t If.Che' man juun re che'.+
+\m che' man jun re cha'
+\g dice ART uno él/ella dice
+\c vi art num pron vi
+\l Decia él otro a él.
+\gs GL GT GL GL GL
+\p vi ART#art num pron vi
+
+\ref trtex014Usp04 242
+\t -Ta' modoo tanb'ij chawe+
+\m ta' modoo t- an- b'ij ch- aw- e
+\g NEG modo INC E1S -decir PREP E2S SR
+\c part adv tam pers vi prep pers srel
+\l No hay modo que te lo diga.
+\gs GT GL GT GT GL GT GT GL
+\p NEG#part adv INC#tam E1S#pers vi PREP#prep E2S#pers srel
+
+\ref trtex014Usp04 243
+\t aan kita' ta'an,+
+\m aan kita' t- a- 'an
+\g hacer PART INC E2S hacer
+\c vt part tam pers vt
+\l No lo hagas.
+\gs GL GT GT GT GL
+\p vt PART#part INC#tam E2S#pers vt
+
+\ref trtex014Usp04 244
+\t si aat tawile' aan+
+\m si aat t- aw- il -e' aan
+\g si tú/usted INC E2S -ver ENF hacer
+\c adv pron tam pers vt part vt
+\l Si tú vas aber o hacer.
+\gs GL GL GT GT GL GT GL
+\p adv pron INC#tam E2S#pers vt ENF#part vt
+
+\ref trtex014Usp04 245
+\t si ta' ta'an,+
+\m si ta' t- a- 'an
+\g si NEG INC E2S hacer
+\c adv part tam pers vt
+\l Si no lo haces.
+\gs GL GT GT GT GL
+\p adv NEG#part INC#tam E2S#pers vt
+
+\ref trtex014Usp04 246
+\t si ta' ta'an, pe awetzel chwe,+
+\m si ta' t- a- 'an pe aw- etzel ch- w- e
+\g si NEG INC E2S hacer venir E2S enojo INC E1S SR
+\c adv part tam pers vt vi pers s tam pers srel
+\l Si no lo haces te vas a enojar con migo.
+\gs GL GT GT GT GL GL GT GL GT GT GL
+\p adv NEG#part INC#tam E2S#pers vt vi E2S#pers s INC#tam E1S#pers srel
+
+\ref trtex014Usp04 247
+\t inbidyoso+
+\m inbidyoso
+\g envidioso
+\c adj
+\l Envidioso.
+\gs GL
+\p adj
+
+\ref trtex014Usp04 248
+\t che' tene' chwe,+
+\m che' tene' ch- we
+\g dice PART INC SR
+\c vi part tam srel
+\l Derepente asi me dice.
+\gs GL GT GT GL
+\p vi PART#part INC#tam srel
+
+\ref trtex014Usp04 249
+\t mojor b'an aprobaar+
+\m mojor b'an aprobaar
+\g mejor hacer aprobar
+\c adv vt vt
+\l Mejor haga la prueba.
+\gs GL GL GL
+\p adv vt vt
+
+\ref trtex014Usp04 250
+\t ab'eer neen tye'sáj chawe aat.+
+\m ab'eer neen t- ye' -sáj ch- aw- e aat
+\g haber INT INC dar PAS PREP E2S SR tú/usted
+\c adv part tam vt suf prep pers srel pron
+\l aber que es lo que te ban adar a vos.
+\gs GL GT GT GL GT GT GT GL GL
+\p adv INT#part INC#tam vt PAS#suf PREP#prep E2S#pers srel pron
+
+\ref trtex014Usp04 251
+\t If.Che' re che'.+
+\m cha' r- e cha'
+\g dice E3S SR dice
+\c vi pers srel vi
+\l Dijo él dice.
+\gs GL GT GL GL
+\p vi E3S#pers srel vi
+
+\ref trtex014Usp04 252
+\t -Toos inb'e na.+
+\m entoons in- b'e na
+\g entonces A1S ir PART
+\c adv pers vi part
+\l Entonces me boy.
+\gs GL GT GL GT
+\p adv A1S#pers vi PART#part
+
+\ref trtex014Usp04 253
+\t If.Che' re,+
+\m cha' re
+\g dice él/ella
+\c vi pron
+\l Dijo a él.
+\gs GL GL
+\p vi pron
+
+\ref trtex014Usp04 254
+\t xpe re+
+\m x- pe r- e
+\g COM venir E3S SR
+\c tam vi pers srel
+\l Vino él.
+\gs GT GL GT GL
+\p COM#tam vi E3S#pers srel
+
+\ref trtex014Usp04 255
+\t che',+
+\m cha'
+\g dice
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 256
+\t kabaal kab'lojuuj mismoo,+
+\m kabaal kab'lojuuj mismoo
+\g cabal doce lomismo
+\c adj num adv
+\l Cabal a las doce mismo.
+\gs GL GL GL
+\p adj num adv
+
+\ref trtex014Usp04 257
+\t xpe re+
+\m x- pe re
+\g COM venir él/ella
+\c tam vi pron
+\l Vino él.
+\gs GT GL GL
+\p COM#tam vi pron
+
+\ref trtex014Usp04 258
+\t che'+
+\m cha'
+\g dice
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 259
+\t xijye' jpatb'aa,+
+\m xi- j- ye' j- patb'aa
+\g COM E1S dar E3S sobrero
+\c tam pers vt pers s
+\l Fue a dejar su sombrero.
+\gs GT GT GL GT GL
+\p COM#tam E1S#pers vt E3S#pers s
+
+\ref trtex014Usp04 260
+\t xijye' jpatb'aa -¿lamaas, lamaas?+
+\m xi- j- ye' j- patb'aa lamaas lamaas
+\g COM E3S dar E3S sombrero -dónde dónde
+\c tam pers vt pers s adv adv
+\l Puso su sombrero en donde en donde.
+\gs GT GT GL GT GL GL GL
+\p COM#tam E3S#pers vt E3S#pers s adv adv
+
+\ref trtex014Usp04 261
+\t -Taal luwaar jilon li,+
+\m taal luwar jilon li
+\g tal lugar AFI DEM
+\c adv adv part dem
+\l En tal lugar asi es.
+\gs GL GL GT GT
+\p adv adv AFI#part DEM#dem
+
+\ref trtex014Usp04 262
+\t jilon li ta'an.+
+\m jilon li t- a- 'an
+\g AFI DEM INC E2S hacer
+\c part dem tam pers vt
+\l Asi tienes que hacer.
+\gs GT GT GT GT GL
+\p AFI#part DEM#dem INC#tam E2S#pers vt
+
+\ref trtex014Usp04 263
+\t If.Che' re,+
+\m cha' re
+\g dice él/ella
+\c vi pron
+\l Le dijo.
+\gs GL GL
+\p vi pron
+
+\ref trtex014Usp04 264
+\t - Bween.+
+\m bween
+\g bueno
+\c adv
+\l Bueno.
+\gs GL
+\p adv
+
+\ref trtex014Usp04 265
+\t If. Xpe re xresaaj jpatb'aa,+
+\m x- pe re x- r- e -saj j- patb'aa
+\g COM venir él/ella COM E3S sacar PAS E3S sombrero
+\c tam vi pron tam pers vt suf pers s
+\l Vino él saco su sombrero.
+\gs GT GL GL GT GT GL GT GT GL
+\p COM#tam vi pron COM#tam E3S#pers vt PAS#suf E3S#pers s
+
+\ref trtex014Usp04 266
+\t xijye' chik jpatb'aa.+
+\m xi- j- ye' chik j- patb'aa
+\g COM E1S dar PART E3S sombrero
+\c tam pers vt part pers s
+\l Puso su sombrero.
+\gs GT GT GL GT GT GL
+\p COM#tam E1S#pers vt PART#part E3S#pers s
+
+\ref trtex014Usp04 267
+\t ¡Kwando chaq tijtaw!+
+\m kwaand chaq ti- j- taw
+\g cuándo PART INC E3S oír
+\c adv part tam pers vi
+\l Cuando derepente escucho.
+\gs GL GT GT GT GL
+\p adv PART#part INC#tam E3S#pers vi
+
+\ref trtex014Usp04 268
+\t meer kab'lojuuj+
+\m meer kab'lojuuj
+\g mero doce
+\c adv num
+\l Mero a las doce.
+\gs GL GL
+\p adv num
+
+\ref trtex014Usp04 269
+\t che'.+
+\m cha'
+\g dice
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 270
+\t Tijiniij k'ichelaaj qeselch.+
+\m ti- jinii -j k'ichelaaj qe -sel -ch
+\g INC AFE SC montaña bajar ? DIR
+\c tam part suf s vt ? dir
+\l Tronaba la montaña cuando venía bajando.
+\gs GT GT GT GL GL logged GT
+\p INC#tam AFE#part SC#suf s vt error DIR#dir
+
+\ref trtex014Usp04 271
+\t -¡Ya xpeti'n, ya xpeti'n!.+
+\m ya x- pet -i'n ya x- pet -i'n
+\g -ya COM venir ENF ya COM venir ENF
+\c voc tam vi part voc tam vi part
+\l Ya viene ya viene.
+\gs GL GT GL GT GL GT GL GT
+\p voc COM#tam vi ENF#part voc COM#tam vi ENF#part
+
+\ref trtex014Usp04 272
+\t Entoon ya wi' chaq insuweerte.+
+\m entoons ya wi' chaq in- suwerte
+\g entonces ya EXS PL E1S suerte
+\c adv voc exist part pers adv
+\l Entoces ya tengo mi suerte.
+\gs GL GL GT GT GT GL
+\p adv voc EXS#exist PL#part E1S#pers adv
+
+\ref trtex014Usp04 273
+\t If.Tijiniin xpet,+
+\m ti- j- iniin x- pet
+\g PRG E3S AFE COM venir
+\c tam pers part tam vi
+\l Se escuchava un gran ruidocuando venía.
+\gs GT GT GT GT GL
+\p PRG#tam E3S#pers AFE#part COM#tam vi
+
+\ref trtex014Usp04 274
+\t che'.+
+\m cha'
+\g dice
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 275
+\t Kwaand kabaal+
+\m kwaand kabaal
+\g cuándo cabal
+\c adv adv
+\l Cuando cabal.
+\gs GL GL
+\p adv adv
+
+\ref trtex014Usp04 276
+\t kwando tijiniin xpet,+
+\m kwaand ti- j- inin x- pet
+\g cuándo INC E3S AFE COM venir
+\c adv tam pers part tam vi
+\l Cuando se escuchó un ruido cuando vino.
+\gs GL GT GT GT GT GL
+\p adv INC#tam E3S#pers AFE#part COM#tam vi
+
+\ref trtex014Usp04 277
+\t che',+
+\m cha'
+\g dice
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 278
+\t tijiniin+
+\m ti- j- iniin
+\g INC E3S AFE
+\c tam pers part
+\l Que ruido el que hacía.
+\gs GT GT GT
+\p INC#tam E3S#pers AFE#part
+
+\ref trtex014Usp04 279
+\t etqe, b'uq'ch chi chee' qeselch+
+\m etqe b'uq' -ch chi chee' qe -sel -ch
+\g PART arrancar DIR PRE árbol bajar PAS DIR
+\c part vt dir prep s vt suf dir
+\l Derepente venía arrancando árboles en la bajada.
+\gs GT GL GT GT GL GL GT GT
+\p PART#part vt DIR#dir PRE#prep s vt PAS#suf DIR#dir
+
+\ref trtex014Usp04 280
+\t che'.+
+\m cha'
+\g dice
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 281
+\t Chaq tril ke juun nimlaaj kumetz xelch+
+\m chaq t- r- il ke jun nim -laaj kumatz x- eel -ch
+\g PART INC E3S ver que uno grande -? culebra COM salir DIR
+\c part tam pers vt part num adj -? s tam vi dir
+\l Derepente vio salir una gran culebra.
+\gs GT GT GT GL GL GL GL logged GL GT GL GT
+\p PART#part INC#tam E3S#pers vt part num adj error s COM#tam vi DIR#dir
+
+\ref trtex014Usp04 282
+\t che',+
+\m cha'
+\g dice
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 283
+\t xeel juun nimlaaj kumetz chi rij+
+\m x- eel jun nim -laaj kumatz chi r- ij
+\g COM salir uno grande -? culebra PRE E3S SR
+\c tam vi num adj -? s prep pers srel
+\l Le salio una gran culebra de tras.(le apareció)
+\gs GT GL GL GL logged GL GT GT GL
+\p COM#tam vi num adj error s PRE#prep E3S#pers srel
+
+\ref trtex014Usp04 284
+\t che'.+
+\m cha'
+\g dice
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 285
+\t Entoons jwi'l tzaqom ch'olaal+
+\m entoons j- wi' tzaq -om ch'ool -aal
+\g entonces E3S SR botar AP estómago SAB
+\c adv pers srel vt suf s suf
+\l Entonces por el gran susto.
+\gs GL GT GL GL GT GL GT
+\p adv E3S#pers srel vt AP#suf s SAB#suf
+
+\ref trtex014Usp04 286
+\t mejor xe' chi richooch+
+\m mejor xe' chi r- ichooch
+\g mejor ir PRE E3S casa
+\c adv vi prep pers s
+\l Mejor se fue para su casa.
+\gs GL GL GT GT GL
+\p adv vi PRE#prep E3S#pers s
+
+\ref trtex014Usp04 287
+\t xe'jb'ij+
+\m xe' j- b'ij
+\g ir E3S decir
+\c vi pers vt
+\l Se fue a decir.
+\gs GL GT GL
+\p vi E3S#pers vt
+
+\ref trtex014Usp04 288
+\t che'.+
+\m cha'
+\g dice
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 289
+\t - Ke estoo juntiir li+
+\m ke estoo juntiir li
+\g que esto todo DEM
+\c part dem adv dem
+\l Que todo fue así.
+\gs GL GL GL GT
+\p part dem adv DEM#dem
+
+\ref trtex014Usp04 290
+\t ¿Neen chak aat,+
+\m neen chaak aat
+\g INT porque tú/usted
+\c part adv pron
+\l Por que voz.
+\gs GT GL GL
+\p INT#part adv pron
+
+\ref trtex014Usp04 291
+\t nemoo xab'an aat?.+
+\m ne- moo x- a- b'an aat
+\g INT modo COM E2S hacer tú/usted
+\c part adv tam pers vt pron
+\l Como hiciste voz.
+\gs GT GL GT GT GL GL
+\p INT#part adv COM#tam E2S#pers vt pron
+
+\ref trtex014Usp04 292
+\t Ke kumetz k'u'ta' xeel chawij,+
+\m ke kumatz k'uta' xeel ch- aw- ij
+\g que culebra PART SUF PREP E2S SR
+\c part s part suf prep pers srel
+\l Qué no fue culebra la que te salió.
+\gs GL GL GT GT GT GT GL
+\p part s PART#part SUF#suf PREP#prep E2S#pers srel
+
+\ref trtex014Usp04 293
+\t i iin juun nimlaaj kumetz xeel chwij.+
+\m i iin jun nim -laaj kumatz x- eel ch- w- ij
+\g CONJ yo uno grande -? culebra COM salir PREP E2S SR
+\c conj pron num adj -? s tam vi prep pers srel
+\l y yo una gran culebra me salio.
+\gs GT GL GL GL logged GL GT GL GT GT GL
+\p CONJ#conj pron num adj error s COM#tam vi PREP#prep E2S#pers srel
+
+\ref trtex014Usp04 294
+\t If.Che' re.+
+\m che' re
+\g dice él/ella
+\c vi pron
+\l Le dijo.
+\gs GL GL
+\p vi pron
+
+\ref trtex014Usp04 295
+\t -Sabeer talbees ta' kuxteel Dyos awi'l,+
+\m saber talbees ta' kuxte -el Dyoos a- wi'l
+\g saber tal@vez NEG recordar ??? Dios E2S.- SR
+\c adv. adv. part. v.i. ??? s. pers.- s.rel
+\l Saber talvez no te acuerdas de Dios.
+\gs GL GL GT GL GL GT GL
+\p ADV ADV NEG#PART VI ??? S E2S#PERS SR#SREL
+
+\ref trtex014Usp04 296
+\t pi we iin Dyos tankuxtaaj,+
+\m pi we iin Dyoos t- an- kuxtaa -j
+\g PREP E1S yo Dios INC E1S recordar SC
+\c prep pers pron s tam pers vi suf
+\l Para mi siempre me recuerdo de Dios.
+\gs GT GT GL GL GT GT GL GT
+\p PREP#prep E1S#pers pron s INC#tam E1S#pers vi SC#suf
+
+\ref trtex014Usp04 297
+\t i Dyos xa' chwe.+
+\m i Dyoos x- ya' ch- we
+\g CONJ Dios COM dar INC SR
+\c conj s tam vt tam srel
+\l Y Dios me lo concedió.
+\gs GT GL GT GL GT GL
+\p CONJ#conj s COM#tam vt INC#tam srel
+
+\ref trtex014Usp04 298
+\t If. Che' sik' wunaq re.+
+\m cha' sik' wunaq re
+\g dice AFE hombre él/ella
+\c vi adj s pron
+\l Dijo él hombre a él.
+\gs GL GT GL GL
+\p vi AFE#adj s pron
+
+\ref trtex014Usp04 299
+\t -Peer ta'an chi na aprobaar+
+\m peer t- a- 'an chi na aprobaar
+\g pero INC E2S hacer PRE PART aprobar
+\c adv tam pers vt prep part vt
+\l Pero tienes que hacer otra prueba.
+\gs GL GT GT GL GT GT GL
+\p adv INC#tam E2S#pers vt PRE#prep PART#part vt
+
+\ref trtex014Usp04 300
+\t ¿abeer neen tqeej chinwch?+
+\m abeer neen t- qej ch- in- wch
+\g haber INT INC bajar PREP E1S SR
+\c adv part tam vi prep pers srel
+\l Haber cual me parese mejor.
+\gs GL GT GT GL GT GT GL
+\p adv INT#part INC#tam vi PREP#prep E1S#pers srel
+
+\ref trtex014Usp04 301a
+\t If.Che',+
+\m cha'
+\g dice
+\c vi
+\l Dice,
+\gs GL
+\p vi
+
+\ref trtex014Usp04 301b
+\t li tijya' taq na chwe+
+\m li t- j- ya' taq na ch- we
+\g DEM INC E3S dar PL PART INC SR
+\c dem tam pers vt part part tam srel
+\l eso me lo tienen que dar.
+\gs GT GT GT GL GT GT GT GL
+\p DEM#dem INC#tam E3S#pers vt PL#part PART#part INC#tam srel
+
+\ref trtex014Usp04 302
+\t che'.+
+\m cha'
+\g dice
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 303
+\t Xpe na laj kaab' q'iij+
+\m x- pe na laj kaab' q'iij
+\g COM venir PART PREP dos día
+\c tam vi part prep num s
+\l Todavia fue al siguente dia.
+\gs GT GL GT GT GL GL
+\p COM#tam vi PART#part PREP#prep num s
+
+\ref trtex014Usp04 304
+\t xe' chik juntiir,+
+\m xe' chik juntiir
+\g SR PART todo
+\c srel part adv
+\l Se fue otravez.
+\gs GL GT GL
+\p srel PART#part adv
+
+\ref trtex014Usp04 305
+\t xijye' chik jpatb'aa.+
+\m x- i- j- ye' chik j- patb'aa
+\g COM DIR E3S dar PART E3S sombrero
+\c tam dir pers vt part pers s
+\l Fue a poner otra su sombrero.
+\gs GT GT GT GL GT GT GL
+\p COM#tam DIR#dir E3S#pers vt PART#part E3S#pers s
+
+\ref trtex014Usp04 306
+\t Tijiniin xqeej chik laj kab'lojuuj chik+
+\m ti- j- iniin x- qej chik laj kablajuuj chik
+\g INC E3S AFE COM bajar PART PREP doce PART
+\c tam pers part tam vi part prep num part
+\l Otra vez se escuchó un gran ruido que venía bajando.
+\gs GT GT GT GT GL GT GT GL GT
+\p INC#tam E3S#pers AFE#part COM#tam vi PART#part PREP#prep num PART#part
+
+\ref trtex014Usp04 307
+\t che'.+
+\m cha'
+\g dice
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 308
+\t ¡Kwando xpe man kumetz!+
+\m kwaand x- pe man kumatz
+\g cuándo COM venir ART culebra
+\c adv tam vi art s
+\l Cuando vino la culebra.
+\gs GL GT GL GT GL
+\p adv COM#tam vi ART#art s
+
+\ref trtex014Usp04 309
+\t che',+
+\m cha'
+\g dice
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 310
+\t xijye' sutaaj rib' xilij jpetb'aa+
+\m x- i- j- ye' sut -aaj r- ib' xílij j- petb'aa
+\g COM DIR E3S dar girar -? E3S SR adentro E3S sombrero
+\c tam dir pers vt vt -?. pers srel srel ers s
+\l Lo fue a poner, se enrolló dentro del sombrero.
+\gs GT GT GT GL GL logged GT GL GL GT GL
+\p COM#tam DIR#dir E3S#pers vt vt error E3S#pers srel srel E3S#ers s
+
+\ref trtex014Usp04 311
+\t che',+
+\m cha'
+\g dice
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 312a
+\t xkanjye' jsaqmolb' xilij+
+\m x- kan -j -ye' j- saqmolb' xílij
+\g COM quedar E3S dar E3S huevo adentro
+\c tam vi pers vt pers s srel
+\l Dejó sus huevos a dentro
+\gs GT GL GT GL GT GL GL
+\p COM#tam vi E3S#pers vt E3S#pers s srel
+
+\ref trtex014Usp04 312b
+\t che'.+
+\m cha'
+\g dice
+\c vi
+\l dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 313
+\t Xkanjye' saqmolb' xilij man patb'aa.+
+\m x- kan - j- ye' saqmolb' xílij man patb'aa
+\g COM quedar E3S dar huevo adentro ART sombrero
+\c tam vi pers vt s srel art s
+\l Dejo huevos dentro del sombrero.
+\gs GT GL GT GT GL GL GL GT GL
+\p COM#tam vi # E3S#pers vt s srel ART#art s
+
+\ref trtex014Usp04 314
+\t Xpe re+
+\m x- pe re
+\g COM venir él/ella
+\c tam vi pron
+\l Vino él.
+\gs GT GL GL
+\p COM#tam vi pron
+
+\ref trtex014Usp04 315
+\t che'.+
+\m cha'
+\g dice
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 316
+\t Xk'amch maq saqmolb'+
+\m x- k'am -ch maq saqmolb'
+\g COM recibir DIR ART huevos
+\c tam vt dir art s
+\l Se trajo los huevos.
+\gs GT GL GT GT GL
+\p COM#tam vt DIR#dir ART#art s
+
+\ref trtex014Usp04 317
+\t che',+
+\m cha'
+\g dice
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 318
+\t xk'am maq saqmolb'+
+\m x- k'am maq saqmolb'
+\g COM recibir ART huevos
+\c tam vt art s
+\l Se llevó los huevos.
+\gs GT GL GT GL
+\p COM#tam vt ART#art s
+
+\ref trtex014Usp04 319
+\t xu' laj richooch,+
+\m xu' laj r- ichooch
+\g llegó PREP E3S casa
+\c vi prep pers s
+\l Llego en su casa.
+\gs GL GT GT GL
+\p vi PREP#prep E3S#pers s
+
+\ref trtex014Usp04 320
+\t xen juun jkojoon+
+\m x- en jun j- kojon
+\g COM hacer uno E3S cajón
+\c tam vt num pers s
+\l Hizo un cajón.
+\gs GT GL GL GT GL
+\p COM#tam vt num E3S#pers s
+
+\ref trtex014Usp04 321
+\t i xya' maq saqmolb' xilij+
+\m i x- ya' maq saqmólb' xílij
+\g CONJ COM dar ART huevos adentro
+\c conj tam vt art s srel
+\l Y hechó los huevos adentro.
+\gs GT GT GL GT GL GL
+\p CONJ#conj COM#tam vt ART#art s srel
+
+\ref trtex014Usp04 322
+\t che'.+
+\m cha'
+\g dice
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 323
+\t -Ri inpwaqi' ri,+
+\m ri in- pwaq -i' ri
+\g DEM E1S dinero ENF DEM
+\c dem pers s part dem
+\l Esto es mi dinero.
+\gs GT GT GL GT GT
+\p DEM#dem E1S#pers s ENF#part DEM#dem
+
+\ref trtex014Usp04 324
+\t saqmolb' xya' taq chwe,+
+\m saqmólb' x- ya' taq ch- we
+\g huevo COM dar PL INC SR
+\c s tam vt part tam srel
+\l Los huevos que me dió a mi.
+\gs GL GT GL GT GT GL
+\p s COM#tam vt PL#part INC#tam srel
+
+\ref trtex014Usp04 325
+\t trena' bolbeer pwaq li.+
+\m t- re- na' bolober pwaq li
+\g INC E3S PART volver dinero DEM
+\c tam pers part vi s dem
+\l Se combertirá en dinero.
+\gs GT GT GT GL GL GT
+\p INC#tam E3S#pers PART#part vi s DEM#dem
+
+\ref trtex014Usp04 326
+\t If. Che',+
+\m cha'
+\g dice
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 327
+\t i xpe kwaand xejb'ij re sik' wunaq.+
+\m i x- pe kwaand xe -j -b'ij re sik' wunaq
+\g CONJ COM venir cuándo ir E3S -decir él/ella AFE hombre
+\c conj tam vi adv vi pers vi pron part s
+\l Y cuando le fue a contar al pobre hombre.
+\gs GT GT GL GL GL GT GL GL GT GL
+\p CONJ#conj COM#tam vi adv vi E3S#pers vi pron AFE#part s
+
+\ref trtex014Usp04 328
+\t - In saqmolb' xye'saaj chwe.+
+\m in saqmólb' x- ye' saj ch- we
+\g yo huevos COM dar PAS PRE SR
+\c pron s tam vt suf prep srel
+\l A mi huevos me dieron.
+\gs GL GL GT GL GT GT GL
+\p pron s COM#tam vt PAS#suf PRE#prep srel
+
+\ref trtex014Usp04 329
+\t -A, aat atilw+
+\m a aat at- il -w
+\g a tú/usted tú/usted -ver PART
+\c prep pron pron vt part
+\l Allí vos pues.
+\gs GL GL GL GL GT
+\p prep pron pron vt PART#part
+
+\ref trtex014Usp04 330
+\t koom kada kyeen rik'il jsuweerte.+
+\m koom kada kyeen r- ik'iil j- suwerte
+\g como cada quien E3S SR E3S suerte
+\c part adv adv pers srel pers adv
+\l Como cada quien con su suerte.
+\gs GL GL GL GT GL GT GL
+\p part adv adv E3S#pers srel E3S#pers adv
+
+\ref trtex014Usp04 331
+\t If.Che' sik' wunaq re.+
+\m che' sik' wunaq re
+\g dice AFE hombre él/ella
+\c vi part s pron
+\l Le dijo él pobre hombre a él.
+\gs GL GT GL GL
+\p vi AFE#part s pron
+
+\ref trtex014Usp04 332
+\t Iv.Si pwes.+
+\m si pwees
+\g si pues
+\c adv adv
+\l Si pues.
+\gs GL GL
+\p adv adv
+
+\ref trtex014Usp04 333
+\t If.Xpe sik' wunaq+
+\m x- pe sik' wunaq
+\g COM venir AFE hombre
+\c tam vi part s
+\l Vino el pobre hombre.
+\gs GT GL GT GL
+\p COM#tam vi AFE#part s
+
+\ref trtex014Usp04 334
+\t e... dyunabes xok li chaak,+
+\m e dyunabes x- ok li chaak
+\g CONJ de@una@vez COM entrar DIM trabajo
+\c conj adv tam vi dim s
+\l E de una vez empezo a trabajar.
+\gs GT GL GT GL GT GL
+\p CONJ#conj adv COM#tam vi DIM#dim s
+
+\ref trtex014Usp04 335
+\t maas xen chik qleen re.+
+\m maas x- en chik qleen re
+\g más COM PREP PART cosas él/ella
+\c adv tam prep part s pron
+\l Más hizo sus cosas de él.
+\gs GL GT GT GT GL GL
+\p adv COM#tam PREP#prep PART#part s pron
+
+\ref trtex014Usp04 336
+\t I re koom wi'l jtz'i'aal re pwaq+
+\m i re koom wi'l j- tz'i' aal re pwaq
+\g CONJ él/ella como SR E3S perro SAB PART dinero
+\c conj pron adv srel pers s suf part s
+\l Y él como por chucheria de dinero.
+\gs GT GL GL GL GT GL GT GT GL
+\p CONJ#conj pron adv srel E3S#pers s SAB#suf PART#part s
+
+\ref trtex014Usp04 337
+\t i xan jkojon.+
+\m i x- an j- kojon
+\g CONJ COM hacer E3S cajón
+\c conj tam vt pers s
+\l Y hizo su cajón.
+\gs GT GT GL GT GL
+\p CONJ#conj COM#tam vt E3S#pers s
+
+\ref trtex014Usp04 338
+\t -Li inpwaqi'n.+
+\m li in- pwaq -i'n
+\g DEM E1S dinero ENF
+\c dem pers s part
+\l Eso es mi dinero.
+\gs GT GT GL GT
+\p DEM#dem E1S#pers s ENF#part
+
+\ref trtex014Usp04 339
+\t If.Kwando xeel uxiib' q'iij,+
+\m kwaand xeel oxib' q'iij
+\g cuándo salir tres día
+\c adv vi num s
+\l Cuando salio tres dias.
+\gs GL GL GL GL
+\p adv vi num s
+
+\ref trtex014Usp04 340
+\t xeel uxiib' q'iij+
+\m xeel oxib' q'iij
+\g salir tres día
+\c vi num s
+\l Salio tres dias.
+\gs GL GL GL
+\p vi num s
+
+\ref trtex014Usp04 341
+\t che'.+
+\m cha'
+\g dice
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 342
+\t Maq saqmolb' ke xa' li kajon+
+\m maq saqmolb' ke x- a- ya' li kajon
+\g ART huevos que COM E3S dar PREP cajón
+\c art s part tam pers vt prep s
+\l Los huevos que pusistes en el cajón.
+\gs GT GL GL GT GT GL GT GL
+\p ART#art s part COM#tam E3S#pers vt PREP#prep s
+
+\ref trtex014Usp04 343
+\t kumetz xen bolber.+
+\m kumatz x- en bolber
+\g culebra COM hacer volver
+\c s tam vt vt
+\l Culebra se volvió.
+\gs GL GT GL GL
+\p s COM#tam vt vt
+
+\ref trtex014Usp04 344
+\t Iv.¡O.. la!.+
+\m o' la'
+\g o PRE
+\c conj prep
+\l O la...
+\gs GL GT
+\p conj PRE#prep
+
+\ref trtex014Usp04 345
+\t If.Kumetz xen bolber,+
+\m kumatz x- en bolber
+\g culebra COM hacer volver
+\c s tam vt vt
+\l Culebra se bolvio.
+\gs GL GT GL GL
+\p s COM#tam vt vt
+
+\ref trtex014Usp04 346
+\t xen kumetz juntiir chaq, chaq ch'aaw maq kumetz la jaa+
+\m x- en kumatz juntiir chaq chaq ch'aaw maq kumatz la jaa
+\g COM hacer culebra todo PART PART hablar ART culebra PRE casa
+\c tam vt s adv part part vi art s prep sç
+\l Se volvieron culebra y ya hablavan culebras dentro de la casa.
+\gs GT GL GL GL GT GT GL GT GL GT GL
+\p COM#tam vt s adv PART#part PART#part vi ART#art s PRE#prep sç
+
+\ref trtex014Usp04 347
+\t che'.+
+\m cha'
+\g dice
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 348
+\t I xen wunaq sipoj rqan,+
+\m i x- en wunaq sipoj r aqan
+\g CONJ COM hacer hombre hinchar E3S pies
+\c conj tam vt s adj pers s
+\l Y loque le pasó al hombre se le incharon los pies.
+\gs GT GT GL GL GL GT GL
+\p CONJ#conj COM#tam vt s adj E3S#pers s
+
+\ref trtex014Usp04 349
+\t sipoj juntiir, sipoj+
+\m sipoj juntiir sipoj
+\g hinchar todo hinchar
+\c adj adv adj
+\l Se hincho todo se hincho.
+\gs GL GL GL
+\p adj adv adj
+
+\ref trtex014Usp04 350
+\t che'.+
+\m cha'
+\g dice
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 351
+\t Juntiir xyajer juun q'aaq'+
+\m juntiir x- yaj -er jun q'aaq'
+\g todo COM enfermo ITR uno temperatura
+\c adv tam s suf num adj
+\l Todos se enfermaron con una gran temperatura.
+\gs GL GT GL GT GL GL
+\p adv COM#tam s ITR#suf num adj
+
+\ref trtex014Usp04 352
+\t xpe chi rij.+
+\m x- pe chi r- ij
+\g COM venir PRE E3S SR
+\c tam vi prep pers srel
+\l Se le vino encima.
+\gs GT GL GT GT GL
+\p COM#tam vi PRE#prep E3S#pers srel
+
+\ref trtex014Usp04 353
+\t I koom yaaji' tirile' man kojoon.+
+\m i koom yaj -i' ti- r- il -e' man kojon
+\g CONJ como enfermo ENF INC E3S ver ENF ART cajón
+\c conj adv s part tam pers vt part art s
+\l Y como está enfermo cuando va a ver el cajón.
+\gs GT GL GL GT GT GT GL GT GT GL
+\p CONJ#conj adv s ENF#part INC#tam E3S#pers vt ENF#part ART#art s
+
+\ref trtex014Usp04 354
+\t -Wi' chaq inpwaq tinkunaaj wib'.+
+\m wi' chaq in- pwaq t- in- kuna -j wib'
+\g EXS PL E1S dinero INC E1S curar SC SR
+\c exist part pers s tam pers vt suf srel
+\l Ya tengo dinero para curarme.
+\gs GT GT GT GL GT GT GL GT GL
+\p EXS#exist PL#part E1S#pers s INC#tam E1S#pers vt SC#suf srel
+
+\ref trtex014Usp04 355
+\t If.Che',+
+\m cha'
+\g dice
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 356
+\t chaq tril maq kumetz+
+\m chaq t- r- il maq kumatz
+\g PART INC E3S ver ART culebra
+\c part tam pers vt art s
+\l Cuando vio las culebras.
+\gs GT GT GT GL GT GL
+\p PART#part INC#tam E3S#pers vt ART#art s
+
+\ref trtex014Usp04 357
+\t che'.+
+\m cha'
+\g dice
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 358
+\t Entoons sik'iij kristyaan+
+\m entoons sik'ii -j kirtyaan
+\g entonces llamar SC persona
+\c adv vt suf s
+\l Entonces llamo a las personas.
+\gs GL GL GT GL
+\p adv vt SC#suf s
+
+\ref trtex014Usp04 359
+\t -¿Neen chek juun kristyaan li?.+
+\m - neen cheek juun kirtyaan li
+\g INT porque uno persona AFI
+\c part adv num s part
+\l Porque esa persona pues.
+\gs GT GT GL GL GL GT
+\p # INT#part adv num s AFI#part
+
+\ref trtex014Usp04 360
+\t Xe'saj qleen re+
+\m x e'sa -j qleen re
+\g COM sacar SC cosas él/ella
+\c tam vt suf s pron
+\l Le dieron cosas a él.
+\gs GT GL GT GL GL
+\p COM#tam vt SC#suf s pron
+
+\ref trtex014Usp04 361
+\t i iin no+
+\m i iin no'
+\g CONJ yo no
+\c conj pron adv
+\l Y yo no.
+\gs GT GL GL
+\p CONJ#conj pron adv
+
+\ref trtex014Usp04 362
+\t iil lo ke xye'sáj chwe in,+
+\m iil lo ke x- ye' -sáj ch- we iin
+\g ver lo que COM dar PAS PREP SR yo
+\c vt part part tam vt suf prep srel pron
+\l Miren loque medierón a mi.
+\gs GL GL GL GT GL GT GT GL GL
+\p vt part part COM#tam vt PAS#suf PREP#prep srel pron
+
+\ref trtex014Usp04 363
+\t kumetz ye'sáj chwe.+
+\m kumatz ye' -sáj ch- we
+\g culebra dar PAS PREP SR
+\c s vt part prep srel
+\l Culebras me dieron.
+\gs GL GL GT GT GL
+\p s vt PAS#part PREP#prep srel
+
+\ref trtex014Usp04 364
+\t Lo ke jsuweerte juun kristyan,+
+\m lo ke j- suwerte jun kirtyaan
+\g lo que E3S suerte uno persona
+\c part part pers adv num s
+\l Lo que es la suerte de una persona.
+\gs GL GL GT GL GL GL
+\p part part E3S#pers adv num s
+
+\ref trtex014Usp04 365
+\t juun meb'a' laj kristyaan,+
+\m jun meb'a' laj kirtyaan
+\g uno pobre PREP persona
+\c num s prep s
+\l Una persona pobre.
+\gs GL GL GT GL
+\p num s PREP#prep s
+
+\ref trtex014Usp04 366
+\t ta' tarayaaj taq por ke awaasi'.+
+\m ta' ti- ray -aaj taq por ke awaas -i'
+\g NEG INC desear MED PL por que limitación SC
+\c part tam vi suf pl adv part s suf
+\l no lo desees por que es pecado.
+\gs GT GT GL GT GT GL GL GL GT
+\p NEG#part INC#tam vi MED#suf PL#pl adv part s SC#suf
+
+\ref trtex014Usp04 367
+\t Iil lo ke xye'sáj chwe iin,+
+\m il lo ke x- ye' -sáj ch- we iin
+\g ver lo que COM dar PAS PREP SR yo
+\c vt part part tam vt suf prep srel pron
+\l Mira lo que me dieron a mi.
+\gs GL GL GL GT GL GT GT GL GL
+\p vt part part COM#tam vt PAS#suf PREP#prep srel pron
+
+\ref trtex014Usp04 368
+\t jwi'l intz'i'al re pwaq,+
+\m j- wi'l in- tz'i' -al re pwaq
+\g E3S SR E1S perro SAB PART dinero
+\c pers srel pers s part part s
+\l Por mi chucheria de dinero.
+\gs GT GL GT GL GT GT GL
+\p E3S#pers srel E1S#pers s SAB#part PART#part s
+
+\ref trtex014Usp04 369
+\t kumetz xye'sáj laj wichooch.+
+\m kumatz x- ye' -sáj laj w- ichooch
+\g culebra COM dar PAS PREP E1S casa
+\c s tam vt suf prep pers s
+\l Culebras me dieron en mi casa.
+\gs GL GT GL GT GT GT GL
+\p s COM#tam vt PAS#suf PREP#prep E1S#pers s
+
+\ref trtex014Usp04 370
+\t If.Che',+
+\m cha'
+\g dice
+\c vi
+\l Dicen.
+\gs GL
+\p vi
+
+\ref trtex014Usp04 371
+\t i xaq li xkanjb'ij re kristyaan+
+\m i xaq li x- kan -j -b'ij re kirtyaan
+\g CONJ PART DEM COM quedar E3S -decir PART persona
+\c conj part dem tam vi pers vi part s
+\l Y solo eso dejo dicho a las personas.
+\gs GT GT GT GT GL GT GL GT GL
+\p CONJ#conj PART#part DEM#dem COM#tam vi E3S#pers vi PART#part s
+
+\ref trtex014Usp04 372
+\t xkaam kristyaan.+
+\m x- kam kirtyaan
+\g COM morir persona
+\c tam vi s
+\l Se murio la persona.
+\gs GT GL GL
+\p COM#tam vi s
+
+\ref trtex014Usp04 373
+\t Porke xrayeej jwiich sik' meb'a' laj wunaq.+
+\m porke x- raye -j j- wiich sik' meb'a' laj wunaq
+\g porque COM desear SC E3S SR AFE pobre PREP hombre
+\c adv tam vi suf pers srel adj s prep s
+\l Porque se le antojo lo que hizo el pobre hombre.
+\gs GL GT GL GT GT GL GT GL GT GL
+\p adv COM#tam vi SC#suf E3S#pers srel AFE#adj s PREP#prep s
+
+\ref trtex014Usp04 374
+\t Entoons ri li tanb'ij,+
+\m entoons ri li t- an- b'ij
+\g entonces DEM AFI INC E1S -decir
+\c adv dem part tam pers vi
+\l Entonces es asi lo que yo digo.
+\gs GL GT GT GT GT GL
+\p adv DEM#dem AFI#part INC#tam E1S#pers vi
+
+\ref trtex014Usp04 375
+\t ta' tzii tirayej lo ke wi' re kristyaan,+
+\m ta' tzii ti- rayee -j lo ke wi' re kirtyaan
+\g NEG bueno INC desear SC lo que EXS PART persona
+\c part adj tam vt suf part part exist part s
+\l No es bueno desear lo que la gente tiene.
+\gs GT GL GT GL GT GL GL GT GT GL
+\p NEG#part adj INC#tam vt SC#suf part part EXS#exist PART#part s
+
+\ref trtex014Usp04 376
+\t nemood re tichakuun juun+
+\m ne mood re ti- chakuu -n jun
+\g INT modo PART INC trabajar AP uno
+\c part adv part tam vt suf num
+\l De que manera trabaja la gente.
+\gs GT GL GT GT GL GT GL
+\p INT#part adv PART#part INC#tam vt AP#suf num
+
+\ref trtex014Usp04 377
+\t i retami' li Dyos neen tren chib' juun.+
+\m i r- etam -i' li Dyoos neen t- r- en chib' jun
+\g CONJ E3S conocimiento ENF DEM Dios INT INC E3S hacer SR uno
+\c conj pers s suf dem s part tam pers vt srel num
+\l Y Dios sabe lo que hace sobre uno.
+\gs GT GT GL GT GT GL GT GT GT GL GL GL
+\p CONJ#conj E3S#pers s ENF#suf DEM#dem s INT#part INC#tam E3S#pers vt srel num
+
+\ref trtex014Usp04 378
+\t Iv. Dyosi' tya'w re juun.+
+\m Dyoos -i' t- ya' -w re jun
+\g Dios ENF INC dar PART PART uno
+\c s part tam vt part part num
+\l Dios es quien le da a uno.
+\gs GL GT GT GL GT GT GL
+\p s ENF#part INC#tam vt PART#part PART#part num
+
+\ref trtex014Usp04 379
+\t If.Ji'n.+
+\m jii'n
+\g AFI
+\c part
+\l Si.
+\gs GT
+\p AFI#part
+
+\ref trtex014Usp04 380
+\t Iv.K'omoo chawe+
+\m k'amoo ch- aw- e
+\g gracias PREP E2S SR
+\c vt prep pers srel
+\l Gracias a usted.
+\gs GL GT GT GL
+\p vt PREP#prep E2S#pers srel
+
+\ref trtex014Usp04 381
+\t Anastasyo re man etámb'il ri.+
+\m Anastasyo re man etam -b'il ri
+\g Anatasio PART ART conocimiento INS DEM
+\c nom part art vi part dem
+\l Anastasio de esa historia o cuento que nos dió.
+\gs GL GT GT GL GT GT
+\p nom PART#part ART#art vi INS#part DEM#dem
+
+\ref trtex014Usp04 382
+\t 11:50 5/1/2,006
+

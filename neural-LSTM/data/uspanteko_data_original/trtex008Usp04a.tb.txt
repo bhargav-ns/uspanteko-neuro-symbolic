@@ -1,0 +1,5312 @@
+\nom [no name given]
+
+\ref trtexUsp00804a 001
+\t Byeen pwees e... ch-w-aaj t-an-yool júnkitz,+
+\m byeen pwees ee ch- w- aa -j ti- in- yol júnkitz
+\g bien pues e INC E1S querer SC INC A1S platicar poco
+\c adv adv conj tam pers vt suf tam pers vt med
+\l Bien pues yo quiero contarles un poco,
+\gs GL GL GL GT GT GL GT GT GT GL GL
+\p adv adv conj INC#tam E1S#pers vt SC#suf INC#tam A1S#pers vt med
+
+\ref trtexUsp00804a 002
+\t neen jb'aniik x-an k'ex loq'laj uleew chi qa-wch.+
+\m neen j- b'an -iik x- b'an k'ex loq'laj uleew chi qa- ch
+\g que E3S hacer SV TAM hacer cambiar ITS tierra PREP E1P SR
+\c adv pers vt suf tam vt vt part s prep pers srel
+\l como se nos deterioró la sagrada tierra.
+\gs GL GT GL GT GT GL GL GT GL GT GT GL
+\p adv E3S#pers vt SV#suf TAM#tam vt vt ITS#part s PREP#prep E1P#pers srel
+
+\ref trtexUsp00804a 003
+\t Pero ajki' maas ójor+
+\m peer ajki' maas ójor
+\g pero PART más tiempo
+\c adv part adv adv
+\l Pero no hace mucho tiempo
+\gs GL GT GL GL
+\p adv PART#part adv adv
+
+\ref trtexUsp00804a 004
+\t raaj lajori juun kawunaq junaab' o se'a kwarenta años.+
+\m r- aaj laj'ori juun ka - wunaq junaab' o' se'a kwarenta año
+\g E3 querer ahora uno dos veinte año o sea cuarenta años
+\c pers vt adv num num num s conj adv num s
+\l hace como unos cuarenta años.
+\gs GT GL GL GL GL GT GL GL GL GL GL GL
+\p E3#pers vt adv num num # num s conj adv num s
+
+\ref trtexUsp00804a 005
+\t E... jb'aniik k'ex loq'laj muund,+
+\m e j- b'an -iik k'ex loq'laj muund
+\g e E3 hacer SV dolor ITS mundo
+\c conj pers vt suf adj part s
+\l que se deterioro la nuestra sagrada tierra
+\gs GL GT GL GT GL GT GL
+\p conj E3#pers vt SV#suf adj ITS#part s
+
+\ref trtexUsp00804a 006
+\t xan porke nen b'i ri re e..., e.... ójor xqil na,+
+\m x- b'an porke neen b'ik ri re e e ójor x- q- il na
+\g COM hacer porque que DIR DEM ella e e tiempo COM E1P ver tiempo
+\c tam vt adv adv dir dem pron conj conj adv tam pers vt part
+\l fue hasta en ese entonces por que antes, vimos todavía,
+\gs GT GL GL GL GT GT GL GL GL GL GT GT GL GL
+\p COM#tam vt adv adv DIR#dir DEM#dem pron conj conj adv COM#tam E1P#pers vt part
+
+\ref trtexUsp00804a 007
+\t ki ta' tzaqsáj kaxlaan mees,+
+\m ki ta' tzaq -sáj kaxlaan mees
+\g negación negación votar PAS ladino basura
+\c part part vt suf s s
+\l no le echaban abono químico,
+\gs GL GL GL GT GL GL
+\p part part vt PAS#suf s s
+
+\ref trtexUsp00804a 008
+\t ta' tib'ansáj juun seb'laj chaak,+
+\m ta' ti- b'an -sáj jun seb'laj chaak
+\g negación INC hacer PAS un ITS trabajo
+\c part tam vt suf art part s
+\l no se trabaja mucho la tierra
+\gs GL GT GL GT GL GT GL
+\p part INC#tam vt PAS#suf art ITS#part s
+
+\ref trtexUsp00804a 009
+\t ta' tik'upsáj uleew tambyeen.+
+\m ta' ti- k'up -sáj uleew tambyeen
+\g negación INC tajear PAS tierra también
+\c part tam vt suf s adv
+\l no se tajeaba los terrenos también.
+\gs GL GT GL GT GL GL
+\p part INC#tam vt PAS#suf s adv
+
+\ref trtexUsp00804a 010
+\t tiq jos taq qaqaaj qachuuch,+
+\m tiq jos taq qa- qaaj qa- chuuch
+\g solo raspar PL E1P papá E1P mamá
+\c part vt suf pers s pers s
+\l solo lo raspaban nuestros padres,
+\gs GL GL GT GT GL GT GL
+\p part vt PL#suf E1P#pers s E1P#pers s
+
+\ref trtexUsp00804a 011
+\t y ta' naaj q-esaa-j taq josiik,+
+\m y ta' naaj q- esaa -j taq jos -iik
+\g y negación lejos E1P sacarlo SC PL raspar SV
+\c conj part adv pers vt suf suf vt suf
+\l y no era muy profunda la raspadura,
+\gs GL GL GL GT GL GT GT GL GT
+\p conj part adv E1P#pers vt SC#suf PL#suf vt SV#suf
+
+\ref trtexUsp00804a 012
+\t i tij-ye' tzi-laj taq ab'iix,+
+\m i ti- j- ye' tzi -laj taq ab'iix
+\g CONJ INC E3S dar bueno TNS PL milpa
+\c conj tam pers vtpl adj suf pl s
+\l y se daba buena milpa
+\gs GT GT GT GL GL GT GT GL
+\p CONJ#conj INC#tam E3S#pers vtpl adj TNS#suf PL#pl s
+
+\ref trtexUsp00804a 013
+\t y nen xk'up ruleew,+
+\m y neen x- k'up r- uleew
+\g y que TAM tajear E3 tierra
+\c conj adv tam vt pers s
+\l y quien tajeaba su terreno
+\gs GL GL GT GL GT GL
+\p conj adv TAM#tam vt E3#pers s
+
+\ref trtexUsp00804a 014
+\t seb'laj nim jaal tijb'it jun junaab'.+
+\m seb'laj nim tyo'x ti- j- b'it jun junaab'
+\g ITS grande mazorca TAM E3S levantar uno año
+\c part adj s tam pers vt num s
+\l cosechaba mucho en ese año.
+\gs GT GL GL GT GT GL GL GL
+\p ITS#part adj s TAM#tam E3S#pers vt num s
+
+\ref trtexUsp00804a 015
+\t Pero lijori chik e... seb'laj nim chaak t-b'ansájk+
+\m peer lijori chik e seb'laj nim chaak t- b'an -sáj -ik
+\g pero ahora PART e ITS grande trabajo INC hacer PAS SC
+\c adv adv part conj part adj s tam vt suf suf
+\l pero ahora se trabaja demasiada los terrenos
+\gs GL GL GT GL GT GL GL GT GL GT GT
+\p adv adv PART#part conj ITS#part adj s INC#tam vt PAS#suf SC#suf
+
+\ref trtexUsp00804a 016
+\t y seb'laj ka'n chaq la-q uleew.+
+\m y seb'laj ka'n chaq la -aq uleew
+\g y ITS animal PL PREP PL tierra
+\c conj part s part prep suf s
+\l y hay demasiada plaga en los terrenos.
+\gs GL GT GL GT GT GT GL
+\p conj ITS#part s PL#part PREP#prep PL#suf s
+
+\ref trtexUsp00804a 017
+\t Pero nen x-anow k'ex re uleew,+
+\m peer neen x- b'an -ow k'ex r- e uleew
+\g pero que COM hacer AP dolor E3 SR tierra
+\c adv adv tam vt suf adj pers srel s
+\l Pero quién le hizo daño a la tierra,
+\gs GL GL GT GL GT GL GT GL GL
+\p adv adv COM#tam vt AP#suf adj E3#pers srel s
+
+\ref trtexUsp00804a 018
+\t ri lo ke iin t-an-b'ii-j+
+\m ri lo ke in t- in- b'i -j
+\g DEM lo que yo INC E1S decir SC
+\c dem part part pron tam pers vt suf
+\l Pero quién le hizo daño a la tierra,
+\gs GT GL GL GL GT GT GL GT
+\p DEM#dem part part pron INC#tam E1S#pers vt SC#suf
+
+\ref trtexUsp00804a 019
+\t y komo... bweeno ke... tambyeen tzii'n ti-kan el mi re tz'ib'elk,+
+\m y koom bween ke tambyeen tzi - i'n ti- kan el mi re tz'ib' -el -ik
+\g y como bueno que también bueno enfatica inc- quedar salir mi PART escribir PP SC
+\c conj part adv part adv adv part tam vi vi part part vt suf suf
+\l y es bueno también, que se quede todo esto documentado
+\gs GL GL GL GL GL GL GT GL GL GL GL GL GT GL GT GT
+\p conj part adv part adv adv # part tam vi vi part PART#part vt PP#suf SC#suf
+
+\ref trtexUsp00804a 020
+\t o sea tzi kan el grabado,+
+\m o' se'a tzi kan el grabar
+\g o sea bueno qued salir grabar
+\c conj adv adv vi vi vt
+\l y que se quede grabado
+\gs GL GL GL GL GL GL
+\p conj adv adv vi vi vt
+
+\ref trtexUsp00804a 021
+\t nen b'i ri re nen b'aniik x-an k'ex uleew t-w-il iin.+
+\m neen b'i ri re neen b'an -iik x- b'an k'ex uleew t- w- il in
+\g que ?? DEM PART que hacer SV COM hacer dolor tierra INC E1S ver yo
+\c adv part. dem part adv vt suf tam vt adj s tam pers vt pron
+\l como vi que se fue dañando la tierra.
+\gs GL logged GT GT GL GL GT GT GL GL GL GT GT GL GL
+\p adv error DEM#dem PART#part adv vt SV#suf COM#tam vt adj s INC#tam E1S#pers vt pron
+
+\ref trtexUsp00804a 022
+\t Komo ke k'is organisasiones relijyosas x-anow k'ex r-e uleew,+
+\m koom ke k'is organisasiones relijyosas x- b'an -ow k'ex r- -e uleew
+\g como que PL organizaciones religiosas COM hacer AP dolor E3 SR tierra
+\c part part part s s tam vt suf adj pers srel s
+\l Como que toda las organizaciones religiosas le hicieron daño a la tierra,
+\gs GL GL GT GL GL GT GL GT GL GT GT GL
+\p part part PL#part s s COM#tam vt AP#suf adj E3#pers SR#srel s
+
+\ref trtexUsp00804a 023
+\t ee kwando xisájik ke es mejor tikojsáj abono,+
+\m e kwaand x- b'i -sáj -ik ke es mejor ti- koj -sáj aboon
+\g e cuándo COM decir PAS SC que es mejor INC usar PAS abono
+\c conj adv tam vt suf suf part adv adv tam vt suf s
+\l cuando dijeron ellos que era bueno utilizar abono químico,
+\gs GL GL GT GL GT GT GL GL GL GT GL GT GL
+\p conj adv COM#tam vt PAS#suf SC#suf part adv adv INC#tam vt PAS#suf s
+
+\ref trtexUsp00804a 024
+\t e... xk'amsájch k'i-laj taq qleen ese tyempo,+
+\m e x- k'am -sáj -ch k'i -laj taq qleen ese tyeemp
+\g e COM recibir PAS MOV mucho ITS PL objetos ese tiempo
+\c conj tam vt suf mov adv ITS suf s dem s
+\l se trajeron demasiadas cosas en ese tiempo,
+\gs GL GT GL GT GT GL GT GT GL GL GL
+\p conj COM#tam vt PAS#suf MOV#mov adv ITS#ITS PL#suf s dem s
+
+\ref trtexUsp00804a 025
+\t xk'amsájch itz'yeq Estados Unidos,+
+\m x- k'am -sáj -ch itz'yeq Estados Unidos
+\g COM recibir PAS MOV ropa Estados Unidos
+\c tam vt suf mov s nom nom
+\l se trajeron ropa de los Estados Unidos
+\gs GT GL GT GT GL GL GL
+\p COM#tam vt PAS#suf MOV#mov s nom nom
+
+\ref trtexUsp00804a 026
+\t xk'amch la Iglesya Katolika,+
+\m x- k'am -ch la iglesya katolika
+\g COM recibir MOV PREP iglesia católica
+\c tam vt mov prep s s
+\l trajo la Iglesia Católica
+\gs GT GL GT GT GL GL
+\p COM#tam vt MOV#mov PREP#prep s s
+
+\ref trtexUsp00804a 027
+\t xk'amch ritz'iq+
+\m x- k'am -ch r- itz'yeq
+\g COM recibir MOV E3 ropa
+\c tam vt mov pers s
+\l trajeron ropa
+\gs GT GL GT GT GL
+\p COM#tam vt MOV#mov E3#pers s
+
+\ref trtexUsp00804a 028
+\t ee tib'ij taq r-echaq r-e tijt'o taq meb'a'.+
+\m e ti- b'ij taq r- ech -aq r- e ti- j- t'o taq meb'a'
+\g e INC decir PL E3 s.rel PL E3 e INC E3 ayudar PL pobre
+\c conj tam vt suf pers srel suf pers conj tam pers vt suf adj
+\l decían ellos que era para ayudar a la gente desfavorecida
+\gs GL GT GL GT GT GL GT GT GL GT GT GL GT GL
+\p conj INC#tam vt PL#suf E3#pers srel PL#suf E3#pers conj INC#tam E3#pers vt PL#suf adj
+
+\ref trtexUsp00804a 029
+\t Pero em twil i'n me ki ta' xojt'o taq,+
+\m peer em ti- w- il i'n me ki ta' x- oj- t'o taq
+\g pero em INC E1S ver enfatica NEG negación negación TAM A1P ayudar PL
+\c adv part tam pers vt part part part part tam pers vt suf
+\l Pero lo que pienso es que solo mandaron la basura para acá
+\gs GL GL GT GT GL GL GT GL GL GT GT GL GT
+\p adv part INC#tam E1S#pers vt part NEG#part part part TAM#tam A1P#pers vt PL#suf
+
+\ref trtexUsp00804a 030
+\t si no ke x-an taq ke k'ex chi q-e.+
+\m si' no' ke x- b'an taq ke k'ex chi q- e
+\g si no que COM hacer PL que dolor PREP E1P SR
+\c adv adv part tam vt suf part adj prep pers srel
+\l y nos hicieron daño a nosotros.
+\gs GL GL GL GT GL GT GL GL GT GT GL
+\p adv adv part COM#tam vt PL#suf part adj PREP#prep E1P#pers srel
+
+\ref trtexUsp00804a 031
+\t Xk'am taqch yajeel la maq atz'iyeq,+
+\m x- k'am taq -ch yaj -eel la m -aq itz'yeq
+\g COM recibir PL MOV enfermo SAB PREP ART PL ropa
+\c tam vt suf mov s suf prep art suf s
+\l Traía enfermedades toda esta ropa,
+\gs GT GL GT GT GL GT GT GT GT GL
+\p COM#tam vt PL#suf MOV#mov s SAB#suf PREP#prep ART#art PL#suf s
+
+\ref trtexUsp00804a 032
+\t sib'laj k'ii jwiich yajeel xpetik,+
+\m sib'laj k'ii j- wiich yaj -eel x- pet -ik
+\g ITS mucho E3 SR enfermedad SAB COM venir SC
+\c part adv pers srel s suf tam vi suf
+\l traía muchas clases de enfermedades
+\gs GT GL GT GL GL GT GT GL GT
+\p ITS#part adv E3#pers srel s SAB#suf COM#tam vi SC#suf
+
+\ref trtexUsp00804a 033
+\t y k'amolch jwi'l maq atz'iyeq,+
+\m y k'am -ol -ch j- wi'l m -aq itz'yeq
+\g y recibir PP MOV E3 SR ART PL ropa
+\c conj vt suf mov pers srel art suf s
+\l traía toda esta ropa
+\gs GL GL GT GT GT GL GT GT GL
+\p conj vt PP#suf MOV#mov E3#pers srel ART#art PL#suf s
+
+\ref trtexUsp00804a 034
+\t ta' loq' t-esa-j juruub' ne t-a-ch'ej
+\m ta' loq' t- esa -j juruub' ne' t- a- ch'ej
+\g negación posible INC sacar SC cuanto NEG INC E2S lavar
+\c part adv tam vt suf adv part *** *** ***
+\l y no se podía sacar auque se lavara cuantas veces fuera posible,
+\gs GL GL GT GL GT GL GT GT GT GL
+\p part adv INC#tam vt SC#suf adv NEG#part INC#*** E2S#*** ***
+
+\ref trtexUsp00804a 035
+\t komo ke k'amolch juun étzel ti'l dyunabees.+
+\m koom ke k'am -ol -ch juun étzel ti- i'n - li dyunabes
+\g como que recibir PP MOV uno malo TAM enfatica PREP de@una@vez
+\c part part vt suf mov num adj tam part prep adv
+\l como que traía muchas cosas impregnadas
+\gs GL GL GL GT GT GL GL GT GL GT GT GL
+\p part part vt PP#suf MOV#mov num adj TAM#tam part # PREP#prep adv
+
+\ref trtexUsp00804a 036
+\t Y eem xk'am taqch abono,+
+\m y em x- k'am taq -ch aboon
+\g y em COM recibir PL MOV abono
+\c conj part tam vt suf mov s
+\l Y trajeron abono químico,
+\gs GL GL GT GL GT GT GL
+\p conj part COM#tam vt PL#suf MOV#mov s
+
+\ref trtexUsp00804a 037
+\t xk'am taqch beneno,+
+\m x- k'am taq -ch beneno
+\g COM recibir PL MOV veneno
+\c tam vt suf mov s
+\l trajeron veneno,
+\gs GT GL GT GT GL
+\p COM#tam vt PL#suf MOV#mov s
+
+\ref trtexUsp00804a 038
+\t xk'am taqch folyares. Xmajsáj k'ex-ik ri ri ri k'aslemaal loq'laj tiko'n,+
+\m x- k'am taq -ch folyar x- maj -sáj k'ex -iik ri ri ri k'aslem -aal loq'laj tiko'n
+\g COM recibir PL MOV foliar COM comenzar PAS cambiar SV DEM DEM DEM vivo SAB santo sembrar
+\c tam vt suf mov s tam vt suf vt suf dem dem dem s suf adj vt
+\l trajeron foleares. Se comenzó a cambiar la existencia de los siembras,
+\gs GT GL GT GT GL GT GL GT GL GT GT GT GT GL GT GL GL
+\p COM#tam vt PL#suf MOV#mov s COM#tam vt PAS#suf vt SV#suf DEM#dem DEM#dem DEM#dem s SAB#suf adj vt
+
+\ref trtexUsp00804a 039
+\t y ta chi' ta' ti-j-ya' loq'laj uleew lijori si mi ta' tiqakoj,+
+\m y ta' chi' ta' ti- j- ya' loq'laj uleew lijori si' mi ta' ti- qa- koj
+\g y negación PART negación INC E3S dar ITS tierra ahora si mi negación TAM E1P usar
+\c conj part part part tam pers vt part s adv adv part part tam pers vt
+\l Y ahora ya no produce la sagrada tierra si no se le hecha abono,
+\gs GL GL GT GL GT GT GL GT GL GL GL GL GL GT GT GL
+\p conj part PART#part part INC#tam E3S#pers vt ITS#part s adv adv part part TAM#tam E1P#pers vt
+
+\ref trtexUsp00804a 040
+\t ta' chi' loq' oj-wí'n-ik.+
+\m ta' chi' loq' oj- wi'n -ik
+\g negación PART posible A1P comer SC
+\c part part adv pers vi suf
+\l ya no es posible comer.
+\gs GL GT GL GT GL GT
+\p part PART#part adv A1P#pers vi SC#suf
+
+\ref trtexUsp00804a 041
+\t Xwil na júnkitz ójor,+
+\m x- w- il na júnkitz ójor
+\g COM E1S ver tiempo poco tiempo
+\c tam pers vt part adv adv
+\l Vi un poco antes,
+\gs GT GT GL GL GL GL
+\p COM#tam E1S#pers vt part adv adv
+
+\ref trtexUsp00804a 042
+\t ri tik'upsáj uleew,+
+\m ri ti- k'up -sáj uleew
+\g DEM INC tajear PAS tierra
+\c dem tam vt suf s
+\l cuando se tajeaba el terreno
+\gs GT GT GL GT GL
+\p DEM#dem INC#tam vt PAS#suf s
+
+\ref trtexUsp00804a 043
+\t y qap kirtyaan wi' kirneraq,+
+\m y qap kirtyaan wi' kirner -aq
+\g y admiración persona EXS carnero PL
+\c conj part s exist s suf
+\l y mucha personas tenían ovejas,
+\gs GL GL GL GT GL GT
+\p conj part s EXS#exist s PL#suf
+
+\ref trtexUsp00804a 044
+\t wi' jwakix-aq,+
+\m wi' j- wakix -aq
+\g EXS E3 vaca PL
+\c exist pers s suf
+\l tenían vacas,
+\gs GT GT GL GT
+\p EXS#exist E3#pers s PL#suf
+
+\ref trtexUsp00804a 045
+\t b'ween taq ab'iix naq b'itaq pero ke kalidad ab'iix en ryalidad.+
+\m bween taq ab'iix na -aq b'it -aq peer ke kalidad ab'iix en ryalidad
+\g bueno PL milpa tiempo PL levantar PL pero que calidad milpa en realidad
+\c adv suf s part suf vt suf adv part adv s part adv
+\l buena milpa se daba, pero en realidad que calidad de milpa.
+\gs GL GT GL GL GT GL GT GL GL GL GL GL GL
+\p adv PL#suf s part PL#suf vt PL#suf adv part adv s part adv
+
+\ref trtexUsp00804a 046
+\t Ri chi ki lajori ta' chi ki i'n si no ke taye' abono,+
+\m ri chi ki laj'ori ta' chi ki i'n si' no' ke ta- ye' aboon
+\g DEM PREP negación ahora negación PREP negación enfatica si no que TAM dar abono
+\c dem prep part adv part prep part part adv adv part tam vt s
+\l Pero ahora ya no es así, si no se utiliza abono químico,
+\gs GT GT GL GL GL GT GL GL GL GL GL GT GL GL
+\p DEM#dem PREP#prep part adv part PREP#prep part part adv adv part TAM#tam vt s
+
+\ref trtexUsp00804a 047
+\t tzur-máj-ch juun monton ka'n ch alaaj,+
+\m tzur - máj -ch jun montoon ka'n chi alaaj
+\g molestar PAS MOV un montón animal PREP abajo
+\c vt suf mov art adv s prep srel
+\l se desató un montón de plaga,
+\gs GL GT GT GT GL GL GL GT GL
+\p vt # PAS#suf MOV#mov art adv s PREP#prep srel
+
+\ref trtexUsp00804a 048
+\t seb'laj ixpek'peech,+
+\m seb'laj ixpek'peech
+\g ITS gallina@ciega
+\c part s
+\l mucha tortuguilla,
+\gs GT GL
+\p ITS#part s
+
+\ref trtexUsp00804a 049
+\t sib'laj wi' chaq nik'ij tra ka'n chik+
+\m sib'laj wi' chaq nik'ij ra ka'n chik
+\g ITS EXS PART algunos DIM animal PART
+\c part exis part adv part s part
+\l surgieron otros tipos de plagas,
+\gs GT GT GT GL GT GL GT
+\p ITS#part EXS#exis PART#part adv DIM#part s PART#part
+
+\ref trtexUsp00804a 050
+\t ta' chi ki tiqach'ob' jwich saber nen chi ka'n laal.+
+\m ta' chi ki ti- qa- ch'ob' j- wich saber neen chi ka'n laal
+\g negación PREP negación INC E1P conocer E3 SR saber que PREP animal duda
+\c part prep part tam pers vt pers srel adv adv prep s part
+\l que ya no conocemos, saber que clase de animales serán.
+\gs GL GT GL GT GT GL GT GL GL GL GT GL GL
+\p part PREP#prep part INC#tam E1P#pers vt E3#pers srel adv adv PREP#prep s part
+
+\ref trtexUsp00804a 051
+\t E... wi' laq uleew+
+\m ee wi' laq uleew
+\g e EXS escudilla tierra
+\c conj exist s s
+\l que hay en la tierra
+\gs GL GT GL GL
+\p conj EXS#exist s s
+
+\ref trtexUsp00804a 052
+\t y tinaloq' chik juun kúmb'il r-e tijk'amsáj chik li chik,+
+\m y ti- in- a- loq' chik jun kúmb'il r- -e ti- j- k'am -sáj chik li chik
+\g y INC A1S E2S comprar PART un aguardiente E3 SR TAM E3 recibir PAS PART PREP PART
+\c conj tam pers pers vt part art s pers srel tam pers vt suf part prep part
+\l y se tiene que compra otra clase de veneno, para matar estas plagas,
+\gs GL GT GT GT GL GT GL GL GT GT GT GT GL GT GT GT GT
+\p conj INC#tam A1S#pers E2S#pers vt PART#part art s E3#pers SR#srel TAM#tam E3#pers vt PAS#suf PART#part PREP#prep PART#part
+
+\ref trtexUsp00804a 053
+\t i nojeel q'iij ti-qa-b'aan maas k'ex r-e uleew.+
+\m i nojeel q'iij ti- qa- b'an maas k'ex r- -e uleew
+\g CONJ todo día INC E1P hacer más dolor E3 SR tierra
+\c conj adv s tam pers vt adv adj pers srel s
+\l y con esto cada día se esta dañando mas los terrenos.
+\gs GT GL GL GT GT GL GL GL GT GT GL
+\p CONJ#conj adv s INC#tam E1P#pers vt adv adj E3#pers SR#srel s
+
+\ref trtexUsp00804a 054
+\t Ri ójir tikuxtaaj inwi'l ch-uch jaa ri qalúwir ooj poqi'n, baa ma kaach' uleew ta'n,+
+\m ri ójir ti- kuxtaa -j in- wi'l ch- uch jaa ri qa- lúwir ooj pooq - i'n -n baa ma kaach' uleew ta'n
+\g DEM antes INC recordar SC E1S SR PRE SR casa DEM E1P lugar nosotros arena enfatica -antipasivo baa NEG chicle tierra no
+\c dem adv tam vt suf pers srel prep srel s dem pers s pron s part suf part part s s adv
+\l Hace mucho tiempo me recuerdo, en terreno de la casa es arenoso,
+\gs GT GL GT GL GT GT GL GT GL GL GT GT GL GL GL GT GL GL GL GT GL GL GL
+\p DEM#dem adv INC#tam vt SC#suf E1S#pers srel PRE#prep srel s DEM#dem E1P#pers s pron s # part suf part NEG#part s s adv
+
+\ref trtexUsp00804a 055
+\t em qak'up júnkitz,+
+\m em qa- k'up júnkitz
+\g em E1P tajear poco
+\c part pers vt adv
+\l se tajea un poco,
+\gs GL GT GL GL
+\p part E1P#pers vt adv
+
+\ref trtexUsp00804a 056
+\t qa-q-esaj kinaq' peech k'atzaan inchuuch,+
+\m qa- q- esa -j kinaq' peech k'atzaan in- chuuch
+\g INC E1P sacar SC frijol compañero finado(a) E1S mamá
+\c pref pers vt suf s s s. pers s
+\l y sembrábamos fríjol, con mi finada madre,
+\gs GT GT GL GT GL GL logged GT GL
+\p INC#pref E1P#pers vt SC#suf s s error E1S#pers s
+
+\ref trtexUsp00804a 057
+\t qatik júnkitz qakinaq' qe q-e ooj berdad qe ch-uch jaa.+
+\m qa- tik júnkitz qa- kinaq' qe q- e ooj berdad q- -e ch- uch jaa
+\g E1P sembrar poco E1P frijol solo E1P SR nosotros verdad E1P SR PRE SR. casa
+\c pers vt adv pers s adv pers srel pron adv pers srel prep srel s
+\l sembrábamos un poco de fríjol, solo para nosotros en la casa.
+\gs GT GL GL GT GL GL GT GL GL GL GT GT GT GL GL
+\p E1P#pers vt adv E1P#pers s adv E1P#pers srel pron adv E1P#pers SR#srel PRE#prep srel s
+
+\ref trtexUsp00804a 058
+\t Ee qatik keq lu'j+
+\m ee qa- tik keq lu'j
+\g e E1P sembrar rojo fríjol
+\c conj pers vt adj s
+\l Sembrábamos fríjol rojo
+\gs GL GT GL GL GL
+\p conj E1P#pers vt adj s
+
+\ref trtexUsp00804a 059
+\t nik'ij keq kinaq' ji' nimaqiil ri' per galaan kinaq' t-r-an oombre,+
+\m nik'ij keq kinaq' ji' nim -aq -iil r- i'n peer galaan kinaq' t- r- b'an oombre
+\g algunos rojo frijol AFI grande PL SAB E3 enfatica pero galán frijol INC E3 hacer hombre
+\c adv adj s part adj suf suf pers part adv adj s tam pers vt voc
+\l otra clase de fríjol rojo, eran de este tamaño, pero se daba buen frijol,
+\gs GL GL GL GT GL GT GT GT GL GL GL GL GT GT GL GL
+\p adv adj s AFI#part adj PL#suf SAB#suf E3#pers part adv adj s INC#tam E3#pers vt voc
+
+\ref trtexUsp00804a 060
+\t per ke kinaq' oom, qes tz'eet y y chi tijeem kinaq' li Balo,+
+\m peer ke kinaq' oombre qas tz'eet y y chi tij -eem kinaq' li Waldo
+\g pero que frijol hombre ITS cierto y y PREP comer SV frijol DEM Oswaldo
+\c adv part s voc ITS adv conj conj prep v suf s dem nom
+\l pero que fríjol hombre, y para comer esa clase de fríjol Balo,
+\gs GL GL GL GL GT GL GL GL GT GL GT GL GT GL
+\p adv part s voc ITS#ITS adv conj conj PREP#prep v SV#suf s DEM#dem nom
+
+\ref trtexUsp00804a 061
+\t seb'laj simiin chi tijeem,+
+\m seb'laj simiin chi tij -eem
+\g ITS sabroso PREP comer SV
+\c part adv prep vt suf
+\l muy sabroso para comer,
+\gs GT GL GT GL GT
+\p ITS#part adv PREP#prep vt SV#suf
+
+\ref trtexUsp00804a 062
+\t ta' rejwéxik ke lijori ti-b'ij-sáj,+
+\m ta' rejwéxik ke lijori ti- b'ij -sáj
+\g negación necesidad que ahora INC decir PAS
+\c part s part adv tam vt suf
+\l no es precisó como se dice ahora,
+\gs GL GL GL GL GT GL GT
+\p part s part adv INC#tam vt PAS#suf
+
+\ref trtexUsp00804a 063
+\t ke t-an-tzaq ke sopa,+
+\m ke t- in- tza -aq ke sopa
+\g que INC E1S salado PL que sopa
+\c part tam pers adj suf part s
+\l que se le eche sopa,
+\gs GL GT GT GL GT GL GL
+\p part INC#tam E1S#pers adj PL#suf part s
+
+\ref trtexUsp00804a 064
+\t ke t-a-tzaq konsome+
+\m ke t- a- tza -aq konsomee
+\g que INC E2S salado PL consome
+\c part tam pers adj suf s
+\l que se le eche consomé,
+\gs GL GT GT GL GT GL
+\p part INC#tam E2S#pers adj PL#suf s
+
+\ref trtexUsp00804a 065
+\t no li ta' tib'ansáj ójir,+
+\m no' li ta' ti- b'an -sáj ójir
+\g no DEM negación INC hacer PAS antes
+\c adv dem part tam vt suf adv
+\l No, antes no se hacia esto,
+\gs GL GT GL GT GL GT GL
+\p adv DEM#dem part INC#tam vt PAS#suf adv
+
+\ref trtexUsp00804a 066
+\t en ryalidad x-ansáj k'ex chi q-e fijaat,+
+\m en ryalidad x- b'an -sáj k'ex chi q- -e fijaat
+\g en realidad TAM hacer PAS cambiar PREP E1P SR fijate
+\c part adv tam vt suf vt prep pers srel adv
+\l En realidad nos hicieron daño fíjate,
+\gs GL GL GT GL GT GL GT GT GT GL
+\p part adv TAM#tam vt PAS#suf vt PREP#prep E1P#pers SR#srel adv
+
+\ref trtexUsp00804a 067
+\t pi w-e iin x-ansáj k'ex chi q-e.+
+\m pi w- -e in x- b'an -sáj k'ex chi q- -e
+\g PREP E1S SR yo COM hacer PAS dolor PREP E1P SR
+\c prep pers srel pron tam vt suf adj prep pers srel
+\l para mi nos hicieron daño.
+\gs GT GT GT GL GT GL GT GL GT GT GT
+\p PREP#prep E1S#pers SR#srel pron COM#tam vt PAS#suf adj PREP#prep E1P#pers SR#srel
+
+\ref trtexUsp00804a 068
+\t In maas tantzaq reqle'n la iglesya katolika,+
+\m in maas t- in- tzaq r- eqle'n la iglesya katolika
+\g yo más INC E1S tirar E3 cargo PRE iglesia católica
+\c pron adv tam pers vt pers s prep s s
+\l Pero yo le hecho mas la culpa a la iglesia católica,
+\gs GL GL GT GT GL GT GL GT GL GL
+\p pron adv INC#tam E1S#pers vt E3#pers s PRE#prep s s
+
+\ref trtexUsp00804a 069
+\t ri li tantzaq reqle'n in,+
+\m ri li ta- in- tzaq r- eqle'n iin
+\g DEM DEM INC A1S tirar E3 cargo yo
+\c dem dem tam pers adj pers s pron
+\l a ellos le hecho la culpa,
+\gs GT GT GT GT GL GT GL GL
+\p DEM#dem DEM#dem INC#tam A1S#pers adj E3#pers s pron
+
+\ref trtexUsp00804a 070
+\t por ke xk'am taqch qleen,+
+\m por ke x- k'am taq -ch qleen
+\g por que COM recibir PL MOV cosas
+\c adv part tam vt suf mov s
+\l porque trajeron cosas,
+\gs GL GL GT GL GT GT GL
+\p adv part COM#tam vt PL#suf MOV#mov s
+
+\ref trtexUsp00804a 071
+\t xya' taq jno'j kirtyaan,+
+\m x- ya' taq j- no'j kirtyaan
+\g COM dar PL E3 conocimiento persona
+\c tam vt suf pers s s
+\l le dieron consejos a las personas,
+\gs GT GL GT GT GL GL
+\p COM#tam vt PL#suf E3#pers s s
+
+\ref trtexUsp00804a 072
+\t raaj ne' tzi li li tzi li t-an-b'ij iin.+
+\m raaj ne' tzi li li tzi li t- an- b'ij iin
+\g tal@vez NEG bueno DEM DEM bueno DEM INC E1S decir yo
+\c adv part adv dem dem adv dem tam pers vt pron
+\l pienso que talvez eso esta bueno.
+\gs GL GT GL GT GT GL GT GT GT GL GL
+\p adv NEG#part adv DEM#dem DEM#dem adv DEM#dem INC#tam E1S#pers vt pron
+
+\ref trtexUsp00804a 073
+\t X-an taq juun, juun parte,+
+\m x- b'an taq juun juun paart
+\g COM hacer PL uno uno parte
+\c tam vt part num num adv
+\l Lo que hicieron en parte,
+\gs GT GL GT GL GL GL
+\p COM#tam vt PL#part num num adv
+
+\ref trtexUsp00804a 074
+\t pero pi jun lado chik x-an taq k'ex chi q-e,+
+\m peer pi jun laad chik x- b'an taq k'ex chi q- -e
+\g pero PREP un lado PART COM hacer PL dolor PREP E1P SR
+\c adv prep art adv part tam vt suf adj prep pers srel
+\l pero por otro lado, solo nos hicieron daño,
+\gs GL GT GL GL GT GT GL GT GL GT GT GT
+\p adv PREP#prep art adv PART#part COM#tam vt PL#suf adj PREP#prep E1P#pers SR#srel
+
+\ref trtexUsp00804a 075
+\t x-an taq k'ex chi q-e por ke fijate ke,+
+\m x- b'an taq k'ex chi q- e por ke fijaat ke
+\g COM hacer PL dolor PREP E1P -nuestro por que fijate que
+\c tam vt suf adj prep pers srel adv part adv part
+\l nos hicieron daño porque fíjate,
+\gs GT GL GT GL GT GT GL GL GL GL GL
+\p COM#tam vt PL#suf adj PREP#prep E1P#pers srel adv part adv part
+
+\ref trtexUsp00804a 076
+\t ójor taq tziij b'aniik t-an-b'ii-j,+
+\m ójor taq tziij b'an -iik t- in- b'i -j
+\g tiempo PL palabra hacer SV INC E1S decir SC
+\c adv pl s vt suf tam pers vt suf
+\l hace mucho tiempo como digo,
+\gs GL GT GL GL GT GT GT GL GT
+\p adv PL#pl s vt SV#suf INC#tam E1S#pers vt SC#suf
+
+\ref trtexUsp00804a 077
+\t t-a-tik akinaq',+
+\m t- a- tik a- kinaq'
+\g INC E2S sembrar E2S frijol
+\c tam pers vt pers s
+\l sembras fríjol,
+\gs GT GT GL GT GL
+\p INC#tam E2S#pers vt E2S#pers s
+
+\ref trtexUsp00804a 078
+\t saqweech Oswaldo peer ke saqweech oombre ki ta' beneno xqil,+
+\m saqweech Waldo peer ke saqweech oombre ki ta' beneno x- q- il
+\g papa Oswaldo pero que papa hombre negación negación veneno COM E1P ver
+\c s nom adv part s voc part part s tam pers vt
+\l o papa, Oswaldo, pero que papa hombre, no vimos veneno,
+\gs GL GL GL GL GL GL GL GL GL GT GT GL
+\p s nom adv part s voc part part s COM#tam E1P#pers vt
+
+\ref trtexUsp00804a 079
+\t ¿nen nen chaq xk'ex-maj uuch uleew? ooj xojk'exowik,+
+\m neen neen chaq x- k'ex - maj uuch uleew ooj x- oj- k'ex -ow -ik
+\g que que PART INC cambiar PAS s.rel. tierra nosotros COM A1P cambiar AP SC
+\c adv adv part tam vt suf SR s pron tam pers vt suf suf
+\l ¿por qué cambiaron la tierra? pero no fueron nuestras ideas pues
+\gs GL GL GT GT GL GT GT GL GL GL GT GT GL GT GT
+\p adv adv PART#part INC#tam vt # PAS#suf SR s pron COM#tam A1P#pers vt AP#suf SC#suf
+
+\ref trtexUsp00804a 080
+\t per qano'j ta' ooj pwees,+
+\m peer qa- no'j ta' ooj pwees
+\g pero E1P conocimiento negación nosotros pues
+\c adv pers s part pron adv
+\l
+\gs GL GT GL GL GL GL
+\p adv E1P#pers s part pron adv
+
+\ref trtexUsp00804a 081
+\t no'j i'n kirtyaan extranjerb' xpetaq,+
+\m no'j i'n kirtyaan extranjerb' x- pet -aq
+\g conocimiento enfatica persona extranjero COM venir PL
+\c s part s s tam vi suf
+\l fueron las ideas de las personas extranjeras que vinieron,
+\gs GL GL GL GL GT GL GT
+\p s part s s COM#tam vi PL#suf
+
+\ref trtexUsp00804a 082
+\t xij taq ke, qakoje' kaxlaan mees l-aq uleew.+
+\m x- b'ij taq ke qa- koj - e' kaxlaan mees li -aq uleew
+\g COM decir PL que E1P usar SC ladino basura PREP PL tierra
+\c tam vt pl part pers vt suf s s prep suf s
+\l y dijeron que, se utilizara abono químico en la tierra.
+\gs GT GL GT GL GT GL GT GT GL GL GT GT GL
+\p COM#tam vt PL#pl part E1P#pers vt # SC#suf s s PREP#prep PL#suf s
+
+\ref trtexUsp00804a 083
+\t Saqweech ójir Balo tijye' saqweech maq ri,+
+\m saqweech ójir Waldo ti- j- ye' saqweech m -aq ri
+\g papa antes Oswaldo TAM E3S dar papa ART PL DEM
+\c s adv nom tam pers vt s art suf dem
+\l La papa se daba de este tamaño.
+\gs GL GL GL GT GT GL GL GT GT GT
+\p s adv nom TAM#tam E3S#pers vt s ART#art PL#suf DEM#dem
+
+\ref trtexUsp00804a 084
+\t pero rechi' juun saqweech antiwo ma ri ta' r-e k'is kaxlaan taq wónik.+
+\m peer r- ech - i'n jun saqweech antiib' ma ri ta' r- -e k'is kaxlaan taq wunaq
+\g pero E3 s.rel enfatica un papa antiguo NEG DEM negación E3 SR PL ladino PL hombre
+\c adv pers srel part art s adv part dem part pers srel part s pl s
+\l pero era una papa antigua, no es de las personas de ahora.
+\gs GL GT GL GT GL GL GL GL GT GT GL GT GT GT GL GT GL
+\p adv E3#pers srel # part art s adv NEG#part DEM#dem part E3#pers SR#srel PL#part s PL#pl s
+
+\ref trtexUsp00804a 085
+\t E... wi' juun saqweech tijye' keqruum,+
+\m ee wi' jun saqweech ti- j- ye' keqruum
+\g e EXS un papa INC E3S dar papa@rosada
+\c conj exist art s tam pers vt s
+\l Se daba un tipo de papa que se llamaba Kyeqrum
+\gs GL GT GL GL GT GT GL GL
+\p conj EXS#exist art s INC#tam E3S#pers vt s
+
+\ref trtexUsp00804a 086
+\t che' taq re man saqweech,+
+\m che' taq re man saqweech
+\g decir PL el/ella ART papa
+\c vi suf pron art s
+\l le llamaban así a este tipo de papa
+\gs GL GT GL GT GL
+\p vi PL#suf pron ART#art s
+
+\ref trtexUsp00804a 087
+\t a pero lujo man saqweech y t-a-tij+
+\m a peer lujo man saqweech y ti- a- tij
+\g a pero lujo ART papa y INC E2S comer
+\c conj adv adv art s conj tam pers vt
+\l a pero de calidad este tipo de papa
+\gs GL GL GL GT GL GL GT GT GL
+\p conj adv adv ART#art s conj INC#tam E2S#pers vt
+
+\ref trtexUsp00804a 088
+\t y b'ansáj r-a'l pero kalidad boos Balo,+
+\m y b'an -sáj r- a'l peer kalidad boos Waldo
+\g y hacer PAS E3 jugo pero calidad vos Oswaldo
+\c conj vt suf pers s adv adv voc nom
+\l y se le echaba jugo que calidad vos Balo
+\gs GL GL GT GT GL GL GL GL GL
+\p conj vt PAS#suf E3#pers s adv adv voc nom
+
+\ref trtexUsp00804a 089
+\t seb'laj simiin chi' tijeem,+
+\m seb'laj simiin chi tij -eem
+\g ITS sabroso PREP comer SV
+\c part adv prep v suf
+\l era muy sabroso para comer
+\gs GT GL GT GL GT
+\p ITS#part adv PREP#prep v SV#suf
+
+\ref trtexUsp00804a 090
+\t tz'et raaj aaw+
+\m tz'eet r- aaj a- wa
+\g cierto E3 querer E2S tortilla
+\c adv pers vt pers s
+\l muy exquisito para comer
+\gs GL GT GL GT GL
+\p adv E3#pers vt E2S#pers s
+
+\ref trtexUsp00804a 091
+\t y ta' tika'nob' aw-ee jwi'l,+
+\m y ta' ti- ka'n -ob' aw- ee j- wi'l
+\g y negación INC animal ITR E2 diente E3 SR
+\c conj part tam s suf pers s pers srel
+\l y no se le picaba los dientes a uno,
+\gs GL GL GT GL GT GT GL GT GL
+\p conj part INC#tam s ITR#suf E2#pers s E3#pers srel
+
+\ref trtexUsp00804a 092
+\t ta' ti-jer b'aq'wiich jwi'l,+
+\m ta' ti- jer b'aq'wiich j- wi'l
+\g no INC desgastar ojo E3 SR
+\c adv tam vt s pers srel
+\l
+\gs GL GT GL GL GT GL
+\p adv INC#tam vt s E3#pers srel
+
+\ref trtexUsp00804a 093
+\t ta' t-r-an k'ex awexkolb' jwi'l si,+
+\m ta' ti- r- b'an k'ex aw- ixkólb' j- wi'l si'
+\g no INC E3 hacer dolor E2 intestino E3 SR si
+\c adv tam pers vt adj pers s pers srel adv
+\l se le dañaba la vista a uno
+\gs GL GT GT GL GL GT GL GT GL GL
+\p adv INC#tam E3#pers vt adj E2#pers s E3#pers srel adv
+
+\ref trtexUsp00804a 094
+\t re sib'laj rechi' loq'laj uleew pwees.+
+\m re sib'laj r- ech - i'n loq'laj uleew pwees
+\g PART ITS E3 s.rel enfatica ITS tierra pues
+\c part part pers srel part part s adv
+\l porque era algo natural de la tierra
+\gs GT GT GT GL GT GL GT GL GL
+\p PART#part ITS#part E3#pers srel # part ITS#part s adv
+
+\ref trtexUsp00804a 095
+\t Tikuxtaaj inwi'l+
+\m ti- kuxtaa -j in- wi'l
+\g INC recordar SC E1S SR
+\c tam vt suf pers srel
+\l Me recuerdo
+\gs GT GL GT GT GL
+\p INC#tam vt SC#suf E1S#pers srel
+
+\ref trtexUsp00804a 096
+\t wi' juun juun luwar jri ajsik r-e saqpooq t-j-b'i-j taq,+
+\m wi' jun jun luwar jri ajsik r- -e saq - pooq t- j- b'i -j taq
+\g EXS un un lugar allá arriba E3 SR blanco arena INC E3S decir SC PL
+\c exist art art s adv adv pers srel adj s tam pers vt suf pl
+\l hay un lugar por acá arriba que se llama Saqpooq
+\gs GT GL GL GL GL GL GT GT GL GT GL GT GT GL GT GT
+\p EXS#exist art art s adv adv E3#pers SR#srel adj # s INC#tam E3S#pers vt SC#suf PL#pl
+
+\ref trtexUsp00804a 097
+\t y inqaaj pwees tikil saqweech jwi'l,+
+\m y in- qaaj pwees tik -il saqweech j- wi'l
+\g y E1S papá pues sembrar -agentivo papa E3 SR
+\c conj pers s adv vt AGT s pers srel
+\l mi padre sembraba papas por allí
+\gs GL GT GL GL GL GL GL GT GL
+\p conj E1S#pers s adv vt AGT s E3#pers srel
+
+\ref trtexUsp00804a 098
+\t o t-elch tra saqweech r-ik'an,+
+\m o ti- el -ch ra saqweech r- ik'an
+\g o TAM salir MOV DIM papa E3 solo
+\c conj tam vi mov part s pers srel
+\l o posiblemente solo salían las papas
+\gs GL GT GL GT GT GL GT GL
+\p conj TAM#tam vi MOV#mov DIM#part s E3#pers srel
+
+\ref trtexUsp00804a 099
+\t tikankojsáj jmuul laq ab'ix,+
+\m ti- kan - koj -sáj j- muul li -aq ab'iix
+\g INC quedar usar PAS E3 calza@de@milpa PREP PL milpa
+\c tam vi vt suf pers s prep suf s
+\l le dejaban puesto tierra abajo
+\gs GT GL GT GL GT GT GL GT GT GL
+\p INC#tam vi # vt PAS#suf E3#pers s PREP#prep PL#suf s
+
+\ref trtexUsp00804a 100
+\t titaw chik tyempo tijos b'ik,+
+\m ti- taw chik tyeemp ti- jos b'ik
+\g INC llegar PART tiempo INC ??? DIR
+\c tam vt part s tam ??? dir
+\l y llega el tiempo de limpiarlo
+\gs GT GL GT GL GT GT
+\p INC#tam vt PART#part s INC#tam ??? DIR#dir
+
+\ref trtexUsp00804a 101
+\t ji' maq saqweech ri wulman laq uleew fijate,+
+\m ji' m -aq saqweech ri wulman li -aq uleew fijaat
+\g AFI ART PL papa DEM amontonado PREP PL tierra fijate
+\c part art suf s dem pos prep suf s adv
+\l y estas papas se amontonaban en la tierra fíjate
+\gs GT GT GT GL GT GL GT GT GL GL
+\p AFI#part ART#art PL#suf s DEM#dem pos PREP#prep PL#suf s adv
+
+\ref trtexUsp00804a 102
+\t t-aw-esá-j-ch a Dyoos juun gran bida,+
+\m t- aw- esa -j -ch a Dyoos jun graan bida
+\g INC E2 sacar SC MOV a Dios un gran vida
+\c tam pers vt suf mov conj s art adv s
+\l se cosechaba hay Dios era una gran vida
+\gs GT GT GL GT GT GL GL GL GL GL
+\p INC#tam E2#pers vt SC#suf MOV#mov conj s art adv s
+
+\ref trtexUsp00804a 103
+\t sib'laj ti-nojsá-n-ik,+
+\m seb'laj ti- nojsa -n -ik
+\g ITS INC llenar AP SC
+\c part tam vt suf suf
+\l lo llenaba a uno
+\gs GT GT GL GT GT
+\p ITS#part INC#tam vt AP#suf SC#suf
+
+\ref trtexUsp00804a 104
+\t y sib'laj galaan chi tijeem.+
+\m y sib'laj galaan chi tij -eem
+\g y ITS galán PREP comer SV
+\c conj part adj prep vt suf
+\l y era muy sabroso para comer
+\gs GL GT GL GT GL GT
+\p conj ITS#part adj PREP#prep vt SV#suf
+
+\ref trtexUsp00804a 105
+\t Baay xij xok li maq maq xpet chik+
+\m baa x- b'i -j x- ok li m -aq m -aq x- pet chik
+\g baya COM decir SC COM entrar DEM ART PL ART PL COM venir PART
+\c voc tam vt suf tam vi dem art suf art suf tam vi part
+\l y solo vinieron esas nuevas cosas
+\gs GL GT GL GT GT GL GT GT GT GT GT GT GL GT
+\p voc COM#tam vt SC#suf COM#tam vi DEM#dem ART#art PL#suf ART#art PL#suf COM#tam vi PART#part
+
+\ref trtexUsp00804a 106
+\t y tambyeen maq gringos, xk'am taqch semiya extranjera,+
+\m y tambyeen m -aq gringos x- k'am taq -ch semiya extranjerb'
+\g y también ART PL gringos COM recibir PL MOV semilla extranjero
+\c conj adv art suf s tam vt pl mov s s
+\l también los gringos trajeron semilla extranjera
+\gs GL GL GT GT GL GT GL GT GT GL GL
+\p conj adv ART#art PL#suf s COM#tam vt PL#pl MOV#mov s s
+
+\ref trtexUsp00804a 107
+\t xk'am taqch juun saqweech juun redondo saqweech,+
+\m x- k'am taq -ch jun saqweech jun redondo saqweech
+\g COM recibir PL MOV un papa un redondo papa
+\c tam vt pl mov art s art pos s
+\l trajeron otra nueva clase de papas que era redonda,
+\gs GT GL GT GT GL GL GL GL GL
+\p COM#tam vt PL#pl MOV#mov art s art pos s
+
+\ref trtexUsp00804a 108
+\t xk'am taqch juun lomaan,+
+\m x- k'am taq -ch jun lomaan
+\g COM recibir PL MOV un loman
+\c tam vt pl mov art s
+\l trajeron una que se llama loman
+\gs GT GL GT GT GL GL
+\p COM#tam vt PL#pl MOV#mov art s
+
+\ref trtexUsp00804a 109
+\t y y sach j-b'iij maq saqweech xk'am taqch.+
+\m y y sach j- b'iij m -aq saqweech x- k'am taq -ch
+\g y y perder E3 nombre ART PL papa COM recibir PL MOV
+\c conj conj vt pers s art suf s tam vt pl mov
+\l trajeron otra clase pero que se me olvidó como se llama
+\gs GL GL GL GT GL GT GT GL GT GL GT GT
+\p conj conj vt E3#pers s ART#art PL#suf s COM#tam vt PL#pl MOV#mov
+
+\ref trtexUsp00804a 110
+\t Kla' sach jwich ra qasaqweech ooj fijate.+
+\m kla' sach j- wich ra qa- saqweech ooj fijaat
+\g allí perder E3 SR DIM E1P papa nosotros fijate
+\c adv vt pers srel part pers s pron adv
+\l allí se perdió la semilla que era de nosotros
+\gs GL GL GT GL GT GT GL GL GL
+\p adv vt E3#pers srel DIM#part E1P#pers s pron adv
+
+\ref trtexUsp00804a 111
+\t Lajori t-a-tik chik ta' chik-i' t-ya',+
+\m laj'ori t- a- tik chik ta' chik - i'n ti- ya'
+\g ahora INC E2S sembrar PART no PART enfatica INC dar
+\c adv tam *** vt part adv part part tam vt
+\l ahora se siembra ya no se produce
+\gs GL GT GT GL GT GL GT GT GL GT GL
+\p adv INC#tam E2S#*** vt PART#part adv PART#part # part INC#tam vt
+
+\ref trtexUsp00804a 112
+\t lajori y kita' chik-i' sachi' jwich,+
+\m laj'ori y ki - ta' chik - i'n sach - i'n j- wich
+\g ahora y negación no PART enfatica perder enfatica E3 SR
+\c adv conj part adv part part vt part pers srel
+\l y tampoco ya no hay se extermino
+\gs GL GL GL GT GL GT GT GL GL GT GL GT GL
+\p adv conj part # adv PART#part # part vt # part E3#pers srel
+
+\ref trtexUsp00804a 113
+\t ta' chik-i' ma ra ma ra saqweech li ta' chik-i'n.+
+\m ta' chik - i'n ma ra ma ra saqweech li ta' chik i'n
+\g no PART enfatica NEG DIM NEG DIM papa DEM no PART enfatica
+\c adv part part part part part part s dem adv part part
+\l esta clase de papa ya no existe
+\gs GL GT GT GL GT GT GT GT GL GT GL GT GL
+\p adv PART#part # part NEG#part DIM#part NEG#part DIM#part s DEM#dem adv PART#part part
+
+\ref trtexUsp00804a 114
+\t Tatok ta' chik-i' lamaas ti wi' chik-wu,+
+\m t- a- tok ta' chik - i'n lamaas ti wi' chik -wu
+\g INC E2S buscar no PART enfatica donde PERT EXS PART MOV
+\c tam pers vt adv part part adv part exist part suf
+\l lo busca uno y no lo encuentra
+\gs GT GT GL GL GT GT GL GL GT GT GT GT
+\p INC#tam E2S#pers vt adv PART#part # part adv PERT#part EXS#exist PART#part MOV#suf
+
+\ref trtexUsp00804a 115
+\t saber we raaj rik'il k'is Aj-karakol,+
+\m saber we raaj r- ik'il k'is aj- karakol
+\g saber si tal@vez E3 con@él PL AGT Caracol
+\c adv part adv pers srel part pref nom
+\l talvez con personas de Caracol pueda haber
+\gs GL GL GL GT GL GT GT GL
+\p adv part adv E3#pers srel PL#part AGT#pref nom
+
+\ref trtexUsp00804a 116
+\t Ajsaqja' raj ajwi',+
+\m aj- saqja' ra -j aj- wi'
+\g AGT Agua@blanca DIM SC AGT EXS
+\c pref nom part suf pref exist
+\l o talvez con los de Agua Blanca talvez hay.
+\gs GT GL GT GT GT GT
+\p AGT#pref nom DIM#part SC#suf AGT#pref EXS#exist
+
+\ref trtexUsp00804a 117
+\t ajwi' pero in tanb'an pensar ta' chik-i'n.+
+\m aj- wi' peer in t- in- b'an pensar ta' chik -i'n
+\g AGT EXS pero yo INC E1S hacer pensar no PART enfatica
+\c pref exist adv pron *** *** vt *** adv part part
+\l talvez hay pero en lo personal pienso que talvez ya no hay
+\gs GT GT GL GL GT GT GL GL GL GT GL
+\p AGT#pref EXS#exist adv pron INC#*** E1S#*** vt *** adv PART#part part
+
+\ref trtexUsp00804a 118
+\t Ri li ti-j-b'i-j rechaq,+
+\m ri li ti- j- b'i -j re -ch -aq
+\g DEM DEM INC E3S decir SC el/ella MOV PL
+\c dem dem tam pers vt suf pron mov suf
+\l eso es lo que les digo a ellos
+\gs GT GT GT GT GL GT GL GT GT
+\p DEM#dem DEM#dem INC#tam E3S#pers vt SC#suf pron MOV#mov PL#suf
+
+\ref trtexUsp00804a 119
+\t eske man saqweech li ta' ta' loq' tak'ayeej,+
+\m eske man saqweech li ta' ta' loq' ti- a- k'ay -ee -j
+\g es@que ART papa DEM no no posible INC E2S venta ITR SC
+\c ad art s dem adv adv adv tam pers s suf suf
+\l es que este tipo de papa no es vendible
+\gs GL GT GL GT GL GL GL GT GT GL GT GT
+\p ad ART#art s DEM#dem adv adv adv INC#tam E2S#pers s ITR#suf SC#suf
+
+\ref trtexUsp00804a 120
+\t ta' nim tijye' juun k'aam,+
+\m ta' nim ti- j- ye' juun k'aam
+\g no grande INC E3S dar uno cuerda
+\c adv adj tam pers vt num s
+\l no produce mucho una cuerda
+\gs GL GL GT GT GL GL GL
+\p adv adj INC#tam E3S#pers vt num s
+
+\ref trtexUsp00804a 121
+\t y tz'et i'n ta' qas nim tijye'w+
+\m y tz'eet i'n ta' qas nim ti- j- ye' -wu
+\g y cierto enfatica no ITS grande TAM E3S dar MOV
+\c conj adv part adv ITS adj tam pers vt suf
+\l y es verídico una gran cantidad una cuerda
+\gs GL GL GL GL GT GL GT GT GL GT
+\p conj adv part adv ITS#ITS adj TAM#tam E3S#pers vt MOV#suf
+
+\ref trtexUsp00804a 122
+\t tantyado ke tijye'w ra saqweech,+
+\m tantyado ke ti- j- ye' -w ra saqweech
+\g tantiado que INC E3S dar MOV DIM papa
+\c adv part tam pers vt suf part s
+\l es muy poco lo que da una cuerda
+\gs GL GL GT GT GL GT GT GL
+\p adv part INC#tam E3S#pers vt MOV#suf DIM#part s
+
+\ref trtexUsp00804a 123
+\t per raaj titiksáj juun kib' tzii tikik,+
+\m peer raaj ti- tik -sáj juun kib' tzii tik -ik
+\g pero tal@vez INC sembrar PAS uno dos bueno sembrar SC
+\c adv adv tam vt suf num num adj vt suf
+\l pero si uno siembra unas dos cuerdas bien sembrada
+\gs GL GL GT GL GT GL GL GL GL GT
+\p adv adv INC#tam vt PAS#suf num num adj vt SC#suf
+
+\ref trtexUsp00804a 124
+\t ri tiye' seguramente,+
+\m ri ti- ye' seguramente
+\g DEM INC dar seguramente
+\c dem tam vt adv
+\l es posible que se produzca
+\gs GT GT GL GL
+\p DEM#dem INC#tam vt adv
+
+\ref trtexUsp00804a 125
+\t komo ta' x-ansáj ójor ta' tichikonik,+
+\m koom ta' x- b'an -sáj ójor ta' ti- chikon -ik
+\g como no COM hacer PAS tiempo no INC servir SC
+\c part adv tam vt suf adv adv tam vi suf
+\l como antes no se pensaba en comercializar
+\gs GL GL GT GL GT GL GL GT GL GT
+\p part adv COM#tam vt PAS#suf adv adv INC#tam vi SC#suf
+
+\ref trtexUsp00804a 126
+\t y komo ta' rajwu ta' tik'amsáj+
+\m y koom ta' r- ajwu ta' ti- k'am -sáj
+\g y como no E3 dueño no INC traer PAS
+\c conj part adv pers s adv tam vt suf
+\l y como no tenía compradores
+\gs GL GL GL GT GL GL GT GL GT
+\p conj part adv E3#pers s adv INC#tam vt PAS#suf
+
+\ref trtexUsp00804a 127
+\t Rik'an ke t-el-ch laq ab'ix,+
+\m r- ik'an ke t- el -ch li -aq ab'iix
+\g E3 solo que INC salir MOV PREP PL milpa
+\c pers s part tam vi mov rep suf s
+\l Solo salía en la milpa
+\gs GT GL GL GT GL GT GT GT GL
+\p E3#pers s part INC#tam vi MOV#mov PREP#rep PL#suf s
+
+\ref trtexUsp00804a 128
+\t If. Rik'an ke t-elch laq ab'iix,+
+\m r- ik'an ke ti- el -ch li -aq ab'iix
+\g E3 solo que INC salir MOV PREP PL milpa
+\c pers srel part tam vi mov prep suf s
+\l If. Por si solo salía en medio de la milpa
+\gs GT GL GL GT GL GT GT GT GL
+\p E3#pers srel part INC#tam vi MOV#mov PREP#prep PL#suf s
+
+\ref trtexUsp00804a 129
+\t y y ójor ta' tik'amsájik,+
+\m y y ójor ta' ti- k'am -sáj -ik
+\g y y tiempo no INC recibir PAS SC
+\c conj conj adv adv tam vt suf suf
+\l y antes no se compraba
+\gs GL GL GL GL GT GL GT GT
+\p conj conj adv adv INC#tam vt PAS#suf SC#suf
+
+\ref trtexUsp00804a 130
+\t komo ta' ooj k'ii y ta' ch'iich' tambyeen.+
+\m koom ta' ooj k'ii y ta' ch'iich' tambyeen
+\g como no nosotros mucho y no vehículo también
+\c part adv pron adv conj adv s adv
+\l y como no éramos muchos los habitantes
+\gs GL GL GL GL GL GL GL GL
+\p part adv pron adv conj adv s adv
+
+\ref trtexUsp00804a 131
+\t Entonses nen ti-j-ch'ek,+
+\m entoons neen ti- j- ch'e -ik
+\g entonces que INC E3 hule SC
+\c adv adv tam pers s suf
+\l entonces ya había una razón para sembrar demasiado
+\gs GL GL GT GT GL GT
+\p adv adv INC#tam E3#pers s SC#suf
+
+\ref trtexUsp00804a 132
+\t tatik si ta' rajwu,+
+\m t- a- tik si' ta' r- ajwu
+\g INC E2S sembrar si no E3 dueño
+\c tam pers vt adv adv pers s
+\l como vas a sembrar demasiado si no hay compradores
+\gs GT GT GL GL GL GT GL
+\p INC#tam E2S#pers vt adv adv E3#pers s
+
+\ref trtexUsp00804a 133
+\t si at q-e at-tijowik.+
+\m si' at q- e at- tij -ow -ik
+\g si tu E1P SR A2S comer AP SC
+\c adv pron pers srel pers v suf suf
+\l si éramos pocos los consumidores
+\gs GL GL GT GT GT GL GT GT
+\p adv pron E1P#pers SR#srel A2S#pers v AP#suf SC#suf
+
+\ref trtexUsp00804a 134
+\t Y jwi'l k'u ri ya xu' jno'j k'is kirtyaan,+
+\m y j- wi'l k'u ri ya x- yu' j- no'j k'is kirtyaan
+\g y E3 SR PART esto ya INC venir E3 conocimiento PL persona
+\c conj pers srel part dem voc tam vi pers s part s
+\l Y por eso optaron por otras técnicas de siembra las personas
+\gs GL GT GL GT GL GL GT GL GT GL GT GL
+\p conj E3#pers srel PART#part dem voc INC#tam vi E3#pers s PL#part s
+
+\ref trtexUsp00804a 135
+\t ti-qa-b'ij ooj,+
+\m ti- q- a -b'ij ooj
+\g INC E1P a -nombre nosotros
+\c tam pers conj s pron
+\l decimos nosotros
+\gs GT GT GL GL GL
+\p INC#tam E1P#pers conj s pron
+
+\ref trtexUsp00804a 136
+\t xu' qano'j tiqab'ij ooj,+
+\m x- yu' qa- no'j ti- iqa -b'ij ooj
+\g COM venir E1P conocimiento TAM cargar -nombre nosotros
+\c tam vi pers s tam vt s pron
+\l nos vino buenas ideas
+\gs GT GL GT GL GT GL GL GL
+\p COM#tam vi E1P#pers s TAM#tam vt s pron
+
+\ref trtexUsp00804a 137
+\t peer xu' qano'j,+
+\m peer x- yu' qa- no'j
+\g pero COM venir E1P conocimiento
+\c adv tam vi pers s
+\l pero nos vino buenas ideas
+\gs GL GT GL GT GL
+\p adv COM#tam vi E1P#pers s
+
+\ref trtexUsp00804a 138
+\t peer qas ta' ji' lo ta'n t-an-b'ij iin.+
+\m peer qas ta' ji' lo ta'n ti- b'an -b'ij in
+\g pero ITS no AFI lo no COM hacer -nombre yo
+\c adv ITS adv part part adv tam vt s pron
+\l pero no es así como yo pienso
+\gs GL GT GL GT GL GL GT GL GL GL
+\p adv ITS#ITS adv AFI#part part adv COM#tam vt s pron
+
+\ref trtexUsp00804a 139
+\t Sach jwich q-e ooj,+
+\m sach j- wich q- -e ooj
+\g perder E3 SR E1P SR nosotros
+\c vt pers srel pers srel pron
+\l se perdió lo nuestro
+\gs GL GT GL GT GT GL
+\p vt E3#pers srel E1P#pers SR#srel pron
+
+\ref trtexUsp00804a 140
+\t y... ri maas t-an-b'i-j iin b'aniik kinaq' ójor,+
+\m y ri maas t- in- b'i -j in b'an -iik kinaq' ójor
+\g y esto más INC E1S decir SC yo hacer SV frijol tiempo
+\c conj dem adv tam pers vt suf pron vt suf s adv
+\l y es lo que mas digo como se producía el fríjol antes
+\gs GL GL GL GT GT GL GT GL GL GT GL GL
+\p conj dem adv INC#tam E1S#pers vt SC#suf pron vt SV#suf s adv
+
+\ref trtexUsp00804a 141
+\t tambyeen t-r-an nik'ij kamotes qik'il+
+\m tambyeen t- r- b'an nik'ij kamotes q- ik'il
+\g también INC E3 hacer algunos camotes E1P SR
+\c adv tam pers vt adv s pers srel
+\l también se producía unos camotes con nosotros
+\gs GL GT GT GL GL GL GT GL
+\p adv INC#tam E3#pers vt adv s E1P#pers srel
+
+\ref trtexUsp00804a 142
+\t wi' juun kamote rosado pero antiwo+
+\m wi' jun kamotes rosado peer antiib'
+\g EXS un camotes rosado pero antiguo
+\c exist art s adj adv adv
+\l había un camote rozado
+\gs GT GL GL GL GL GL
+\p EXS#exist art s adj adv adv
+
+\ref trtexUsp00804a 143
+\t ay Dyoos rik'i ke juun tatij awunke mi kita' á-aw.+
+\m ay Dyoos r- ik'il ke juun ta- tij awunke mi ki - ta' á- wa
+\g ¡hay! Dios E3 SR que uno TAM comer aunque mi negación no E2S tortilla
+\c voc. s pers srel part num tam v adv part part adv pers s
+\l hay Dios solo con uno que se comiera aunque no tuviera comida
+\gs logged GL GT GL GL GL GT GL GL GL GL GT GL GT GL
+\p error s E3#pers srel part num TAM#tam v adv part part # adv E2S#pers s
+
+\ref trtexUsp00804a 144
+\t Wi' tyempo tita' wijaal,+
+\m wi' tyeemp ti- ta' wijaal
+\g EXS tiempo TAM encontrar hambre
+\c exist s tam vt s
+\l Hay tiempos que llega la hambruna
+\gs GT GL GT GL GL
+\p EXS#exist s TAM#tam vt s
+
+\ref trtexUsp00804a 145
+\t kita' pero we wi' kamote awik'il rik'i ke juun,+
+\m ki - ta' peer we wi' kamotes aw- ik'il r- ik'il ke jun
+\g negación no pero si EXS camotes E2 SR E3 SR que un
+\c part adv adv part exist s pers srel pers srel part art
+\l no hay comida pero si uno tiene camote no habría problema
+\gs GL GT GL GL GL GT GL GT GL GT GL GL GL
+\p part # adv adv part EXS#exist s E2#pers srel E3#pers srel part art
+
+\ref trtexUsp00804a 146
+\t wi' juun ra júnkitz amaq'na'+
+\m wi' juun ra júnkitz a- maq'na'
+\g EXS uno DIM poco E2S agua@caliente
+\c exist num part adv pers s
+\l con un poco de agua caliente
+\gs GT GL GT GL GT GL
+\p EXS#exist num DIM#part adv E2S#pers s
+
+\ref trtexUsp00804a 147
+\t rik'il ya x-at-noj-i'n moos,+
+\m r- ik'il ya x- at- noj - i'n moos
+\g E3 SR ya COM A2S llenar enfatica ladino
+\c pers srel voc tam pers vi part s
+\l solo con eso ya te llenaste
+\gs GT GL GL GT GT GL GT GL GL
+\p E3#pers srel voc COM#tam A2S#pers vi # part s
+
+\ref trtexUsp00804a 148
+\t ta' rejwéxik waa.+
+\m ta' rejwéxik waa
+\g no necesidad tortilla
+\c adv s s
+\l no es necesario comida
+\gs GL GL GL
+\p adv s s
+
+\ref trtexUsp00804a 149
+\t Seb'laj t-aw-ik'aaj,+
+\m seb'laj ti- aw- ik'aa -j
+\g ITS INC E2 sentir SC
+\c part tam pers vt suf
+\l Se siente muy sabroso
+\gs GT GT GT GL GT
+\p ITS#part INC#tam E2#pers vt SC#suf
+
+\ref trtexUsp00804a 150
+\t tz'et atnoj i'n+
+\m tz'eet at- noj i'n
+\g cierto A2S llenar enfatica
+\c adv pers vi part
+\l verdaderamente se llena uno
+\gs GL GT GL GL
+\p adv A2S#pers vi part
+
+\ref trtexUsp00804a 151
+\t y seb'laj tawik'aaj juun juun juun juun ri... seb'laj tzii chi tijeem pwees,+
+\m y' seb'laj t- aw- ik'aa -j jun jun jun jun ri seb'laj tzii chi tij -eem pwees
+\g y ITS INC E2 sentir SC un un un un DEM ITS bueno PREP comer SV pues
+\c conj part tam pers vt suf art art art art dem part adj prep vt suf adv
+\l y verdaderamente se siente una sensación muy buena al comerlo
+\gs GL GT GT GT GL GT GL GL GL GL GT GT GL GT GL GT GL
+\p conj ITS#part INC#tam E2#pers vt SC#suf art art art art DEM#dem ITS#part adj PREP#prep vt SV#suf adv
+
+\ref trtexUsp00804a 152
+\t ki' chi tijeem.+
+\m ki' chi tij -eem
+\g dulce PREP comer SV
+\c adj prep v suf
+\l muy sabroso para comerlo
+\gs GL GT GL GT
+\p adj PREP#prep v SV#suf
+
+\ref trtexUsp00804a 153
+\t Y ma ma juun chik tike' k'i,+
+\m y' ma ma jun chik tik - e' k'i
+\g y NEG NEG un PART sembrar SC mucho
+\c conj part part art part vt suf adv
+\l Y no es como comer cualquier cosa
+\gs GL GT GT GL GT GL GT GT GL
+\p conj NEG#part NEG#part art PART#part vt # SC#suf adv
+
+\ref trtexUsp00804a 154
+\t si no wi' chik-i' juun jtziiil,+
+\m si' no' wi' chik - i'n jun j- tzi -iil
+\g si no EXS PART enfatica un E3S bueno SAB
+\c adv adv exist part part art pers adv suf
+\l si no que tiene otra sabrosura
+\gs GL GL GT GT GT GL GL GT GL GT
+\p adv adv EXS#exist PART#part # part art E3S#pers adv SAB#suf
+
+\ref trtexUsp00804a 155
+\t komo ke si tinojsáj aw-anm.+
+\m koom ke si' ti- noj -sáj aw- alma
+\g como que si INC llenar PAS E2 alma
+\c part part adv tam vi suf pers s
+\l como que le deja satisfecha hasta el alma del que lo come.
+\gs GL GL GL GT GL GT GT GL
+\p part part adv INC#tam vi PAS#suf E2#pers s
+
+\ref trtexUsp00804a 156
+\t Pero lijori loq' man kamote t-a-tij lajori Oswaldo,+
+\m peer lijori loq' man kamotes t- a - tij lijori Waldo
+\g pero ahora posible ART camotes INC E2S comer ahora Oswaldo
+\c adv adv adv art s tam pers vt adv nom
+\l pero ahora compra camote y te lo comes Oswaldo
+\gs GL GL GL GT GL GT GT GT GL GL GL
+\p adv adv adv ART#art s INC#tam E2S#pers # vt adv nom
+
+\ref trtexUsp00804a 157
+\t ta' chik i'n+
+\m ta' chik i'n
+\g no PART enfatica
+\c adv part part
+\l ya no hay de esa calidad
+\gs GL GT GL
+\p adv PART#part part
+
+\ref trtexUsp00804a 158
+\t Iv. Ta' chik-i' tzii.+
+\m ta' chik - i'n tzii
+\g no PART enfatica bueno
+\c adv part part adj
+\l Iv. Ya no es bueno
+\gs GL GT GT GL GL
+\p adv PART#part # part adj
+
+\ref trtexUsp00804a 159
+\t If. No ta' chi ki tzii pur chaq algo laj ja',+
+\m no' ta' chi ki tzii puro chaq algo laj ja'
+\g no no PREP negación bueno puro PART algo prep agua
+\c adv adv prep part adj adv part adv prep s
+\l Ya no es bueno como que ya no tiene la misma calidad
+\gs GL GL GT GL GL GL GT GL GL GL
+\p adv adv PREP#prep part adj adv PART#part adv prep s
+
+\ref trtexUsp00804a 160
+\t y algo k'a ri maq beneno tib'anow wi' laq uleew.+
+\m y' algo k'a ri m -aq beneno ti- b'an -ow wi' li -aq uleew
+\g y algo amargo DEM ART PL veneno INC hacer AP EXS PREP PL tierra
+\c conj adv adj dem art suf s tam vt suf exist prep suf s
+\l tiene un sabor amargo, los químicos lo han dañado.
+\gs GL GL GL GT GT GT GL GT GL GT GT GT GT GL
+\p conj adv adj DEM#dem ART#art PL#suf s INC#tam vt AP#suf EXS#exist PREP#prep PL#suf s
+
+\ref trtexUsp00804a 161
+\t Y entonses xi chaq lajori,+
+\m y' entoons xi chaq lijori
+\g y entonces PART PART ahora
+\c conj adv part part adv
+\l Entonces ahora ya solo
+\gs GL GL GT GT GL
+\p conj adv PART#part PART#part adv
+
+\ref trtexUsp00804a 162
+\t t-w-il iin,+
+\m t- w- il iin
+\g INC E1S ver yo
+\c tam pers vt pron
+\l veo
+\gs GT GT GL GL
+\p INC#tam E1S#pers vt pron
+
+\ref trtexUsp00804a 163
+\t ri ajki xb'ansáj k'ex re,+
+\m ri ajki' x- b'an -sáj k'ex re
+\g DEM PART COM hacer PAS dolor el/ella
+\c dem part tam vt suf adj pron
+\l lo que no se ha dañado
+\gs GT GT GT GL GT GL GL
+\p DEM#dem PART#part COM#tam vt PAS#suf adj pron
+
+\ref trtexUsp00804a 164
+\t pero lo mismo xsachi' jwiich ájij,+
+\m peer lo mismo x- sach - i'n j- wiich ájij
+\g pero lo mismo COM extraviar enfatica E3S SR caña
+\c adv part adv tam vt part pers srel s
+\l pero lo mismo se perdió la semilla
+\gs GL GL GL GT GL GT GL GT GL GL
+\p adv part adv COM#tam vt # part E3S#pers srel s
+
+\ref trtexUsp00804a 165
+\t ájij ta' ta' b'anool abonar niri,+
+\m ájij ta' ta' b'an - o' -ol aboon niri
+\g caña no no hacer o AGT abono aqui
+\c s adv adv vt conj suf s adv
+\l la semilla que no se ha abonado
+\gs GL GL GL GL GT GL GT GL GL
+\p s adv adv vt # conj AGT#suf s adv
+
+\ref trtexUsp00804a 166
+\t xi chaq juun juun juun tiko'n ri ta' ta' mi ki ta' abono la',+
+\m xi chaq jun jun jun tiko'n ri ta' ta' mi ki ta' aboon la
+\g PART PART un un un sembrar DEM no no mi negación no abono PREP
+\c part part art art art vt dem adv adv part part adv s prep
+\l ya solo es una siembra que ya no tiene abono
+\gs GT GT GL GL GL GL GT GL GL GL GL GL GL GT
+\p PART#part PART#part art art art vt DEM#dem adv adv part part adv s PREP#prep
+
+\ref trtexUsp00804a 167
+\t y k'is ooj pero jelaan chi jyaaj xkoj taq pwees. Entonses e... y juun chik ki mi ta' ri ki ta' ajki' xtzaq taq kumb'il la',+
+\m y' k'is ooj peer jelaan chi j- yaaj x- koj taq pwees entoons ee y' jun chik ki mi ta' ri ki ta' ajki' x- tzaq taq kum - chi' -il la
+\g y PL aguacate pero diferente PREP E3S enfermo COM usar PL pues entonces e y un PART negación mi no DEM negación no PART TAM votar PL remedio PREP -agentivo PREP
+\c conj part s adv adv prep pers s tam vt pl adv adv conj conj art part part part adv dem part adv part tam vt pl s prep AGT prep
+\l son los aguacates, pero es otra clase de enfermedad la que le provocaron
+\gs GL GT GL GL GL GT GT GL GT GL GT GL GL GL GL GL GT GL GL GL GT GL GL GT GT GL GT GL GT GT GL GT
+\p conj PL#part s adv adv PREP#prep E3S#pers s COM#tam vt PL#pl adv adv conj conj art PART#part part part adv DEM#dem part adv PART#part TAM#tam vt PL#pl s # PREP#prep AGT PREP#prep
+
+\ref trtexUsp00804a 168
+\t per chaq ta' júnkitz la qab'ix ri la malanga,+
+\m peer chaq ta' júnkitz la q- ab'iix ri la malanga
+\g pero PART no poco en E1P milpa DEM PREP malanga
+\c adv part adv adv prep pers s dem prep s
+\l Es la malanga que sale en las siembras de milpa
+\gs GL GT GL GL GL GT GL GT GT GL
+\p adv PART#part adv adv prep E1P#pers s DEM#dem PREP#prep s
+
+\ref trtexUsp00804a 169
+\t we t-a-ye' kweent re malanga lajori ajsimiin na, Iv. Ajsimiin na.+
+\m we t- a- ye' kweent re malanga lijori aj- simiin na aj- simiin na
+\g si INC E2S dar cuenta PART malanga ahora AGT sabroso tiempo AGT sabroso tiempo
+\c part tam pers vt s part s adv pref adv part pref adv part
+\l si te das cuenta que la malanga ahora es muy sabroso
+\gs GL GT GT GL GL GT GL GL GT GL GL GT GL GL
+\p part INC#tam E2S#pers vt s PART#part s adv AGT#pref adv part AGT#pref adv part
+
+\ref trtexUsp00804a 170
+\t If. Ajsimiin t-a-tiij,+
+\m aj- simiin t- a- tiij
+\g AGT sabroso INC E2S -comer
+\c pref adv tam pers vt
+\l Iv. Es muy sabroso todavía
+\gs GT GL GT GT GL
+\p AGT#pref adv INC#tam E2S#pers vt
+
+\ref trtexUsp00804a 171
+\t por ke li ta' qas ta' juun tratamyento b'anol re,+
+\m por ke li ta' qas ta' jun tratamyento b'an -ol re
+\g por que PREP no ITS no un tratamiento hacer AGT el/ella
+\c adv part prep adv ITS adv art adv vt suf pron
+\l porque a esto no se la ha dado ningún tipo de tratamiento
+\gs GL GL GT GL GT GL GL GL GL GT GL
+\p adv part PREP#prep adv ITS#ITS adv art adv vt AGT#suf pron
+
+\ref trtexUsp00804a 172
+\t kan el na jilon ri taq-el b'ik.+
+\m kan el na jilon ri taq -el b'ik
+\g quedar salir tiempo asi DEM mandar PP DIR
+\c vi vi part adv afir dem vt sufdir
+\l se ha quedado así sin darle importancia
+\gs GL GL GL GL GT GL GT GT
+\p vi vi part adv DEM#afir dem PP#vt DIR#sufdir
+
+\ref trtexUsp00804a 173
+\t t-el-ch por ke jgaan t-el-ch,+
+\m t- el -ch por ke j- gaan t- el -ch
+\g INC salir MOV por que E3S gustar INC salir MOV
+\c tam vi mov adv part pers s tam vi mov
+\l Nace porque le gusta nacer
+\gs GT GL GT GL GL GT GL GT GL GT
+\p INC#tam vi MOV#mov adv part E3S#pers s INC#tam vi MOV#mov
+
+\ref trtexUsp00804a 174
+\t per qe ooj ta' tiqaye' maas jq'iij sik' malanga tambyeen.+
+\m peer et ooj ta' ti- q- ay -e' maas j- q'iij sik' malanga tambyeen
+\g pero de nosotros no INC E1P ¡hay! SC más E3S día pobre malanga también
+\c adv adv pron adv tam pers voc. suf adv pers s adj s adv
+\l pero nosotros no le damos mucha importancia
+\gs GL GL GL GL GT GT logged GT GL GT GL GL GL GL
+\p adv adv pron adv INC#tam E1P#pers error SC#suf adv E3S#pers s adj s adv
+
+\ref trtexUsp00804a 175
+\t Ta' ta' ni juun tikowik,+
+\m ta' ta' ni juun tik -ow -ik
+\g no no no uno sembrar AP SC
+\c adv adv part num vt suf suf
+\l no hay quien lo busque
+\gs GL GL GL GL GL GT GT
+\p adv adv part num vt AP#suf SC#suf
+
+\ref trtexUsp00804a 176
+\t titik chi bween,+
+\m ti- tik chi bween
+\g INC sembrar PREP bueno
+\c tam vt prep adv
+\l y que le guste comer mucho
+\gs GT GL GT GL
+\p INC#tam vt PREP#prep adv
+
+\ref trtexUsp00804a 177
+\t ta' ta' ti-j-tik taq kirtyaan,+
+\m ta' ta' ti- j- tik taq kirtyaan
+\g no no INC E3S sembrar PL persona
+\c adv adv tam pers vt pl s
+\l a las personas lo les gusta comer
+\gs GL GL GT GT GL GT GL
+\p adv adv INC#tam E3S#pers vt PL#pl s
+
+\ref trtexUsp00804a 178
+\t komo ke mi ta' jganaq y man wuroon seb'laj alimento.+
+\m koom ke mi ta' j- gaan -aq y' man wuroon seb'laj alimeent
+\g como que mi no E3S gustar PL y ART sacate ITS alimento
+\c part part part adv pers s suf conj art s part s
+\l como que no les gusta y esta clase de planta es muy buen alimento.
+\gs GL GL GL GL GT GL GT GL GT GL GT GL
+\p part part part adv E3S#pers s PL#suf conj ART#art s ITS#part s
+
+\ref trtexUsp00804a 179
+\t Tonses jilon x-an k'ex uleew la abono,+
+\m entoons jilon x- b'an k'ex uleew la aboon
+\g entonces asi COM hacer dolor tierra PREP abono
+\c adv adv tam vt adj s prep s
+\l Entonces así como dañaron la tierra con los abonos
+\gs GL GL GT GL GL GL GT GL
+\p adv adv COM#tam vt adj s PREP#prep s
+
+\ref trtexUsp00804a 180
+\t xk'am taqch man abono+
+\m x- k'am taq -ch man aboon
+\g COM recibir PL MOV ART abono
+\c tam vt pl mov art s
+\l trajeron el abono
+\gs GT GL GT GT GT GL
+\p COM#tam vt PL#pl MOV#mov ART#art s
+
+\ref trtexUsp00804a 181
+\t ya tres sinkwenta juun kintal,+
+\m ya tres sinkwenta jun kintal
+\g ya tres cincuenta un quintal
+\c voc num nun art s
+\l a tres quetzales con cincuenta el quintal
+\gs GL GL GL GL GL
+\p voc num nun art s
+
+\ref trtexUsp00804a 182
+\t tres ketzales y medyo juun kintal abono,+
+\m tres ketzales y' medyo jun kintal aboon
+\g tres quetzal y medio un quintal abono
+\c num s conj adv art s s
+\l a tres quetzales con cincuenta centavos el quintal de abono
+\gs GL GL GL GL GL GL GL
+\p num s conj adv art s s
+
+\ref trtexUsp00804a 183
+\t y man abono xk'am taqch galaan fuersa jchoq'w,+
+\m y' man aboon x- k'am taq -ch galaan fweers j- choq'w
+\g y ART abono COM traer PL MOV galán fuerza E3S fuerza
+\c conj art s tam vt pl mov adj s pers adj
+\l y el abono que trajeron, era de muy buena calidad
+\gs GL GT GL GT GL GT GT GL GL GT GL
+\p conj ART#art s COM#tam vt PL#pl MOV#mov adj s E3S#pers adj
+
+\ref trtexUsp00804a 184
+\t xk'ii kijab' junaab',+
+\m x- k'ii kijab' junaab'
+\g COM mucho cuatro año
+\c tam adv num s
+\l aguanto hasta cuatro años
+\gs GT GL GL GL
+\p COM#tam adv num s
+
+\ref trtexUsp00804a 185
+\t raaj kijab' junaab' xk'ii man abono pero bween abono,+
+\m raaj kijab' junaab' x- k'ii man aboon peer bween aboon
+\g tal@vez cuatro año COM mucho ART abono pero bueno abono
+\c adv num s tam adv art s adv adv s
+\l talvez cuatro años aguantó este tipo de abono, muy buen abono,
+\gs GL GL GL GT GL GT GL GL GL GL
+\p adv num s COM#tam adv ART#art s adv adv s
+
+\ref trtexUsp00804a 186
+\t usiil xqej jchoq'w,+
+\m usiil x- qej j- choq'w
+\g despacio COM bajar E3S fuerza
+\c adv tam vi pers adj
+\l poco a poco bajo de calidad
+\gs GL GT GL GT GL
+\p adv COM#tam vi E3S#pers adj
+
+\ref trtexUsp00804a 187
+\t xk'ex taq jb'iij,+
+\m x- k'ex taq j- b'iij
+\g COM cambiar PL E3S nombre
+\c tam vt pl pers s
+\l le cambiaron de nombre
+\gs GT GL GT GT GL
+\p COM#tam vt PL#pl E3S#pers s
+
+\ref trtexUsp00804a 188
+\t jalaan chaq jb'iij,+
+\m jalaan chaq j- b'iij
+\g distinto PART E3S nombre
+\c adv part pers s
+\l ya era de otro nombre
+\gs GL GT GT GL
+\p adv PART#part E3S#pers s
+
+\ref trtexUsp00804a 189
+\t y jalaan chaq jb'iij.+
+\m y' jalaan chaq j- b'iij
+\g y distinto PART E3S nombre
+\c conj adv part pers s
+\l y ya era de otro nombre
+\gs GL GL GT GT GL
+\p conj adv PART#part E3S#pers s
+
+\ref trtexUsp00804a 190
+\t y xok taq chi' jkojik jb'iij,+
+\m y' x- ok taq chi j- koj -ik j- b'iij
+\g y COM entrar PL PREP E3S usar SV E3S nombre
+\c conj tam vi pl prep pers vt suf pers s
+\l y le empezaron a cambiar de nombre
+\gs GL GT GL GT GT GT GL GT GT GL
+\p conj COM#tam vi PL#pl PREP#prep E3S#pers vt SV#suf E3S#pers s
+
+\ref trtexUsp00804a 191
+\t baay ri xtok taq juun juun jb'iij man juun barko bikingo por ejemplo.+
+\m baa ri x- tok taq jun jun j- b'iij man jun barko bikingo por ejeempl
+\g baya DEM COM buscar PL un un E3S nombre ART un barco viquingo por ejemplo
+\c voc dem tam vt pl art art pers s art art s nom adv s
+\l le pusieron el nombre de barco viquingo , por ejemplo.
+\gs GL GT GT GL GT GL GL GT GL GT GL GL GL GL GL
+\p voc DEM#dem COM#tam vt PL#pl art art E3S#pers s ART#art art s nom adv s
+
+\ref trtexUsp00804a 192
+\t Xkanjye' taq maas na fwersa man abono,+
+\m x- kan j- ye' taq maas na fwersa man aboon
+\g COM quedar E3S dar PL más PART fuerza ART abono
+\c tam vi pers vt pl adv part s art s
+\l Le dieron mas fuerza al abon
+\gs GT GL GT GL GT GL GT GL GT GL
+\p COM#tam vi E3S#pers vt PL#pl adv PART#part s ART#art s
+
+\ref trtexUsp00804a 193
+\t per seb'laj paqelik,+
+\m peer seb'laj paqal -ik
+\g pero ITS caro@de@precio SC
+\c adv part adv suf
+\l pero ya era muy caro
+\gs GL GT GL GT
+\p adv ITS#part adv SC#suf
+
+\ref trtexUsp00804a 194
+\t ¿y lijori juruub' r-ijiil?,+
+\m y' lijori juruub' r- ijiil
+\g y ahora cuanto E3 precio
+\c conj adv adv pers s
+\l ¿Y mira ahora cuanta cuesta?
+\gs GL GL GL GT GL
+\p conj adv adv E3#pers s
+
+\ref trtexUsp00804a 195
+\t ta' chik-i' tkwinik juun pobre chi' loq'iik+
+\m ta' chik - i'n ti- kwin -ik jun pobre chi' loq' -iik
+\g no PART enfatica INC poder SC un pobre PREP comprar SV
+\c adv part part tam vi suf art adj prep vt suf
+\l ya no puede una persona de bajos recurso para comprarlo
+\gs GL GT GT GL GT GL GT GL GL GT GL GT
+\p adv PART#part # part INC#tam vi SC#suf art adj PREP#prep vt SV#suf
+
+\ref trtexUsp00804a 196
+\t pwees juun kintal man man mees li.+
+\m pwees juun kintal man man mees li
+\g pues uno quintal ART ART basura DEM
+\c adv num s art art s dem
+\l pues el quintal de esa basura
+\gs GL GL GL GT GT GL GT
+\p adv num s ART#art ART#art s DEM#dem
+
+\ref trtexUsp00804a 197
+\t Y ri ójir x-ye' taq na a' tres y medyo,+
+\m y' ri ójir x- ye' taq na a' tres y' medyo
+\g y DEM antes COM dar PL PART a tres y medio
+\c conj dem adv tam vt pl part cojn num conj adv
+\l Y antes lo dieron a tres quetzales y medio
+\gs GL GT GL GT GL GT GT GL GL GL GL
+\p conj DEM#dem adv COM#tam vt PL#pl PART#part cojn num conj adv
+
+\ref trtexUsp00804a 198
+\t x-il taq ke xk'omon re qáb'ix,+
+\m x- il taq ke x- k'omon re q- ab'iix
+\g COM ver PL que COM acostumbrar PART E1P milpa
+\c tam vt pl part tam vi part pers s
+\l y se dieron cuenta que se acostumbro nuestras siembras
+\gs GT GL GT GL GT GL GT GT GL
+\p COM#tam vt PL#pl part COM#tam vi PART#part E1P#pers s
+
+\ref trtexUsp00804a 199
+\t y ya xk'omon re qíjaj,+
+\m y' ya x- k'omon re q- ijaaj
+\g y ya COM acostumbrar PART E1P semilla
+\c conj voc tam vi part pers s
+\l y se acostumbro nuestras semillas
+\gs GL GL GT GL GT GT GL
+\p conj voc COM#tam vi PART#part E1P#pers s
+
+\ref trtexUsp00804a 200
+\t x-r-aq'ansaaj taq r-ijiil mees.+
+\m x- r- aq'ansaa -j taq r- ijiil mees
+\g COM E3 subirlo SC PL E3 precio basura
+\c tam pers vt suf pl pers s s
+\l le subieron de preció a este tipo de basura
+\gs GT GT GL GT GT GT GL GL
+\p COM#tam E3#pers vt SC#suf PL#pl E3#pers s s
+
+\ref trtexUsp00804a 201
+\t Y q-e ooj ta' x-aq'anik r-ijiil qixiim, jwi'ch q-e,+
+\m y' q- e ooj ta' x- aq'ansaa -ik r- ijiil q- íxim j- wi' -ch q- e
+\g y E1P SR nosotros no COM subirlo SC E3 precio E1P maíz E3S EXS MOV E1P SR
+\c conj pers srel pron adv tam vt suf pers s pers s pers exist mov pers srel
+\l Y nuestro maíz no le aumentaron de preció se mantiene igual
+\gs GL GT GT GL GL GT GL GT GT GL GT GL GT GT GT GT GT
+\p conj E1P#pers SR#srel pron adv COM#tam vt SC#suf E3#pers s E1P#pers s E3S#pers EXS#exist MOV#mov E1P#pers SR#srel
+
+\ref trtexUsp00804a 202
+\t Iv. Jwich q-e+
+\m j- wich q- -e
+\g E3S SR E1P SR
+\c pers srel pers srel
+\l Iv. Se mantiene con los mismos precios
+\gs GT GL GT GT
+\p E3S#pers srel E1P#pers SR#srel
+
+\ref trtexUsp00804a 203
+\t If. Pero man mees lajori seb'laj karo,+
+\m peer man mees lijori seb'laj karo
+\g pero ART basura ahora ITS caro@de@precio
+\c adv art s adv part adv
+\l If. Pero el abono es de precio muy elevado
+\gs GL GT GL GL GT GL
+\p adv ART#art s adv ITS#part adv
+
+\ref trtexUsp00804a 204
+\t man man beneno seb'laj karo+
+\m man man beneno seb'laj karo
+\g ART ART veneno ITS caro@de@precio
+\c art art s part adv
+\l y el veneno también esta demasiado caro
+\gs GT GT GL GT GL
+\p ART#art ART#art s ITS#part adv
+
+\ref trtexUsp00804a 205
+\t y jq'iij juun ajchak seb'laj karo.+
+\m y' j- q'iij jun aj- chaak seb'laj karo
+\g y E3S día un AGT trabajo ITS caro@de@precio
+\c conj pers s art pref s part adv
+\l y el día del trabajador también es demasiado caro
+\gs GL GT GL GL GT GL GT GL
+\p conj E3S#pers s art AGT#pref s ITS#part adv
+
+\ref trtexUsp00804a 206
+\t O se'a x-an taq k'ex chi q-e,+
+\m o' se'a x- b'an taq k'ex chi q- -e
+\g o sea COM hacer PL dolor PREP E1P SR
+\c conj adv tam vt pl adj prep pers srel
+\l O sea nos hicieron daño
+\gs GL GL GT GL GT GL GT GT GT
+\p conj adv COM#tam vt PL#pl adj PREP#prep E1P#pers SR#srel
+
+\ref trtexUsp00804a 207
+\t r-e qak'aslemaal ri qas qak'aslemaal oj pwees.+
+\m r- -e qa- k'aslem -aal ri qas qa- k'aslem -aal ooj pwees
+\g E3 SR E1P vivo SAB DEM ITS E1P vivo SAB nosotros pues
+\c pers srel pers s suf dem ITS pers s suf pron adv
+\l a nuestra existencia, la existencia de nosotros
+\gs GT GT GT GL GT GT GT GT GL GT GL GL
+\p E3#pers SR#srel E1P#pers s SAB#suf DEM#dem ITS#ITS E1P#pers s SAB#suf pron adv
+
+\ref trtexUsp00804a 208
+\t Iin xwil na Oswaldo,+
+\m iin x- w- il na Waldo
+\g yo COM E1S ver tiempo Oswaldo
+\c pron tam pers vt part nom
+\l Vi un poco todavía Oswaldo
+\gs GL GT GT GL GL GL
+\p pron COM#tam E1S#pers vt part nom
+
+\ref trtexUsp00804a 209
+\t xwil na,+
+\m x- w- il na
+\g COM E1S ver PART
+\c tam pers vt part
+\l vi todavía
+\gs GT GT GL GT
+\p COM#tam E1S#pers vt PART#part
+
+\ref trtexUsp00804a 210
+\t raaj xwil-a' na oxlajuuj qajlojuuj junaab' k'aslemaal seb'laj tzii fijate,+
+\m r- aaj x- w- il -e' na ox -laj -uuj qa- j- lo - j- uu -j junaab' k'aslem -aal seb'laj tzii fijaat
+\g E3 querer COM E1S ver SC PART tres -diez SUF p- E3S lo E3S collar SC año vivo SAB ITS bueno fijate
+\c pers vt tam pers vt suf part num num suf pers pers part pers s suf s s suf part adj adv
+\l tal vez unos trece o catorce años de buena vivencia
+\gs GT GL GT GT GL GT GT GL GL GT GL GT GL GT GT GL GT GL GL GT GT GL GL
+\p E3#pers vt COM#tam E1S#pers vt SC#suf PART#part num num SUF#suf pers E3S#pers part # E3S#pers s SC#suf s s SAB#suf ITS#part adj adv
+
+\ref trtexUsp00804a 211
+\t tiqej jab' Dyoos at-tzuq-án.+
+\m ti- qej jab' Dyoos at- tzuq -án
+\g INC bajarse lluvia Dios A2S mantener ITR
+\c tam vi s s pers vt suf
+\l Cuando comienza el invierno nos da de que comer
+\gs GT GL GL GL GT GL GT
+\p INC#tam vi s s A2S#pers vt ITR#suf
+
+\ref trtexUsp00804a 212
+\t Y... komo q-e mismo ri loq'laj uleew titok qa-kúmb'il,+
+\m y' koom q- -e mismo ri loq'laj uleew ti- tok qa- kúmb'il
+\g y como E1P SR mismo DEM ITS tierra INC buscar E1P aguardiente
+\c conj part pers srel adv dem part s tam vt pers s
+\l Y como que la misma tierra nos busca nuestra medicina
+\gs GL GL GT GT GL GT GT GL GT GL GT GL
+\p conj part E1P#pers SR#srel adv DEM#dem ITS#part s INC#tam vt E1P#pers s
+
+\ref trtexUsp00804a 213
+\t por ke t-el k'is okox r-e r-e nab'ee q'alaaj,+
+\m por ke t- el k'is okox r- -e r- -e nab'ee q'alaaj
+\g por que INC salir PL hongo E3 SR E3 SR primero aguacero
+\c adv part tam vi part s pers srel pers srel num s
+\l porque nacen una variedad de hongos en las primeras lluvias
+\gs GL GL GT GL GT GL GT GT GT GT GL GL
+\p adv part INC#tam vi PL#part s E3#pers SR#srel E3#pers SR#srel num s
+
+\ref trtexUsp00804a 214
+\t y wi' yajeel k'amolch loq'laj jab',+
+\m y' wi' yaj -eel k'am -ol -ch loq'laj jab'
+\g y EXS enfermedad SAB traer AGT MOV ITS lluvia
+\c conj exist adj suf vt suf mov part s
+\l y la lluvia siempre trae con si una serie de enfermedades
+\gs GL GT GL GT GL GT GT GT GL
+\p conj EXS#exist adj SAB#suf vt AGT#suf MOV#mov ITS#part s
+
+\ref trtexUsp00804a 215
+\t syempre wi' yajeel tijk'amch,+
+\m syempre wi' yaj -eel ti- j- k'am -ch
+\g siempre EXS enfermo SAB INC E3S traer MOV
+\c adv exist s suf tam pers vt mov
+\l siempre trae enfermedades
+\gs GL GT GL GT GT GT GL GT
+\p adv EXS#exist s SAB#suf INC#tam E3S#pers vt MOV#mov
+
+\ref trtexUsp00804a 216
+\t pero tambyeen k'amolch kumb'il jwi'l,+
+\m peer tambyeen k'am -ol -ch kum - chi' -il j- wi'l
+\g pero también traer PP MOV remedio PREP -agentivo E3S SR
+\c adv adv vt suf mov s prep AGT pers srel
+\l pero también trae medicina
+\gs GL GL GL GT GT GL GT GT GL GT GL
+\p adv adv vt PP#suf MOV#mov s # PREP#prep AGT E3S#pers srel
+
+\ref trtexUsp00804a 217
+\t t-elch k'is okox li piniselina i'n pwees,+
+\m t- el -ch k'is okox li piniselina i'n pwees
+\g INC salir MOV PL hongo PREP pinicelina enfatica pues
+\c tam vi mov part s prep s part adv
+\l nacen los hongos y traen penicilina
+\gs GT GL GT GT GL GT GL GL GL
+\p INC#tam vi MOV#mov PL#part s PREP#prep s part adv
+
+\ref trtexUsp00804a 218
+\t antibyotiko ti-j-b'i-j maq mosiib',+
+\m antibyotiko ti- j- b'i -j m -aq mosiib'
+\g antibiótico INC E3S decir SC ART PL ladinos
+\c s tam pers vt suf art suf s
+\l traen antibióticos como le llaman los ladinos
+\gs GL GT GT GL GT GT GT GL
+\p s INC#tam E3S#pers vt SC#suf ART#art PL#suf s
+
+\ref trtexUsp00804a 219
+\t entonses k'is okox t-a-tij,+
+\m entoons k'is okox t- a- tij
+\g entonces PL hongo INC E2S comer
+\c adv part s tam pers vt
+\l entonces se comen estos hongos
+\gs GL GT GL GT GT GL
+\p adv PL#part s INC#tam E2S#pers vt
+
+\ref trtexUsp00804a 220
+\t ya x-an-a' bakunar a-yb',+
+\m ya x- b'an -e' bakunar a- yb'
+\g ya COM hacer SC vacunar E2S enfermedad
+\c voc tam vt suf vt pers s
+\l se te auto vacunaste
+\gs GL GT GL GT GL GT GL
+\p voc COM#tam vt SC#suf vt E2S#pers s
+
+\ref trtexUsp00804a 221
+\t ya x-e'- kunaa-j ayb'.+
+\m ya x- e' kunaa -j a- yb'
+\g ya COM MOV curar SC E2S enfermedad
+\c voc tam vt vt suf pers s
+\l y ya te curaste
+\gs GL GT GT GL GT GT GL
+\p voc COM#tam MOV#vt vt SC#suf E2S#pers s
+
+\ref trtexUsp00804a 222
+\t Y t-elch nab'ee taq,+
+\m y' t- el -ch nab'ee taq
+\g y INC salir MOV primero PL
+\c conj tam vi mov num pl
+\l Y salen las primeras
+\gs GL GT GL GT GL GT
+\p conj INC#tam vi MOV#mov num PL#pl
+
+\ref trtexUsp00804a 223
+\t laj rox jab' uchaq loom li,+
+\m laj r- ox jab' uch -aq loom li
+\g prep E3 tercero lluvia SR. PL cerro DEM
+\c prep pers num s srel suf s dem
+\l en la tercera lluvia en los bosques
+\gs GL GT GL GL GL GT GL GT
+\p prep E3#pers num s srel PL#suf s DEM#dem
+
+\ref trtexUsp00804a 224
+\t chi' r-iij b'i kompisant li lamaas wi' man pista lajori,+
+\m chi r- b'ij -iij b'i komisaant li lamaas wi' man pista lijori
+\g PREP E3 decir -espalda MOV camposanto DEM donde EXS ART pista ahora
+\c prep pers vt s part s dem adv exist art s adv
+\l atrás del cementerio, en donde esta la pista de aterrizaje ahora
+\gs GT GT GL GL GT GL GT GL GT GT GL GL
+\p PREP#prep E3#pers vt s MOV#part s DEM#dem adv EXS#exist ART#art s adv
+
+\ref trtexUsp00804a 225
+\t a' ke beyesa Balo jli' li Kurtyembre ti-j-b'i-j taq,+
+\m a' ke beyesa Waldo jli' li kurtyembre ti- j- b'i -j taq
+\g a que belleza Oswaldo allá en cutiembre INC E3S decir SC PL
+\c cojn part adv nom adv prep s tam pers vt suf pl
+\l a que belleza Balo, allá en el Curtiembre que le llaman
+\gs GL GL GL GL GL GL GL GT GT GL GT GT
+\p cojn part adv nom adv prep s INC#tam E3S#pers vt SC#suf PL#pl
+
+\ref trtexUsp00804a 226
+\t qap saq k'im fuerte t-elch.+
+\m qap saq k'im fweert t- el -ch
+\g admiración blanco paja fuerte INC salir MOV
+\c part adj s adj tam vi mov
+\l nace otro tipo de hongo que se llama Saqk'iim
+\gs GL GL GL GL GT GL GT
+\p part adj s adj INC#tam vi MOV#mov
+
+\ref trtexUsp00804a 227
+\t Baay ti'el b'i taq ra ék'il,+
+\m baa ti- el b'ik taq ra ék'il
+\g baya INC -salir DIR PL DIM niño
+\c voc tam vi dir pl part s
+\l Y se van los niños
+\gs GL GT GL GT GT GT GL
+\p voc INC#tam vi DIR#dir PL#pl DIM#part s
+
+\ref trtexUsp00804a 228
+\t ta' ojk'ii tambyeen oombre,+
+\m ta' oj- k'ii tambyeen oombre
+\g no A1P mucho también hombre
+\c adv pers adv adv voc
+\l no éramos mucho también
+\gs GL GT GL GL GL
+\p adv A1P#pers adv adv voc
+
+\ref trtexUsp00804a 229
+\t iin tikuxtaaj inwi'l ma juruub' ta' kirtyaan,+
+\m iin ti- kuxtaa -j in- wi'l ma juruub' ta' kirtyaan
+\g yo INC recordar SC E1S SR NEG cuanto no persona
+\c pron tam vt suf pers srel part adv adv s
+\l me recuerdo que no todas las personas
+\gs GL GT GL GT GT GL GT GL GL GL
+\p pron INC#tam vt SC#suf E1S#pers srel NEG#part adv adv s
+
+\ref trtexUsp00804a 230
+\t tantyado ke kistyan t-el taq-b'ik aq'ab',+
+\m tantyado ke kirtyaan ti- el taq -b'ik aq'ab'
+\g tantiado que persona TAM salir PL MOV madrugada
+\c adv part s tam vi pl mov adv
+\l no eran muchas las personas que salían a buscar
+\gs GL GL GL GT GL GT GT GL
+\p adv part s TAM#tam vi PL#pl MOV#mov adv
+
+\ref trtexUsp00804a 231
+\t wi' ra jchikchaq taq ra ék'il,+
+\m wi' ra j- chikeech -aq taq ra ék'il
+\g EXS DIM E3S canasto PL PL DIM niño
+\c exist part pers s suf pl part s
+\l llevaban sus canastillas
+\gs GT GT GT GL GT GT GT GL
+\p EXS#exist DIM#part E3S#pers s PL#suf PL#pl DIM#part s
+
+\ref trtexUsp00804a 232
+\t ti-j-mol-e' taq juun ra chikech.+
+\m ti- j- mol -e' taq jun ra chikech
+\g INC E3S juntar SC PL un DIM canasto
+\c tam pers vt suf pl art part s
+\l y los llenaban de hongos
+\gs GT GT GL GT GT GL GT GL
+\p INC#tam E3S#pers vt SC#suf PL#pl art DIM#part s
+
+\ref trtexUsp00804a 233
+\t a' baay tzaqsáj i'n,+
+\m a' baa tzaq -sáj i'n
+\g a baya hechar PAS enfatica
+\c cojn voc vt suf part
+\l y los ponían a coser
+\gs GL GL GL GT GL
+\p cojn voc vt PAS#suf part
+
+\ref trtexUsp00804a 234
+\t tij-sáj i'n juun bween wi'k fijate,+
+\m tij -sáj i'n jun bween wi' -ik fijaat
+\g comer PAS enfatica un bueno EXS SC fijate
+\c v suf part art adv exist suf adv
+\l y eso era una gran comida
+\gs GL GT GL GL GL GT GT GL
+\p v PAS#suf part art adv EXS#exist SC#suf adv
+
+\ref trtexUsp00804a 235
+\t ta' rejwéxik ti'nik fijate mejor ke chuch ti'nik,+
+\m ta' rejwéxik ti' -n -ik fijaat mejor ke chuch ti' -n -ik
+\g no necesidad carne -antipasivo SV fijate mejor que frente carne -antipasivo SC
+\c adv s s suf suf adv adv part srel s suf suf
+\l no era precisó comprar carne fíjate, si esto era mejor que la carne
+\gs GL GL GL GL GT GL GL GL GL GL GL GT
+\p adv s s suf SV#suf adv adv part srel s suf SC#suf
+
+\ref trtexUsp00804a 236
+\t por ke lijori man poyo por ejemplo+
+\m por ke lijori man poyo por ejeempl
+\g por que ahora ART pollo por ejemplo
+\c adv part adv art s adv s
+\l porque ahora el pollo por ejemplo
+\gs GL GL GL GT GL GL GL
+\p adv part adv ART#art s adv s
+
+\ref trtexUsp00804a 237
+\t nen ch-w-aa-j r-e si r-e q-e juun iik' peech pajník'ij,+
+\m neen ch- w- aa -j r- -e si' r- -e q- -e jun iik' peech pajník'ij
+\g que INC E1S querer SC E3 SR si E3 SR E1P SR un mes con mitad
+\c adv tam pers vt suf pers srel adv pers srel pers srel art s srel adv
+\l que le deseamos a esto si solo tiene un mes y medio
+\gs GL GT GT GL GT GT GT GL GT GT GT GT GL GL GL GL
+\p adv INC#tam E1S#pers vt SC#suf E3#pers SR#srel adv E3#pers SR#srel E1P#pers SR#srel art s srel adv
+
+\ref trtexUsp00804a 238
+\t ti ti tiren taq ti'nik r-e.+
+\m t- i t- i taq ti'nik r- e
+\g INC CONJ INC CONJ PL ??? E3 SR
+\c tam conj tam conj pl ??? pers srel
+\l con mes u medio lo convierten en carne.
+\gs GT GT GT GT GT GT GL
+\p INC#tam CONJ#conj INC#tam CONJ#conj PL#pl ??? E3#pers srel
+
+\ref trtexUsp00804a 239
+\t Y qaqaaj qachuuch ójor no rechaq ajri ti-j-tij taq juun eek',+
+\m y' qa- qaaj qa- chuuch ójor no' re -ch -aq aj- ri ti- j- tij taq jun eek'
+\g y E1P papá E1P mamá tiempo no el/ella MOV PL AGT DEM INC E3S comer PL un pollo
+\c conj pers s pers s adv adv pron mov suf pref dem tam pers vt pl art s
+\l Y nuestros padres anteriormente, ellos se comían un pollo
+\gs GL GT GL GT GL GL GL GL GT GT GT GT GT GT GL GT GL GL
+\p conj E1P#pers s E1P#pers s adv adv pron MOV#mov PL#suf AGT#pref DEM#dem INC#tam E3S#pers vt PL#pl art s
+
+\ref trtexUsp00804a 240
+\t ti-b'ii-j taq+
+\m ti- b'i -j taq
+\g INC decir SC PL
+\c tam vt suf pl
+\l ellos decían:
+\gs GT GL GT GT
+\p INC#tam vt SC#suf PL#pl
+
+\ref trtexUsp00804a 241
+\t -Qakamsaaj juun qák' per juun chuuch eek',+
+\m qa- kamsaa -j jun q- ák' peer jun chuuch eek'
+\g E1P matar SC un E1P pollo pero un mamá pollo
+\c pers vt suf art pers s adv art s s
+\l -Vamos a matar una gallina,
+\gs GT GL GT GL GT GL GL GL GL GL
+\p E1P#pers vt SC#suf art E1P#pers s adv art s s
+
+\ref trtexUsp00804a 242
+\t ya xmolon-i' jun muul o ka muul.+
+\m ya x- molon - i'n jun muul o' ka muul
+\g ya COM poner@huevo enfatica uno veces o dos veces
+\c voc tam vi part num adv conj num adv
+\l pero que ya haya puesto uno o dos veces huevos.
+\gs GL GT GL GT GL GL GL GL GL GL
+\p voc COM#tam vi # part num adv conj num adv
+
+\ref trtexUsp00804a 243
+\t If. Ti-tij-sáj pwees bale la pena pwees.+
+\m ti- tij -sáj pwees bale la pena pwees
+\g INC comer PAS pues vale PREP pena pues
+\c tam vt suf adv adv prep s adv
+\l If. Para que valga la pena comerlo
+\gs GT GL GT GL GL GT GL GL
+\p INC#tam vt PAS#suf adv adv PREP#prep s adv
+
+\ref trtexUsp00804a 244
+\t Per lajori juun iik' peech pajnik'ij chaq tin t-a-tiij juun rex ti'nik,+
+\m peer laj'ori juun iik' peech pajník'ij chaq ti- in t- a- tij jun rex ti' -nik
+\g pero ahora uno mes con mitad PART TAM yo INC E2S comer un verde carne SUF
+\c adv adv num s srel adv part tam pron tam pers vt num adj s suf
+\l Pero en la actualidad en un mes con quince días y lo convierten en carne, una carne no buena
+\gs GL GL GL GL GL GL GT GT GL GT GT GL GL GL GL GT
+\p adv adv num s srel adv PART#part TAM#tam pron INC#tam E2S#pers vt num adj s SUF#suf
+
+\ref trtexUsp00804a 245
+\t qa-b'iij pure juun rex ti'nik,+
+\m qa- b'ij puro -e jun rex ti'nik
+\g E1P decir puro SR un verde carne
+\c pers vt adv srel art adj s
+\l le podemos llamar como una carne no agradable
+\gs GT GL GL GT GL GL GL
+\p E1P#pers vt adv SR#srel art adj s
+
+\ref trtexUsp00804a 246
+\t ma ta' ta' ta' q'an-er-selik li,+
+\m ma ta' ta' ta' q- *** -el -ik li
+\g NEG no no no E1P *** -agentivo SC PREP
+\c part adv adv adv pers *** suf suf prep
+\l no lo dejan crecer como debe ser
+\gs GT GL GL GL GT logged GL GT GT
+\p NEG#part adv adv adv E1P#pers error suf SC#suf PREP#prep
+
+\ref trtexUsp00804a 247
+\t puramente saber nen jb'aniik ri titij awajaq,+
+\m puramente saber neen j- b'an -iik ri ti- tij awaaj -aq
+\g puramente saber que E3S hacer SV DEM INC comer animal PL
+\c adv adv adv pers vt suf dem tam vt s suf
+\l puramente saber como se llama lo que comen los pobres animales
+\gs GL GL GL GT GL GT GT GT GL GL GT
+\p adv adv adv E3S#pers vt SV#suf DEM#dem INC#tam vt s PL#suf
+
+\ref trtexUsp00804a 248
+\t tiwux tyo'j lijor k'is awaaj.+
+\m ti- wux tyo'j lajor k'is awaaj
+\g INC converti gordo rapido PL animal
+\c tam vi adj adv part s
+\l para que se engorden los animales
+\gs GT GL GL GL GT GL
+\p INC#tam vi adj adv PL#part s
+
+\ref trtexUsp00804a 249
+\t Ójir jilon ta'n t-elch juun juun la wuron+
+\m ójir jilon ta'n t- el -ch jun jun la woron
+\g antes asi no INC salir MOV un un PREP sacate
+\c adv adv adv tam vi mov art art prep s
+\l Antes no era así nacía una planta
+\gs GL GL GL GT GL GT GL GL GT GL
+\p adv adv adv INC#tam vi MOV#mov art art PREP#prep s
+
+\ref trtexUsp00804a 250
+\t ra ra okox b'ij taq,+
+\m ra ra okox b'ij taq
+\g DIM DIM hongo decir PL
+\c part part s vt pl
+\l que le llaman hongos
+\gs GT GT GL GL GT
+\p DIM#part DIM#part s vt PL#pl
+
+\ref trtexUsp00804a 251
+\t saqk'im che' taq r-e,+
+\m saq - k'im che' taq r- -e
+\g blanco paja decir PL E3 SR
+\c adj s vi pl pers srel
+\l Llano blanco que le llaman
+\gs GL GT GL GL GT GT GT
+\p adj # s vi PL#pl E3#pers SR#srel
+
+\ref trtexUsp00804a 252
+\t ri ri nab'e tiko'n r-e q'alaaj,+
+\m ri ri nab'e tiko'n r- -e q'alaaj
+\g DEM DEM primero siembra E3 SR aguacero
+\c dem dem num vt pers srel s
+\l es la primera planta de la lluvia
+\gs GT GT GL GL GT GT GL
+\p DEM#dem DEM#dem num vt E3#pers SR#srel s
+
+\ref trtexUsp00804a 253
+\t rox q'alaaj wi' chaq,+
+\m r- ox q'alaaj wi' chaq
+\g E3 tercero aguacero EXS PART
+\c pers num s exist part
+\l en las terceras lluvias ya hay
+\gs GT GL GL GT GT
+\p E3#pers num s EXS#exist PART#part
+
+\ref trtexUsp00804a 254
+\t qap kwando ab'ix ji' chaq nimaqiil li,+
+\m qap kwaand ab'iix ji' chaq nim -aq -iil li
+\g admiración cuándo milpa DEM PART grande PL SAB DEM
+\c part adv s part part adj suf suf dem
+\l cuando la milpa ya ha crecido un poco
+\gs GL GL GL GT GT GL GT GT GT
+\p part adv s DEM#part PART#part adj PL#suf SAB#suf DEM#dem
+
+\ref trtexUsp00804a 255
+\t ya chaq k'olk'o'ch chaq ab'iix ti-qa-b'i-j,+
+\m ya chaq k'olk'o'ch chaq ab'iix ti- qa- b'i -j
+\g ya PART tierno PART milpa INC E1P decir SC
+\c voc part adv part s tam pers vt suf
+\l ya esta de una manera muy tierna le llamamos
+\gs GL GT GL GT GL GT GT GL GT
+\p voc PART#part adv PART#part s INC#tam E1P#pers vt SC#suf
+
+\ref trtexUsp00804a 256
+\t t-el xaq ab'iix,+
+\m t- el xaq ab'iix
+\g COM salir debajo milpa
+\c tam vi prep s
+\l cuando ya les brota las primeras hojas de las matas de milpa
+\gs GT GL GL GL
+\p COM#tam vi prep s
+
+\ref trtexUsp00804a 257
+\t wi' lamaas wi' kirneer,+
+\m wi' lamaas wi' kirneer
+\g EXS donde EXS oveja
+\c exist adv exist s
+\l se produce donde hay ovejas
+\gs GT GL GT GL
+\p EXS#exist adv EXS#exist s
+
+\ref trtexUsp00804a 258
+\t t-el xaq ab'ix,+
+\m t- el xaq ab'iix
+\g INC salir debajo milpa
+\c tam vi prep s
+\l le brotan las hojas de las milpas
+\gs GT GL GL GL
+\p INC#tam vi prep s
+
+\ref trtexUsp00804a 259
+\t wonol xaq ab'iix tik'amsájch,+
+\m wonol xaq ab'iix ti- k'am -sáj -ch
+\g amontonado debajo milpa INC recibir PAS MOV
+\c pos prep s tam vt suf mov
+\l nacen debajo de las matas de las milpas
+\gs GL GL GL GT GL GT GT
+\p pos prep s INC#tam vt PAS#suf MOV#mov
+
+\ref trtexUsp00804a 260
+\t per juun bween wiik' Oswaldo+
+\m peer jun bween wiik' Waldo
+\g pero un bueno comida Oswaldo
+\c adv art adv s nom
+\l pero era una gran comida esto Oswaldo
+\gs GL GL GL GL GL
+\p adv art adv s nom
+
+\ref trtexUsp00804a 261
+\t juun bween wiik'.+
+\m jun bween wiik'
+\g un bueno comida
+\c art adv s
+\l una buena comida
+\gs GL GL GL
+\p art adv s
+
+\ref trtexUsp00804a 262
+\t Y ri li baa ya t-ok,+
+\m y' ri li baa ya ti- ok
+\g y DEM DEM baya ya INC entrar
+\c conj dem dem voc voc tam vi
+\l Y cuando ya a transcurrido
+\gs GL GT GT GL GL GT GL
+\p conj DEM#dem DEM#dem voc voc INC#tam vi
+
+\ref trtexUsp00804a 263
+\t ya b'esel chaq júnkitz jab',+
+\m ya b'esel chaq júnkitz jab'
+\g ya ir PART un@poco lluvia
+\c voc pos part adv s
+\l ya ha transcurrido un poco la lluvia
+\gs GL GL GT GL GL
+\p voc pos PART#part adv s
+
+\ref trtexUsp00804a 264
+\t pwees ya oksel chaq júnkitz chi ok jab',+
+\m pwees ya oksel chaq júnkitz chi ok jab'
+\g pues ya entrar PART un@poco PREP entrar lluvia
+\c adv voc vi part adv prep vi s
+\l pues ya haya transcurrido un poco la lluvia
+\gs GL GL GL GT GL GT GL GL
+\p adv voc vi PART#part adv PREP#prep vi s
+
+\ref trtexUsp00804a 265
+\t t-elch b'a tyoox, e... juun b'a tyoox.+
+\m t- el -ch b'a tyoox ee jun b'a tyoox
+\g INC salir MOV cabeza santo e un cabeza santo
+\c tam vi mov s s conj art s s
+\l nacen las cabezas de Santos, una cabeza de santo
+\gs GT GL GT GL GL GL GL GL GL
+\p INC#tam vi MOV#mov s s conj art s s
+
+\ref trtexUsp00804a 266
+\t - ¿Ri ta' chi x-aw-il b'a tyoox?,+
+\m ri ta' chi x- aw- il b'a tyoox
+\g DEM no PREP COM E2S ver cabeza santo
+\c dem adv prep tam pers pers s s
+\l -¿Tal vez ya no conociste este tipo de hongo?
+\gs GT GL GT GT GT GL GL GL
+\p DEM#dem adv PREP#prep COM#tam E2S#pers pers s s
+
+\ref trtexUsp00804a 267
+\t ¿o' x-aw-il-a' na b'a tyoox?.+
+\m o' x- aw- il -e' na b'a tyoox
+\g o COM E2S ver SC PART cabeza santo
+\c conj tam pers vt suf part s s
+\l ¿o todavía los conociste?
+\gs GL GT GT GL GT GT GL GL
+\p conj COM#tam E2S#pers vt SC#suf PART#part s s
+
+\ref trtexUsp00804a 268
+\t Iv. Ta' chik-i' x-inw-il.+
+\m ta' chik - i'n x- inw- il
+\g no PART enfatica COM E1S ver
+\c adv part part tam pers vt
+\l Iv. Ya no los conocí
+\gs GL GT GT GL GT GT GL
+\p adv PART#part # part COM#tam E1S#pers vt
+
+\ref trtexUsp00804a 269
+\t If. Juun b'a tyoox juun ra súrsik woroon ji ma ri,+
+\m jun b'a tyoox jun ra súrsik woroon ji' ma ri
+\g un cabeza santo un DIM alargado sacate DEM NEG DEM
+\c art s s art part pos s part part dem
+\l If. Una cabeza de Santo tiene la forma de una bolita no muy grande
+\gs GL GL GL GL GT GL GL GT GT GT
+\p art s s art DIM#part pos s DEM#part NEG#part DEM#dem
+
+\ref trtexUsp00804a 270
+\t por eso tib'ij taq jb'a tyoox,+
+\m por es - o' ti- b'i -j taq j- b'a tyoox
+\g por es o INC decir SC PL E3S cabeza santo
+\c adv adv conj tam vt suf pl pers s s
+\l por eso le llaman cabeza de santo
+\gs GL GL GT GL GT GL GT GT GT GL GL
+\p adv adv # conj INC#tam vt SC#suf PL#pl E3S#pers s s
+
+\ref trtexUsp00804a 271
+\t jb'aniik juun ra b'a riliik,+
+\m j- b'an -iik jun ra b'a r- il -iik
+\g E3S hacer SV un DIM cabeza E3 ver SV
+\c pers vt suf art part s pers vt suf
+\l como que fuera una cabecita de santo
+\gs GT GL GT GL GT GL GT GL GT
+\p E3S#pers vt SV#suf art DIM#part s E3#pers vt SV#suf
+
+\ref trtexUsp00804a 272
+\t y ra wíswil tinatunik,+
+\m y' ra wíswil ti- natun -ik
+\g y DIM pringado INC mirar SC
+\c conj part adj tam vi suf
+\l y de un color brillante
+\gs GL GT GL GT GL GT
+\p conj DIM#part adj INC#tam vi SC#suf
+
+\ref trtexUsp00804a 273
+\t wi' ra,+
+\m wi' ra
+\g EXS DIM
+\c exist part
+\l tiene su,
+\gs GT GT
+\p EXS#exist DIM#part
+
+\ref trtexUsp00804a 274
+\t wi' ra r-iij,+
+\m wi' ra r- *** -iij
+\g EXS DIM E3 *** -cascara
+\c exist part pers *** s
+\l tiene su cascarita
+\gs GT GT GT logged GL
+\p EXS#exist DIM#part E3#pers error s
+
+\ref trtexUsp00804a 275
+\t tisolsájb'ik,+
+\m ti- sol -sáj -b'ik
+\g INC pelar PAS MOV
+\c tam vt suf mov
+\l se pela
+\gs GT GL GT GT
+\p INC#tam vt PAS#suf MOV#mov
+
+\ref trtexUsp00804a 276
+\t y tipetik ojor taq kirtyaan,+
+\m y' ti- pet -ik ójor taq kirtyaan
+\g y INC venir SC tiempo PL persona
+\c conj tam vi suf adv pl s
+\l y lo que se hacían las persona anteriormente
+\gs GL GT GL GT GL GT GL
+\p conj INC#tam vi SC#suf adv PL#pl s
+
+\ref trtexUsp00804a 277
+\t tijpaq' taq kijab' t-r-esaa-j taq b'i,+
+\m ti- j- paq' taq kijab' ti- r- esaa -j taq b'i
+\g INC E3S partir PL cuatro INC E3 sacar SC PL MOV
+\c tam pers vt pl num tam pers vt suf pl mov
+\l lo partían en tres o cuatro partes
+\gs GT GT GL GT GL GT GT GL GT GT GT
+\p INC#tam E3S#pers vt PL#pl num INC#tam E3#pers vt SC#suf PL#pl MOV#mov
+
+\ref trtexUsp00804a 278
+\t ya ya jganaq chaq nen taq ra taq ra,+
+\m ya ya j- gaan -aq chaq neen taq ra taq ra
+\g ya ya E3S gustar PL PART que PL DIM PL DIM
+\c voc voc pers s suf part adv pl part pl part
+\l o lo hacían en la forma que a ellos mas les gustara
+\gs GL GL GT GL GT GT GL GT GT GT GT
+\p voc voc E3S#pers s PL#suf PART#part adv PL#pl DIM#part PL#pl DIM#part
+
+\ref trtexUsp00804a 279
+\t tijpaq' taq.+
+\m ti- j- paq' taq
+\g INC E3S partir PL
+\c tam pers vt pl
+\l los partían
+\gs GT GT GL GT
+\p INC#tam E3S#pers vt PL#pl
+
+\ref trtexUsp00804a 280
+\t E.. entonses tijtzaq taq saqmólb',+
+\m ee entoons ti- j- tza -aq taq -ij ***
+\g e entonces INC E3S salado PL PL -huevo ???
+\c conj adv tam pers adj suf pl s ???
+\l Y lo combinaban con huevo
+\gs GL GL GT GT GL GT GT GL
+\p conj adv INC#tam E3S#pers adj PL#suf PL#pl s ???
+
+\ref trtexUsp00804a 281
+\t ya chaq poq'ow saqmolb' peech re'l,+
+\m ya chaq poq'ow saqmolb' peech r- a'l
+\g ya PART hervirse huevo compañía E3 jugo
+\c voc part vi s s pers s
+\l ya estando hirviendo los huevos con su jugo
+\gs GL GT GL GL GL GT GL
+\p voc PART#part vi s s E3#pers s
+
+\ref trtexUsp00804a 282
+\t tit'oj taq b'i la okox xilij,+
+\m ti- t'oj taq b'ik la okox xílij
+\g INC tirar PL DIR P hongo adentro
+\c tam vt pl dir prep s srel
+\l y le echan lo hongos adentro
+\gs GT GL GT GT GT GL GL
+\p INC#tam vt PL#pl DIR#dir P#prep s srel
+
+\ref trtexUsp00804a 283
+\t a' kalidad bos Balo,+
+\m a' kalidad boos Waldo
+\g a calidad vos Oswaldo
+\c cojn adv voc nom
+\l aa que calidad voz Balo
+\gs GL GL GL GL
+\p cojn adv voc nom
+
+\ref trtexUsp00804a 284
+\t ri li qas tz'eet k'aslemaal ojor taq tziij.+
+\m ri li qas tz'eet k'aslem -aal ójor taq
+\g DEM DEM ITS cierto vivo SAB tiempo ***
+\c dem dem ITS adv s suf adv ***
+\l Eso si era una gran vida anteriormente
+\gs GT GT GT GL GL GT GL logged
+\p DEM#dem DEM#dem ITS#ITS adv s SAB#suf adv error
+
+\ref trtexUsp00804a 285
+\t Lajori ta' chik i'n ma ra woroon ri,+
+\m lijori ta' chik i'n ma ra woroon ri
+\g ahora no PART enfatica NEG DIM sacate DEM
+\c adv adv part part part part s dem
+\l Pero ahora ya no existen estos tipos de hongos
+\gs GL GL GT GL GT GT GL GT
+\p adv adv PART#part part NEG#part DIM#part s DEM#dem
+
+\ref trtexUsp00804a 286
+\t sach-i' jwich.+
+\m sach - i'n j- wich
+\g perder enfatica E3S SR
+\c vt part pers srel
+\l ya se perdieron
+\gs GL GT GL GT GL
+\p vt # part E3S#pers srel
+
+\ref trtexUsp00804a 287
+\t Iv. Sach jwich.+
+\m sach j- wich
+\g perder E3S SR
+\c vt pers srel
+\l Iv. Ya exterminaron
+\gs GL GT GL
+\p vt E3S#pers srel
+
+\ref trtexUsp00804a 288
+\t If. ¿Nen chaq sach jwich?+
+\m neen chaq sach j- wich
+\g que PART perder E3S SR
+\c adv part vt pers srel
+\l If. ¿Y porqué se perdieron?
+\gs GL GT GL GT GL
+\p adv PART#part vt E3S#pers srel
+
+\ref trtexUsp00804a 289
+\t sabeer man ra b'a tyoox ta' chik i'n,+
+\m saber man ra b'a tyoox ta' chik i'n
+\g saber ART DIM cabeza santo no PART enfatica
+\c adv art part s s adv part part
+\l Saber por que pero la cabecita de santo ya existe
+\gs GL GT GT GL GL GL GT GL
+\p adv ART#art DIM#part s s adv PART#part part
+
+\ref trtexUsp00804a 290
+\t xb'ij juun wunaq ch-w-e,+
+\m x- b'ij jun wunaq ch w- -e
+\g COM decir uno hombre PREP E1S SR
+\c tam vt num s prep pers srel
+\l Me dijo un hombre
+\gs GT GL GL GL GT GT GT
+\p COM#tam vt num s PREP#prep E1S#pers SR#srel
+
+\ref trtexUsp00804a 291
+\t raa-j juun junaab' lajori,+
+\m r- aa -j juun junaab' lijori
+\g E3 querer SC uno año ahora
+\c pers vt suf num s adv
+\l talvez hace un año
+\gs GT GL GT GL GL GL
+\p E3#pers vt SC#suf num s adv
+
+\ref trtexUsp00804a 292
+\t Ajwi' tye' qik'il li miq'in.+
+\m aj- wi' ti- ye' q- ik'il li miq'in
+\g AGT EXS TAM dar E1P SR PREP caliente
+\c pref exist tam vt pers srel prep adj
+\l -Todavía se produce con nosotros en tierra caliente
+\gs GT GT GT GL GT GL GT GL
+\p AGT#pref EXS#exist TAM#tam vt E1P#pers srel PREP#prep adj
+
+\ref trtexUsp00804a 293
+\t If. Che',+
+\m che'
+\g decir
+\c vi
+\l If. Dijo
+\gs GL
+\p vi
+
+\ref trtexUsp00804a 294
+\t per iin ta' tankoj+
+\m peer iin ta' ti- in- koj
+\g pero yo no INC A1S creer
+\c adv pron adv tam pers vt
+\l pero yo no lo creo
+\gs GL GL GL GT GT GL
+\p adv pron adv INC#tam A1S#pers vt
+
+\ref trtexUsp00804a 295
+\t sabeer nen chi' woroon ti-b'i-j re,+
+\m saber neen chi' woroon ti- b'i -j r- e
+\g saber que PREP sacate INC decir SC E3 SR
+\c adv adv prep s tam vt suf pers srel
+\l saber de que planta me esta hablando él.
+\gs GL GL GT GL GT GL GT GT GL
+\p adv adv PREP#prep s INC#tam vt SC#suf E3#pers srel
+
+\ref trtexUsp00804a 296
+\t por ke b'a tyoox iin tantok a'n y ta' chik i'n nada, nada, nada.+
+\m por ke b'a tyoox iin t- an- tok i'n y' ta' chik i'n nada nada nada
+\g por que cabeza santo yo INC E1S buscar enfenfatica y no PART enfatica nada nada nada
+\c adv part s s pron tam pers vt parpart conj adv part part adv adv adv
+\l por este tipo de hongo yo lo he buscado y ya no lo he encontrado.
+\gs GL GL GL GL GL GT GT GL GL GL GL GT GL GL GL GL
+\p adv part s s pron INC#tam E1S#pers vt parpart conj adv PART#part part adv adv adv
+
+\ref trtexUsp00804a 297
+\t Ri li k'is nab'e taq okox t-elch,+
+\m ri li k'is nab'e taq okox t- el -ch
+\g DEM DEM PL primero PL hongo INC salir MOV
+\c dem dem part num pl s tam vi mov
+\l Son los primeros hongos que se producen en cada temporada de lluvia
+\gs GT GT GT GL GT GL GT GL GT
+\p DEM#dem DEM#dem PL#part num PL#pl s INC#tam vi MOV#mov
+
+\ref trtexUsp00804a 298
+\t t-elch saqk'im,+
+\m t- el -ch saq k'im
+\g INC salir MOV blanco paja
+\c tam vi mov adj s
+\l nacen estos tipos de hongos
+\gs GT GL GT GL GL
+\p INC#tam vi MOV#mov adj s
+
+\ref trtexUsp00804a 299
+\t t-elch nen b'i ri b'a tyoox.+
+\m t- el -ch neen b'ik ri b'a tyoox
+\g INC salir MOV que DIR DEM cabeza santo
+\c tam vi mov adv dir dem s s
+\l nacen estos tipos de hogos.
+\gs GT GL GT GL GT GT GL GL
+\p INC#tam vi MOV#mov adv DIR#dir DEM#dem s s
+
+\ref trtexUsp00804a 300
+\t Ajruk' r-e t-el juun chik jb'iij r-aq' keej,+
+\m aj- ruk' r- e ti- el jun chik j- b'iij r- aq' keej
+\g AGT PART E3 SR INC salir un PART E3S nombre E3 -lengua venado
+\c pref part pers srel tam vi art part pers s pers s s
+\l Y después nace otro tipo de hongo que se llama lengua de venado
+\gs GT GT GT GT GT GL GL GT GT GL GT GL GL
+\p AGT#pref PART#part E3#pers SR#srel INC#tam vi art PART#part E3S#pers s E3#pers s s
+
+\ref trtexUsp00804a 301
+\t che' taq re. Juun ra saq okox wi' ra rusumaal chalaaj+
+\m che' taq r- e jun ra saq okox wi' ra r- usum -aal ch- alaaj
+\g decir PL E3 SR un DIM blanco hongo EXS DIM E3 mosca SAB TAM abajo
+\c vi pl pers srel art part adj s exist part pers s suf tam srel
+\l que le llaman así, Es un hongo blanco, tiene pelusita abajo
+\gs GL GT GT GL GL GT GL GL GT GT GT GL GT GT GL
+\p vi PL#pl E3#pers srel art DIM#part adj s EXS#exist DIM#part E3#pers s SAB#suf TAM#tam srel
+
+\ref trtexUsp00804a 302
+\t pur b'aniik jun ra raq' awaaj.+
+\m puro b'an -iik jun ra raq' awaaj
+\g puro hacer SV un DIM lamer animal
+\c adv vt suf art part vt s
+\l como que fuera la lengua de un animal.
+\gs GL GL GT GL GT GL GL
+\p adv vt SV#suf art DIM#part vt s
+
+\ref trtexUsp00804a 303
+\t Entonses lo mismo juun seb'laj galaan chi' tijeem,+
+\m entoons lo mismo jun seb'laj galaan chi tij -eem
+\g entonces lo mismo un ITS galán PREP comer SV
+\c adv part adv art part adj prep v suf
+\l Entonces lo mismo es una gran cosa para comer
+\gs GL GL GL GL GT GL GT GL GT
+\p adv part adv art ITS#part adj PREP#prep v SV#suf
+
+\ref trtexUsp00804a 304
+\t tb'e chik júnkitz re chik,+
+\m t- b'e chik júnkitz re chik
+\g INC ir PART un@poco el/ella PART
+\c tam vi part adv pron part
+\l pasa otro poco de tiempo
+\gs GT GL GT GL GL GT
+\p INC#tam vi PART#part adv pron PART#part
+
+\ref trtexUsp00804a 305
+\t t-elch sekek,+
+\m t- el -ch sekek
+\g INC salir MOV hongo
+\c tam vi mov s
+\l nace otro tipo de hongo que se llama Sekeek
+\gs GT GL GT GL
+\p INC#tam vi MOV#mov s
+
+\ref trtexUsp00804a 306
+\t t-elch keqiix.+
+\m t- el -ch keqiix
+\g INC salir MOV culix
+\c tam vi mov s
+\l nace otro clase de hongo que se llama Kyeqiix
+\gs GT GL GT GL
+\p INC#tam vi MOV#mov s
+
+\ref trtexUsp00804a 307
+\t k'is b'i r-e woroon r-e r-e xaq chaj,+
+\m k'is b'i r- -e woroon r- -e r- -e xaq chaj
+\g terminar MOV E3 SR sacate E3 SR E3 SR debajo pino
+\c vt part pers srel s pers srel pers srel prep s
+\l Para terminar la temporada de hongos nacen los debajo de los pinos
+\gs GL GT GT GT GL GT GT GT GT GL GL
+\p vt MOV#part E3#pers SR#srel s E3#pers SR#srel E3#pers SR#srel prep s
+
+\ref trtexUsp00804a 308
+\t ajruk' t-el chik-ch nen b'i re q'antzu,+
+\m aj- ruk' ti- el chik -ch neen b'i re q'antzu
+\g AGT PART TAM salir PART MOV que MOV el/ella hongo
+\c pref part tam vi part mov adv part pron s
+\l nace el otro tipo de hongo que se llama q'antzuu
+\gs GT GT GT GL GT GT GL GT GL GL
+\p AGT#pref PART#part TAM#tam vi PART#part MOV#mov adv MOV#part pron s
+
+\ref trtexUsp00804a 309
+\t Iv. q'antzu+
+\m q'antzu
+\g hongo
+\c s
+\l Iv. Q'antzuu
+\gs GL
+\p s
+
+\ref trtexUsp00804a 310
+\t If. t-elch q'antzu+
+\m t- el -ch q'antzu
+\g INC salir MOV hongo
+\c tam vi mov s
+\l If. Nacen este tipo de hongo
+\gs GT GL GT GL
+\p INC#tam vi MOV#mov s
+
+\ref trtexUsp00804a 311
+\t a' kalidad ra q'antzu tye' ójor,+
+\m a' kalidad ra q'antzu t- ye' ójor
+\g a calidad DIM hongo INC dar tiempo
+\c cojn adv part s tam vt adv
+\l a calidad este tipo de hongo que se daba anteriormente
+\gs GL GL GT GL GT GL GL
+\p cojn adv DIM#part s INC#tam vt adv
+
+\ref trtexUsp00804a 312
+\t baa lijori b'aniik qik'il chuch jaa aj tya',+
+\m baa lijori b'an -iik q- ik'il chuch jaa aj- t- ya'
+\g baya ahora hacer SV E1P SR SR casa AGT INC dar
+\c voc adv vt suf pers srel srel s pref tam vt
+\l Y ahora en la casa todavía se produce
+\gs GL GL GL GT GT GL GL GL GT GT GL
+\p voc adv vt SV#suf E1P#pers srel srel s AGT#pref INC#tam vt
+
+\ref trtexUsp00804a 313
+\t per k'ol-án chee' qawi'l,+
+\m peer k'ol -án chee' qa- wi'l
+\g pero guardar ITR palo E1P SR
+\c adv vt suf s pers srel
+\l pero los tenemos aguardado en los troncos de los árboles
+\gs GL GL GT GL GT GL
+\p adv vt ITR#suf s E1P#pers srel
+
+\ref trtexUsp00804a 314
+\t y tik-il chaq q'antzu qawi'l,+
+\m y' tik -il chaq q'antzu qa- wi'l
+\g y sembrar PP PART hongo E1P SR
+\c conj vt syf part s pers srel
+\l y tenemos sembrado este tipo de hongos
+\gs GL GL GT GT GL GT GL
+\p conj vt PP#syf PART#part s E1P#pers srel
+
+\ref trtexUsp00804a 315
+\t lijori ma ta' chiki' t-elch,+
+\m lijori ma ta' chik - i'n t- el -ch
+\g ahora NEG no PART enfatica INC salir MOV
+\c adv part adv part part tam vi mov
+\l ahora ya no nace
+\gs GL GT GL GT GT GL GT GL GT
+\p adv NEG#part adv PART#part # part INC#tam vi MOV#mov
+
+\ref trtexUsp00804a 316
+\t por ke t-elch jilon li.+
+\m por ke t- el -ch jilon li
+\g por que INC salir MOV asi DEM
+\c adv part tam vi mov adv dem
+\l por querer nacer.
+\gs GL GL GT GL GT GL GT
+\p adv part INC#tam vi MOV#mov adv DEM#dem
+
+\ref trtexUsp00804a 317
+\t Xu' juun wunaq,+
+\m x- yu' jun wunaq
+\g COM venir un hombre
+\c tam vi art s
+\l Vino un señor
+\gs GT GL GL GL
+\p COM#tam vi art s
+
+\ref trtexUsp00804a 318
+\t xb'ij chw-e nen nen jtikiik q'antzu+
+\m x- b'ij ch- w- e neen neen j- tik -iik q'antzu
+\g COM decir PREP E1S SR INT INT E3S sembrar *** hongo
+\c tam vt prep pers srel part part adv vt SV s
+\l me dijo como se siembra este tipo de hongos
+\gs GT GL GT GT GT GT GT GT GL logged GL
+\p COM#tam vt PREP#prep E1S#pers SR#srel INT#part INT#part E3S#adv vt error s
+
+\ref trtexUsp00804a 319
+\t entonses por eso ta' sachel jwich,+
+\m entoons por eso ta' sach -el j- wich
+\g entonces por eso no perder PP E3S SR
+\c adv adv adv adv vt suf pers srel
+\l es por eso no que no se ha perdido
+\gs GL GL GL GL GL GT GT GL
+\p adv adv adv adv vt PP#suf E3S#pers srel
+
+\ref trtexUsp00804a 320
+\t xintij i' joob' junaab'+
+\m x- in- tij i'n joob' junaab'
+\g COM A1S comer enfatica cinco año
+\c tam pers vt part num s
+\l ya hace cinco años
+\gs GT GT GL GL GL GL
+\p COM#tam A1S#pers vt part num s
+
+\ref trtexUsp00804a 321
+\t o raj lajuuj junaab' lajori x-in-b'an.+
+\m o' ra -j laj -uuj junaab' laj'ori x- in- b'an
+\g o DIM SC diez SUF año ahora TAM A1S hacer
+\c conj part suf num suf s adv tam pers vt
+\l o talvez diez años ahora que los sembré
+\gs GL GT GT GL GT GL GL GT GT GL
+\p conj DIM#part SC#suf num SUF#suf s adv TAM#tam A1S#pers vt
+
+\ref trtexUsp00804a 322
+\t Xinb'an juun ensayo r-e,+
+\m x- in- b'an jun ensayar r- -e
+\g COM A1S hacer un ensayar E3 SR
+\c tam pers vt art vt pers srel
+\l hice un ensayo con este tipo de hongos
+\gs GT GT GL GL GL GT GT
+\p COM#tam A1S#pers vt art vt E3#pers SR#srel
+
+\ref trtexUsp00804a 323
+\t y tz'eet x-elch,+
+\m y' tz'eet x- el -ch
+\g y cierto COM salir MOV
+\c conj adv tam vi mov
+\l y si verdaderamente nacieron
+\gs GL GL GT GL GT
+\p conj adv COM#tam vi MOV#mov
+
+\ref trtexUsp00804a 324
+\t pero este chi seys años xel wch,+
+\m peer este chi seys año x- el wch
+\g pero este PREP seis años COM salir SR
+\c adv dem prep num s tam vi srel
+\l pero hasta los seis años nacieron
+\gs GL GL GT GL GL GT GL GL
+\p adv dem PREP#prep num s COM#tam vi srel
+
+\ref trtexUsp00804a 325
+\t ta' xelch lajor,+
+\m ta' x- el -ch lajor
+\g no INC salir MOV rapido
+\c adv tam vi mov adv
+\l no nacieron de inmediato
+\gs GL GT GL GT GL
+\p adv INC#tam vi MOV#mov adv
+
+\ref trtexUsp00804a 326
+\t ajri xelch nik'ij chik,+
+\m aj- ri x- el -ch nik'ij chik
+\g AGT DEM COM salir MOV algunos PART
+\c pref dem tam vi mov adv part
+\l no hace mucho que nacieron otros
+\gs GT GT GT GL GT GL GT
+\p AGT#pref DEM#dem COM#tam vi MOV#mov adv PART#part
+
+\ref trtexUsp00804a 327
+\t y lajori ajwi' na,+
+\m y' laj'ori aj- wi' na
+\g y ahora AGT EXS tiempo
+\c conj adv pref exist part
+\l y ahora todavía existe
+\gs GL GL GT GT GL
+\p conj adv AGT#pref EXS#exist part
+
+\ref trtexUsp00804a 328
+\t pero komo li ki ta',+
+\m peer koom li ki ta'
+\g pero como DEM negación no
+\c adv part dem part adv
+\l pero como no hay
+\gs GL GL GT GL GL
+\p adv part DEM#dem part adv
+
+\ref trtexUsp00804a 329
+\t ki ta' ti-qa-tzaq mees la',+
+\m ki ta' ti- qa- tza -aq mees la
+\g negación no INC E1P salado PL basura PRE
+\c part adv tam pers adj suf s prep
+\l no le echamos ningún tipo de contamínate
+\gs GL GL GT GT GL GT GL GT
+\p part adv INC#tam E1P#pers adj PL#suf s PRE#prep
+
+\ref trtexUsp00804a 330
+\t jgaan ke chaq tiqab'an juun juun ra jsemiyero jb'aniik,+
+\m j- gaan ke chaq ti- qa- b'an jun jun ra j- semyero j- b'an -iik
+\g E3S gustar que PART INC E1P hacer un un DIM E3S semillero E3S hacer SV
+\c pers s part part tam pers vt art art part pers s pers vt suf
+\l solo que hay que hacer un tipo de semillero,
+\gs GT GL GL GT GT GT GL GL GL GT GT GL GT GL GT
+\p E3S#pers s part PART#part INC#tam E1P#pers vt art art DIM#part E3S#pers s E3S#pers vt SV#suf
+
+\ref trtexUsp00804a 331
+\t y... tiq'ax maq q'antzu.+
+\m y' ti- q'ax m -aq q'antzu
+\g y INC pasar ART PL hongo
+\c conj tam vt art suf s
+\l y se pasa este tipo de hongos
+\gs GL GT GL GT GT GL
+\p conj INC#tam vt ART#art PL#suf s
+
+\ref trtexUsp00804a 332
+\t Entonses t-el chik k'is r-aq' keej,+
+\m entoons t- el chik k'is r- aq' keej
+\g entonces INC salir PART PL E3 lengua venado
+\c adv tam vi part part pers s s
+\l Entonces vuelven a nacer las lenguas de venado
+\gs GL GT GL GT GT GT GL GL
+\p adv INC#tam vi PART#part PL#part E3#pers s s
+
+\ref trtexUsp00804a 333
+\t ajruk' re t-el chik-ch nen jb'iij ri re maq tra sekek,+
+\m aj- ruk' re t- el chik -ch neen j- b'iij ri re m -aq ra sekek
+\g AGT PART PART INC salir PART MOV que E3S nombre DEM PART ART PL DIM hongo
+\c pref part part tam vi part mov adv pers s dem part art suf part s
+\l y después nacen los que se llaman sekeek
+\gs GT GT GT GT GL GT GT GL GT GL GT GT GT GT GT GL
+\p AGT#pref PART#part PART#part INC#tam vi PART#part MOV#mov adv E3S#pers s DEM#dem PART#part ART#art PL#suf DIM#part s
+
+\ref trtexUsp00804a 334
+\t t-el wi' nik'ij+
+\m t- el wi' nik'ij
+\g INC salir EXS algunos
+\c tam vi exist adv
+\l hay algunos
+\gs GT GL GT GL
+\p INC#tam vi EXS#exist adv
+
+\ref trtexUsp00804a 335
+\t t-qa-b'ij taq ra ruuq tz'íkin+
+\m t- qa- chi' -iij taq ra r- uuq tz'íkin
+\g INC E1P PREP SR PL DIM E3 corte pájaro
+\c tam pers prep srel pl part pers s s
+\l que les llamamos corte de pájaros
+\gs GT GT GT GT GT GT GT GL GL
+\p INC#tam E1P#pers PREP#prep SR#srel PL#pl DIM#part E3#pers s s
+
+\ref trtexUsp00804a 336
+\t ojche' re.+
+\m oj- che' re
+\g A1P decir el
+\c pers vi pron
+\l que le llamamos así.
+\gs GT GL GL
+\p A1P#pers vi pron
+
+\ref trtexUsp00804a 337
+\t A' per es ke galaan chi tij,+
+\m a' peer es ke galaan chi tij
+\g a pero es que galán PREP comer
+\c cojn adv adv part adj prep v
+\l A pero estos son muy sabrosos para comer
+\gs GL GL GL GL GL GT GL
+\p cojn adv adv part adj PREP#prep v
+
+\ref trtexUsp00804a 338
+\t y wi' oombre,+
+\m y' wi' oombre
+\g y EXS hombre
+\c conj exist voc
+\l y si existen
+\gs GL GT GL
+\p conj EXS#exist voc
+
+\ref trtexUsp00804a 339
+\t y t-el chik-ch keqiix.+
+\m y' t- el chik -ch keqiix
+\g y INC salir PART MOV culix
+\c conj tam vi part mov s
+\l y nacen los kyeqiix
+\gs GL GT GL GT GT GL
+\p conj INC#tam vi PART#part MOV#mov s
+
+\ref trtexUsp00804a 340
+\t Ajruk' t-el chik-ch nik'ij tambyeen taq ra rusuum chi' keej+
+\m aj- ruk' t- el chik -ch nik'ij tambyeen taq ra r- usuum chi' keej
+\g AGT PART INC salir PART MOV algunos también PL DIM E3 bigotes PREP venado
+\c pref part tam vi part mov adv adv pl part pers s prep s
+\l Y después nacen otros que se llaman bigotes de venado
+\gs GT GT GT GL GT GT GL GL GT GT GT GL GT GL
+\p AGT#pref PART#part INC#tam vi PART#part MOV#mov adv adv PL#pl DIM#part E3#pers s PREP#prep s
+
+\ref trtexUsp00804a 341
+\t ojche' re,+
+\m oj- che' re
+\g A1P decir el
+\c pers vi pron
+\l que le llamamos así
+\gs GT GL GL
+\p A1P#pers vi pron
+
+\ref trtexUsp00804a 342
+\t lajori ajwi' na,+
+\m lijori aj- wi' na
+\g ahora AGT EXS tiempo
+\c adv pref exist part
+\l esté tipo de hongo si existe todavía en la actualidad
+\gs GL GT GT GL
+\p adv AGT#pref EXS#exist part
+
+\ref trtexUsp00804a 343
+\t baay re ajwi' na li k'ichelaaj,+
+\m baa re aj- wi' na li k'ichelaaj
+\g baya el AGT EXS tiempo DEM montaña
+\c voc pron pref exist part dem s
+\l estos todavía hay en las montañas
+\gs GL GL GT GT GL GT GL
+\p voc pron AGT#pref EXS#exist part DEM#dem s
+
+\ref trtexUsp00804a 344
+\t pi ri k'ichelaaj chaq pero niri laq tilmiit ta' chik-i'n.+
+\m pi ri k'ichelaaj chaq peer niri li -aq tilmiit ta' chik - i'n
+\g PREP esto montaña PART pero aqui PREP PL pueblo no PART enfatica
+\c prep dem s part adv adv prep suf s adv part part
+\l ya solo en las montañas, aquí en el casco urbano ya no se produce
+\gs GT GL GL GT GL GL GT GT GL GL GT GT GL
+\p PREP#prep dem s PART#part adv adv PREP#prep PL#suf s adv PART#part # part
+
+\ref trtexUsp00804a 345
+\t Seb'laj Dyoos ojtzuq+
+\m seb'laj Dyoos oj- tzuq
+\g ITS Dios A1P mantener
+\c part s pers vt
+\l Dios nos de que comer
+\gs GT GL GT GL
+\p ITS#part s A1P#pers vt
+
+\ref trtexUsp00804a 346
+\t pwees titok a'n+
+\m pwees ti- tok i'n
+\g pues INC buscar enfatica
+\c adv tam vt part
+\l pues el busca
+\gs GL GT GL GL
+\p adv INC#tam vt part
+
+\ref trtexUsp00804a 347
+\t nen tya' chi q-e. Loq'laj uleew ri mismo titzuqun ralk'waal,+
+\m neen t- ya' chi q- -e loq'laj uleew ri mismo ti- tzuq -un r- alk'waal
+\g que INC dar PREP E1P SR ITS tierra SR mismo INC mantener AP E3 hijo
+\c adv tam vt prep pers srel part s srel adv tam vt suf pers s
+\l
+\gs GL GT GL GT GT GT GT GL GL GL GT GL GT GT GL
+\p adv INC#tam vt PREP#prep E1P#pers SR#srel ITS#part s srel adv INC#tam vt AP#suf E3#pers s
+
+\ref trtexUsp00804a 348
+\t tiqej q'alaaj.+
+\m ti- qej q'alaaj
+\g INC bajar aguacero
+\c tam vi s
+\l caen las primeras lluvias
+\gs GT GL GL
+\p INC#tam vi s
+
+\ref trtexUsp00804a 349
+\t Y... ajruk' re tipe chik nen b'iij ri re,+
+\m y' aj- ruk' re ti- pet chik neen b'iij ri re
+\g y AGT PART PART TAM venir PART que nombre DEM PART
+\c conj pref part part tam vi part adv s dem part
+\l y luego nace este tipo de hongo que se llama
+\gs GL GT GT GT GT GL GT GL GL GT GT
+\p conj AGT#pref PART#part PART#part TAM#tam vi PART#part adv s DEM#dem PART#part
+
+\ref trtexUsp00804a 350
+\t juun tiko'n chik oombre este t-el maq taq ra saq ichaaj,+
+\m jun tiko'n chik oombre este t- el m -aq taq ra saq ichaaj
+\g un sembrar PART hombre este INC salir ART PL PL DIM blanco hierva
+\c art vt part voc dem tam vi art suf pl part adj s
+\l otro tipo de siembra que nace Saqbichaaj
+\gs GL GL GT GL GL GT GL GT GT GT GT GL GL
+\p art vt PART#part voc dem INC#tam vi ART#art PL#suf PL#pl DIM#part adj s
+
+\ref trtexUsp00804a 351
+\t t-elch maq ra r-exkab' tz'i'.+
+\m t- el -ch m -aq ra r- exkab' tz'i'
+\g INC salir MOV ART PL DIM E3 cera perro
+\c tam vi mov art suf part pers s s
+\l nacen las ceras de perro
+\gs GT GL GT GT GT GT GT GL GL
+\p INC#tam vi MOV#mov ART#art PL#suf DIM#part E3#pers s s
+
+\ref trtexUsp00804a 352
+\t Atb'e li k'ichelaaj wi' ti at-tij-ew,+
+\m at- b'e li k'ichelaaj wi'
+\g A2S ir PREP montaña EXS
+\c pers vi prep s exist
+\l Si vas a la montaña, siempre tiene uno que comer.
+\gs GT GL GT GL GT
+\p A2S#pers vi PREP#prep s EXS#exist
+
+\ref trtexUsp00804a 353
+\t t-elch taq ra asaam.+
+\m t- el -ch taq ra asaam
+\g INC salir MOV PL DIM hongo(oreja@de@ardilla)
+\c tam vi mov pl part s
+\l nacen los que se llaman asam
+\gs GT GL GT GT GT GL
+\p INC#tam vi MOV#mov PL#pl DIM#part s
+
+\ref trtexUsp00804a 354
+\t oseya rikiil ya' li jwi'l la misma naturalesa.+
+\m oseey rikiil ya' li j- wi'l la mismo naturalesa
+\g o@sea sabrosura dar DEM E3S SR PREP mismo naturaleza
+\c adv s vt dem pers srel prep adv s
+\l O sea una gran riqueza es la que nos proporciona la naturaleza.
+\gs GL GL GL GT GT GL GT GL GL
+\p adv s vt DEM#dem E3S#pers srel PREP#prep adv s
+
+\ref trtexUsp00804a 355
+\t Pero xpe ri wunaq,+
+\m peer x- pet ri wunaq
+\g pero COM venir DEM hombre
+\c adv tam vi dem s
+\l Vinieron los hombres
+\gs GL GT GL GT GL
+\p adv COM#tam vi DEM#dem s
+
+\ref trtexUsp00804a 356
+\t em... komo pwaq raaj pwees,+
+\m em koom pwaq r- aaj pwees
+\g em como dinero E3 querer pues
+\c part part s pers vt adv
+\l como dinero es lo que quieren
+\gs GL GL GL GT GL GL
+\p part part s E3#pers vt adv
+
+\ref trtexUsp00804a 357
+\t xok chi tzaqiik y ooj ti-qa-b'i-j,+
+\m x- ok chi tzaq -iik y' ooj ti- qa- b'i -j
+\g COM entrar PREP hechar SV y nosotros TAINC E1P decir SC
+\c tam vi prep vt suf conj pron tam pers vt suf
+\l le empezaron a hechar y nosotros decimos:
+\gs GT GL GT GL GT GL GL GT GT GL GT
+\p COM#tam vi PREP#prep vt SV#suf conj pron TAINC#tam E1P#pers vt SC#suf
+
+\ref trtexUsp00804a 358
+\t A'... lijori wi' chaq maas teknolojya,+
+\m a' lijori wi' chaq maas teknolojya
+\g a ahora EXS PART más tecnología
+\c cojn adv exist part adv s
+\l -A y ahora ya mucha tecnología
+\gs GL GL GT GT GL GL
+\p cojn adv EXS#exist PART#part adv s
+
+\ref trtexUsp00804a 359
+\t wi' chaq abyones,+
+\m wi' chaq abyoon
+\g EXS PART avión
+\c exist part s
+\l ya hay aviones
+\gs GT GT GL
+\p EXS#exist PART#part s
+
+\ref trtexUsp00804a 360
+\t wi' chaq elikopteros.+
+\m wi' chaq elikoptero
+\g EXS PART elicoptero
+\c exist part s
+\l ya hay helicópteros
+\gs GT GT GL
+\p EXS#exist PART#part s
+
+\ref trtexUsp00804a 361
+\t If. ¿Nen tijtzaq taq k'is elikopteros li teew pwees?,+
+\m neen ti- j- tza -aq taq k'is elikoptero li teew pwees
+\g que INC E3S salado PL PL PL elicoptero PREP aire pues
+\c adv tam pers adj suf pl part s prep s adv
+\l If. ¿Qué es lo que echan los helicópteros en el aire?
+\gs GL GT GT GL GT GT GT GL GT GL GL
+\p adv INC#tam E3S#pers adj PL#suf PL#pl PL#part s PREP#prep s adv
+
+\ref trtexUsp00804a 362
+\t ooj ta' ti-qa-ye' kwenta kan-j-t'oj-e' taq kimikos li li teew.+
+\m ooj ta' ti- qa- ye' kweent kan - j- t'oj -e' taq kimikos li li teew
+\g nosotros no INC E1P dar cuenta quedar E3S tirar SC PL químicos PREP PREP aire
+\c pron adv tam pers vt s vi pers vt suf pl s prep prep s
+\l nosotros no, nos damos cuenta dejan tirado químicos en el aire,
+\gs GL GL GT GT GL GL GL GT GT GL GT GT GL GT GT GL
+\p pron adv INC#tam E1P#pers vt s vi # E3S#pers vt SC#suf PL#pl s PREP#prep PREP#prep s
+
+\ref trtexUsp00804a 363
+\t tiq'ax maq abyones.+
+\m ti- q'ax m -aq abyoon
+\g INC pasar ART PL avión
+\c tam vt art suf s
+\l pasan los aviones.
+\gs GT GL GT GT GL
+\p INC#tam vt ART#art PL#suf s
+
+\ref trtexUsp00804a 364
+\t Y ooj ti-qa-b'ij,+
+\m y ooj ti- iqa -b'iij
+\g y nosotros TAM cargar -nombre
+\c coj pron tam vt s
+\l Y nosotros decimos:
+\gs GL GL GT GL GL
+\p coj pron TAM#tam vt s
+
+\ref trtexUsp00804a 365
+\t Si' man proyekto re gobyerno bweeno.+
+\m si' man proyekto re gobyeern bween
+\g si ART proyecto PART gobierno bueno
+\c adv art s part s adv
+\l -Ese proyecto del gobierno es bueno
+\gs GL GT GL GT GL GL
+\p adv ART#art s PART#part s adv
+
+\ref trtexUsp00804a 366
+\t Legalmente ta' tzii kanjtzaq-e' taq étzel taq qleen la quleew,+
+\m legalmente ta' tzii kan - j- tza -aq -e' taq étzel taq qleen la q- uleew
+\g legalmente no bueno quedar E3S salado PL SC PL malo PL cosas en E1P tierra
+\c adv adv adj vi pers adj suf suf pl adj pl s prep pers s
+\l If. Pero no es bueno porque dejan muchas cosas malas sobre nuestras tierras,
+\gs GL GL GL GL GT GT GL GT GT GT GL GT GL GL GT GL
+\p adv adv adj vi # E3S#pers adj PL#suf SC#suf PL#pl adj PL#pl s prep E1P#pers s
+
+\ref trtexUsp00804a 367
+\t y sach jwich,+
+\m y sach j- wich
+\g y perder E3S SR
+\c coj vt pers srel
+\l y es así como se van perdiendo,
+\gs GL GL GT GL
+\p coj vt E3S#pers srel
+
+\ref trtexUsp00804a 368
+\t y lijori tiqej juun juun k'ichelaaj,+
+\m y lijori ti- qej jun jun k'ichelaaj
+\g y ahora INC bajar un un montaña
+\c coj adv tam vi art art s
+\l y ahora botan un bosque
+\gs GL GL GT GL GL GL GL
+\p coj adv INC#tam vi art art s
+
+\ref trtexUsp00804a 369
+\t pongamos tib'ansáj,+
+\m pongamos ti- b'an -sáj
+\g pongamos INC hacer PAS
+\c vt tam vt suf
+\l pensemos en hacer una chapeo
+\gs GL GT GL GT
+\p vt INC#tam vt PAS#suf
+
+\ref trtexUsp00804a 370
+\t tib'ansáj wataal,+
+\m ti- b'an -sáj w- a- at- al
+\g INC hacer PAS E1S E2S A2S pesado
+\c tam vt suf pers pers pers adj
+\l talan una determinada parte de bosque
+\gs GT GL GT GT GT GT GL
+\p INC#tam vt PAS#suf E1S#pers E2S#pers A2S#pers adj
+
+\ref trtexUsp00804a 371
+\t oseya titzaq taq chee' re ab'iix,+
+\m oseey ti- tzaq taq chee' re ab'iix
+\g o@sea INC hechar PL árbol PART milpa
+\c adv tam vt pl s part s
+\l para sembrar milpa
+\gs GL GT GL GT GL GT GL
+\p adv INC#tam vt PL#pl s PART#part s
+
+\ref trtexUsp00804a 372
+\t ta' chi ki t-elch woron li fijate.+
+\m ta' chi ki t- el -ch woron li fijaat
+\g no PREP negación INC salir MOV sacate DEM fijate
+\c adv prep part tam vi mov s dem adv
+\l y ya no nacen estos tipos de hongos
+\gs GL GT GL GT GL GT GL GT GL
+\p adv PREP#prep part INC#tam vi MOV#mov s DEM#dem adv
+
+\ref trtexUsp00804a 373
+\t Ta' chi ki rexkab' tz'i',+
+\m ta' chi ki r- exkab' tz'i'
+\g no PREP negación E3 cera perro
+\c adv prep part pers s s
+\l ya no nacen las ceras de perro
+\gs GL GT GL GT GL GL
+\p adv PREP#prep part E3#pers s s
+
+\ref trtexUsp00804a 374
+\t ta' chi asaam,+
+\m ta' chi asaam
+\g no PREP hongo(oreja@de@ardilla)
+\c adv prep s
+\l ya no hay Asam
+\gs GL GT GL
+\p adv PREP#prep s
+
+\ref trtexUsp00804a 375
+\t ta' chi qleen,+
+\m ta' chi qleen
+\g no PREP cosas
+\c adv prep s
+\l se van perdiendo las casas
+\gs GL GT GL
+\p adv PREP#prep s
+
+\ref trtexUsp00804a 376
+\t y wi' chi ki juun juun juun okox re k'ichelaaj tambyeen,+
+\m y wi' chi ki jun jun jun okox re k'ichelaaj tambyeen
+\g y EXS PREP negación un un un hongo PART montaña también
+\c coj exist prep part art art art s part s adv
+\l y existe otro tipo de hongo que se produce en la montaña
+\gs GL GT GT GL GL GL GL GL GT GL GL
+\p coj EXS#exist PREP#prep part art art art s PART#part s adv
+
+\ref trtexUsp00804a 377
+\t nim raqen júnkitz chuch man ra itzaab' li ri ri piyeq'okix.+
+\m nim r- aqan júnkitz chuch man ra itza -ab' li ri ri piyeq'okix
+\g grande E3S pie un@poco SR ART DIM brujear ITR DEM DEM DEM hongo@comestible
+\c adj pers s adv srel art part vt suf dem dem dem s
+\l es un poco mas grande que este tipo de juguete
+\gs GL GT GL GL GL GT GT GL GT GT GT GT GL
+\p adj E3S#pers s adv srel ART#art DIM#part vt ITR#suf DEM#dem DEM#dem DEM#dem s
+
+\ref trtexUsp00804a 378
+\t -¿ x-a-wil a' na o ya no?+
+\m - x- a- w- il a' na o' ya no'
+\g TAM E2S E1S ver a tiempo o ya no
+\c tam pers pers vt cojn part conj voc adv
+\l -¿lo conociste o ya no?
+\gs GT GT GT GT GL GL GL GL GL GL
+\p # TAM#tam E2S#pers E1S#pers vt cojn part conj voc adv
+
+\ref trtexUsp00804a 379
+\t Iv. Ya chik-i' xwil iin.+
+\m ya chik - i'n x- w- il iin
+\g ya PART enfatica TAM E1S ver yo
+\c voc part part tam pers vt pron
+\l Iv. Ya no lo conocí
+\gs GL GT GT GL GT GT GL GL
+\p voc PART#part # part TAM#tam E1S#pers vt pron
+
+\ref trtexUsp00804a 380
+\t If. piyeq'okix che' taq,+
+\m piyeq'okix che' taq
+\g hongo@comestible decir PL
+\c s vi pl
+\l If. Piecoquis le llamaban
+\gs GL GL GT
+\p s vi PL#pl
+
+\ref trtexUsp00804a 381
+\t solo q-e ooj ti-qa-b'i-j ra piyeq'okix ti-qa-b'i-j,+
+\m sol - o' q- -e ooj ti- qa- b'i -j ra piyeq'okix ti- qa- b'i -j
+\g pelar o E1P SR nosotros INC E1P decir SC DIM hongo@comestible INC E1P decir SC
+\c vt conj pers srel pron tam pers vt suf part s tam pers vt suf
+\l solo que nosotros le llamamos por piecoquix también
+\gs GL GT GL GT GT GL GT GT GL GT GT GL GT GT GL GT
+\p vt # conj E1P#pers SR#srel pron INC#tam E1P#pers vt SC#suf DIM#part s INC#tam E1P#pers vt SC#suf
+
+\ref trtexUsp00804a 382
+\t pero ri juun piyeq'okix ji nimaal ri y...+
+\m peer ri jun piyeq'okix ji' nim -aal ri y
+\g pero DEM un hongo@comestible DEM grande SAB DEM y
+\c adv dem art s part adj suf dem conj
+\l pero este tipo de hongo es de este tamaño
+\gs GL GT GL GL GT GL GT GT GL
+\p adv DEM#dem art s DEM#part adj SAB#suf DEM#dem conj
+
+\ref trtexUsp00804a 383
+\t wi' ju juun nimaq raqan chuch ra itz'ab' ri.+
+\m wi' ju juun nim -aq r- aqan chuch ra itz'ab' ri
+\g EXS uno uno grande PL E3 píe SR DIM juguete DEM
+\c exist num num adj suf pers s srel part s dem
+\l es un poco mas grande que este juguete
+\gs GT GL GL GL GT GT GL GL GT GL GT
+\p EXS#exist num num adj PL#suf E3#pers s srel DIM#part s DEM#dem
+
+\ref trtexUsp00804a 384
+\t Nen b'i ri titzaqsáj la la kinaq',+
+\m neen b'i ri ti- tzaq -sáj la la kinaq'
+\g que MOV DEM INC hechar PAS PREP PREP s.
+\c adv part dem tam vt suf prep prep frijol
+\l Este tipo de hongo se le hecha al frijol
+\gs GL GT GT GT GL GT GT GT GL
+\p adv MOV#part DEM#dem INC#tam vt PAS#suf PREP#prep PREP#prep frijol
+
+\ref trtexUsp00804a 385
+\t galaan chi tijeem lo mismo okox i'n,+
+\m galaan chi tij -eem lo mismo okox i'n
+\g galán PREP comer SV lo mismo hongo enfatica
+\c adj prep v suf part adv s part
+\l es muy sabroso para comer, y es un tipo de hongo
+\gs GL GT GL GT GL GL GL GL
+\p adj PREP#prep v SV#suf part adv s part
+
+\ref trtexUsp00804a 386
+\t ta chiki'n lijori sachi' jwich...+
+\m ta' chik - i'n lijori sach - i'n j- wich
+\g no PART enfatica ahora perder enfatica E3S SR
+\c adv part part adv vt part pers srel
+\l ya no hay ahora ya se perdió
+\gs GL GT GT GL GL GL GT GL GT GL
+\p adv PART#part # part adv vt # part E3S#pers srel
+
+\ref trtexUsp00804a 387
+\t ya xi chaq takiil i nen x-il-ow,+
+\m ya xi chaq takiil i neen x- il -ow
+\g ya PART PART noticia CONJ que COM ver AP
+\c voc part part s conj adv tam vt suf
+\l ya solo lo cuentan quienes lo conocieron
+\gs GL GT GT GL GT GL GT GL GT
+\p voc PART#part PART#part s CONJ#conj adv COM#tam vt AP#suf
+
+\ref trtexUsp00804a 388
+\t nen ta' chi x-il-ow,+
+\m neen ta' chi x- il -ow
+\g que no PREP COM ver AP
+\c adv adv prep tam vt suf
+\l y los que no lo conocieron
+\gs GL GL GT GT GL GT
+\p adv adv PREP#prep COM#tam vt AP#suf
+
+\ref trtexUsp00804a 389
+\t ta' chi loq' tijyol.+
+\m ta' chi loq' ti- j- yol
+\g no PREP posible INC E3S platicar
+\c adv prep adv tam pers vt
+\l ya no es posible lo cuente
+\gs GL GT GL GT GT GL
+\p adv PREP#prep adv INC#tam E3S#pers vt
+
+\ref trtexUsp00804a 390
+\t Por ke ta' chi ril,+
+\m por ke ta' chi r- il
+\g por que no PREP E3 ver
+\c adv part adv prep pers vt
+\l Porque ya no lo conoció
+\gs GL GL GL GT GT GL
+\p adv part adv PREP#prep E3#pers vt
+
+\ref trtexUsp00804a 391
+\t ta' chiki' sachi' jwich.+
+\m ta' chik - i'n sach - i'n j- wich
+\g no PART enfatica perder enfatica E3S SR
+\c adv part part vt part pers srel
+\l porque ya no hay ya se peridió.
+\gs GL GT GT GL GL GT GL GT GL
+\p adv PART#part # part vt # part E3S#pers srel
+
+\ref trtexUsp00804a 392
+\t Tiqab'an li ójir,+
+\m ti- qa- b'an li ójir
+\g INC E1P hacer DEM antes
+\c tam pers vt dem adv
+\l Como hacíamos anterior mente
+\gs GT GT GL GT GL
+\p INC#tam E1P#pers vt DEM#dem adv
+
+\ref trtexUsp00804a 393
+\t ojpe laq k'ichelaaj,+
+\m oj- pet li -aq k'ichelaaj
+\g A1P venir en PL montaña
+\c pers vi prep suf s
+\l íbamos a la montaña
+\gs GT GL GL GT GL
+\p A1P#pers vi prep PL#suf s
+
+\ref trtexUsp00804a 394
+\t de todo modo b'i qa-te' haber nen tiqa-tij pwees,+
+\m de todo modo b'i qa- ta' aber neen ti- qa- tij pwees
+\g de todo modo MOV E1P encontrar haber que TAM E1P comer pues
+\c part adv adv part pers vt vt adv tam pers v adv
+\l de todos modos encontrábamos que comer
+\gs GL GL GL GT GT GL GL GL GT GT GL GL
+\p part adv adv MOV#part E1P#pers vt vt adv TAM#tam E1P#pers v adv
+
+\ref trtexUsp00804a 395
+\t ri mismo uleew tya'w,+
+\m ri mismo uleew t- ya' -w
+\g DEM mismo tierra INC dar SC
+\c dem adv s tam vt suf
+\l la misma tierra nos lo proporcionaba
+\gs GT GL GL GT GL GT
+\p DEM#dem adv s INC#tam vt SC#suf
+
+\ref trtexUsp00804a 396
+\t xiq tiqak'am wen wi' q-atz'aam ya es ke seguro ojwi'n chi bween.+
+\m xiq ti- qa- k'am wen wi' q- atz'aam ya es ke seguro oj- wi'n chi bween
+\g solo INC E1P recibir bueno EXS E1P sal ya es que seguro A1P comer PREP bueno
+\c part tam pers vt *** exist pers s voc adv part adv pers vi prep adv
+\l solo con llevar un poco de sal, era seguro que teníamos que comer
+\gs GL GT GT GL GL GT GT GL GL GL GL GL GT GL GT GL
+\p part INC#tam E1P#pers vt *** EXS#exist E1P#pers s voc adv part adv A1P#pers vi PREP#prep adv
+
+\ref trtexUsp00804a 397
+\t Seb'laj taq qleen sach jwich,+
+\m seb'laj taq qleen sach j- wich
+\g ITS PL cosas perder E3S SR
+\c part pl s vt pers srel
+\l Per muchas cosas se han desaparecido
+\gs GT GT GL GL GT GL
+\p ITS#part PL#pl s vt E3S#pers srel
+
+\ref trtexUsp00804a 398
+\t sachi' jwich y... man ra ja' man ra ja' wi' niri chi' tilmiit,+
+\m sach - i'n j- wich y... man ra ja' man ra ja' wi' niri chi' tilmiit
+\g perder enfatica E3S SR y ART DIM río ART DIM río EXS aqui PREP pueblo
+\c vt part pers srel conj art part s art part s exist adv prep s
+\l El arroyito que esta atrás del pueblo
+\gs GL GT GL GT GL GL GT GT GL GT GT GL GT GL GT GL
+\p vt # part E3S#pers srel conj ART#art DIM#part s ART#art DIM#part s EXS#exist adv PREP#prep s
+
+\ref trtexUsp00804a 399
+\t ra Ja'kub'i' ti-qa-b'i-j,+
+\m ra Ja'kub'i' ti- qa- b'i -j
+\g DIM s. INC E1P decir SC
+\c part top tam pers vt suf
+\l al que le llamamos Jacubí
+\gs GT GL GT GT GL GT
+\p DIM#part top INC#tam E1P#pers vt SC#suf
+
+\ref trtexUsp00804a 400
+\t ójir wi' puur xilij,+
+\m ójir wi' puur xílij
+\g antes EXS jute adentro
+\c adv exist s srel
+\l mucho antes tenía jutes
+\gs GL GT GL GL
+\p adv EXS#exist s srel
+
+\ref trtexUsp00804a 401
+\t wi' top,+
+\m wi' top
+\g EXS cangrejo
+\c exist s
+\l tenía cangrejos
+\gs GT GL
+\p EXS#exist s
+
+\ref trtexUsp00804a 402
+\t wi' kar,+
+\m wi' kar
+\g EXS pez
+\c exist s
+\l
+\gs GT GL
+\p EXS#exist s
+
+\ref trtexUsp00804a 403
+\t wi' k'is ixtuutz',+
+\m wi' k'is ixtuutz'
+\g EXS PL rana
+\c exist part s
+\l tenía pescado
+\gs GT GT GL
+\p EXS#exist PL#part s
+
+\ref trtexUsp00804a 404
+\t ¿nen ch-aw-aa-j?,+
+\m neen ch- wa -aa -j
+\g que INC tortilla TRN SC
+\c adv tam s suf suf
+\l tenía ranas
+\gs GL GT GL GT GT
+\p adv INC#tam s TRN#suf SC#suf
+
+\ref trtexUsp00804a 405
+\t b'i a-tok-e',+
+\m b'i a- tok -e'
+\g MOV E2S buscar SC
+\c part pers vt suf
+\l ¿Lo que usted quisiera buscar?
+\gs GT GT GL GT
+\p MOV#part E2S#pers vt SC#suf
+
+\ref trtexUsp00804a 406
+\t wi' wi' t-a-tij la' pwees,+
+\m wi' wi' ti- a- tij la pwees
+\g EXS EXS INC E2S comer PREP pues
+\c exist exist tam pers vt prep adv
+\l producía mucho tipo de animales
+\gs GT GT GT GT GL GT GL
+\p EXS#exist EXS#exist INC#tam E2S#pers vt PREP#prep adv
+
+\ref trtexUsp00804a 407
+\t wi' muuch' tambyeen.+
+\m wi' muuch' tambyeen
+\g EXS berro también
+\c exist s adv
+\l también tenía berros
+\gs GT GL GL
+\p EXS#exist s adv
+
+\ref trtexUsp00804a 408
+\t Baay xojk'iyerik pwees,+
+\m baa x- oj- k'iy -er -ik pwees
+\g baya COM A1P crecer ITR SC pues
+\c voc tam pers vi suf suf adv
+\l Cuando empezo a crecer la problación
+\gs GL GT GT GL GT GT GL
+\p voc COM#tam A1P#pers vi ITR#suf SC#suf adv
+
+\ref trtexUsp00804a 409
+\t x-an taq kontaminar ra qa ra qab'ee ja',+
+\m x- b'an taq kontaminar ra qa ra qa- b'ee ja'
+\g COM hacer PL contaminar DIM E1P DIM E1P camino río
+\c tam vt pl vt part pers part pers s s
+\l contaminaron este arrollito
+\gs GT GL GT GL GT GT GT GT GL GL
+\p COM#tam vt PL#pl vt DIM#part E1P#pers DIM#part E1P#pers s s
+
+\ref trtexUsp00804a 410
+\t tzaq taq kamnaq qleen,+
+\m tzaq taq kamnaq qleen
+\g hechar PL muerto objetos
+\c vt pl s s
+\l hecharon animales muertos
+\gs GL GT GL GL
+\p vt PL#pl s s
+
+\ref trtexUsp00804a 411
+\t tit'ojsáj mes,+
+\m ti- t'oj -sáj mes
+\g INC tirar PAS barrer
+\c tam vt suf vt
+\l tiraron basura
+\gs GT GL GT GL
+\p INC#tam vt PAS#suf vt
+
+\ref trtexUsp00804a 412
+\t lijori ya ta' chi' ta' chi' t-a-rayee-j r-il-iik man ra ja',+
+\m lijori ya ta' chi ta' chi t- a- ray -ee -j r- il -iik man ra ja'
+\g ahora ya no PREP no PREP INC E2S desear TR SC E3 ver SV ART DIM agua
+\c adv voc adv prep adv prep tam pers vi suf suf pers vt suf art part s
+\l ahora uno ya ni desea ver este arroyito ya duele verlo en el estado que se encuentra
+\gs GL GL GL GT GL GT GT GT GL GT GT GT GL GT GT GT GL
+\p adv voc adv PREP#prep adv PREP#prep INC#tam E2S#pers vi TR#suf SC#suf E3#pers vt SV#suf ART#art DIM#part s
+
+\ref trtexUsp00804a 413
+\t k'ex chaq riliik mas chaq tz'iil,+
+\m k'ex chaq r- il -iik maas chaq tz'il
+\g dolor PART E3 ver SV más PART sucio
+\c adj part pers vt suf adv part adj
+\l
+\gs GL GT GT GL GT GL GT GL
+\p adj PART#part E3#pers vt SV#suf adv PART#part adj
+
+\ref trtexUsp00804a 414
+\t y... ta' ni juun tib'anow j-wá'x-ik.+
+\m y... ta' ni juun ti- b'an -ow j- wá'x -ik
+\g y no no uno TAM hacer AP E3S componer SC
+\c conj adv part num tam vt suf pers vi suf
+\l y no ninguna autoridad que quiera arreglar esta problemática
+\gs GL GL GL GL GT GL GT GT GL GT
+\p conj adv part num TAM#tam vt AP#suf E3S#pers vi SC#suf
+
+\ref trtexUsp00804a 415
+\t Y... tib'ij taq+
+\m y... ti- b'ij taq
+\g y INC decir PL
+\c conj tam vt pl
+\l Y ellos dicen:
+\gs GL GT GL GT
+\p conj INC#tam vt PL#pl
+
+\ref trtexUsp00804a 416
+\t ke fuerte no'j k'is kristyan lijori,+
+\m ke fweert no'j k'is kirtyaan lijori
+\g que fuerte conocimiento PL persona ahora
+\c part adj s part s adv
+\l que las personas de ahora tienen mucho conocimieto
+\gs GL GL GL GT GL GL
+\p part adj s PL#part s adv
+
+\ref trtexUsp00804a 417
+\t lamaas wi' jno'jaq,+
+\m lamaas wi' j- no'j -aq
+\g donde EXS E3S conocimiento PL
+\c adv exist pers s suf
+\l donde esta el conocimiento que tienen
+\gs GL GT GT GL GT
+\p adv EXS#exist E3S#pers s PL#suf
+
+\ref trtexUsp00804a 418
+\t iin t-an-ta' lamaas wi' jno'jaq por ke ta'n Balo,+
+\m iin t- an- ta' lamaas wi' j- no'j -aq por ke ta'n Waldo
+\g yo INC E1S preguntar donde EXS E3S conocimiento PL por que no Oswaldo
+\c pron tam pers vt adv exist pers s suf adv part adv nom
+\l yo me pregunto donde esta ese conocimiento, porque no lo tienen, Balo
+\gs GL GT GT GL GL GT GT GL GT GL GL GL GL
+\p pron INC#tam E1S#pers vt adv EXS#exist E3S#pers s PL#suf adv part adv nom
+
+\ref trtexUsp00804a 419
+\t tijril taq juun mees tijt'oje' taq kla',+
+\m ti- j- r- il taq jun mees ti- j- t'oj -e' taq kla'
+\g INC E3S E3 ver PL uno basura INC E3S tirar SC PL allí
+\c tam pers pers vt suf num s tam pers vt suf pl adv
+\l producen una basura y lo van a tirar por allí
+\gs GT GT GT GL GT GL GL GT GT GL GT GT GL
+\p INC#tam E3S#pers E3#pers vt PL#suf num s INC#tam E3S#pers vt SC#suf PL#pl adv
+
+\ref trtexUsp00804a 420
+\t wi' juun jmeesaq tijt'oje' taq kla'.+
+\m wi' juun j- mees -aq ti- j- t'oj -e' taq kla'
+\g EXS uno E3S basura PL INC E3S tirar SC PL allí
+\c exist num pers s suf tam pers vt suf pl adv
+\l tienen una basura lo van a tirar por allí
+\gs GT GL GT GL GT GT GT GL GT GT GL
+\p EXS#exist num E3S#pers s PL#suf INC#tam E3S#pers vt SC#suf PL#pl adv
+
+\ref trtexUsp00804a 421
+\t Y... sach jwich. Ójir man ra ja' li seb'laj kar wi' xilij,+
+\m y... sach j- wich ójir man ra ja' li seb'laj kar wi' xílij
+\g y perder E3S SR antes ART DIM río DEM ITS pescado EXS adentro
+\c conj vt pers srel adv art part s dem part s exist srel
+\l Y se pertdió la semilla, antes este arroyito tenía muchos pescados,
+\gs GL GL GT GL GL GT GT GL GT GT GL GT GL
+\p conj vt E3S#pers srel adv ART#art DIM#part s DEM#dem ITS#part s EXS#exist srel
+
+\ref trtexUsp00804a 422
+\t tz'et at-tzuq a'n tambyeen,+
+\m tz'eet at- tzuq i'n tambyeen
+\g cierto A2S mantener enfatica también
+\c adv pers vt part adv
+\l de verdad nos daba de que comer
+\gs GL GT GL GL GL
+\p adv A2S#pers vt part adv
+
+\ref trtexUsp00804a 423
+\t komo saqi' ja' li ójir ta' tz'iil,+
+\m koom saq - i'n ja' li ójir ta' tz'il
+\g como blanco enfatica río DEM antes no sucio
+\c part adj part s dem adv adv adj
+\l como este arroyo era muy limpio
+\gs GL GL GT GL GL GT GL GL GL
+\p part adj # part s DEM#dem adv adv adj
+
+\ref trtexUsp00804a 424
+\t ki ta' beneno,+
+\m ki ta' beneno
+\g negación no veneno
+\c part adv s
+\l no tenía veneno
+\gs GL GL GL
+\p part adv s
+
+\ref trtexUsp00804a 425
+\t ki ta' tz'il laj taq qleen,+
+\m ki ta' tz'il laj taq qleen
+\g negación no sucio ITS PL cosas
+\c part adv adj ITS pl s
+\l no tenía cosas sucias
+\gs GL GL GL GT GT GL
+\p part adv adj ITS#ITS PL#pl s
+
+\ref trtexUsp00804a 426
+\t ta' kam-naq taq qleen,+
+\m ta' kam -naq taq qleen
+\g no morir PP PL cosas
+\c adv vi suf pl s
+\l no tenía animales muertos
+\gs GL GL GT GT GL
+\p adv vi PP#suf PL#pl s
+
+\ref trtexUsp00804a 427
+\t por ke ójir wi' k'uch,+
+\m por ke ójir wi' k'uch
+\g por que antes EXS zopilote
+\c adv part adv exist s
+\l porque antes habían sopilotes
+\gs GL GL GL GT GL
+\p adv part adv EXS#exist s
+
+\ref trtexUsp00804a 428
+\t tikam juun awaaj,+
+\m ti- kam jun awaaj
+\g TAM morir un animal
+\c tam vi art s
+\l se moría un animal
+\gs GT GL GL GL
+\p TAM#tam vi art s
+
+\ref trtexUsp00804a 429
+\t xtaw i' juun mul-aaj k'uch tijiik.+
+\m x- taw i'n jun mul -aaj k'uch tij -iik
+\g COM llegar enfatica un montón MED zopilote comer SV
+\c tam vt part art pos suf s v suf
+\l llega un grupo de sopilotes y se lo comen
+\gs GT GL GL GL GL GT GL GL GT
+\p COM#tam vt part art pos MED#suf s v SV#suf
+
+\ref trtexUsp00804a 430
+\t Ta' ta' ti-tz'il-ob' ja',+
+\m ta' ta' ti- tz'il -ob' ja'
+\g no no INC sucio ITR agua
+\c adv adv tam adj suf s
+\l no, no se ensuciaba el arroyito
+\gs GL GL GT GL GT GL
+\p adv adv INC#tam adj ITR#suf s
+
+\ref trtexUsp00804a 431
+\t wen xkam juun kwa'y+
+\m w- en x- kam jun kwa'y
+\g E1S en COM morir un caballo
+\c pers prep tam vi art s
+\l si se muere un caballo
+\gs GT GL GT GL GL GL
+\p E1S#pers prep COM#tam vi art s
+
+\ref trtexUsp00804a 432
+\t ta' r-ejwéx tamuq,+
+\m ta' r- ejwéx t- a- muq
+\g no E3 necesidad INC E2S enterrar
+\c adv pers s tam pers vt
+\l no es preciso enterrarlo
+\gs GL GT GL GT GT GL
+\p adv E3#pers s INC#tam E2S#pers vt
+
+\ref trtexUsp00804a 433
+\t sik' taq awaaj xok ti-qa chi tijik,+
+\m sik' taq awaaj x- ok ti- qa-
+\g pobre PL animal COM entrar INC E1P
+\c adj pl s tam vi tam pers
+\l los pobres animales se los comen
+\gs GL GT GL GT GL GT GT
+\p adj PL#pl s COM#tam vi INC#tam E1P#pers
+
+\ref trtexUsp00804a 434
+\t wi' juun xuman jwaaq kla'.+
+\m wi' jun xumaan j- wa -aq kla'
+\g EXS un semana E3S tortilla PL allí
+\c exist art s pers s suf adv
+\l tienen una semana de comina por allí
+\gs GT GL GL GT GL GT GL
+\p EXS#exist art s E3S#pers s PL#suf adv
+
+\ref trtexUsp00804a 435
+\t Xkam chik juun awaaj juun lado,+
+\m x- kam chik juun awaaj juun laad
+\g COM morir PART uno animal uno lado
+\c tam vi part num s num adv
+\l se muere otro animal por otro lado
+\gs GT GL GT GL GL GL GL
+\p COM#tam vi PART#part num s num adv
+
+\ref trtexUsp00804a 436
+\t x-e' taq chiki' kla',+
+\m x- b'e taq chik i'n kla'
+\g COM ir PL PART enfatica allí
+\c tam vi pl part part adv
+\l se trasladan para ese lugar
+\gs GT GL GT GT GL GL
+\p COM#tam vi PL#pl PART#part part adv
+
+\ref trtexUsp00804a 437
+\t tijb'it-aq b'i tz'iil.+
+\m ti- j- b'it -aq b'ik tz'iil
+\g COM E3S levantar PL DIR sucio
+\c tam pers vt suf dir adj
+\l recogen todo el sucio
+\gs GT GT GL GT GT GL
+\p COM#tam E3S#pers vt PL#suf DIR#dir adj
+
+\ref trtexUsp00804a 438
+\t Xpe' mosib',+
+\m x- pet mosiib' -ib'
+\g COM venir ladinos PL
+\c tam vi s suf
+\l Vinieron los ladinos
+\gs GT GL GL GT
+\p COM#tam vi s PL#suf
+
+\ref trtexUsp00804a 439
+\t xok taq chi' b'aniik benenar k'is awaaj,+
+\m x- ok taq chi' b'an -iik enbenenar k'is awaaj
+\g COM entrar PL PREP hacer SV envenenar PL animal
+\c tam vi pl prep vt suf vt part s
+\l empezaron a envenenar a los animales empezaron a envenenar a los animales
+\gs GT GL GT GT GL GT GL GT GL
+\p COM#tam vi PL#pl PREP#prep vt SV#suf vt PL#part s
+
+\ref trtexUsp00804a 440
+\t xkamsaaj taq k'is tz'i',+
+\m x- kamsaa -j taq k'is tz'i'
+\g COM matar SC PL PL perro
+\c tam vt suf pl part s
+\l mataron a los perros con veneno
+\gs GT GL GT GT GT GL
+\p COM#tam vt SC#suf PL#pl PL#part s
+
+\ref trtexUsp00804a 441
+\t xya' taq beneno,+
+\m x- ye' taq beneno
+\g COM dar PL veneno
+\c tam vt pl s
+\l les dieron veneno
+\gs GT GL GT GL
+\p COM#tam vt PL#pl s
+
+\ref trtexUsp00804a 442
+\t xpe taq sik' taq k'uch xtij taq,+
+\m x- pet taq sik' taq k'uch x- tij taq
+\g COM venir PL pobre PL zopilote COM comer PL
+\c tam vi pl adj pl s tam v pl
+\l vinieron los sopiloes y sé comiron a los perros
+\gs GT GL GT GL GT GL GT GL GT
+\p COM#tam vi PL#pl adj PL#pl s COM#tam v PL#pl
+
+\ref trtexUsp00804a 443
+\t sach jwichaq.+
+\m sach j- wich -aq
+\g perder E3S SR PL
+\c vt pers srel suf
+\l y se mueron también los sopilotes.
+\gs GL GT GL GT
+\p vt E3S#pers srel PL#suf
+
+\ref trtexUsp00804a 444
+\t Nen b'i ri li ri li lo ke iin xwil Oswaldo.+
+\m neen b'ik ri li ri li lo ke iin x- w- il Waldo
+\g que DIR DEM DEM DEM PREP lo que yo COM E1S ver Oswaldo
+\c adv dir dem dem dem prep part part pron tam pers vt nom
+\l Eso fue lo que vi Oswaldo.
+\gs GL GT GT GT GT GT GL GL GL GT GT GL GL
+\p adv DIR#dir DEM#dem DEM#dem DEM#dem PREP#prep part part pron COM#tam E1S#pers vt nom
+
+\ref trtexUsp00804a 445
+\t Ri li lo ke iin k'ex laj wanm tambyeen,+
+\m ri li lo ke iin k'ex laj w- anm tambyeen
+\g DEM DEM lo que yo cambiar en E1S corazon también
+\c dem dem part part pron vt prep pers s adv
+\l Eso es lo que a mi me duele en el alma
+\gs GT GT GL GL GL GL GL GT GL GL
+\p DEM#dem DEM#dem part part pron vt prep E1S#pers s adv
+
+\ref trtexUsp00804a 446
+\t y... ke bweno ke kanqane' grabar lo ke nen xqil na,+
+\m y... ke bween ke kan - q- b'an -e' grabar lo ke neen x- q- il na
+\g y que bueno que quedar E1P hacer SC grabar lo que que TAM E1P ver tiempo
+\c conj part adv part vi pers vt suf vt part part adv tam pers vt part
+\l y que bueno que lo dejemos grabado que es lo que vimos.
+\gs GL GL GL GL GL GT GT GL GT GL GL GL GL GT GT GL GL
+\p conj part adv part vi # E1P#pers vt SC#suf vt part part adv TAM#tam E1P#pers vt part
+
+\ref trtexUsp00804a 447
+\t y... t-etemaa-j chi' naaj nakaaj pwees.+
+\m y... t- etemaa -j chi' naaj nakaaj pwees
+\g y INC conocer SC PREP lejos serca pues
+\c conj tam vt suf prep adv adv adv
+\l y que se conozca en todos los lugares.
+\gs GL GT GL GT GT GL GL GL
+\p conj INC#tam vt SC#suf PREP#prep adv adv adv
+
+\ref trtexUsp00804a 448
+\t Nen x-an,+
+\m neen x- b'an
+\g que COM hacer
+\c adv tam vt
+\l Lo que está sucediendo
+\gs GL GT GL
+\p adv COM#tam vt
+
+\ref trtexUsp00804a 449
+\t nen x-an qatilmiit,+
+\m neen x- b'an qa- tilmiit
+\g que COM hacer E1P pueblo
+\c adv tam vt pers s
+\l que es lo que le pasó a nuestro municipio,
+\gs GL GT GL GT GL
+\p adv COM#tam vt E1P#pers s
+
+\ref trtexUsp00804a 450
+\t por ke li mi ta' tzii ti-qa-b'i-j oj tzii'n,+
+\m por ke li mi ta' tzii ti- qa- b'i -j ooj tzi - i'n
+\g por que DEM mi no bueno INC E1P decir SC nosotros bueno enfatica
+\c adv part dem part adv adj tam pers vt suf pron adv part
+\l porque pensamos que no es bueno que comentemos este tipos de cosas, pero entonces que es lo bueno.
+\gs GL GL GT GL GL GL GT GT GL GT GL GL GT GL
+\p adv part DEM#dem part adv adj INC#tam E1P#pers vt SC#suf pron adv # part
+
+\ref trtexUsp00804a 451
+\t pero nen jtziil pwees,+
+\m peer neen j- tzii -il pwees
+\g pero que E3S bueno PP pues
+\c adv adv pers adj syf adv
+\l Hata ahora que se estan precupando
+\gs GL GL GT GL GT GL
+\p adv adv E3S#pers adj PP#syf adv
+
+\ref trtexUsp00804a 452
+\t ajri chaq lajori xok taq iil,+
+\m aj- ri chaq lijori x- ok taq iil
+\g AGT DEM PART ahora COM entrar PL delito
+\c pref dem part adv tam vi pl s
+\l Hata ahora que se estan precupando
+\gs GT GT GT GL GT GL GT GL
+\p AGT#pref DEM#dem PART#part adv COM#tam vi PL#pl s
+
+\ref trtexUsp00804a 453
+\t tril tob'ol chaq juun kam-naq chuchaq ta' chi nen jchaak.+
+\m ti- r- il tob'ol chaq jun kam -naq chuch -aq ta' chi neen j- chaak
+\g TAM E3 ver tirado PART un morir PP SR PL no PREP que E3S trabajo
+\c tam pers vt pos part art vi suf srel suf adv prep adv pers s
+\l cuando ven que todo esta muerto y ya no sirve para nada
+\gs GT GT GL GL GT GL GL GT GL GT GL GT GL GT GL
+\p TAM#tam E3#pers vt pos PART#part art vi PP#suf srel PL#suf adv PREP#prep adv E3S#pers s
+
+\ref trtexUsp00804a 454
+\t Entonses lajori tran taq drenaje por todos lados,+
+\m entoons lijori ti- r- b'an taq drenaje por todo lados
+\g entonces ahora TAM E3 hacer PL drenaje por todo lados
+\c adv adv tam pers vt pl s adv adv adv
+\l Ahora construyen drenajes por todos lados
+\gs GL GL GT GT GL GT GL GL GL GL
+\p adv adv TAM#tam E3#pers vt PL#pl s adv adv adv
+
+\ref trtexUsp00804a 455
+\t ¿lamaas tij-tzaq-e' taq-w tambyeen?+
+\m lamaas ti- j- tza -aq -e' taq -w tambyeen
+\g donde TAM E3S salado PL SC PL MOV también
+\c adv tam pers adj suf suf pl suf adv
+\l ¿Y donde lo van a desembocar?
+\gs GL GT GT GL GT GT GT GT GL
+\p adv TAM#tam E3S#pers adj PL#suf SC#suf PL#pl MOV#suf adv
+
+\ref trtexUsp00804a 456
+\t Iv. Li ja' tij-tzq-e' taqw+
+\m li ja' ti- j- ti- *** -aq -e' taq -w
+\g en agua TAM E3S TAM *** PL SC PL MOV
+\c prep s tam pers tam *** suf suf pl suf
+\l ¿Y donde lo van a desembocar?
+\gs GL GL GT GT GT logged GT GT GT GT
+\p prep s TAM#tam E3S#pers TAM#tam error PL#suf SC#suf PL#pl MOV#suf
+
+\ref trtexUsp00804a 457
+\t If. Li ja' tijtzaqe' taqw,+
+\m li ja' ti- j- tza -aq -e' taq -w
+\g en agua TAM E3S salado PL SC PL MOV
+\c prep s tam pers adj suf suf pl suf
+\l If. En los ríos lo van a desembocar
+\gs GL GL GT GT GL GT GT GT GT
+\p prep s TAM#tam E3S#pers adj PL#suf SC#suf PL#pl MOV#suf
+
+\ref trtexUsp00804a 458
+\t entonses kla' ma ta' ma juun juun byeen ta' tib'ansáj r-e qatilmiit.+
+\m entoons kla' ma ta' ma juun jun byeen ta' ti- b'an -sáj r- -e qa- tilmiit
+\g entonces allí NEG no NEG uno un bien no TAM hacer PAS E3 SR E1P pueblo
+\c adv adv part adv part num art adv adv tam vt suf pers srel pers s
+\l Esto no es un bien que se le esta haciendo a un municipio.
+\gs GL GL GT GL GT GL GL GL GL GT GL GT GT GT GT GL
+\p adv adv NEG#part adv NEG#part num art adv adv TAM#tam vt PAS#suf E3#pers SR#srel E1P#pers s
+
+\ref trtexUsp00804a 459
+\t X-qa-ma-jch chik-ch chib' loq'laj qixiim,+
+\m x- qa- ma -j -ch chik -ch chib' loq'laj q- íxim
+\g TAM E1P NEG SC MOV PART MOV arriba ITS E1P maíz
+\c tam pers part suf mov part mov adv part pers s
+\l Empezamos hablar sobre esto por nuestro sagrado maíz,
+\gs GT GT GT GT GT GT GT GL GT GT GL
+\p TAM#tam E1P#pers NEG#part SC#suf MOV#mov PART#part MOV#mov adv ITS#part E1P#pers s
+
+\ref trtexUsp00804a 460
+\t kla' x-maj-maj-w,+
+\m kla' x- maj - ma -j -w
+\g allí TAM comenzar NEG SC MOV
+\c adv tam vt part suf suf
+\l de allí empezamos a comentar sobre esto
+\gs GL GT GL GT GT GT GT
+\p adv TAM#tam vt # NEG#part SC#suf MOV#suf
+
+\ref trtexUsp00804a 461
+\t xan taq k'ex r-e qaaw chi qa-wch,+
+\m x- b'an taq k'ex r- -e qa- wa chi qa- ch
+\g TAM hacer PL dolor E3 SR E1P tortilla PREP E1P SR
+\c tam vt pl adj pers srel pers s prep pers srel
+\l le hicieron daño a nuestro sagrado maíz
+\gs GT GL GT GL GT GT GT GL GT GT GL
+\p TAM#tam vt PL#pl adj E3#pers SR#srel E1P#pers s PREP#prep E1P#pers srel
+
+\ref trtexUsp00804a 462
+\t y... xan taq k'ex re juntiir qleen,+
+\m y... x- b'an taq k'ex re juntiir qleen
+\g y TAM hacer PL cambiar PART todo cosas
+\c conj tam vt pl vt part adv s
+\l y le hicieron daño a todas la cosas
+\gs GL GT GL GT GL GT GL GL
+\p conj TAM#tam vt PL#pl vt PART#part adv s
+
+\ref trtexUsp00804a 463
+\t ójir tikuxtaaj byeen,+
+\m ójir ti- kuxtaa -j byeen
+\g antes TAM recordar SC bien
+\c adv tam vt suf adv
+\l me recuerdo muy bien que antes
+\gs GL GT GL GT GL
+\p adv TAM#tam vt SC#suf adv
+
+\ref trtexUsp00804a 464
+\t byeen inwi'l iin.+
+\m byeen in- wi'l iin
+\g bien E1S SR yo
+\c adv pers srel pron
+\l me recuerdo muy bien
+\gs GL GT GL GL
+\p adv E1S#pers srel pron
+
+\ref trtexUsp00804a 465
+\t wi' wi' qakirner ójir,+
+\m wi' wi' qa- kirner ójir
+\g EXS EXS E1P carnero antes
+\c exist exist pers s adv
+\l habían ovejas
+\gs GT GT GT GL GL
+\p EXS#exist EXS#exist E1P#pers s adv
+
+\ref trtexUsp00804a 466
+\t tiqak'up lamaas ti-wer-w kirner+
+\m ti- qa- k'up lamaas ti- wer -w kirner
+\g TAM E1P tajear donde TAM dormir MOV carnero
+\c tam pers vt adv tam vi suf s
+\l se tajeaba en donde dormían
+\gs GT GT GL GL GT GL GT GL
+\p TAM#tam E1P#pers vt adv TAM#tam vi MOV#suf s
+
+\ref trtexUsp00804a 467
+\t a' saqk'im qaaj pero ti-b'uchuwh tisaqer,+
+\m a' saq - k'im qaaj peer ti- *** -w -ch ti- saq -er
+\g a blanco paja señor pero TAM *** MOV MOV TAM blanco ITR
+\c cojn adj s clas adv tam *** suf mov tam adj suf
+\l y nacía un tipo de hongo que se llama hierva blanca
+\gs GL GL GT GL GL GL GT logged GT GT GT GL GT
+\p cojn adj # s clas adv TAM#tam error MOV#suf MOV#mov TAM#tam adj ITR#suf
+
+\ref trtexUsp00804a 468
+\t ta' chi ki ojkwin chi tijik,+
+\m ta' chi ki oj- kwin chi tij -ik
+\g no PREP negación A1P poder PREP comer SC
+\c adv prep part pers vi prep v suf
+\l ya no podíamos terminarlo por que había demasiado
+\gs GL GT GL GT GL GT GL GT
+\p adv PREP#prep part A1P#pers vi PREP#prep v SC#suf
+
+\ref trtexUsp00804a 469
+\t tz'eet mul-an re lajori t-a-k'up,+
+\m tz'eet mul -b'an re laj'ori ti- a- k'up
+\g cierto montón *** el ahora TAM E2S tajear
+\c adv pos *** pron adv tam pers vt
+\l se daba por montonoes donde se tajeaba la tierra
+\gs GL GL logged GL GL GT GT GL
+\p adv pos error pron adv TAM#tam E2S#pers vt
+
+\ref trtexUsp00804a 470
+\t lamaas ti-wer-w awakix,+
+\m lamaas ti- wer -w a- wakix
+\g donde TAM dormir MOV E2S vaca
+\c adv tam vi suf pers s
+\l donde dormían las vacas
+\gs GL GT GL GT GT GL
+\p adv TAM#tam vi MOV#suf E2S#pers s
+
+\ref trtexUsp00804a 471
+\t lamaas tiwa'x akirner,+
+\m lamaas ti- wa'x a- kirner
+\g donde TAM estar E2S carnero
+\c adv tam vi pers s
+\l donde dormían las ovejas
+\gs GL GT GL GT GL
+\p adv TAM#tam vi E2S#pers s
+
+\ref trtexUsp00804a 472
+\t ta' chi t-elch,+
+\m ta' chi ti- el -ch
+\g no PREP TAM salir MOV
+\c adv prep tam vi mov
+\l Pero ahora ya no se nace
+\gs GL GT GT GL GT
+\p adv PREP#prep TAM#tam vi MOV#mov
+
+\ref trtexUsp00804a 473
+\t xkami'n,+
+\m x- kam - i'n
+\g TAM morir enfatica
+\c tam vi part
+\l se murieron
+\gs GT GL GT GL
+\p TAM#tam vi # part
+
+\ref trtexUsp00804a 474
+\t ¿nen xkamsán?+
+\m neen x- *** -án
+\g que TAM *** ITR
+\c adv tam *** suf
+\l ¿Quiénes lo mataron?
+\gs GL GT logged GT
+\p adv TAM#tam error ITR#suf
+
+\ref trtexUsp00804a 475
+\t man beneno ri man beneno xkamsánik,+
+\m man beneno ri man beneno x- *** -án -ik
+\g ART veneno DEM ART veneno TAM *** ITR SC
+\c art s dem art s tam *** suf suf
+\l
+\gs GT GL GT GT GL GT logged GT GT
+\p ART#art s DEM#dem ART#art s TAM#tam error ITR#suf SC#suf
+
+\ref trtexUsp00804a 476
+\t k'is, k'is tra jkaniil wi' laq uleew,+
+\m k'is k'is ra j- kan -iil wi' li -aq uleew
+\g PL PL DIM E3S quedar SAB EXS en PL tierra
+\c part part part pers vi suf exist prep suf s
+\l fue el venendo, el venendo fue quien lo mató
+\gs GT GT GT GT GL GT GT GL GT GL
+\p PL#part PL#part DIM#part E3S#pers vi SAB#suf EXS#exist prep PL#suf s
+
+\ref trtexUsp00804a 477
+\t ri sachow jwich,+
+\m ri sach -ow j- wich
+\g DEM perder AP E3S SR
+\c dem vt suf pers srel
+\l ellos fueron los que lo exterminaron
+\gs GT GL GT GT GL
+\p DEM#dem vt AP#suf E3S#pers srel
+
+\ref trtexUsp00804a 478
+\t por ke mat xkam,+
+\m por ke mat x- kam
+\g por que PART TAM ***
+\c adv part part tam ***
+\l por que si no se hubieran muerto
+\gs GL GL GT GT logged
+\p adv part PART#part TAM#tam error
+
+\ref trtexUsp00804a 479
+\t ti ni elch por ke maq ra okox li tra ka'n i'n yo'l li uleew.+
+\m ti ni el -ch por ke m -aq ra okox li ra ka'n i'n yo'l li uleew
+\g PART no salir MOV por que ART PL DIM hongo DEM DIM animal enfatica vivo DEM tierra
+\c part part vi mov adv part art suf part s dem part s part adj dem s
+\l tendrían que nacer, porque estos tipos de hongos, son animalitos que esta en la tierra
+\gs GT GL GL GT GL GL GT GT GT GL GT GT GL GL GL GT GL
+\p PART#part part vi MOV#mov adv part ART#art PL#suf DIM#part s DEM#dem DIM#part s part adj DEM#dem s
+
+\ref trtexUsp00804a 480
+\t Ma woron ta'n no ke li wi' jbida tra ka'n i'n t-elch,+
+\m ma woron ta'n no' ke li wi' j- bida ra ka'n i'n ti- el -ch
+\g NEG sacate no no que DEM EXS E3S vida DIM animal enfatica TAM salir MOV
+\c part s adv adv part dem exist pers s part s part tam vi mov
+\l no son plantas, si no que son animalitos que tienen vida por eso es que nacen
+\gs GT GL GL GL GL GT GT GT GL GT GL GL GT GL GT
+\p NEG#part s adv adv part DEM#dem EXS#exist E3S#pers s DIM#part s part TAM#tam vi MOV#mov
+
+\ref trtexUsp00804a 481
+\t por eso t-elch,+
+\m por eso ti- el -ch
+\g por eso TAM salir MOV
+\c adv adv tam vi mov
+\l se murieron estos animalitos
+\gs GL GL GT GL GT
+\p adv adv TAM#tam vi MOV#mov
+
+\ref trtexUsp00804a 482
+\t baay xkam jka'naal tra jka'niil,+
+\m baa x- kam j- ka'n -aal ra j- ka'n -iil
+\g baya TAM morir E3S animal SAB DIM E3S animal SAB
+\c voc tam vi pers s suf part pers s suf
+\l despararecieron estos tipos de hongos
+\gs GL GT GL GT GL GT GT GT GL GT
+\p voc TAM#tam vi E3S#pers s SAB#suf DIM#part E3S#pers s SAB#suf
+
+\ref trtexUsp00804a 483
+\t sach jwich rechaq.+
+\m sach j- wich re -ch -aq
+\g extraviar E3S SR el MOV PL
+\c vt pers srel pron mov suf
+\l Entocnes volvieron a traer semilla
+\gs GL GT GL GL GT GT
+\p vt E3S#pers srel pron MOV#mov PL#suf
+
+\ref trtexUsp00804a 484
+\t Entonses ajruk' re xk'am taq chik-ch íjij,+
+\m entoons aj- ruk' re x- k'am taq chik -ch íjij
+\g entonces AGT PART el TAM recibir PL PART MOV semilla
+\c adv pref part pron tam vt pl part mov s
+\l Entocnes volvieron a traer semilla
+\gs GL GT GT GL GT GL GT GT GT GL
+\p adv AGT#pref PART#part pron TAM#tam vt PL#pl PART#part MOV#mov s
+
+\ref trtexUsp00804a 485
+\t xkam taq chik-ch juun íjij,+
+\m x- kam taq chik -ch jun íjij
+\g TAM morir PL PART MOV uno semilla
+\c tam vi pl part mov num s
+\l volvieron a traer otro tipo de semilla
+\gs GT GL GT GT GT GL GL
+\p TAM#tam vi PL#pl PART#part MOV#mov num s
+
+\ref trtexUsp00804a 486
+\t xu' jk'ute' taq nik'ij íjij re ab'iix.+
+\m x- yu' j- k'ut -e' taq nik'ij íjij re ab'iix
+\g TAM venir E3S enseñar SC PL algunos semilla de milpa
+\c tam vi pers vt suf pl adv s part s
+\l volvieron a traer otro tipo de semilla
+\gs GT GL GT GL GT GT GL GL GL GL
+\p TAM#tam vi E3S#pers vt SC#suf PL#pl adv s part s
+
+\ref trtexUsp00804a 487
+\t Y... pi we iin kla' ta' xkwin taq yaq moosib',+
+\m y... pi we iin kla' ta' x- kwin taq yaq moos -ib'
+\g y PREP si yo allí no TAM poder PL los/las ladino PL
+\c conj prep part pron adv adv tam vi pl PL s suf
+\l Y para mi que por ese lado no pudieron dominarnos los ladinos
+\gs GL GT GL GL GL GL GT GL GT GL GL GT
+\p conj PREP#prep part pron adv adv TAM#tam vi PL#pl PL s PL#suf
+
+\ref trtexUsp00804a 488
+\t wi' tikojow íjij li,+
+\m wi' ti- koj -ow íjij li
+\g EXS TAM usar AP semilla DEM
+\c exist tam vt suf s dem
+\l hay algunos que utilizan este tipo de semilla
+\gs GT GT GL GT GL GT
+\p EXS#exist TAM#tam vt AP#suf s DEM#dem
+
+\ref trtexUsp00804a 489
+\t wi' tikojow per ta' qas tipax jwich,+
+\m wi' ti- koj -ow peer ta' qas ti- pax j- wich
+\g EXS TAM usar AP pero no ITS TAM abundar E3S SR
+\c exist tam vt suf adv adv ITS tam vt pers srel
+\l existen quienes lo utilizan pero no se produce muy bien
+\gs GT GT GL GT GL GL GT GT GL GT GL
+\p EXS#exist TAM#tam vt AP#suf adv adv ITS#ITS TAM#tam vt E3S#pers srel
+
+\ref trtexUsp00804a 490
+\t y... k'omo re nim laj ranm qaaj uleew,+
+\m y... k'omo re nim laj r- anm qaaj uleew
+\g y gracias de grande ITS E3 corazon papá tierra
+\c conj adv part adj ITS pers s s s
+\l Y estamos muy agradecidos con nuestra madre tierra
+\gs GL GL GL GL GT GT GL GL GL
+\p conj adv part adj ITS#ITS E3#pers s s s
+
+\ref trtexUsp00804a 491
+\t ki ta' ta' xya' qaaw chi' r-iij,+
+\m ki ta' ta' x- ye' qa- wa chi' r- *** -iij
+\g negación no no TAM dar E1P tortilla PREP E3 *** -cascara
+\c part adv adv tam vt pers s prep pers *** s
+\l no nos acostrubamos con este tipo de semilla
+\gs GL GL GL GT GL GT GL GT GT logged GL
+\p part adv adv TAM#tam vt E1P#pers s PREP#prep E3#pers error s
+
+\ref trtexUsp00804a 492
+\t wet x-e' ra qaaw chi' r-iij,+
+\m w- et x- b'e ra qa- wa chi' r- *** -iij
+\g E1S repente TAM ir DIM E1P tortilla PREP E3 *** -cascara
+\c pers adv tam vi part pers s prep pers *** s
+\l si nos hubieramos acostrumbrado
+\gs GT GL GT GL GT GT GL GT GT logged GL
+\p E1S#pers adv TAM#tam vi DIM#part E1P#pers s PREP#prep E3#pers error s
+
+\ref trtexUsp00804a 493
+\t tab'an pensar iin,+
+\m ti- a- b'an pensar iin
+\g TAM E2S hacer pensar yo
+\c tam pers vt vt pron
+\l yo pensaría
+\gs GT GT GL GL GL
+\p TAM#tam E2S#pers vt vt pron
+
+\ref trtexUsp00804a 494
+\t tisach qawch oj lajor.+
+\m ti- sach qa- ch ooj lajor
+\g TAM perder E1P SR nosotros rapido
+\c tam vt pers srel pron adv
+\l ya nos hubieramos muerto
+\gs GT GL GT GL GL GL
+\p TAM#tam vt E1P#pers srel pron adv
+
+\ref trtexUsp00804a 495
+\t Por ke rijaj re-chaq re q-e juun junaab' tine' b'e aloq'e' chik rik'i'al,+
+\m por ke r- ijaaj re -ch -aq re q- e juun junaab' ti- ne' b'e a- loq' -e' chik r- ***
+\g por que E3 semilla el MOV PL el E1P SR uno año TAM NEG ir E2S comprar SC PART E3 ***
+\c adv part pers s pron mov suf pron pers srel num s tam part vi pers vt suf part pers ***
+\l Porque la semilla de ellos, es solo para un año, se tiene que comprar para el siguiente año.
+\gs GL GL GT GL GL GT GT GL GT GT GL GL GT GT GL GT GL GT GT GT logged
+\p adv part E3#pers s pron MOV#mov PL#suf pron E1P#pers SR#srel num s TAM#tam NEG#part vi E2S#pers vt SC#suf PART#part E3#pers error
+
+\ref trtexUsp00804a 496
+\t y... tril taq ke fuerte raajwu,+
+\m y... ti- r- il taq ke fweert r- a- ajwu
+\g y TAM E3 ver PL que fuerte E3 E2S dueño
+\c conj tam pers vt pl part adj pers pers s
+\l y vieron que tubo mucha demanda
+\gs GL GT GT GL GT GL GL GT GT GL
+\p conj TAM#tam E3#pers vt PL#pl part adj E3#pers E2S#pers s
+
+\ref trtexUsp00804a 497
+\t tiraq'ansaaj taq maas r-ijil.+
+\m ti- r- aq'ansaa -j taq maas r- ijiil
+\g TAM E3 subirlo SC PL más E3 precio
+\c tam pers vt suf pl adv pers s
+\l le suvieron mucho de precio
+\gs GT GT GL GT GT GL GT GL
+\p TAM#tam E3#pers vt SC#suf PL#pl adv E3#pers s
+
+\ref trtexUsp00804a 498
+\t Pero k'omo re Dyoos kirtyaan ta' ta' xk'am taq,+
+\m peer k'omo re Dyoos kirtyaan ta' ta' x- k'am taq
+\g pero gracias de Dios persona no no TAM recibir PL
+\c adv adv part s s adv adv tam vt pl
+\l Pero le agradecemos a Dios se acostumbraron con esta semilla
+\gs GL GL GL GL GL GL GL GT GL GT
+\p adv adv part s s adv adv TAM#tam vt PL#pl
+
+\ref trtexUsp00804a 499
+\t et q-e xu' laj ranmaq kirtyaan.+
+\m et q- -e x- yu' laj r- anm -aq kirtyaan
+\g repente E1P SR TAM venir prep E3 corazon PL persona
+\c adv pers srel tam vi prep pers s suf s
+\l de un momento a otro le llego al alma de las personas.
+\gs GL GT GT GT GL GL GT GL GT GL
+\p adv E1P#pers SR#srel TAM#tam vi prep E3#pers s PL#suf s
+
+\ref trtexUsp00804a 500
+\t Xu' chik juun padre tikuxtaaj,+
+\m x- yu' chik jun padre ti- kuxtaa -j
+\g TAM venir PART un padre TAM recordar SC
+\c tam vi part art s tam vt suf
+\l Recuerdo que vino otro padre
+\gs GT GL GT GL GL GT GL GT
+\p TAM#tam vi PART#part art s TAM#tam vt SC#suf
+
+\ref trtexUsp00804a 501
+\t xu' chik juun padre padre laj chootx,+
+\m x- yu' chik jun padre padre laj chootx
+\g TAM venir PART un padre padre en iglesia
+\c tam vi part art s s prep s
+\l vino otro padre a la Iglesia Católica
+\gs GT GL GT GL GL GL GL GL
+\p TAM#tam vi PART#part art s s prep s
+
+\ref trtexUsp00804a 502
+\t por ke ójir ri ri iglesya katolika ri maas wi'+
+\m por ke ójir ri ri iglesya katolika ri maas wi'
+\g por que antes DEM DEM iglesia católica DEM más EXS
+\c adv part adv dem dem s s dem adv exist
+\l porque antes la Iglesia Católica era que tenía más personas
+\gs GL GL GL GT GT GL GL GT GL GT
+\p adv part adv DEM#dem DEM#dem s s DEM#dem adv EXS#exist
+
+\ref trtexUsp00804a 503
+\t wi' jchoq'w pwees jswerte wunaq,+
+\m wi' j- choq'w pwees j- swerte wunaq
+\g EXS E3S fuerza pues E3S suerte hombre
+\c exist pers adj adv pers s s
+\l tenían muicha suerte
+\gs GT GT GL GL GT GL GL
+\p EXS#exist E3S#pers adj adv E3S#pers s s
+
+\ref trtexUsp00804a 504
+\t lajori ya no x-b'an-sáj i' k'ex re,+
+\m laj'ori ya no' x- b'an -sáj i'n k'ex re
+\g ahora ya no TAM hacer PAS enfatica cambiar de
+\c adv voc adv tam vt suf part vt part
+\l pero ahora ya no es así
+\gs GL GL GL GT GL GT GL GL GL
+\p adv voc adv TAM#tam vt PAS#suf part vt part
+
+\ref trtexUsp00804a 505
+\t e... xu' chik juun padre,+
+\m ee x- yu' chik jun padre
+\g e TAM venir PART un padre
+\c conj tam vi part art s
+\l vino ese padre
+\gs GL GT GL GT GL GL
+\p conj TAM#tam vi PART#part art s
+
+\ref trtexUsp00804a 506
+\t xiij:+
+\m x- b'ij
+\g TAM decir
+\c tam vt
+\l y dijo
+\gs GT GL
+\p TAM#tam vt
+
+\ref trtexUsp00804a 507
+\t - Lo ke b'anol awi'laq,+
+\m lo ke b'an -ol a- wi'l -aq
+\g lo que hacer AGT E2S SR PL
+\c part part vt suf pers srel suf
+\l -Lo que ustededes etan aciendo
+\gs GL GL GL GT GT GL GT
+\p part part vt AGT#suf E2S#pers srel PL#suf
+
+\ref trtexUsp00804a 508
+\t e... kita', kita' tzii por ke tinak'am taq jno'j kirtyaan ma ma a-winaq ta' ataq.+
+\m ee ki - ta' ki - ta' tzii por ke ti- na - k'am taq j- no'j kirtyaan ma ma a- wunaq ta' at -aq
+\g e negación no negación no bueno por que TAM tiempo recibir PL E3S conocimiento persona NEG NEG E2S hombre no tu PL
+\c conj part adv part adv adj adv part tam part vt pl pers s s part part pers s adv pron suf
+\l no esta bién, porque estan utilizando el conocimiento de otra persona, que no son sus paisanos.
+\gs GL GL GT GL GL GT GL GL GL GL GT GL GT GL GT GT GL GL GT GT GT GL GL GL GT
+\p conj part # adv part # adv adj adv part TAM#tam part # vt PL#pl E3S#pers s s NEG#part NEG#part E2S#pers s adv pron PL#suf
+
+\ref trtexUsp00804a 509
+\t Iin t-in-b'ij, chw-e chaq ta' tzii tab'an taq.+
+\m iin ti- in- b'ij ch -w -e chaq ta' tzii ti- a- b'an taq
+\g yo TAM A1S decir PREP MOV SR PART no bueno TAM E2S hacer PL
+\c pron tam pers vt prep suf srel part adv adj tam pers vt pl
+\l y yo les digo a ustedes, que no esta bien esto
+\gs GL GT GT GL GT GT GT GT GL GL GT GT GL GT
+\p pron TAM#tam A1S#pers vt PREP#prep MOV#suf SR#srel PART#part adv adj TAM#tam E2S#pers vt PL#pl
+
+\ref trtexUsp00804a 510
+\t If. Re xan juun miyiij toq'ob',+
+\m re x- b'an jun miyiij toq'ob'
+\g de TAM hacer un favor favor
+\c part tam vt art s s
+\l If. Él nos hizo un gran favor
+\gs GL GT GL GL GL GL
+\p part TAM#tam vt art s s
+
+\ref trtexUsp00804a 511
+\t xu' j-wa'-b'a' júnkitz,+
+\m x- yu' j- wa' -b'a' júnkitz
+\g TAM venir E3S parar TRN un@poco
+\c tam vi pers pos suf adv
+\l vino a detener un poco esto
+\gs GT GL GT GL GT GL
+\p TAM#tam vi E3S#pers pos TRN#suf adv
+
+\ref trtexUsp00804a 512
+\t ma k'am taq maq íjij+
+\m ma k'am taq m -aq íjij
+\g NEG recibir PL ART PL semilla
+\c part vt pl art suf s
+\l
+\gs GT GL GT GT GT GL
+\p NEG#part vt PL#pl ART#art PL#suf s
+
+\ref trtexUsp00804a 513
+\t k'amolch man mees,+
+\m k'am -ol -ch man mees
+\g traer AGT MOV ART basura
+\c vt suf mov art s
+\l -No utilicen este tipo de semilla
+\gs GL GT GT GT GL
+\p vt AGT#suf MOV#mov ART#art s
+
+\ref trtexUsp00804a 514
+\t ya xakamsáj aw-ulew-aq,+
+\m ya x- a- kam -sáj aw- uleew -aq
+\g ya TAM E2S morir PAS E2 tierra PL
+\c voc tam pers vi suf pers s suf
+\l porque traen un tipo de químico
+\gs GL GT GT GL GT GT GL GT
+\p voc TAM#tam E2S#pers vi PAS#suf E2#pers s PL#suf
+
+\ref trtexUsp00804a 515
+\t mejor tok taq juun no'j re.+
+\m mejor tok taq jun no'j re
+\g mejor buscar PL un conocimiento el
+\c adv vt pl art s pron
+\l que mata la riqueza de la tierra
+\gs GL GL GT GL GL GL
+\p adv vt PL#pl art s pron
+
+\ref trtexUsp00804a 516
+\t If. Li ta' ta ojkwin ooj chi b'aniik,+
+\m li ta' ta' oj- kwin ooj chi b'an -iik
+\g DEM no no A1P poder nosotros SR hacer SV
+\c dem adv adv pers vi pron srel vt suf
+\l If. Pero esto no lo podemos nosotros hacer
+\gs GT GL GL GT GL GL GL GL GT
+\p DEM#dem adv adv A1P#pers vi pron srel vt SV#suf
+
+\ref trtexUsp00804a 517
+\t iin x-in-tij-a' jb'aniik per xinkosi',+
+\m iin x- in- tij -e' j- b'an -iik peer x- in- kos - i'n
+\g yo TAM A1S comer SC E3S hacer SV pero TAM A1S cansar enfatica
+\c pron tam pers v suf pers vt suf adv tam pers vi part
+\l yo intente una estrategia pero no lo longré
+\gs GL GT GT GL GT GT GL GT GL GT GT GL GT GL
+\p pron TAM#tam A1S#pers v SC#suf E3S#pers vt SV#suf adv TAM#tam A1S#pers vi # part
+
+\ref trtexUsp00804a 518
+\t ta' ta' x-in-k'iw+
+\m ta' ta' x- in- k'iw
+\g no no TAM A1S aguantar
+\c adv adv tam pers vt
+\l no, no lo soporté
+\gs GL GL GT GT GL
+\p adv adv TAM#tam A1S#pers vt
+
+\ref trtexUsp00804a 519
+\t xink'iw raaj joob' junaab' ke xink'iwt
+\m x- in- k'iw raaj joob' junaab' ke x- in- k'iw
+\g TAM A1S aguantar talvez cinco año que TAM A1S aguantar
+\c tam pers vt adv num s part tam pers vt
+\l aguante talvez unos cinco años fue lo que soporte
+\gs GT GT GL GL GL GL GL GT GT GL
+\p TAM#tam A1S#pers vt adv num s part TAM#tam A1S#pers vt
+
+\ref trtexUsp00804a 520
+\t o waqaqiib' ke junaab' ke xink'iwtaq.+
+\m o' waq -aq -ib' ke junaab' ke x- in- k'iw
+\g o seis PL PL que año que TAM A1S aguantar
+\c conj num suf suf part s part tam pers vt
+\l o talves unos ocho años fueron los que resistí
+\gs GL GL GT GT GL GL GL GT GT GL
+\p conj num PL#suf PL#suf part s part TAM#tam A1S#pers vt
+
+\ref trtexUsp00804a 521
+\t Tankoj mees la' bween ab'iix tran.+
+\m ti- in- koj mees la bween ab'iix ti- r- b'an
+\g TAM A1S usar basura PREP bueno milpa TAM E3 hacer
+\c tam pers vt s prep adv s tam pers vt
+\l no utilizando abono a la milpa que sembraba
+\gs GT GT GL GL GT GL GL GT GT GL
+\p TAM#tam A1S#pers vt s PREP#prep adv s TAM#tam E3#pers vt
+
+\ref trtexUsp00804a 522
+\t Pero jyook eek' tankoj la',+
+\m peer j- yook eek' ti- in- koj la
+\g pero E3S excremento pollo TAM A1S usar PREP
+\c adv pers s s tam pers vt prep
+\l Pero estiércol de gallina utiliza para abono
+\gs GL GT GL GL GT GT GL GT
+\p adv E3S#pers s s TAM#tam A1S#pers vt PREP#prep
+
+\ref trtexUsp00804a 523
+\t pero bween ab'iix tran,+
+\m peer bween ab'iix ti- r- b'an
+\g pero bueno milpa TAM E3 hacer
+\c adv adv s tam pers vt
+\l y sí se producia buan milpa
+\gs GL GL GL GT GT GL
+\p adv adv s TAM#tam E3#pers vt
+
+\ref trtexUsp00804a 524
+\t peer k'ex-i',+
+\m peer k'ex - i'n
+\g pero dolor enfatica
+\c adv adj part
+\l pero es muy costoso manter este tipo de sistema
+\gs GL GL GT GL
+\p adv adj # part
+
+\ref trtexUsp00804a 525
+\t k'exi' júnkitz chapiik,+
+\m k'ex - i'n júnkitz chap -iik
+\g dolor enfatica un@poco agarrar SV
+\c adj part adv vt suf
+\l es un poco costoso utilizarlo
+\gs GL GT GL GL GL GT
+\p adj # part adv vt SV#suf
+
+\ref trtexUsp00804a 526
+\t y... xojran taq jaragaan tambyeen.+
+\m y... x- oj- r- b'an taq j- a- r- a- gaan tambyeen
+\g y TAM A1P E3 hacer PL E3S E2S E3 E2S gustar también
+\c conj tam pers pers vt pl pers pers pers pers s adv
+\l Y por esos metodos nos volvimos perezos
+\gs GL GT GT GT GL GT GT GT GT GT GL GL
+\p conj TAM#tam A1P#pers E3#pers vt PL#pl E3S#pers E2S#pers E3#pers E2S#pers s adv
+
+\ref trtexUsp00804a 527
+\t Juntiir qleen tib'ansáj taqch yaq kaxlaan taq wónik,+
+\m juntiir qleen ti- b'an -sáj taq -ch yaq kaxlaan taq wunaq
+\g todo cosas TAM hacer PAS PL MOV los/las ladino PL hombre
+\c adv s tam vt suf pl mov PL s pl s
+\l Todo tipo de cosas están construyendo los hombres ladinos
+\gs GL GL GT GL GT GT GT GL GL GT GL
+\p adv s TAM#tam vt PAS#suf PL#pl MOV#mov PL s PL#pl s
+
+\ref trtexUsp00804a 528
+\t ti-qa-b'ij ooj es la teknolojya abansada,+
+\m ti- qa- chi' -ij ooj es la teknolojya abansada
+\g TAM E1P *** *** nosotros es en tecnología avanzar
+\c tam pers *** *** pron adv prep s vt
+\l nosotros es la tecnología esta avanzando
+\gs GT GT logged logged GL GL GL GL GL
+\p TAM#tam E1P#pers error error pron adv prep s vt
+
+\ref trtexUsp00804a 529
+\t per lo ke pasar ooj q-e tran taq jaragaan.+
+\m peer lo ke pasar ooj q- -e ti- r- b'an taq j- a- r- a- gaan
+\g pero lo que pasar noso E1P SR TAM E3 hacer PL E3S E2S E3 E2S gustar
+\c adv part part vt pron pers srel tam pers vt pl pers pers pers pers s
+\l por por causa de esto nos estamos volviendo araganes
+\gs GL GL GL GL GL GT GT GT GT GL GT GT GT GT GT GL
+\p adv part part vt pron E1P#pers SR#srel TAM#tam E3#pers vt PL#pl E3S#pers E2S#pers E3#pers E2S#pers s
+
+\ref trtexUsp00804a 530
+\t Ojwux jaragaan jwi'l ta' chi chiqaaj tiqab'an qleen,+
+\m oj- wux jaragaan j- wi'l ta'
+\g A1P convertir haragan E3S SR ***
+\c pers vi adj pers srel ***
+\l Nos convertimos en araganes, ya nos gusta hacer cosas con las manos.
+\gs GT GL GL GT GL logged
+\p A1P#pers vi adj E3S#pers srel error
+
+\ref trtexUsp00804a 531
+\t Ooj ojb'anow,+
+\m ooj oj- b'an -ow
+\g nosotros A1P hacer AP
+\c pron pers vt suf
+\l Por ejemplo esta mesa que tenemos enfrente
+\gs GL GT GL GT
+\p pron A1P#pers vt AP#suf
+
+\ref trtexUsp00804a 532
+\t il baa juun qameex wi' chi qawch,+
+\m il baa jun qa- meex wi' chi qa- ch
+\g ver baya un E1P mesa EXS PREP E1P SR
+\c vt voc art pers s exist prep pers srel
+\l
+\gs GL GL GL GT GL GT GT GT GL
+\p vt voc art E1P#pers s EXS#exist PREP#prep E1P#pers srel
+
+\ref trtexUsp00804a 533
+\t ya ch'iich' chaq b'anownaq,+
+\m ya ch'iich' chaq b'an -ow -naq
+\g ya hierro PART hacer AP PP
+\c voc s part vt suf suf
+\l ya maquinaria lo ha cortado
+\gs GL GL GT GL GT GT
+\p voc s PART#part vt AP#suf PP#suf
+
+\ref trtexUsp00804a 534
+\t ma jq'ab' ta' chi ki wunaq tib'anow.+
+\m ma j- q'aab' ta' chi
+\g NEG E3S mano no ***
+\c part pers s adv ***
+\l ya no fue la manual la cortada de esta madera
+\gs GT GT GL GL logged
+\p NEG#part E3S#pers s adv error
+
+\ref trtexUsp00804a 535
+\t Y... si mi ta' chi' luus ta' chi' ki chi-q-aaj ojchakunik,+
+\m y... si' mi ta' chi luus ta' chi ki chi -aq -aaj oj- chaak -un -ik
+\g y si mi no PREP luz no PREP negación PREP PL MED A1P trabajo AP SC
+\c conj adv part adv prep s adv prep part prep suf suf pers s suf suf
+\l Y si encaso se fuera la luz ya no queremos trabajar
+\gs GL GL GL GL GT GL GL GT GL GT GT GT GT GL GT GT
+\p conj adv part adv PREP#prep s adv PREP#prep part PREP#prep PL#suf MED#suf A1P#pers s AP#suf SC#suf
+
+\ref trtexUsp00804a 536
+\t ta' chi loq' ojchakunik,+
+\m ta' chi loq' oj- chaak -un -ik
+\g no PREP posible A1P trabajo AP SC
+\c adv prep adv pers s suf suf
+\l ya no es posible trabajar
+\gs GL GT GL GT GL GT GT
+\p adv PREP#prep adv A1P#pers s AP#suf SC#suf
+
+\ref trtexUsp00804a 537
+\t a' es ke ta' luus ti-qa-tzaq reqle'n,+
+\m a' es ke ta' luus ti- qa- tza -aq r- eqle'n
+\g a es que no luz TAM E1P salado PL E3 culpa
+\c cojn adv part adv s tam pers adj suf pers s
+\l a la energía electrica le echamos la culpa
+\gs GL GL GL GL GL GT GT GL GT GT GL
+\p cojn adv part adv s TAM#tam E1P#pers adj PL#suf E3#pers s
+
+\ref trtexUsp00804a 538
+\t y... ri li ma qamaak ta' ooj,+
+\m y... ri li ma qa- maak ta' ooj
+\g y DEM DEM NEG E1P culpa no nosotros
+\c conj dem dem part pers s adv pron
+\l y eso no es culpa de nosotros
+\gs GL GT GT GT GT GL GL GL
+\p conj DEM#dem DEM#dem NEG#part E1P#pers s adv pron
+
+\ref trtexUsp00804a 539
+\t por ke jilon li tin tib'ansáj chiqawch,+
+\m por ke jilon li ti- *** -in ti- b'an -sáj chiqa -w -ch
+\g por que asi DEM TAM *** AP TAM hacer PAS empujar MOV MOV
+\c adv part adv dem tam *** suf tam vt suf vt suf mov
+\l porque ya nos acostrumbraron a esto
+\gs GL GL GL GT GT logged GT GT GL GT GL GT GT
+\p adv part adv DEM#dem TAM#tam error AP#suf TAM#tam vt PAS#suf vt MOV#suf MOV#mov
+
+\ref trtexUsp00804a 540
+\t ta chi' loq' xq'ataq qawch pwees,+
+\m ta' chi' loq' x- q'at -aq qa- ch pwees
+\g no PREP posible TAM cortar PL E1P SR pues
+\c adv prep adv tam vt suf pers srel adv
+\l ya no es posible, porque nos acostubraron a todo esto,
+\gs GL GT GL GT GL GT GT GL GL
+\p adv PREP#prep adv TAM#tam vt PL#suf E1P#pers srel adv
+
+\ref trtexUsp00804a 541
+\t la jq'ab'aq chaq wi'w lajori chaak,+
+\m la j- q'ab' -aq chaq wi' -w laj'ori chaak
+\g PREP E3S mano PL PART EXS MOV ahora trabajo
+\c prep pers s suf part exist suf adv s
+\l ahora ya estamos sometidos a la voluntad de ellos
+\gs GT GT GL GT GT GT GT GL GL
+\p PREP#prep E3S#pers s PL#suf PART#part EXS#exist MOV#suf adv s
+
+\ref trtexUsp00804a 542
+\t la jq'ab' chaq moosib' wi' taq.+
+\m la j- q'ab' chaq moos -ib' wi' taq
+\g en E3S mano PART ladino PL EXS PL
+\c prep pers s part s suf exist pl
+\l todo esta en las manos de los hombre ladinos
+\gs GL GT GL GT GL GT GT GT
+\p prep E3S#pers s PART#part s PL#suf EXS#exist PL#pl
+
+\ref trtexUsp00804a 543
+\t Ooj ti-qa-b'ij ooj,+
+\m ooj tiq -ab' -iij ooj
+\g nosotros *** *** *** nosotros
+\c pron *** *** *** pron
+\l Nosotros decimos
+\gs GL logged logged logged GL
+\p pron error error error pron
+
+\ref trtexUsp00804a 544
+\t ojkwini' ooj,+
+\m oj- kwin - i'n ooj
+\g A1P poder enfatica nosotros
+\c pers vi part pron
+\l nosotros podemos
+\gs GT GL GT GL GL
+\p A1P#pers vi # part pron
+
+\ref trtexUsp00804a 545
+\t ojkwini' júnkitz,+
+\m oj- kwin - i'n júnkitz
+\g A1P poder enfatica un@poco
+\c pers vi part adv
+\l podemos un poco
+\gs GT GL GT GL GL
+\p A1P#pers vi # part adv
+
+\ref trtexUsp00804a 546
+\t xqetemaji' por ke tijk'utaq chiqawch.+
+\m x- q- etama - ji' por ke ti- j- k'ut -aq chiqa -w -ch
+\g TAM E1P saber AFI por que TAM E3S enseñar PL empujar MOV MOV
+\c tam pers vt part adv part tam pers vt suf vt suf mov
+\l podemos porque solo no lo enseñaron
+\gs GT GT GL GT GT GL GL GT GT GL GT GL GT GT
+\p TAM#tam E1P#pers vt # AFI#part adv part TAM#tam E3S#pers vt PL#suf vt MOV#suf MOV#mov
+
+\ref trtexUsp00804a 547
+\t Per xqetemaj juun étzel no'j,+
+\m peer x- q- etama -j jun étzel no'j
+\g pero TAM E1P saber SC un malo conocimiento
+\c adv tam pers vt suf art adj s
+\l Pero enseñaron a muchas cosas malas
+\gs GL GT GT GL GT GL GL GL
+\p adv TAM#tam E1P#pers vt SC#suf art adj s
+
+\ref trtexUsp00804a 548
+\t ri jno'j re ch-aq pi w-e iin Oswaldo jamas iin r-an taq kombenser.+
+\m ri j- no'j re ch -aq pi w- e iin Waldo jamaas iin r- b'an taq kombenser
+\g DEM E3S conocimiento el PREP PL PREP E1S SR yo Oswaldo jamás yo E3 hacer PL convenser
+\c dem pers s pron prep suf prep pers srel pron nom adv pron pers vt pl vt
+\l Estos conocimientos para mi Oswaldo nunca me van a convencer
+\gs GT GT GL GL GT GT GT GT GT GL GL GL GL GT GL GT GL
+\p DEM#dem E3S#pers s pron PREP#prep PL#suf PREP#prep E1S#pers SR#srel pron nom adv pron E3#pers vt PL#pl vt
+
+\ref trtexUsp00804a 549
+\t Y... wi' ne mas tib'in taq,+
+\m y... wi' neen maas ti- b'ij taq
+\g y EXS que más TAM decir PL
+\c conj exist adv adv tam vt pl
+\l Y hay muchas cosas mas que dicen,
+\gs GL GT GL GL GT GL GT
+\p conj EXS#exist adv adv TAM#tam vt PL#pl
+
+\ref trtexUsp00804a 550
+\t por ejemplo wi' juun k'itzaan qaqaaj tib'in taq:+
+\m por ejeempl wi' jun k'itzaan qa- qaaj ti- b'ij taq
+\g por ejemplo EXS un finado(a) E1P papá TAM decir PL
+\c adv s exist art s. pers s tam vt pl
+\l por ejemplo, un finado señor dice:
+\gs GL GL GT GL logged GT GL GT GL GT
+\p adv s EXS#exist art error E1P#pers s TAM#tam vt PL#pl
+
+\ref trtexUsp00804a 551
+\t a'... es ke man ri'j wunaq ta' tijta' jcholájil,+
+\m a' es ke man ri'j wunaq ta' ti- j- ta' j- cholaj -iil
+\g a es que ART viejo hombre no TAM E3S encontrar E3S manera SAB
+\c cojn adv part art adj s adv tam pers vt pers adv suf
+\l -A es que ese señor ya esta viejo y no entiende de esto,
+\gs GL GL GL GT GL GL GL GT GT GL GT GL GT
+\p cojn adv part ART#art adj s adv TAM#tam E3S#pers vt E3S#pers adv SAB#suf
+
+\ref trtexUsp00804a 552
+\t ri che'w ya ri'j chaq.+
+\m ri che'w ya ri'j chaq
+\g DEM por@eso ya viejo PART
+\c dem adv voc adj part
+\l talvez porque ya esta viejo
+\gs GT GL GL GL GT
+\p DEM#dem adv voc adj PART#part
+
+\ref trtexUsp00804a 553
+\t If. No iin lajori tin tanya' kwenta re ma ri ta' che'w ri'jaal,+
+\m no' iin laj'ori ti- *** -in ti- in- ye' kweent re ma ri ta' che'w ri'j -aal
+\g no yo ahora TAM *** AP TAM A1S dar cuenta de NEG DEM no por@eso viejo SAB
+\c adv pron adv tam *** suf tam pers vt s part part dem adv adv adj suf
+\l If. No, yo me doy cuenta de esto que no es por la vejes,
+\gs GL GL GL GT logged GT GT GT GL GL GL GT GT GL GL GL GT
+\p adv pron adv TAM#tam error AP#suf TAM#tam A1S#pers vt s part NEG#part DEM#dem adv adv adj SAB#suf
+
+\ref trtexUsp00804a 554
+\t sino ke re saqi' la jb'a,+
+\m si' - no' ke re saq - i'n la j- b'a
+\g si no que el blanco enfatica en E3S cabeza
+\c adv adv part pron adj part prep pers s
+\l sino porque tiene claridad de todo esto
+\gs GL GT GL GL GL GL GT GL GL GT GL
+\p adv # adv part pron adj # part prep E3S#pers s
+
+\ref trtexUsp00804a 555
+\t saqi' la jpensar.+
+\m saq - i'n la j- pensar
+\g blanco enfatica PREP E3S pensar
+\c adj part prep pers vt
+\l tiene buenos pensamientos
+\gs GL GT GL GT GT GL
+\p adj # part PREP#prep E3S#pers vt
+
+\ref trtexUsp00804a 556
+\t Ki ta' tzii lo ke xansáj chi q-e,+
+\m ki ta' tzii lo ke x- b'an -sáj chi q- -e
+\g negación no bueno lo que TAM hacer PAS PREP E1P SR
+\c part adv adj part part tam vt suf prep pers srel
+\l que no es bueno lo que nos hicieron
+\gs GL GL GL GL GL GT GL GT GT GT GT
+\p part adv adj part part TAM#tam vt PAS#suf PREP#prep E1P#pers SR#srel
+
+\ref trtexUsp00804a 557
+\t wat tzii taj nen mach b'anow pwees,+
+\m we tzii ta' -j neen ma -ch b'an -ow pwees
+\g si bueno no SC que NEG MOV hacer AP pues
+\c part adj adv suf adv part mov vt suf adv
+\l si fuera bueno quién no lo practicara
+\gs GL GL GL GT GL GT GT GL GT GL
+\p part adj adv SC#suf adv NEG#part MOV#mov vt AP#suf adv
+
+\ref trtexUsp00804a 558
+\t lajori seb'laj qleen tib'ij taq chi q-e,+
+\m laj'ori sib'laj qleen ti- b'ij taq chi q- -e
+\g ahora ITS cosas TAM decir PL PREP E1P SR
+\c adv part s tam vt pl prep pers srel
+\l ahora muchas cosas nos comentan
+\gs GL GT GL GT GL GT GT GT GT
+\p adv ITS#part s TAM#tam vt PL#pl PREP#prep E1P#pers SR#srel
+
+\ref trtexUsp00804a 559
+\t pero ya xmaj taq la qaaw,+
+\m peer ya x- maj taq la qa- wa
+\g pero ya TAM comenzar PL PREP E1P tortilla
+\c adv voc tam vt pl prep pers s
+\l pero todo se inicio por nuestro sagrado maíz
+\gs GL GL GT GL GT GT GT GL
+\p adv voc TAM#tam vt PL#pl PREP#prep E1P#pers s
+
+\ref trtexUsp00804a 560
+\t sach taq jwich,+
+\m sach taq j- wich
+\g perder PL E3S SR
+\c vt pl pers srel
+\l nos quieren desaparecer
+\gs GL GT GT GL
+\p vt PL#pl E3S#pers srel
+
+\ref trtexUsp00804a 561
+\t b'aniik t-a-b'ij, sach taq jwich choq'w uleew,+
+\m b'an -iik sach taq j- wich choq'w uleew
+\g hacer SV extraviar PL E3S SR fuerza tierra
+\c vt suf vt pl pers srel adj s
+\l como les digo, esta desapareciendo la potencia de nuestros terrenos
+\gs GL GT GL GT GT GL GL GL
+\p vt SV#suf vt PL#pl E3S#pers srel adj s
+
+\ref trtexUsp00804a 562
+\t lajori uleew ya loq'ol chaq,+
+\m laj'ori uleew ya loq' -ol chaq
+\g ahora tierra ya comprar AGT PART
+\c adv s voc vt suf part
+\l ahora la tierra ya es comprada
+\gs GL GL GL GL GT GT
+\p adv s voc vt AGT#suf PART#part
+
+\ref trtexUsp00804a 563
+\t para ke ojtzuq ooj,+
+\m para ke oj- tzuq ooj
+\g para que A1P mantener nosotros
+\c srel part pers vt pron
+\l para que nos dé de comer
+\gs GL GL GT GL GL
+\p srel part A1P#pers vt pron
+
+\ref trtexUsp00804a 564
+\t ójir jilon ta'n y... wet xkwin taq,+
+\m ójir jilon ta'n y... we x- kwin taq
+\g antes asi no y si TAM poder PL
+\c adv adv adv conj part tam vi pl
+\l pero antes no era así, y si hubieran podido hacerle daño a nuestras semilla
+\gs GL GL GL GL GL GT GL GT
+\p adv adv adv conj part TAM#tam vi PL#pl
+
+\ref trtexUsp00804a 565
+\t xk'ex taq jwich qijaj mat xu' juun padre li,+
+\m x- k'ex taq j- wich q- ijaaj mat x- yu' jun padre li
+\g TAM cambiar PL E3S SR E1P semilla PART TAM venir un padre DEM
+\c tam vt pl pers srel pers s part tam vi art s dem
+\l solo porque vino un padre y no dio lugar ha todo esto
+\gs GT GL GT GT GL GT GL GT GT GL GL GL GT
+\p TAM#tam vt PL#pl E3S#pers srel E1P#pers s PART#part TAM#tam vi art s DEM#dem
+
+\ref trtexUsp00804a 566
+\t xu'jb'ij,+
+\m x- yu' - j- chi' -iij
+\g TAM venir E3S PREP -cascara
+\c tam vi pers prep s
+\l nos dijo a todos:
+\gs GT GL GT GT GT GL
+\p TAM#tam vi # E3S#pers PREP#prep s
+
+\ref trtexUsp00804a 567
+\t -Ma b'an taq,+
+\m ma b'an taq
+\g NEG hacer PL
+\c part vt pl
+\l No tomen en cuenta estas ideas
+\gs GT GL GT
+\p NEG#part vt PL#pl
+
+\ref trtexUsp00804a 568
+\t ma ma ma k'am taq man no'j li ta' tzii.+
+\m ma ma ma k'am taq man no'j li ta' tzii
+\g NEG NEG NEG recibir PL ART conocimiento DEM no bueno
+\c part part part vt pl art s dem adv adj
+\l no utilicen estas ideas
+\gs GT GT GT GL GT GT GL GT GL GL
+\p NEG#part NEG#part NEG#part vt PL#pl ART#art s DEM#dem adv adj
+
+\ref trtexUsp00804a 569
+\t Wa xak'am taq íjij li,+
+\m we x- a- k'am taq íjij li
+\g si TAM E2S recibir animal semilla DEM
+\c part tam pers vt s s dem
+\l Si utilizan estas semillas
+\gs GL GT GT GL GL GL GT
+\p part TAM#tam E2S#pers vt s s DEM#dem
+
+\ref trtexUsp00804a 570
+\t y... tatitz' laj awuleewaq,+
+\m y... ti- a- titz' laj aw- uleew -aq
+\g y TAM E2S meter prep E2 tierra PL
+\c conj tam pers vt prep pers s suf
+\l y lo siembran en sus terrenos
+\gs GL GT GT GL GL GT GL GT
+\p conj TAM#tam E2S#pers vt prep E2#pers s PL#suf
+
+\ref trtexUsp00804a 571
+\t t-i'n pa wil taq,+
+\m ti- i'n pa w- il taq
+\g TAM enfatica PREP E1S ver PL
+\c tam part prep pers vt pl
+\l allí van a ver después
+\gs GT GL GT GT GL GT
+\p TAM#tam part PREP#prep E1S#pers vt PL#pl
+
+\ref trtexUsp00804a 572
+\t ta' chi ki atwi'n taq pi diyes kinse años.+
+\m ta' chi ki at- wi'n taq pi dyees kinse año
+\g no PREP negación A2S comer PL PREP diez quince años
+\c adv prep part pers vi pl prep num num s
+\l ya no van tener que comer dentro de unos diez años.
+\gs GL GT GL GT GL GT GT GL GL GL
+\p adv PREP#prep part A2S#pers vi PL#pl PREP#prep num num s
+
+\ref trtexUsp00804a 573
+\t Tichup awchaq,+
+\m ti- chup aw- chaq
+\g TAM apagar E2 PART
+\c tam vt pers part
+\l los van ha desaparecer
+\gs GT GL GT GT
+\p TAM#tam vt E2#pers PART#part
+
+\ref trtexUsp00804a 574
+\t por ke man no'j li kita' tzii,+
+\m por ke man no'j li ki - ta' tzii
+\g por que ART conocimiento DEM negación no bueno
+\c adv part art s dem part adv adj
+\l porque ese conocimiento no es bueno
+\gs GL GL GT GL GT GL GT GL GL
+\p adv part ART#art s DEM#dem part # adv adj
+
+\ref trtexUsp00804a 575
+\t man li ri petz -el rik'il yaj q'an-ch'i'r taq kirtyaan.+
+\m man li ri pet -*** r- ik'il yaj q- 'an - ch'i'r taq kirtyaan
+\g ART DEM DEM venir -*** E3 SR CLAS E1P hacer chillante PL persona
+\c art dem dem vi -*** pers srel clas pers vt adj pl s
+\l esas ideas provienen de los hombres extranjeros.
+\gs GT GT GT GL logged GT GL GT GT GL GT GL GT GL
+\p ART#art DEM#dem DEM#dem vi error E3#pers srel CLAS#clas E1P#pers vt # adj PL#pl s
+
+\ref trtexUsp00804a 576
+\t Ri r-aa-j rechaq,+
+\m ri r- aa -j re -ch -aq
+\g DEM E3 querer SC el MOV PL
+\c dem pers vt suf pron mov suf
+\l Lo que ellos quieren
+\gs GT GT GL GT GL GT GT
+\p DEM#dem E3#pers vt SC#suf pron MOV#mov PL#suf
+
+\ref trtexUsp00804a 577
+\t ke juntiir qleen titaw la jq'aab'.+
+\m ke juntiir qleen ti- taw la j- q'aab'
+\g que todo cosas TAM llegar PREP E3S mano
+\c part adv s tam vt prep pers s
+\l es que todo éste controlado por ellos
+\gs GL GL GL GT GL GT GT GL
+\p part adv s TAM#tam vt PREP#prep E3S#pers s
+
+\ref trtexUsp00804a 578
+\t Y... ti'n titaw juntiir li jq'ab'aq,+
+\m y... ti- i'n ti- taw juntiir li j- q'aab' -aq
+\g y TAM enfatica TAM llegar todo DEM E3S mano PL
+\c conj tam part tam vt adv dem pers s suf
+\l Y que todo este dominado por ellos
+\gs GL GT GL GT GL GL GT GT GL GT
+\p conj TAM#tam part TAM#tam vt adv DEM#dem E3S#pers s PL#suf
+
+\ref trtexUsp00804a 579
+\t por ke ooj tiqaya' luwar.+
+\m por ke ooj ti- qa- ye' luwar
+\g por que nosotros TAM E1P dar lugar
+\c adv part pron tam pers vt s
+\l porque nosotros estamos dando lugar ha esto
+\gs GL GL GL GT GT GL GL
+\p adv part pron TAM#tam E1P#pers vt s
+
+\ref trtexUsp00804a 580
+\t Juntiir ri ri ri ritz'iqaq+
+\m juntiir ri ri ri r- itz'yeq -aq
+\g todo DEM DEM DEM E3 ropa PL
+\c adv dem dem dem pers s suf
+\l Todo esto es ropa de ellos
+\gs GL GT GT GT GT GL GT
+\p adv DEM#dem DEM#dem DEM#dem E3#pers s PL#suf
+
+\ref trtexUsp00804a 581
+\t il b'i ri man ra itz'iyeq jmesaq iin koj-ol inwi'l,+
+\m il b'i ri man ra itz'yeq j- mes -aq iin koj -ol in- wi'l
+\g ver MOV DEM ART DIM ropa E3S barrer PL yo usar PP E1S SR
+\c vt part dem art part s pers vt suf pron vt suf pers srel
+\l mira pues esta ropa es basura de ellos y yo lo tengo usado
+\gs GL GT GT GT GT GL GT GL GT GL GL GT GT GL
+\p vt MOV#part DEM#dem ART#art DIM#part s E3S#pers vt PL#suf pron vt PP#suf E1S#pers srel
+
+\ref trtexUsp00804a 582
+\t j-mesaq i' re chaq t'ojol chaq-b'ik.+
+\m j- mes -aq i'n re chaq t'oj -ol chaq -b'ik
+\g E3S basura PL enfatica el PL tirar PP PART MOV
+\c pers s suf part pron part vt suf part mov
+\l es basura de ellos ya no les sirve para nada.
+\gs GT GL GT GL GL GT GL GT GT GT
+\p E3S#pers s PL#suf part pron PL#part vt PP#suf PART#part MOV#mov
+
+\ref trtexUsp00804a 583
+\t Entonses kwinaq tiqan chi qachapiik taq byeen.+
+\m entoons kwin -aq ti- q- b'an chi qa- chap -iik taq
+\g entonces poder PL TAM E1P hacer PREP E1P agarrar SV ***
+\c adv vi suf tam pers vt prep pers vt suf ***
+\l Entonces nos tienen bien aprisionados
+\gs GL GL GT GT GT GL GT GT GL GT logged
+\p adv vi PL#suf TAM#tam E1P#pers vt PREP#prep E1P#pers vt SV#suf error
+
+\ref trtexUsp00804a 584
+\t Byeen byeen xojchap taq chib' qaaw,+
+\m byeen byeen x- oj- chap taq chib' qa- wa
+\g bien bien TAM A1P agarrar PL arriba E1P tortilla
+\c adv adv tam pers vt pl adv pers s
+\l Bien, pero bien nos tienen controlado
+\gs GL GL GT GT GL GT GL GT GL
+\p adv adv TAM#tam A1P#pers vt PL#pl adv E1P#pers s
+
+\ref trtexUsp00804a 585
+\t xojchap taq chib' quleew,+
+\m x- oj- chap taq chib' q- uleew
+\g TAM A1P agarrar PL arriba E1P tierra
+\c tam pers vt pl adv pers s
+\l nos tienen bien controlado por nuestros terreno.
+\gs GT GT GL GT GL GT GL
+\p TAM#tam A1P#pers vt PL#pl adv E1P#pers s
+
+\ref trtexUsp00804a 586
+\t xojchap taq laj qatzantzaq'or,+
+\m x- oj- chap taq laj qa- tzantzaq'or
+\g TAM A1P agarrar PL prep E1P cerebro
+\c tam pers vt pl prep pers s
+\l nos tienen bien dominados del cerebro
+\gs GT GT GL GT GL GT GL
+\p TAM#tam A1P#pers vt PL#pl prep E1P#pers s
+
+\ref trtexUsp00804a 587
+\t koj taq seb'laj k'ii qleen,+
+\m koj taq seb'laj k'ii qleen
+\g usar PL ITS mucho cosas
+\c vt pl part adv s
+\l nos estan introduciendo muchas casas
+\gs GL GT GT GL GL
+\p vt PL#pl ITS#part adv s
+
+\ref trtexUsp00804a 588
+\t y.... jilon li xan taq chi q-e,+
+\m y... jilon li x- b'an taq chi q- -e
+\g y asi DEM TAM hacer PL PREP E1P SR
+\c conj adv dem tam vt pl prep pers srel
+\l y es así como nos tienen
+\gs GL GL GT GT GL GT GT GT GT
+\p conj adv DEM#dem TAM#tam vt PL#pl PREP#prep E1P#pers SR#srel
+
+\ref trtexUsp00804a 589
+\t xmaj taq la la chaak,+
+\m x- maj taq la la chaak
+\g TAM comenzar PL PREP PREP trabajo
+\c tam vt pl prep prep s
+\l comensaron por nuestro trabajo
+\gs GT GL GT GT GT GL
+\p TAM#tam vt PL#pl PREP#prep PREP#prep s
+
+\ref trtexUsp00804a 590
+\t kla' x-maj taqw,+
+\m kla' x- maj taq -w
+\g allí TAM comenzar PL MOV
+\c adv tam vt pl suf
+\l de allí comenzó
+\gs GL GT GL GT GT
+\p adv TAM#tam vt PL#pl MOV#suf
+
