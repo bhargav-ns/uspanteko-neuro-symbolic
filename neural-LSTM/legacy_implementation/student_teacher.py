@@ -16,23 +16,13 @@ from utils import vocab_size, output_size, n_layers, student_embed_size, student
 
 from model import BiDirectLSTM
 import time
-    
 
 print("CUDA availability: ", torch.cuda.is_available())
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+print(device)
 
 def count_parameters(model):
     return sum(p.numel() for p in model.parameters() if p.requires_grad)
-
-# Instantiate the models
-teacher_model = BiDirectLSTM(vocab_size, output_size, teacher_embed_size, teacher_hidden_size, n_layers)
-teacher_model = teacher_model.to(device)
-print(f'The teacher model has {count_parameters(teacher_model):,} trainable parameters')
-
-student_model = BiDirectLSTM(vocab_size, output_size, student_embed_size, student_hidden_size, n_layers)
-student_model = student_model.to(device)
-print(f'The student model has {count_parameters(student_model):,} trainable parameters')
-print('Parameters reduced in student by a factor of ', count_parameters(teacher_model)/count_parameters(student_model))
 
 def rule_violation_penalty(output, gloss_vocab):
     rules = {
@@ -51,6 +41,15 @@ def rule_violation_penalty(output, gloss_vocab):
 def custom_loss_function(original_loss, output, gloss_vocab, penalty_scale):
     penalty = rule_violation_penalty(output, gloss_vocab)
     return original_loss + penalty_scale * penalty
+
+
+# Instantiate the models
+teacher_model = BiDirectLSTM(vocab_size, output_size, teacher_embed_size, teacher_hidden_size, n_layers)
+teacher_model = teacher_model.to(device)
+
+student_model = BiDirectLSTM(vocab_size, output_size, student_embed_size, student_hidden_size, n_layers)
+student_model = student_model.to(device)
+
 
 def train_teacher(rule_penalty):
     ###########

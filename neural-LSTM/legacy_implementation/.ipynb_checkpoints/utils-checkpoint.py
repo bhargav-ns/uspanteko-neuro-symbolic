@@ -12,3 +12,4 @@ teacher_embed_size = 128
 teacher_hidden_size = 256
 
 rule_penalty = 1
+loss_balancer = 1
