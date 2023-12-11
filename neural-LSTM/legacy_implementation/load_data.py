@@ -10,6 +10,9 @@ import ast
 from tqdm import tqdm
 # Load the csv file using pandas
 
+# Reducing the training data - if train_data_size < 1
+train_data_size = 1
+
 print("CUDA availability: ", torch.cuda.is_available())
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(device)
@@ -56,6 +59,12 @@ gloss_padded = pad_and_create_tensors(data['gloss_indices'])
 
 # Splitting the dataset
 X_train, X_val, y_train, y_val = train_test_split(segmented_text_padded, gloss_padded, test_size=0.2, random_state=42)
+
+
+
+if train_data_size < 1:
+    X_train, _, y_train, _ = train_test_split(X_train, y_train, test_size=1-train_data_size, random_state=42)
+
 X_val, X_test, y_val, y_test = train_test_split(X_val, y_val, test_size=0.5, random_state=42)
 
 # Move tensors to the device
