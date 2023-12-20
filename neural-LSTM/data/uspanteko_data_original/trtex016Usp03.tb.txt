@@ -1,0 +1,2825 @@
+\nom [no name given]
+
+\ref trtex016Usp03 001
+\t Iv.Looq' chaq tayol,+
+\m looq' chaq t- a- yol
+\g posible PART INC E2S platicar
+\c adv part tam pers vt
+\l Ya puede contar.
+\gs GL GT GT GT GL
+\p adv PART#part INC#tam E2S#pers vt
+
+\ref trtex016Usp03 002
+\t qa... takiil qatziij chiqe lajori don Vicente.+
+\m qa takiil qa- tziij chi- qe lajori don vicente
+\g E1P noticia E1P palabra PREP SR ahora don vicente
+\c pers s pers s preps rel adv clas nom
+\l La historia de nuestro idioma ahora don Vicente.
+\gs GT GL GT GL GT GL GL GL GL
+\p E1P#pers s E1P#pers s PREP#preps rel adv clas nom
+
+\ref trtex016Usp03 003
+\t If. Ataq qawá'xik,+
+\m ataq qa- wá'x -ik
+\g ustedes E1P semejantes SC
+\c pron pers adj suf
+\l Ustedes nuestros semejantes.
+\gs GL GT GL GT
+\p pron E1P#pers adj SC#suf
+
+\ref trtex016Usp03 004
+\t tanyol kib',+
+\m t- an- yol kib'
+\g INC E1S platicar dos
+\c tam pers vt num
+\l Voy a contar dos.
+\gs GT GT GL GL
+\p INC#tam E1S#pers vt num
+
+\ref trtex016Usp03 005
+\t uxib' yoloj chawe chaq.+
+\m uxib' yoloj ch- aw- e chaq
+\g tres platicar PREP E2P SR PART
+\c num vt prep pers srel part
+\l Tres palabras a ustedes.
+\gs GL GL GT GT GT GT
+\p num vt PREP#prep E2P#pers SR#srel PART#part
+
+\ref trtex016Usp03 006
+\t Chub' kib' uxib' ék'el.+
+\m chub' kib' uxib' ék'el
+\g sobre dos tres niño
+\c s num num s
+\l Sobre dos tres patojos.
+\gs GL GL GL GL
+\p s num num s
+
+\ref trtex016Usp03 007
+\t Wi' jun,+
+\m wi' jun
+\g EXS uno
+\c exist num
+\l Hay un.
+\gs GT GL
+\p EXS#exist num
+
+\ref trtex016Usp03 008
+\t jun ra qa, qajyub'l.+
+\m jun ra qa qa- jyub' -l
+\g uno DIM E1P E1P cerro SC
+\c num part pers pers s suf
+\l Un nuestro cerro. (hay un lugar)
+\gs GL GT GT GT GL GT
+\p num DIM#part E1P#pers E1P#pers s SC#suf
+
+\ref trtex016Usp03 009
+\t Pwes wi' kib',+
+\m pwes wi' kib'
+\g pues EXS dos
+\c adv exist num
+\l Pues había dos.
+\gs GL GT GL
+\p adv EXS#exist num
+
+\ref trtex016Usp03 010
+\t uxib' ek'l tiyolow.+
+\m uxib' ék'l ti- yol -ow
+\g tres niño INC platicar AP
+\c num s tam vi suf
+\l Tres patojos que platican.
+\gs GL GL GT GL GT
+\p num s INC#tam vi AP#suf
+
+\ref trtex016Usp03 011
+\t Neb'ire' titz'an taq li laq'aab'.+
+\m ne- b'i -re' taq li laq'aab'
+\g INT nombre ENF PL PREP noche
+\c part s part part prep adv
+\l Como se llama juegan en la noche.
+\gs GT GL GT GT GT GL
+\p INT#part s ENF#part PL#part PREP#prep adv
+
+\ref trtex016Usp03 012
+\t I... tk'am ra rib'aq+
+\m i t- k'am ra r- ib' -aq
+\g CONJ INC recibir DIM E3S SR PL
+\c conj tam vt part pers srel part
+\l Y se juntaban ellos.
+\gs GT GT GL GT GT GT GT
+\p CONJ#conj INC#tam vt DIM#part E3S#pers SR#srel PL#part
+
+\ref trtex016Usp03 013
+\t tb'e taq laq'aab' li,+
+\m t- b'e taq laq'aab' li
+\g INC ir PL noche DEM
+\c tam vi part adv dem
+\l Se van en la noche entonces.
+\gs GT GL GT GL GT
+\p INC#tam vi PL#part adv DEM#dem
+
+\ref trtex016Usp03 014
+\t itz' li jun nim uxta'j.+
+\m itz' li jun nim ux- ta'j
+\g jugar PREP uno grande SR planicie
+\c vt prep num adj srel s
+\l A jugar en un gran plan o llano.
+\gs GL GT GL GL GL GL
+\p vt PREP#prep num adj srel s
+
+\ref trtex016Usp03 015
+\t Ruk' tren, tra lék'l+
+\m ruk' t- r- en tra lék'l
+\g PART INC E3 hacer DIM niño
+\c part tam pers vt part s
+\l Entonces lo que hacen los niños.
+\gs GT GT GT GL GT GL
+\p PART#part INC#tam E3#pers vt DIM#part s
+
+\ref trtex016Usp03 016
+\t tijchep tra jq'ab'aq,+
+\m ti- j- chep tra j- q'ab' -aq
+\g INC E3S agarrar DIM E3P mano PL
+\c tam pers vt part pers s part
+\l Se agarran de la mano.
+\gs GT GT GL GT GT GL GT
+\p INC#tam E3S#pers vt DIM#part E3P#pers s PL#part
+
+\ref trtex016Usp03 017
+\t t'ok taq chi iitz' laq'aab'.+
+\m t' -ok taq chi iitz' laq'aab'
+\g INC entra PL PREP jugar noche
+\c tam vt part prep vt adv
+\l Entran a jugar en la noche.(empiezan a jugar en la noche)
+\gs GT GL GT GT GL GL
+\p INC#tam vt PL#part PREP#prep vt adv
+
+\ref trtex016Usp03 018
+\t I troqtaj ra rib'aq+
+\m i t- roqta -j ra r- ib' -aq
+\g CONJ INC correr SC DIM E3S SR PL
+\c conj tam vt suf part pers suf part
+\l Y se corren entre ellos.
+\gs GT GT GL GT GT GT GT GT
+\p CONJ#conj INC#tam vt SC#suf DIM#part E3S#pers SR#suf PL#part
+
+\ref trtex016Usp03 019
+\t i wi' komo kab'lajuuj,+
+\m i wi' komo kab'- laj -uuj
+\g CONJ EXS como dos -diez SUF
+\c conj exist adv num num suf
+\l Y son como doce.
+\gs GT GT GL GL GL GT
+\p CONJ#conj EXS#exist adv num num SUF#suf
+
+\ref trtex016Usp03 020
+\t oxlajuj tra ék'l titz'an taq.+
+\m ox- laj -uj tra ék'l t- itz'a -n taq
+\g tres diez SC DIM niño INC jugar AP PL
+\c num num suf part s tam vi suf part
+\l Trece niños son quienes jugaban.
+\gs GL GL GT GT GL GT GL GT GT
+\p num num SC#suf DIM#part s INC#tam vi AP#suf PL#part
+
+\ref trtex016Usp03 021
+\t I i t'ok taq chi iitz',+
+\m i i t'- ok taq chi iitz'
+\g CONJ CONJ INC entrar PL PRE jugar
+\c conj conj tam vi part prep vi
+\l Eso empiezan a jugar.
+\gs GT GT GT GL GT GT GL
+\p CONJ#conj CONJ#conj INC#tam vi PL#part PRE#prep vi
+
+\ref trtex016Usp03 022
+\t i baa iitz',+
+\m i baa iitz'
+\g CONJ baya jugar
+\c conj voc vi
+\l Y va de jugar.
+\gs GT GL GL
+\p CONJ#conj voc vi
+
+\ref trtex016Usp03 023
+\t i baa iitz' tren taq.+
+\m i baa iitz' t- r- en taq
+\g CONJ baya jugar INC E3 hacer PL
+\c conj voc vi tam pers vt part
+\l Y va de jugar hacen ellos.
+\gs GT GL GL GT GT GL GT
+\p CONJ#conj voc vi INC#tam E3#pers vt PL#part
+
+\ref trtex016Usp03 024
+\t I ri' chaq tril taq tra ék'l,+
+\m i ri' chaq t- r- il taq tra ék'l
+\g CONJ DEM PART INC E3 ver PL DIM niño
+\c conj dem part tam pers vt part part s
+\l Y derepente vieron los niños.
+\gs GT GT GT GT GT GL GT GT GL
+\p CONJ#conj DEM#dem PART#part INC#tam E3#pers vt PL#part DIM#part s
+
+\ref trtex016Usp03 025
+\t xk'utun chaq jun neb'ire,+
+\m x- k'ut -un chaq jun ne- b'i -re
+\g COM enseñar AP PART uno INT DIR PART
+\c tam vt suf part num part dir part
+\l Apareció un como se llama.
+\gs GT GL GT GT GL GT GT GT
+\p COM#tam vt AP#suf PART#part num INT#part DIR#dir PART#part
+
+\ref trtex016Usp03 026
+\t jun ra lék'l chijxo'laq.+
+\m jun ra lék'l chi- j- xo'l -aq
+\g uno DIM niño PREP E3S SR PL
+\c num part s prep pers srel part
+\l Un patojito entre de ellos.
+\gs GL GT GL GT GT GL GT
+\p num DIM#part s PREP#prep E3S#pers srel PL#part
+
+\ref trtex016Usp03 027
+\t Ta' xya' taq nemoo rilik xokb'ik ra lek'l chijxo'laq.+
+\m ta' x- ya' taq ne- moo r- il -ik x- ok -b'ik ra lék'l chi- j- xo'l -aq
+\g NEG COM dar PL INT -modo E3 ver SC COM entrar DIR DIM niño PREP E3S SR PL
+\c part tam vt part part adv pers vt suf tam vi dir dim s prep pers srel part
+\l No se dieron como se ve su entrada entre ellos. (no se dieron cuenta como fue su ingreso entre ellos)
+\gs GT GT GL GT GT GL GT GL GT GT GL GT GT GL GT GT GL GT
+\p NEG#part COM#tam vt PL#part INT#part adv E3#pers vt SC#suf COM#tam vi DIR#dir DIM#dim s PREP#prep E3S#pers srel PL#part
+
+\ref trtex016Usp03 028
+\t Ri' chaq riltaq wi' chaq ra lek'l chijxo'laq.+
+\m ri' chaq r- il -taq wi' chaq ra lék'l chi- j- xo'l -aq
+\g DEM PART E3 ver PL EXS PART DIM niño PREP E3S SR PL
+\c part part pers vt part exist part part s prep pers srel part
+\l Cuando se dieron cuenta ya estaba el niño entre ellos.
+\gs GT GT GT GL GT GT GT GT GL GT GT GL GT
+\p DEM#part PART#part E3#pers vt PL#part EXS#exist PART#part DIM#part s PREP#prep E3S#pers srel PL#part
+
+\ref trtex016Usp03 029
+\t I xok chi iitz' tra lek'l.+
+\m i x- ok chi iitz' tra lék'l
+\g CONJ COM entrar PREP jugar DIM niño
+\c conj tam vi prep vi part s
+\l Y empezaron a jugar los niños.
+\gs GT GT GL GT GL GT GL
+\p CONJ#conj COM#tam vi PREP#prep vi DIM#part s
+
+\ref trtex016Usp03 030
+\t Ri' chaq tril wi' chaq ra lek'l li.+
+\m ri' chaq t- r- il wi' chaq ra lék'l li
+\g DEM PART INC E3 ver EXS PART DIM niño DEM
+\c dem part tam pers vt exist part part s dem
+\l Cuando vió ya estaba ese niño.
+\gs GT GT GT GT GL GT GT GT GL GT
+\p DEM#dem PART#part INC#tam E3#pers vt EXS#exist PART#part DIM#part s DEM#dem
+
+\ref trtex016Usp03 031
+\t Toos xij re rajpech.+
+\m toos x- ij r- e ra- j- pech
+\g entonces COM decir E3 SR DIM E3S compañero
+\c adv tam vt pers srel part pers s
+\l Entoces ellos pensarón que era sus copañero.
+\gs GL GT GL GT GL GT GT GL
+\p adv COM#tam vt E3#pers srel DIM#part E3S#pers s
+
+\ref trtex016Usp03 032
+\t -Uuy karal ek'l wi' chi qaxo'l li,+
+\m uuy ka -ral ék'l wi' chi qa- xo'l li
+\g uuy PART DIM niño EXS PREP E1P SR DEM
+\c voc part dim s exist prep pers srel dem
+\l ¡Uuy mira este niño que esta entre nosotros.
+\gs GL GT GT GL GT GT GT GL GT
+\p voc PART#part DIM#dim s EXS#exist PREP#prep E1P#pers srel DEM#dem
+
+\ref trtex016Usp03 033
+\t qachepe' taq,+
+\m qa- chap -e' taq
+\g E1P agarrar ENF PL
+\c pers vt part part
+\l Lo agarremos.
+\gs GT GL GT GT
+\p E1P#pers vt ENF#part PL#part
+
+\ref trtex016Usp03 034
+\t cha'.+
+\m cha'
+\g decir
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex016Usp03 035
+\t - Jaan b'an.+
+\m jaan b'an
+\g esta@bien hacer
+\c adv vt
+\l Esta bien pues.
+\gs GL GL
+\p adv vt
+
+\ref trtex016Usp03 036
+\t -Qachepe' b'an,+
+\m qa- chep -e' b'an
+\g E1P agarrar ENF hacer
+\c pers vt part vt
+\l Lo agarremos pues.
+\gs GT GL GT GL
+\p E1P#pers vt ENF#part vt
+
+\ref trtex016Usp03 037
+\t cha' taq.+
+\m cha' taq
+\g decir PL
+\c vt part
+\l Dijeron ellos.
+\gs GL GT
+\p vt PL#part
+
+\ref trtex016Usp03 038
+\t Xchep taq+
+\m x- chep taq
+\g COM agarrar PL
+\c tam vt part
+\l Lo agarraron.
+\gs GT GL GT
+\p COM#tam vt PL#part
+
+\ref trtex016Usp03 039
+\t i usil xye' rib' ra lék'l xchep taq.+
+\m i usil x- ye' r- ib' ra lek'il x- chep taq
+\g CONJ despacio COM dar E3S SR DIM niño COM agarrar PL
+\c conj adv tam vt pers srel part s tam vt part
+\l Y poco a poco se dejó el niño que lo agarran.
+\gs GT GL GT GL GT GT GT GL GT GL GT
+\p CONJ#conj adv COM#tam vt E3S#pers SR#srel DIM#part s COM#tam vt PL#part
+
+\ref trtex016Usp03 040
+\t I xok chi iitz' rk'ilaq.+
+\m i x- ok chi iitz' r- k'il -aq
+\g CONJ COM entrar PRE jugar E3S SR PL
+\c conj tam vi prep vi pers srel part
+\l Y empezo a jugar con ellos.
+\gs GT GT GL GT GL GT GL GT
+\p CONJ#conj COM#tam vi PRE#prep vi E3S#pers srel PL#part
+
+\ref trtex016Usp03 041
+\t Ya kwand ril taq xok ra lek'l chi iitz' rk'ilaq.+
+\m ya kwand r- il taq x- ok ra lék'l chi iitz' r- k'il -aq
+\g ya cuando E3S ver PL COM entrar DIM niño PRE jugar E3S SR PL
+\c voc adv pers vt part tam vi part s prep vi pers srel part
+\l ya cuando vieron empezó el niñito a jugar con ellos.
+\gs GL GL GT GL GT GT GL GT GL GT GL GT GL GT
+\p voc adv E3S#pers vt PL#part COM#tam vi DIM#part s PRE#prep vi E3S#pers srel PL#part
+
+\ref trtex016Usp03 042
+\t Baay xchep taq chi rb'il rib'aq juntir.+
+\m baay x- chep taq chi r- ib' -il r- ib' -aq juntiir
+\g baya COM agarrar PL PRE E3S RFX SAB E3S RFX PL todo
+\c voc tam vt part prep pers rfx sab pers rfx part adv
+\l Vaya lo agarraron entre ellos todos.
+\gs GL GT GL GT GT GT GT GT GT GT GT GL
+\p voc COM#tam vt PL#part PRE#prep E3S#pers RFX#rfx SAB#sab E3S#pers RFX#rfx PL#part adv
+
+\ref trtex016Usp03 043
+\t Baa xchep taq.+
+\m baa x- chep taq
+\g baya COM agarrar PL
+\c voc tam vt part
+\l Vaya lo agarraron.
+\gs GL GT GL GT
+\p voc COM#tam vt PL#part
+
+\ref trtex016Usp03 044
+\t I juraaj rk'iilaq li iitz'.+
+\m i juraaj r- k'il -aq li iitz'
+\g CONJ jalar E3 SR PL DEM jugar
+\c conj vt pers srel part dem vi
+\l Lo jalaron a jugar con ellos.
+\gs GT GL GT GL GT GT GL
+\p CONJ#conj vt E3#pers srel PL#part DEM#dem vi
+
+\ref trtex016Usp03 045
+\t Tose ri' chaq tril taq sach ra lek'l chijxo'laq.+
+\m tose ri' chaq t- r- il taq sach ra lek'l chi- j- xo'l -aq
+\g entonces DEM PART INC E3S ver PL perder DIM niño PREP E3S SR PL
+\c adv dem part tam pers vt part vt part s prep pers srel part
+\l Entonces cuando se dieron cuenta se desapareció el niño entre ellos.
+\gs GL GT GT GT GT GL GT GL GT GL GT GT GL GT
+\p adv DEM#dem PART#part INC#tam E3S#pers vt PL#part vt DIM#part s PREP#prep E3S#pers srel PL#part
+
+\ref trtex016Usp03 046
+\t I ri' k'uli rechaq xok taq na chi iitz' na.+
+\m i ri' k'u -li rechaq x- ok taq na chi iitz' na
+\g CONJ DEM PART DEM ellos/ellas COM entrar PL PART PREP jugar PART
+\c conj dem part dem pron tam vi part part prep vi part
+\l Y entonces ellos empezaron a jugar otra vez.
+\gs GT GT GT GT GL GT GL GT GT GT GL GT
+\p CONJ#conj DEM#dem PART#part DEM#dem pron COM#tam vi PL#part PART#part PREP#prep vi PART#part
+
+\ref trtex016Usp03 047
+\t - Nemoo xok taq chijtokik ra lek'l,+
+\m neen - moo x- ok taq chi -j tok -ik ra lek'l
+\g INT modo COM entrar PL PREP E3S buscar SC DIM niño
+\c part adv tam vi part prep pers vt suf dim s
+\l Saber como empezaron a buscar al niño.
+\gs GT GT GL GT GL GT GT GT GL GT GT GL
+\p INT#part # adv COM#tam vi PL#part PREP#prep E3S#pers vt SC#suf DIM#dim s
+
+\ref trtex016Usp03 048
+\t ta' chki'n.+
+\m ta' chk -i'n
+\g NEG PART ENF
+\c part part part
+\l Ya no estaba.
+\gs GT GT GT
+\p NEG#part PART#part ENF#part
+
+\ref trtex016Usp03 049
+\t I xok taq chi iitz'.+
+\m i x- ok taq chi iitz'
+\g CONJ COM entrar PL PRE jugar
+\c conj tam vi part prep vi
+\l Y empezaron a jugar.
+\gs GT GT GL GT GT GL
+\p CONJ#conj COM#tam vi PL#part PRE#prep vi
+
+\ref trtex016Usp03 050
+\t -Nemoo lamaas xe'w.+
+\m neen- moo lamaas x- e' -w
+\g INT -modo donde COM SR PART
+\c conj adv adv tam srel part
+\l De que forma se fue.
+\gs GT GL GL GT GL GT
+\p INT#conj adv adv COM#tam srel PART#part
+
+\ref trtex016Usp03 051
+\t Xtok taq lamaas xe'w+
+\m x- tok taq lamaas x- e' -w
+\g COM buscar PL donde COM SR PART
+\c tam vt part adv tam srel part
+\l Lo buscaron a donde se fue.
+\gs GT GL GT GL GT GL GT
+\p COM#tam vt PL#part adv COM#tam srel PART#part
+
+\ref trtex016Usp03 052
+\t i naa tijta' taq lamaas xe'w.+
+\m i naa ti- j- ta' taq lamaas x- e' -w
+\g CONJ nada INC E3S encontrar PL donde COM SR PART
+\c conj adv tam pers vt part adv tam srel part
+\l Y no encontraban a donde se fue.
+\gs GT GL GT GT GL GT GL GT GL GT
+\p CONJ#conj adv INC#tam E3S#pers vt PL#part adv COM#tam srel PART#part
+
+\ref trtex016Usp03 053
+\t Tos xij taq ra ni'j.+
+\m tos xi- -j taq ra ni'j
+\g entonces COM E3S PL DIM otros
+\c adv tam pers paart dim adv
+\l Entonces le dijeron otros.
+\gs GL GT GT GT GT GL
+\p adv COM#tam E3S#pers PL#paart DIM#dim adv
+
+\ref trtex016Usp03 054
+\t - Mejor ooj b'ek+
+\m mejor ooj b'e -ik
+\g mejor nosotros ir SC
+\c adv pron vi suf
+\l Mejor nos vamos.
+\gs GL GL GL GT
+\p adv pron vi SC#suf
+
+\ref trtex016Usp03 055
+\t i tqa... ajri' ooj pechik b'eselq'iij chik.+
+\m i t -qa aj- ri' -i'n ooj pe -chik b'esel -q'iij chik
+\g CONJ INC E1P PART DEM ENF nosotros venir PART ir -día PART
+\c conj tam pers part dem part pron vi part pos s part
+\l Y nos... volveremos en otro atardecer.
+\gs GT GT GT GT GT GT GL GL GT GL GL GT
+\p CONJ#conj INC#tam E1P#pers PART#part DEM#dem ENF#part pron vi PART#part pos s PART#part
+
+\ref trtex016Usp03 056
+\t I neen oor chaq wooj lojori.+
+\m i neen oor chaq w- ooj lojori
+\g CONJ INT hora PART E1P nosotros ahora
+\c conj adv adv part pers pron adv
+\l Y a que horas estamos ahora.
+\gs GT GT GL GT GT GL GL
+\p CONJ#conj INT#adv adv PART#part E1P#pers pron adv
+
+\ref trtex016Usp03 057
+\t I... ooj pechik tqamol chik qib'.+
+\m i ooj pe -chik t- qa- mol chik q- ib'
+\g CONJ nosotros venir PART INC E1P juntar PART E1P SR
+\c conj pron vi part tam pers vt part pers srel
+\l Y volveremos y nos jutaremos.
+\gs GT GL GL GT GT GT GL GT GT GL
+\p CONJ#conj pron vi PART#part INC#tam E1P#pers vt PART#part E1P#pers srel
+
+\ref trtex016Usp03 058
+\t Qatok chik k'ii mas qapech+
+\m qa- tok chik k'ii mas qa- pech
+\g E1P buscar PART mucho más E1P compañero
+\c pers vt part adv adv pers s
+\l Buscaremos más nuestros compañeros.
+\gs GT GL GT GL GL GT GL
+\p E1P#pers vt PART#part adv adv E1P#pers s
+
+\ref trtex016Usp03 059
+\t non li na'l nika' li wee tiyuqchik chiqaxo'l chik.+
+\m non li na'l nik -a' li wee ti- yuq -chik chi- qa- xo'l chik
+\g DEM DEM se@ve PART ENF DEM COND INC estirar PART PREP E1P SR PART
+\c dem dem vi part part dem part tam vt part prep pers srel part
+\l Solamente así se verá si viene otra vez entre nosotros.
+\gs GT GT GL GT GT GT GT GT GL GT GT GT GT GT
+\p DEM#dem DEM#dem vi PART#part ENF#part DEM#dem COND#part INC#tam vt PART#part PREP#prep E1P#pers SR#srel PART#part
+
+\ref trtex016Usp03 060
+\t Lajkab' q'iij xe' taq chik.+
+\m la- j- kab' q'iij x- e' taq chik
+\g PREP E3S dos día com SR PL PART
+\c prep pers num s tam srel part part
+\l Al segundo día se fueron otra vez.
+\gs GT GT GL GL GL GL GT GT
+\p PREP#prep E3S#pers num s tam srel PL#part PART#part
+
+\ref trtex016Usp03 061
+\t I... xtaw chik,+
+\m i x- taw chik
+\g CONJ COM llegar PART
+\c conj tam vt part
+\l Y... volvió otra vez.
+\gs GT GT GL GT
+\p CONJ#conj COM#tam vt PART#part
+
+\ref trtex016Usp03 062
+\t xmol chik rib' tra lek'l mism ra rb'ilaq chik.+
+\m x- mol chik r- ib' tra lek'l mism ra r- b'il -aq chik
+\g COM juntar PART E3S SR DIM niño lomismo DIM E3 RFX PL PART
+\c tam vt part pers srel part s adv dim pers rfx part part
+\l Se juntaron otra vez los niñitos, los mismos otra vez.
+\gs GT GL GT GT GT GT GL GL GT GT GT GT GT
+\p COM#tam vt PART#part E3S#pers SR#srel DIM#part s adv DIM#dim E3#pers RFX#rfx PL#part PART#part
+
+\ref trtex016Usp03 063
+\t I... xpe... tra lek'l chaq tril taq iitz' tren taq.+
+\m i x- pe tra lek'l chaq t- r- il taq iitz' t- r- en taq
+\g CONJ COM venir DIM niño PART INC E3 ver PL jugar INC E3 hacer PL
+\c conj tam vi part s part tam pers vt part vi tam pers vt part
+\l Y vinieron los niñitos, cuando vieron jugando estaba otra vez.
+\gs GT GT GL GT GL GT GT GT GL GT GL GT GT GL GT
+\p CONJ#conj COM#tam vi DIM#part s PART#part INC#tam E3#pers vt PL#part vi INC#tam E3#pers vt PL#part
+
+\ref trtex016Usp03 064
+\t I repentqe ta' naa,+
+\m i repent -qe ta' naa
+\g CONJ derepente PART NEG nada
+\c conj adv part part adv
+\l Y derrepente ya no hay nada.
+\gs GT GL GT GT GL
+\p CONJ#conj adv PART#part NEG#part adv
+
+\ref trtex016Usp03 065
+\t i cha' xtaw chik ra...+
+\m i cha' x- taw chik ra
+\g CONJ decir COM llegar PART DIM
+\c conj vi tam vt part part
+\l Y como fue que llegó el...
+\gs GT GL GT GL GT GT
+\p CONJ#conj vi COM#tam vt PART#part DIM#part
+
+\ref trtex016Usp03 066
+\t Ri' ji'chaq xtaw chik mas kib' tra lek'l.+
+\m ri ji' -chaq x- taw chik mas kiib' tra lek'l
+\g DEM DEM PART COM llegar PART más dos DIM niño
+\c dem dem part tam vt part adv num part s
+\l Y llegaron dos niños más, dos los niños. (llegaron dos niños más)
+\gs GT GT GT GT GL GT GL GL GT GL
+\p DEM#dem DEM#dem PART#part COM#tam vt PART#part adv num DIM#part s
+
+\ref trtex016Usp03 067
+\t -Xi', xi' re ta' naa man ek'l tiyuq chik.+
+\m x- i' x- i' re ta' naa man ék'l ti- yuq chik
+\g COM ENF COM ENF él/ella NEG nada ART niño INC llegar PART
+\c tam part tam part pron part adv art s tam vi part
+\l Se fue se fue, y no llega ese patojo.
+\gs GT GT GT GT GL GT GL GT GL GT GL GT
+\p COM#tam ENF#part COM#tam ENF#part pron NEG#part adv ART#art s INC#tam vi PART#part
+
+\ref trtex016Usp03 068
+\t xi' chaq xnatun chirijaq.+
+\m x- i' chaq x- natun chi- r- ij -aq
+\g COM ENF PART COM mirar PREP E3S SR PL
+\c tam part part tam vi prep pers srel suf
+\l Cuando vieron atras de ellos.
+\gs GT GT GT GT GL GT GT GT GT
+\p COM#tam ENF#part PART#part COM#tam vi PREP#prep E3S#pers SR#srel PL#suf
+
+\ref trtex016Usp03 069
+\t Xi' chaq xil taq jun ra kwa'y petzelk chaq jol tren petzel.+
+\m x- i' chaq x- il taq jun ra kwa'y petzel -ik chaq jol t- r- en petzel
+\g COM ENF PART COM ver PL uno DIM caballo venir SC PART correr INC E3 hacer venir
+\c tam part part tam vt part num part s vi suf part vi tam pers vt vi
+\l Cuando vierón un caballito venía, corriendo venía. (venía corriendo)
+\gs GT GT GT GT GL GT GL GT GL GL GT GT GL GT GT GL GL
+\p COM#tam ENF#part PART#part COM#tam vt PL#part num DIM#part s vi SC#suf PART#part vi INC#tam E3#pers vt vi
+
+\ref trtex016Usp03 070
+\t Rk'iil tra lék'l.+
+\m r- k'iil tra lek'l
+\g E3S SR DIM niño
+\c pers srel part s
+\l Con los niñitos.
+\gs GT GL GT GL
+\p E3S#pers srel DIM#part s
+
+\ref trtex016Usp03 071
+\t -Uuy kara kwa'y li petzel,+
+\m uuy ka -re kwa'y li petzel
+\g ¡uy! PART el/ella caballo DEM venir
+\c voc part pron s dem vi
+\l ¡Miren ese caballito que viene!.
+\gs GL GT GL GL GT GL
+\p voc PART#part pron s DEM#dem vi
+
+\ref trtex016Usp03 072
+\t cha' taq.+
+\m cha' taq
+\g decir PL
+\c vi part
+\l Dijeron ellos.
+\gs GL GT
+\p vi PL#part
+
+\ref trtex016Usp03 073
+\t Qachepe' taq i... qakejaj taq,+
+\m qa- chep -e' taq i qa- keja -j taq
+\g E1P agarrar ENF PL CONJ E1P montar SC PL
+\c pers vt part part conj pers vt suf part
+\l Lo agarremos y... lo montemos.
+\gs GT GL GT GT GT GT GL GT GT
+\p E1P#pers vt ENF#part PL#part CONJ#conj E1P#pers vt SC#suf PL#part
+
+\ref trtex016Usp03 074
+\t na'l li pent ri tya' lugar ra kwa'y tqakejaj.+
+\m na'l li pent ri t- ya' lugar ra kwa'y t- qa- keja -j
+\g se@ve DEM derrepente DEM INC dar lugar DIM caballo INC E1P montar SC
+\c vi dem adv dem tam vt adv part s tam pers vt suf
+\l Se verá si se deja que lo montemos.
+\gs GL GT GL GT GT GL GL GT GL GT GT GL GT
+\p vi DEM#dem adv DEM#dem INC#tam vt adv DIM#part s INC#tam E1P#pers vt SC#suf
+
+\ref trtex016Usp03 075
+\t I xtromb'ej taq+
+\m i x- tromb'e -j taq
+\g CONJ COM seguirlo SC PL
+\c conj tam vt suf part
+\l Y lo persiguieron.
+\gs GT GT GL GT GT
+\p CONJ#conj COM#tam vt SC#suf PL#part
+
+\ref trtex016Usp03 076
+\t i ta' tijya' rib' ra kwa'y.+
+\m i ta' ti- j- ye' r- ib' ra kwa'y
+\g CONJ NEG INC E3S dar E3S SR DIM caballo
+\c conj part tam pers vt pers s rel s
+\l Y no se dejaba el caballito.
+\gs GT GT GT GT GL GT GT GT GL
+\p CONJ#conj NEG#part INC#tam E3S#pers vt E3S#pers SR#s DIM#rel s
+
+\ref trtex016Usp03 077
+\t Talmaj chuchaq.+
+\m t- almaj ch uch -aq
+\g INC escaparse PREP SR PL
+\c tam vi prep srel part
+\l Se les corría de ellos.
+\gs GT GL GT GL GT
+\p INC#tam vi PREP#prep srel PL#part
+
+\ref trtex016Usp03 078
+\t I ajruk' re' xpet xmulaj rib'aq chi riij.+
+\m i aj- ruk' re' x- pet x- muláj r- ib' -aq chi r- ij
+\g CONJ PART PART ENF COM venir COM amontonar E3S SR PL PRE E3S SR
+\c conj part part part tam vi tam vt pers srel part prep pers srel
+\l Y entonces se le amontonarón detras de el.
+\gs GT GT GT GT GT GL GT GL GT GT GT GT GT GT
+\p CONJ#conj PART#part PART#part ENF#part COM#tam vi COM#tam vt E3S#pers SR#srel PL#part PRE#prep E3S#pers SR#srel
+
+\ref trtex016Usp03 079
+\t I usil xkwin taq chapik.+
+\m i usil x- kwin taq chap -ik
+\g CONJ despacio COM poder PL agarrar SC
+\c conj adv tam vi part vt suf
+\l Y poco a poco lograron agarrarlo.
+\gs GT GL GT GL GT GL GT
+\p CONJ#conj adv COM#tam vi PL#part vt SC#suf
+
+\ref trtex016Usp03 080
+\t I naq mes taq riij.+
+\m i naq mes taq r- ij
+\g CONJ PP barrer PL E3S SR
+\c conj suf vt pl pers srel
+\l Y lo acariciaban.
+\gs GT GT GL GT GT GT
+\p CONJ#conj PP#suf vt PL#pl E3S#pers SR#srel
+
+\ref trtex016Usp03 081
+\t I usil tijya' rib',+
+\m i usil ti- j- ya' r- ib'
+\g CONJ despacio INC E3S dar E3S SR
+\c conj adv tam pers vt pers srel
+\l Y poco a poco se dejaba.
+\gs GT GL GT GT GL GT GT
+\p CONJ#conj adv INC#tam E3S#pers vt E3S#pers SR#srel
+
+\ref trtex016Usp03 082
+\t ta' qelen tren rechaq.+
+\m ta' qelen t- r- en rechaq
+\g NEG cosas INC E3 hace ellos/ellas
+\c part s tam pers vt pron
+\l No les hacia nada.
+\gs GT GL GT GT GL GL
+\p NEG#part s INC#tam E3#pers vt pron
+
+\ref trtex016Usp03 083
+\t I xpe taq kejaj taq.+
+\m i x- pe taq keja -j taq
+\g CONJ COM venir PL montar SC PL
+\c conj tam vi part vt suf part
+\l Y vinieron ellos lo montaron.
+\gs GT GT GL GT GL GT GT
+\p CONJ#conj COM#tam vi PL#part vt SC#suf PL#part
+
+\ref trtex016Usp03 084
+\t I tjolin tralaaj tra lek'l wichta'j.+
+\m i t- jol -in t- r- alaaj tra lek'l wich- ta'j
+\g CONJ INC correr AP INC E3 SR DIM niño SR planicie/llano
+\c conj tam vi suf tam pers srel part s srel s
+\l Y corría debajo de los niños en el plan.
+\gs GT GT GL GT GT GT GL GT GL GL GL
+\p CONJ#conj INC#tam vi AP#suf INC#tam E3#pers srel DIM#part s srel s
+
+\ref trtex016Usp03 085
+\t Toon xil,+
+\m toon x- il
+\g entonces COM ver
+\c adv tam vt
+\l Entonces vió.
+\gs GL GT GL
+\p adv COM#tam vt
+
+\ref trtex016Usp03 086
+\t xi'j taq.+
+\m x- i'j taq
+\g COM dijo PL
+\c tam vt part
+\l Dijeron ellos.
+\gs GT GL GT
+\p COM#tam vt PL#part
+
+\ref trtex016Usp03 087
+\t - Ke mejor qakejaj ooj juntir,+
+\m ke mejor qa- keja -j ooj juntiir
+\g que mejor E1P montar SC nosotros todo
+\c part adv pers vt suf pron adv
+\l Mejor motémoslo todos nosotros.
+\gs GL GL GT GL GT GL GL
+\p part adv E1P#pers vt SC#suf pron adv
+
+\ref trtex016Usp03 088
+\t tqakejaj,+
+\m t- qa- keja -j
+\g INC E1P montar SC
+\c tam pers vt suf
+\l Lo montemos.
+\gs GT GT GL GT
+\p INC#tam E1P#pers vt SC#suf
+
+\ref trtex016Usp03 089
+\t cha' taq.+
+\m cha' taq
+\g decir PL
+\c vi part
+\l Dijeron ellos.
+\gs GL GT
+\p vi PL#part
+
+\ref trtex016Usp03 090
+\t Xt'oj rib'aq chi riij juntir.+
+\m x- t'oj r- ib' -aq chi r- ij juntiir
+\g COM tirar E3S SR- PL PRE E3S SR todo
+\c tam vt pers srel part prep pers srel adv
+\l Se tiran detras todos ellos. (todos ellos se montaron en el caballito)
+\gs GT GL GT GL GT GT GT GT GL
+\p COM#tam vt E3S#pers srel PL#part PRE#prep E3S#pers SR#srel adv
+
+\ref trtex016Usp03 091
+\t I ya kwand tra lek'l chaq jt'oj rib'aq juntir chi riij.+
+\m i ya kwand tra lek'l chaq j- t'oj r- ib' -aq juntiir chi r- iij
+\g CONJ ya cuando DIM niño PART E3S tirar E3S SR PL todo PRE E3S SR
+\c conj voc adv part s part pers vt pers srel part adv prep dem srel
+\l Y ya cuando los niñitos ya se montaban en el.
+\gs GT GL GL GT GL GT GT GL GT GT GT GL GT GT GT
+\p CONJ#conj voc adv DIM#part s PART#part E3S#pers vt E3S#pers SR#srel PL#part adv PRE#prep E3S#dem SR#srel
+
+\ref trtex016Usp03 092
+\t I lo ke xen,+
+\m i lo ke x- en
+\g CONJ lo que COM hacer
+\c conj part part tam vt
+\l Y lo que hizo.
+\gs GT GL GL GT GL
+\p CONJ#conj part part COM#tam vt
+
+\ref trtex016Usp03 093
+\t komo xt'oj rib' lulew chralaajaq.+
+\m komo x- t'oj r- ib' lu- uleew ch- r- alaaj -aq
+\g como COM tirar E3S SC PREP -tierra PREP E3P SR PL
+\c adv tam vt pers srel prep s prep pers srel part
+\l Se tiró en el suelo debajo de ellos.
+\gs GL GT GL GT GT GT GL GT GT GL GT
+\p adv COM#tam vt E3S#pers SC#srel PREP#prep s PREP#prep E3P#pers srel PL#part
+
+\ref trtex016Usp03 094
+\t I ta' chki' sichil kla...'.+
+\m i ta' chik -i' sich -il kla'
+\g CONJ NEG PART ENF perder PP allí
+\c conj part part part vt syf adv
+\l Y se desapareció de alli...
+\gs GT GT GT GT GL GT GL
+\p CONJ#conj NEG#part PART#part ENF#part vt PP#syf adv
+
+\ref trtex016Usp03 095
+\t Kub'uul xkan tra lek'l uchta'j.+
+\m kub' -uul x- kan tra lek'l uch -ta'j
+\g sentar -SAB COM- quedar DIM niño SR planicie/llano
+\c pos. -suf. tam.- v.i. part. s. s.rel. s.
+\l Sentado se quedaron los niños en el plan - llano.
+\gs GL GT GT GL GT GT GT GL GL GL
+\p POS SAB#SUF COM#TAM VI DIM#PART S SR#SREL S
+
+\ref trtex016Usp03 096
+\t Ta' chki' naa man kwa'y chralaajaq.+
+\m ta' chik -i' man kwa'y ch- r- alaaj -aq
+\g NEG PART ENF ART caballo PREP E3P SR PL
+\c part part part art s prep pers srel part
+\l Ya no estaba el caballo debajo de ellos.
+\gs GT GT GT GT GL GT GT GL GT
+\p NEG#part PART#part ENF#part ART#art s PREP#prep E3P#pers srel PL#part
+
+\ref trtex016Usp03 097
+\t I laas xtok taq lamaas xe' man kwa'y.+
+\m i laas x- tok taq lamaas x- e' man kwa'y
+\g CONJ INT COM buscar PL donde COM ir ART caballo
+\c conj part tam vt part adv tam vi art s
+\l Y en donde, en donde se fue el caballo.
+\gs GT GT GT GL GT GL GT GL GT GL
+\p CONJ#conj INT#part COM#tam vt PL#part adv COM#tam vi ART#art s
+
+\ref trtex016Usp03 098
+\t Saber laas xe'w ra kwa'y,+
+\m saber laas x- e' -w ra kwa'y
+\g saber INT COM ir PART DIM caballo
+\c adv tam tam vi part part s
+\l Saber en donde se fue el caballito.
+\gs GL GT GT GL GT GT GL
+\p adv INT#tam COM#tam vi PART#part DIM#part s
+
+\ref trtex016Usp03 099
+\t ta' na'l lamaas xe'w kla' qe sachu'.+
+\m ta' na'l lamaas x- e' -w kla' qe sach -u'
+\g NEG se@ve donde COM ir PART allí PART perder ENF
+\c part vi adv tam vi part adv part vt part
+\l No se vio en donde se fue, alli nada más se desapareció.
+\gs GT GL GL GT GL GT GL GT GL GT
+\p NEG#part vi adv COM#tam vi PART#part adv PART#part vt ENF#part
+
+\ref trtex016Usp03 100
+\t Tose... xij taq.+
+\m tose x- ij taq
+\g entonces COM decir PL
+\c adv tam vt part
+\l Entonces dijeron.
+\gs GL GT GL GT
+\p adv COM#tam vt PL#part
+
+\ref trtex016Usp03 101
+\t - Jo' iitz'an taq chik,+
+\m jo' iitz' -an taq chik
+\g vamos jugar AP PL PART
+\c vi vi suf part part
+\l Vamos a jugar otra vez.
+\gs GL GL GT GT GT
+\p vi vi AP#suf PL#part PART#part
+
+\ref trtex016Usp03 102
+\t pent t'ok chich laj qaxo'l.+
+\m pent t'- ok chi- ch laj qa- xo'l
+\g derepente INC entrar PRE DIR PREP E1P SR
+\c adv tam vt prep dir prep pers srel
+\l Derepente que entre otra vez entre nosotros.
+\gs GL GT GL GT GT GT GT GL
+\p adv INC#tam vt PRE#prep DIR#dir PREP#prep E1P#pers srel
+
+\ref trtex016Usp03 103
+\t I xchep chijq'ab'aq+
+\m i x- chep chi- j- q'ab' -aq
+\g CONJ COM agarrar TAM E3S mano PL
+\c conj tam vt tam pers s part
+\l Se agarraron de las manos.
+\gs GT GT GL GT GT GL GT
+\p CONJ#conj COM#tam vt TAM#tam E3S#pers s PL#part
+
+\ref trtex016Usp03 104
+\t i xok taq chi iitz'.+
+\m i x- ok taq chi iitz'
+\g CONJ COM entrar PL PRE jugar
+\c conj tam vi part prep vi
+\l Y empezaron a jugar.
+\gs GT GT GL GT GT GL
+\p CONJ#conj COM#tam vi PL#part PRE#prep vi
+
+\ref trtex016Usp03 105
+\t I baa tsutin taq.+
+\m i baa t- sutin taq
+\g CONJ baya INC- dar@vuelta PL
+\c conj. voc. tam.- v.i. part.
+\l Y empezarón a dar vueltas.
+\gs GT GL GT GL GL GT
+\p CONJ#CONJ VOC INC#TAM VI PL#PART
+
+\ref trtex016Usp03 106
+\t I ta' chki' xk'utun ra kwa'y na chijxo'laq.+
+\m i ta' chk -i' x- k'ut -un ra kwa'y na chi- j- xo'l -aq
+\g CONJ NEG PART ENF COM enseñar AP DIM caballo tiempo PREP E3P SR PL
+\c conj part part part tam vt suf part s part prep pers srel part
+\l Y ya no aparecio el caballo entre ellos.
+\gs GT GT GT GT GT GL GT GT GL GL GT GT GL GT
+\p CONJ#conj NEG#part PART#part ENF#part COM#tam vt AP#suf DIM#part s part PREP#prep E3P#pers srel PL#part
+
+\ref trtex016Usp03 107
+\t I b'esel q'iij xij taq.+
+\m i b'esel q'iij x- ij taq
+\g CONJ ir día COM decir PL
+\c conj pos s tam vt part
+\l Y en la tarde dijeron.
+\gs GT GL GL GT GL GT
+\p CONJ#conj pos s COM#tam vt PL#part
+
+\ref trtex016Usp03 108
+\t - A xi' aq'ab',+
+\m a x- i' aq'ab'
+\g CONJ COM ir noche
+\c conj tam vi adv
+\l Ya es tarde, o de noche.
+\gs GT GT GL GL
+\p CONJ#conj COM#tam vi adv
+
+\ref trtex016Usp03 109
+\t mejor jo'+
+\m mejor jo'
+\g mejor vamos
+\c adv vi
+\l Mejor vámonos.
+\gs GL GL
+\p adv vi
+
+\ref trtex016Usp03 110
+\t i jo' taq ajri' ooj pechik b'esel q'iij chik chweeq'.+
+\m i jo' taq aj- ri' ooj pe -chik b'esel q'iij chik chweeq'
+\g CONJ vamos PL PART DEM nosotros venir PART ir día PART mañana
+\c conj vi part part dem pron vi part vi s part adv
+\l Y vámonos volveremos otra vez, por la tarde de mañana.
+\gs GT GL GT GT GT GL GL GT GL GL GT GL
+\p CONJ#conj vi PL#part PART#part DEM#dem pron vi PART#part vi s PART#part adv
+
+\ref trtex016Usp03 111
+\t Pent li tyuq chik laj qaxo'l.+
+\m pent li t- yuq chik laj qa- xo'l
+\g derrepente DEM INC llegar PART PREP E1P SR
+\c adv dem tam vi part prep pers srel
+\l Derepente que vuelva entre nosotros.
+\gs GL GT GT GL GT GT GT GL
+\p adv DEM#dem INC#tam vi PART#part PREP#prep E1P#pers srel
+
+\ref trtex016Usp03 112
+\t I aa per qane' ju...n jun choman.+
+\m i aa per qa -ne' jun jun choman
+\g CONJ aa pero E1P ENF uno uno arreglo
+\c conj voc adv pers part num num vt
+\l Y aa pero hagamos un pensamiento. (hagamos un plan)
+\gs GT GL GL GT GT GL GL GL
+\p CONJ#conj voc adv E1P#pers ENF#part num num vt
+
+\ref trtex016Usp03 113
+\t Porke tak'amch jun talb'art aat.+
+\m porke t- a- k'am -ch jun talb'art aat
+\g porque INC E2S recibir DIR uno aparejo tú/usted
+\c adv tam pers vt dir num s pron
+\l Tienes que traer un aparejo vos. (te toca traer un aparejo)
+\gs GL GT GT GL GT GL GL GL
+\p adv INC#tam E2S#pers vt DIR#dir num s pron
+
+\ref trtex016Usp03 114
+\t I iin tink'amch jun kolob'.+
+\m i iin t- in- k'am -ch jun kolob'
+\g CONJ yo INC E1S traer DIR uno lazo
+\c conj pron tam pers vt dir num s
+\l Y yo traeré un lazo.
+\gs GT GL GT GT GL GT GL GL
+\p CONJ#conj pron INC#tam E1S#pers vt DIR#dir num s
+
+\ref trtex016Usp03 115
+\t I tqa, tqa xim ra kwa'y.+
+\m i t -qa t -qa xim ra kwa'y
+\g CONJ INC E1P INC E1P amarrar DIM caballo
+\c conj tam pers tam pers vt part s
+\l Y amarraremos ese caballito.
+\gs GT GT GT GT GT GL GT GL
+\p CONJ#conj INC#tam E1P#pers INC#tam E1P#pers vt DIM#part s
+
+\ref trtex016Usp03 116
+\t I tqakoj jun ra telb'art chi riij.+
+\m i t- qa- koj jun ra telb'art chi r iij
+\g CONJ INC E1P meter uno DIM aparejo PRE E3S SR
+\c conj tam pers vt num part s prep pers srel
+\l Y le pondremos un aparejo detras. (le colocaremos un aparejo)
+\gs GT GT GT GL GL GT GL GT GT GT
+\p CONJ#conj INC#tam E1P#pers vt num DIM#part s PRE#prep E3S#pers SR#srel
+
+\ref trtex016Usp03 117
+\t I tqakejaj i tababer neen tren.+
+\m i t- qa- keja -j i (ta-baber) neen t- r- en
+\g CONJ INC E1P montar SC CONJ ? INT INC E3 hacer
+\c conj tam pers vt suf conj ? adv tam pers vt
+\l Lo montaremos y vamos a ver que hace.
+\gs GT GT GT GL GT GT logged GT GT GT GL
+\p CONJ#conj INC#tam E1P#pers vt SC#suf CONJ#conj error INT#adv INC#tam E3#pers vt
+
+\ref trtex016Usp03 118
+\t O tzaq chqalaj o aber neen jurub' ne' oj ch'ij chik.+
+\m o' tzaq ch- q- alaj o aber neen jurub' ne' oj ch'ij chik
+\g o caer PREP E1P SR o haber INT cuanto ENF nosotros aguantar PART
+\c conj vi prep pers srel conj vt adv adv part pron vi part
+\l O se cae debajo de nosotros, o haber cuanto de nosotros nos aguanta.
+\gs GL GL GT GT GT GL GL GT GL GT GL GL GT
+\p conj vi PREP#prep E1P#pers SR#srel conj vt INT#adv adv ENF#part pron vi PART#part
+
+\ref trtex016Usp03 119
+\t Ra kwa'y tqat'ojqib' chi riij,+
+\m ra kwa'y t- qa- t'oj -q -ib' chi r- ij
+\g DIM caballo INC E1P tirar E1P SR PRE E3S SR
+\c part s tam pers vt pers srel prep pers srel
+\l Nos montaremos en el caballito.
+\gs GT GL GT GT GL GT GL GT GT GT
+\p DIM#part s INC#tam E1P#pers vt E1P#pers srel PRE#prep E3S#pers SR#srel
+
+\ref trtex016Usp03 120
+\t ya rk'i chaq man talb'art,+
+\m ya r- k'i chaq man talb'art
+\g ya E3S SR PART ART aparejo
+\c voc pers srel part art s
+\l Y ya con el aparejo.
+\gs GL GT GL GT GT GL
+\p voc E3S#pers srel PART#part ART#art s
+
+\ref trtex016Usp03 121
+\t cha'.+
+\m cha'
+\g decir
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex016Usp03 122
+\t Tose xpe taq ya lajkab' q'iij xmulaj chik ra rib'aq.+
+\m tose x- pe taq ya laj- kab' q'iij x- mulaj chik ra r- ib' -aq
+\g entonces COM venir PL ya PREP dos día COM -juntar PART DIM E3P SR PL
+\c adv tam vi part voc prep num s tam vt part part pers srel part
+\l Entonces vinieron al segundo día se reunieron otra vez ellos.
+\gs GL GT GL GT GL GT GL GL GT GL GT GT GT GT GT
+\p adv COM#tam vi PL#part voc PREP#prep num s COM#tam vt PART#part DIM#part E3P#pers SR#srel PL#part
+
+\ref trtex016Usp03 123
+\t Chu'sil xta' rib'aq,+
+\m ch- u'sil x- ta' r- ib' -aq
+\g PREP despacio COM encontrar E3P SR PL
+\c prep adv tam vt pers srel suf
+\l Poco a poco se reunieron.
+\gs GT GL GT GL GT GL GT
+\p PREP#prep adv COM#tam vt E3P#pers srel PL#suf
+
+\ref trtex016Usp03 124
+\t chu'sil xta' chik rib'aq k'ii chi rb'ilaq.+
+\m chu'sil x- ta' chik r- ib' -aq k'ii chi r- b'il -aq
+\g despacio COM encontrar PART E3P SR PL mucho PRE E3 SR PL
+\c adv tam vt part pers srel part adv prep pers srel part
+\l Poco a poco se reunieron otra vez, bastantes eran ellos.
+\gs GL GT GL GT GT GT GT GL GT GT GL GT
+\p adv COM#tam vt PART#part E3P#pers SR#srel PL#part adv PRE#prep E3#pers srel PL#part
+
+\ref trtex016Usp03 125
+\t Itz'an niri figat wi' jun kwa'y tiyuq laj qaxo'l niri.+
+\m itz' -an niri figat wi' jun kwa'y ti- yuq laj qa- xo'l niri
+\g jugar AP aqui fijate EXS un caballo INC llegar PREP E1P SR aqui
+\c vi suf adv adj exist art s tam vi prep pers srel adv
+\l Juguemos aquí, fijate que viene un caballo entre nosotros aqui.
+\gs GL GT GL GL GT GL GL GT GL GT GT GL GL
+\p vi AP#suf adv adj EXS#exist art s INC#tam vi PREP#prep E1P#pers srel adv
+
+\ref trtex016Usp03 126
+\t Or tqolb'eji'n i tpechik juntir.+
+\m or t- q- olb'ej -i'n i t- pe chik juntiir
+\g ahora INC E1P esperar ENF CONJ INC venir PART todo
+\c adv tam pers vt part conj tam vi part adv
+\l Ahora lo esperarémos volvera otra vez.
+\gs GL GT GT GL GT GT GT GL GT GL
+\p adv INC#tam E1P#pers vt ENF#part CONJ#conj INC#tam vi PART#part adv
+
+\ref trtex016Usp03 127
+\t I or ya wi' chaq man talb'art niri.+
+\m i or ya wi' chaq man talb'art niri
+\g CONJ ahora ya EXS PART ART aprejo aqui
+\c conj adv voc exist part art s adv
+\l Y ahora ya tenemos el aparejo aquí.
+\gs GT GL GL GT GT GT GL GL
+\p CONJ#conj adv voc EXS#exist PART#part ART#art s adv
+
+\ref trtex016Usp03 128
+\t I jun q'uniik tqat'oj chi riij.+
+\m i jun q'uniik t- qa- t'oj chi r- iij
+\g CONJ uno chamarra INC E1P tirar PRE E3S SR
+\c conj num s tam pers vt prep pers srel
+\l Y le pondremos una chamarra encima.
+\gs GT GL GL GT GT GL GT GT GT
+\p CONJ#conj num s INC#tam E1P#pers vt PRE#prep E3S#pers SR#srel
+
+\ref trtex016Usp03 129
+\t I tqaya' man talb'art.+
+\m i t- q- ya' man talb'art
+\g CONJ INC E1P dar ART aparejo
+\c conj tam pers vt art s
+\l Y le pondremos el aparejo.
+\gs GT GT GT GL GT GL
+\p CONJ#conj INC#tam E1P#pers vt ART#art s
+
+\ref trtex016Usp03 130
+\t -A qusi' pwes ji'non tqa'an re,+
+\m a qus - i' pwes jii'n -on t- qa- 'an re
+\g CONJ bueno ENF pues AFI AP INC E1P hacer él/ella
+\c conj adj part adv part suf tam pers vt pron
+\l Esta bien pues asi lo haremos.
+\gs GT GL GT GT GL GT GT GT GT GL GL
+\p CONJ#conj adj # ENF#part adv AFI#part AP#suf INC#tam E1P#pers vt pron
+
+\ref trtex016Usp03 131
+\t cha'.+
+\m cha'
+\g decir
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex016Usp03 132
+\t I xtaw taq chik man b'esel q'iij li.+
+\m i x- taw taq chik man b'esel q'iij li
+\g CONJ COM llegar PL PART ART ir día DEM
+\c conj tam vt part part art pos s dem
+\l Y llegaron otra vez esa tarde.
+\gs GT GT GL GT GT GT GL GL GT
+\p CONJ#conj COM#tam vt PL#part PART#part ART#art pos s DEM#dem
+
+\ref trtex016Usp03 133
+\t Laq'aab' xok taq chik chi iitz'.+
+\m laq'aab' x- ok taq chik chi iitz'
+\g noche COM entrar PL PART PRE jugar
+\c adv tam vi part part prep vi
+\l En la noche empezaron otra vez a jugar.
+\gs GL GT GL GT GT GT GL
+\p adv COM#tam vi PL#part PART#part PRE#prep vi
+
+\ref trtex016Usp03 134
+\t Ri' chaq ril taq man kwa'y xok b'i rk'iilaq.+
+\m ri' -i'n chaq r- il taq man kwa'y x- ok b'i r- k'iil -aq
+\g DEM ENF PART E3S ver PL ART caballo COM entrar DIR E3 SR PL
+\c dem part part pers vt part art s tam vi dir pers srel part
+\l Derepente vieron al caballo que entró con ellos.
+\gs GT GT GT GT GL GT GT GL GT GL GT GT GL GT
+\p DEM#dem ENF#part PART#part E3S#pers vt PL#part ART#art s COM#tam vi DIR#dir E3#pers srel PL#part
+
+\ref trtex016Usp03 135
+\t I xchep taq laj....+
+\m i x- chep taq laj
+\g CONJ COM agarrar PL SR
+\c conj tam vt part srel
+\l Y lo agarraron...
+\gs GT GT GL GT GL
+\p CONJ#conj COM#tam vt PL#part srel
+
+\ref trtex016Usp03 136
+\t -B'ali si tqakoj man talb'art chi riij,+
+\m b'a -li si' t- qa- koj man talb'art chi r- iij
+\g vaya DEM si INC E1P meter ART aparejo PRE E3S SR
+\c voc dem adv tam pers vt art s prep pers srel
+\l Ahora si le pondremos el aparejo.
+\gs GL GT GL GT GT GL GT GL GT GT GT
+\p voc DEM#dem adv INC#tam E1P#pers vt ART#art s PRE#prep E3S#pers SR#srel
+
+\ref trtex016Usp03 137
+\t cha' taq.+
+\m cha' taq
+\g decir PL
+\c vi pl
+\l Dejeron ellos.
+\gs GL GT
+\p vi PL#pl
+
+\ref trtex016Usp03 138
+\t I xkoj taq man talb'art chi riij.+
+\m i x- koj taq man talb'art chi r iij
+\g CONJ COM meter PL ART aparejo PRE E3S SR
+\c conj tam vt part art s prep pers srel
+\l Y le pusieron el aparejo detras. (le pusieron el aparejo)
+\gs GT GT GL GT GT GL GT GT GT
+\p CONJ#conj COM#tam vt PL#part ART#art s PRE#prep E3S#pers SR#srel
+
+\ref trtex016Usp03 139
+\t Ya kwand tijkejaj tijb'ij re,+
+\m ya kwand ti- j- keja -j ti- j- b'ij re
+\g ya cuando INC E3S montar SC INC E2S decir él/ella
+\c voc adv tam pers vt suf tam pers vt pron
+\l Ya cuando el quería montarlo.
+\gs GL GL GT GT GL GT GT GT GL GL
+\p voc adv INC#tam E3S#pers vt SC#suf INC#tam E2S#pers vt pron
+
+\ref trtex016Usp03 140
+\t ya kwand tijt'oj rib'aq chi riij.+
+\m ya kwand ti- j- t'oj r- ib' -aq chi r- iij
+\g ya cuando INC E3S tirar E3S SR PL PRE E3S SR
+\c voc adv tam pers vt pers srel part prep pers srel
+\l Ya cuando se quierían tirarse detras. (cuando querían montarse)
+\gs GL GL GT GT GL GT GT GT GT GT GT
+\p voc adv INC#tam E3S#pers vt E3S#pers SR#srel PL#part PRE#prep E3S#pers SR#srel
+
+\ref trtex016Usp03 141
+\t Kond chaq tril taq sach b'i man kwa'y.+
+\m kond chaq t- r- il taq sach b'i man kwa'y
+\g cuando PART INC E3S ver PL perder DIR ART caballo
+\c adv part tam pers vt part vt dir art s
+\l Cuando se dieron cuenta desapareció el caballo.
+\gs GL GT GT GT GL GT GL GT GT GL
+\p adv PART#part INC#tam E3S#pers vt PL#part vt DIR#dir ART#art s
+
+\ref trtex016Usp03 142
+\t Xkaj t'oje' man talb'art,+
+\m x- ka -j t'oj -e' man talb'art
+\g COM quedar E3S tirar ENF ART aparejo
+\c tam vi pers vt suf art s
+\l Dejo tirado el aparejo.
+\gs GT GL GT GL GT GT GL
+\p COM#tam vi E3S#pers vt ENF#suf ART#art s
+
+\ref trtex016Usp03 143
+\t ko...m,+
+\m kom
+\g como
+\c adv
+\l Como.
+\gs GL
+\p adv
+
+\ref trtex016Usp03 144
+\t kom ta' jee.+
+\m kom ta' jee
+\g como NEG cola
+\c adv part s
+\l Como no teniá cola.
+\gs GL GT GL
+\p adv NEG#part s
+
+\ref trtex016Usp03 145
+\t I tons xij chepe' taq chik juntir li uchaq ta'j.+
+\m i tons x- i -j chep -e' taq chik juntiir li uch -aq ta' -j
+\g CONJ entonces COM DIR E3S agarrar ENF PL PART todo en SR PL *** ***
+\c conj adv tam dir pers vt part part part adv prep srel suf *** ***
+\l Y entonces lo fueron a agarrar otra vez.
+\gs GT GL GT GT GT GL GT GT GT GL GL GL GT logged logged
+\p CONJ#conj adv COM#tam DIR#dir E3S#pers vt ENF#part PL#part PART#part adv prep srel PL#suf error error
+
+\ref trtex016Usp03 146
+\t Ajruk' re' xi'j taq.+
+\m aj- ruk' re' x- i' -j taq
+\g PART PART ENF COM DIR E3S PL
+\c part part part tam dir pers part
+\l Entonces dijeron ellos.
+\gs GT GT GT GT GT GT GT
+\p PART#part PART#part ENF#part COM#tam DIR#dir E3S#pers PL#part
+
+\ref trtex016Usp03 147
+\t - Bwen lajori ta' maj jee',+
+\m bwen lajori ta' ma -j jee
+\g bueno ahora NEG ART E3S cola
+\c adv adv part art pers s
+\l Bueno ahora no tiene esa cola.
+\gs GL GL GT GT GT GL
+\p adv adv NEG#part ART#art E3S#pers s
+
+\ref trtex016Usp03 148
+\t lajori nemoo tqab'an re.+
+\m lajori ne- moo t- qa- b'an re
+\g ahora INT -modo INC E1P hacer él/ella
+\c adv adv adv tam pers vt pron
+\l Y ahora como le vamos hacer.
+\gs GL GT GL GT GT GL GL
+\p adv INT#adv adv INC#tam E1P#pers vt pron
+
+\ref trtex016Usp03 149
+\t I xpe man jun wi' jun rechaq alg list rechaq.+
+\m i x- pe man jun wi' jun rechaq alg list rechaq
+\g CONJ COM venir ART uno EXS uno ellos/ellas algo listo ellos/ellas
+\c conj tam vi art num exist num pron adv adj pron
+\l Y vino uno de ellos, hay uno que es algo listo de ellos.
+\gs GT GT GL GT GL GT GL GL GL GL GL
+\p CONJ#conj COM#tam vi ART#art num EXS#exist num pron adv adj pron
+
+\ref trtex016Usp03 150
+\t - Xi'j qatoke' jun chee'+
+\m x- i'j qa- tok -e' jun chee'
+\g COM decir E1P buscar ENF uno palo
+\c tam vt pers vt part num s
+\l Dijo busquemos un palo.
+\gs GT GL GT GL GT GL GL
+\p COM#tam vt E1P#pers vt ENF#part num s
+
+\ref trtex016Usp03 151
+\t i tqakoj jun chee' chijyook,+
+\m i t- qa- koj jun chee' chi- -j- yook
+\g CONJ INC E1P meter uno palo PREP E3S mierda
+\c conj tam pers vt num s prep pers s
+\l Y le meteremos un palo en el culo.
+\gs GT GT GT GL GL GL GT GT GL
+\p CONJ#conj INC#tam E1P#pers vt num s PREP#prep E3S#pers s
+
+\ref trtex016Usp03 152
+\t kla' tqakoj maj tenedor chijyook nkare'.+
+\m kla' t- qa- koj ma -j tenedor chi- j- yook nika -re'
+\g allí INC E1P meter ART E3S tenedor TAM E3S mierda PART ENF
+\c adv tam pers vt art pers s tam pers s part part
+\l Alli le pondremos el tenedor en el culo pues.
+\gs GL GT GT GL GT GT GL GT GT GL GT GT
+\p adv INC#tam E1P#pers vt ART#art E3S#pers s TAM#tam E3S#pers s PART#part ENF#part
+
+\ref trtex016Usp03 153
+\t I rik'aj man,+
+\m i r- ik'a -j man
+\g CONJ E3S sentir SC ART
+\c conj pers vt suf art
+\l Y sintió ese:
+\gs GT GT GL GT GT
+\p CONJ#conj E3S#pers vt SC#suf ART#art
+
+\ref trtex016Usp03 154
+\t anm.+
+
+\ref trtex016Usp03 155
+\t Ntoons xi'j man, man étzel nemoo.+
+\m ntoons x- i'j man man étzel ne- moo
+\g entonces COM decir ART ART demonio INT -modo
+\c adv tam vt art art s adv adv
+\l Entonces dijo ese demonio como.
+\gs GL GT GL GT GT GL GT GL
+\p adv COM#tam vt ART#art ART#art s INT#adv adv
+
+\ref trtex016Usp03 156
+\t -Ntoos rk'i maq ek'l si ta' moo.+
+\m ntoos r- k'i maq ek'l si ta' moo
+\g entonces E3S SR PL niño si NEG modo
+\c adv pers srel part s adv part adv
+\l Entonces con estos patojos no se puede.
+\gs GL GT GL GT GL GL GT GL
+\p adv E3S#pers srel PL#part s adv NEG#part adv
+
+\ref trtex016Usp03 157
+\t Ruk' xinb'ij iin inkwini' chijb'anik k'ex rechaq.+
+\m ruk' x- in- b'ij iin in- kwin -i' chi- j- b'an -ik k'ex rechaq
+\g PART COM E1S decir yo E1S poder ENF TAM CONJ hacer SC dolor ellos/ellas
+\c part tam pers vt pron pers vi part tam conj vt suf adj pron
+\l Y yo pensé que podia hacerles daño.
+\gs GT GT GT GL GL GT GL GT GT GT GL GT GL GL
+\p PART#part COM#tam E1S#pers vt pron E1S#pers vi ENF#part TAM#tam CONJ#conj vt SC#suf adj pron
+
+\ref trtex016Usp03 158
+\t Ta' jno'j xinb'ij iin,+
+\m ta' j- no'j x- in- b'ij iin
+\g NEG E3S conocimiento COM E1S decir yo
+\c part pers s tam pers vt pron
+\l Pensé que no tenían ideas.
+\gs GT GT GL GT GT GL GL
+\p NEG#part E3S#pers s COM#tam E1S#pers vt pron
+
+\ref trtex016Usp03 159
+\t kesike wi' jno'jaq.+
+\m ke -si -ke wi' j- no'j -aq
+\g que -si -que EXS E3S conocimiento PL
+\c adv adv adv exist pers s part
+\l Que si tienen ideas.
+\gs GL GL GL GT GT GL GT
+\p adv adv adv EXS#exist E3S#pers s PL#part
+
+\ref trtex016Usp03 160
+\t Ilb'e man chee' chaq tijkoj taq chuwe.+
+\m il b'e man chee' chaq ti- j- koj taq ch- uw- e
+\g ver PART ART palo PART INC E3S meter PL PREP E1S SR
+\c vt part art s part tam pers vt part prep pers srel
+\l Ve pues el palo que me quieren meter.
+\gs GL GT GT GL GT GT GT GL GT GT GT GT
+\p vt PART#part ART#art s PART#part INC#tam E3S#pers vt PL#part PREP#prep E1S#pers SR#srel
+
+\ref trtex016Usp03 161
+\t Lajori si xaq tuwilb'ej+
+\m lajori si xaq tu- wilb'ej
+\g ahora si PART INC esperar
+\c adv adv part tam vt
+\l Ahora si solo espero.
+\gs GL GL GT GT GL
+\p adv adv PART#part INC#tam vt
+
+\ref trtex016Usp03 162
+\t kwand ya tijkoj taq man chee' chuwein.+
+\m kwand ya ti- j- koj taq man chee' chu -we -in
+\g cuando ya INC E3S meter PL ART palo PREP E1S yo
+\c adv voc tam pers vt part art s prep pers pron
+\l Cuando ya me metían el palo a mi.
+\gs GL GL GT GT GL GT GT GL GT GT GL
+\p adv voc INC#tam E3S#pers vt PL#part ART#art s PREP#prep E1S#pers pron
+
+\ref trtex016Usp03 163
+\t Tkan int'oje' taq,+
+\m t- kan in- t'oj -e' taq
+\g INC quedar E1S tirar ENF PL
+\c tam vi pers vt part part
+\l Los dejo tirado.
+\gs GT GL GT GL GT GT
+\p INC#tam vi E1S#pers vt ENF#part PL#part
+
+\ref trtex016Usp03 164
+\t cha' nika' man étzel.+
+\m cha' nika' man étzel
+\g decir PART ART demonio
+\c vi part art s
+\l Dice que dijo el demonio.
+\gs GL GT GT GL
+\p vi PART#part ART#art s
+
+\ref trtex016Usp03 165
+\t Laj... kwand ril taq xijme' taq man chee',+
+\m laj kwand r- il taq x- i- j- me' taq man chee'
+\g PREP cuando E3 ver PL COM DIR E3S traer PL ART palo
+\c prep adv pers vt part tam dir pers vt part art s
+\l En su... cuando vió que fueron a traer el palo.
+\gs GT GL GT GL GT GT GT GT GL GT GT GL
+\p PREP#prep adv E3#pers vt PL#part COM#tam DIR#dir E3S#pers vt PL#part ART#art s
+
+\ref trtex016Usp03 166
+\t lo ke xen sach chuch tra lék'l.+
+\m lo ke x- en sach ch- uch tra lék'l
+\g lo que COM hacer perder PREP SR DIM niño
+\c part adv tam vt vt prep srel dim s
+\l Lo que hizo se desaparecio ante los niños.
+\gs GL GL GT GL GL GT GL GT GL
+\p part adv COM#tam vt vt PREP#prep srel DIM#dim s
+
+\ref trtex016Usp03 167
+\t Ta' chki'n ri',+
+\m ta' chik -i'n ri'
+\g NEG PART ENF ENF
+\c part part part part
+\l Ya no estava.
+\gs GT GT GT GT
+\p NEG#part PART#part ENF#part ENF#part
+
+\ref trtex016Usp03 168
+\t chaq man talb'art xkan kla'.+
+\m chaq man talb'art x- kan kla'
+\g PART ART aparejo COM quedar allí
+\c part art s tam vi adv
+\l Ya solo el aparejo quedó alli.
+\gs GT GT GL GT GL GL
+\p PART#part ART#art s COM#tam vi adv
+
+\ref trtex016Usp03 169
+\t Ta' chki' man, man kwa'y.+
+\m ta' chk -i' man man kwa'y
+\g NEG PART ENF ART ART caballo
+\c part part part art art s
+\l Ya no esta el caballo.
+\gs GT GT GT GT GT GL
+\p NEG#part PART#part ENF#part ART#art ART#art s
+
+\ref trtex016Usp03 170
+\t Tos xpe tra lek'l wi' nemoo xkajte' taq.+
+\m tos x- pe tra lek'l wi' nee- moo x- kaj -te' taq
+\g entonces COM venir DIM niño EXS INT -modo COM quedar encontrar PL
+\c adv tam vi part s exist part adv tam vi vt part
+\l Entonces vinieron los niñitos como lo encontrarón.
+\gs GL GT GL GT GL GT GT GL GT GL GL GT
+\p adv COM#tam vi DIM#part s EXS#exist INT#part adv COM#tam vi vt PL#part
+
+\ref trtex016Usp03 171
+\t - Oj iitz'an taq na pent tpe chik juntir.+
+\m oj iitz' -an taq na pent t- pe chik juntiir
+\g nosotros jugar AP PL PART derrepente INC venir PART todo
+\c pron vi suf part part adv tam vi part adv
+\l Juguemos derepente que aparesca otra vez.
+\gs GL GL GT GT GT GL GT GL GT GL
+\p pron vi AP#suf PL#part PART#part adv INC#tam vi PART#part adv
+
+\ref trtex016Usp03 172
+\t I tqakoj chik man talb'ar chi riij,+
+\m i t- qa- koj chik man talb'art chi r- iij
+\g CONJ INC E1P meter PART ART aparejo PRE E3S SR
+\c conj tam pers vt part art s prep pers srel
+\l Y le pondremos otra vez el aparejo.
+\gs GT GT GT GL GT GT GL GT GT GT
+\p CONJ#conj INC#tam E1P#pers vt PART#part ART#art s PRE#prep E3S#pers SR#srel
+
+\ref trtex016Usp03 173
+\t cha' taq.+
+\m cha' taq
+\g decir PL
+\c vt part
+\l Dijeron ellos.
+\gs GL GT
+\p vt PL#part
+
+\ref trtex016Usp03 174
+\t I wi' taq chij rilb'ejk.+
+\m i wi' taq chi -j r- ilb'e -j -ik
+\g CONJ EXS PL PRE E3S E3S esperar SC SC
+\c conj exist part prep pers pers vt suf suf
+\l Y lo estaban esperando.
+\gs GT GT GT GT GT GT GL GT GT
+\p CONJ#conj EXS#exist PL#part PRE#prep E3S#pers E3S#pers vt SC#suf SC#suf
+
+\ref trtex016Usp03 175
+\t Ta' chi' xtaw.+
+\m ta' chi x- taw
+\g NEG PREP COM llegar
+\c part prep tam vi
+\l Ya no llegó.
+\gs GT GT GT GL
+\p NEG#part PREP#prep COM#tam vi
+
+\ref trtex016Usp03 176
+\t Ri' chaq rechaq xok taq chi iitz'.+
+\m ri' chaq rechaq x- ok taq chi iitz'
+\g DEM PART ellos/ellas COM entrar PL PREP jugar
+\c dem part pron tam vi part prep vi
+\l Ya solo ellos empezaron a jugar.
+\gs GT GT GL GT GL GT GT GL
+\p DEM#dem PART#part pron COM#tam vi PL#part PREP#prep vi
+
+\ref trtex016Usp03 177
+\t I antoos xi'j maq ni'j.+
+\m i antoos x- i'j maq ni'j
+\g CONJ entonces COM decir ART otros
+\c conj adv tam vt art adv
+\l Entonces dijeron los otros.
+\gs GT GL GT GL GT GL
+\p CONJ#conj adv COM#tam vt ART#art adv
+
+\ref trtex016Usp03 178
+\t - A mejor jo' taq ya xi' aq'aab',+
+\m a mejor jo' taq ya x -i' a- q'aab'
+\g CONJ mejor ir PL ya COM ENF E2S noche
+\c conj adv vi part voc tam part pers s
+\l A, mejor vámonos ya se fue la noche, ( ya es tarde)
+\gs GT GL GL GT GL GT GT GT GL
+\p CONJ#conj adv vi PL#part voc COM#tam ENF#part E2S#pers s
+
+\ref trtex016Usp03 179
+\t porke li ta' chki' man tipet.+
+\m porke li ta' chk -i' man ti- pet
+\g porque DEM NEG PART ENF ART INC venir
+\c adv dem part part part art tam vi
+\l Porque ese ya no va a venir.
+\gs GL GT GT GT GT GT GT GL
+\p adv DEM#dem NEG#part PART#part ENF#part ART#art INC#tam vi
+
+\ref trtex016Usp03 180
+\t Ya xi' aq'ab' ta' qetam ne jb'anik,+
+\m ya x- i' aq'ab' ta' q- etam ne j- b'an -ik
+\g ya COM ENF noche NEG E1P conocimiento INT E3S hacer SC
+\c voc tam part adv part pers vi part pers vt suf
+\l Ya se fue la noche, no sabemos que es, (ya es tarde)
+\gs GL GT GT GL GT GT GL GT GT GL GT
+\p voc COM#tam ENF#part adv NEG#part E1P#pers vi INT#part E3S#pers vt SC#suf
+
+\ref trtex016Usp03 181
+\t neen chak li tsach chi qaxo'l.+
+\m neen chak li t- sach chi qa- xo'l
+\g INT por@que DEM INC perder PRE E1P SR
+\c adv adv dem tam vt prep pers srel
+\l Porque sera que desaparece entre nosotros.
+\gs GT GL GT GT GL GT GT GL
+\p INT#adv adv DEM#dem INC#tam vt PRE#prep E1P#pers srel
+
+\ref trtex016Usp03 182
+\t Íwir man ek'l.+
+\m íwir man ék'l
+\g ayer ART niño
+\c adv art s
+\l Ayer ese patojo.
+\gs GL GT GL
+\p adv ART#art s
+
+\ref trtex016Usp03 183
+\t I lajori man kwa'y chaq chik.+
+\m i lajori man kwa'y chaq chik
+\g CONJ ahora ART caballo PART PART
+\c conj adv art s part part
+\l Y ahora ya es un caballo otra vez.
+\gs GT GL GT GL GT GT
+\p CONJ#conj adv ART#art s PART#part PART#part
+
+\ref trtex016Usp03 184
+\t I ya xi' kib' aq'ab' man kwa'y.+
+\m i ya x- i' kib' aq'ab' man kwa'y
+\g CONJ ya COM ENF dos noche ART caballo
+\c conj voc tam part num adv art s
+\l Y ya fueron dos noches el caballo.
+\gs GT GL GT GT GL GL GT GL
+\p CONJ#conj voc COM#tam ENF#part num adv ART#art s
+
+\ref trtex016Usp03 185
+\t Entonses neen moo li tsach chi qaxo'l.+
+\m entonses neen moo li t- sach chi qa- xo'l
+\g entonces INT modo DEM INC perder PRE E1P SR
+\c adv part adv dem tam vt prep pers srel
+\l Entonces como es eso que desaparezca entre nosoros.
+\gs GL GT GL GT GT GL GT GT GL
+\p adv INT#part adv DEM#dem INC#tam vt PRE#prep E1P#pers srel
+
+\ref trtex016Usp03 186
+\t Pent ta' tzii,+
+\m pent ta' tzii
+\g derrepente NEG bueno
+\c adv part adj
+\l Derrepente no es bueno.
+\gs GL GT GL
+\p adv NEG#part adj
+
+\ref trtex016Usp03 187
+\t mejor jo' taq chik.+
+\m mejor jo' taq chik
+\g mejor ir PL PART
+\c adv vi part part
+\l Mejor vámonos otra vez.
+\gs GL GL GT GT
+\p adv vi PL#part PART#part
+
+\ref trtex016Usp03 188
+\t Mejor ajri' ooj petaq chik chweeq'+
+\m mejor aj- ri' ooj pe -taq chik chweeq'
+\g mejor PART DEM nosotros venir PL PART mañana
+\c adv part dem pron vi part part adv
+\l Mejor venimos hasta mañana otra vez.
+\gs GL GT GT GL GL GT GT GL
+\p adv PART#part DEM#dem pron vi PL#part PART#part adv
+
+\ref trtex016Usp03 189
+\t tqamolch mas k'ii qapech.+
+\m t- qa- mol -ch mas k'ii qa- pech
+\g INC E1P juntar DIR más mucho E1P compañero
+\c tam pers vt dir adv adv pers s
+\l Juntaremmos más compañeros.
+\gs GT GT GL GT GL GL GT GL
+\p INC#tam E1P#pers vt DIR#dir adv adv E1P#pers s
+
+\ref trtex016Usp03 190
+\t Na'l nika' li we tiyuuq chik,+
+\m na'l nik a' li we ti- yuuq chik
+\g se@ve PART ENF DEM COND INC llegar PART
+\c vi part part dem part tam vi part
+\l Se verá si vuelve otra vez.
+\gs GL GT GT GT GT GT GL GT
+\p vi PART#part ENF#part DEM#dem COND#part INC#tam vi PART#part
+
+\ref trtex016Usp03 191
+\t cha'.+
+\m cha'
+\g decir
+\c vi
+\l Dijo.
+\gs GL
+\p vi
+
+\ref trtex016Usp03 192
+\t I xe' taq chik laj kab' q'iij.+
+\m i x- e' taq chik laj kab' q'iij
+\g CONJ COM ir PL PART PREP dos -día
+\c conj tam vi part part prep s s
+\l Y se fueron otra vez al segundo día.
+\gs GT GT GL GT GT GT GL GL
+\p CONJ#conj COM#tam vi PL#part PART#part PREP#prep s s
+
+\ref trtex016Usp03 193
+\t Xtaw taq chik juntire mis ra luwar chik uxta'j.+
+\m x- taw taq chik juntiir (e) mis ra luwar chik ux- ta'j
+\g COM llegar PL PART todo *** mismo DIM lugar PART SR planicie
+\c tam vt part part adv *** adv part s part srel s
+\l Llegaron otra vez, en el mismo lugar en el llanito.
+\gs GT GL GT GT GL logged GL GT GL GT GL GL
+\p COM#tam vt PL#part PART#part adv error adv DIM#part s PART#part srel s
+
+\ref trtex016Usp03 194
+\t Xmola' rib'aq+
+\m x- mol -a' r- ib' -aq
+\g COM juntar ENF E3P SR PL
+\c tam vt part pers srel part
+\l Se juntaron.
+\gs GT GL GT GT GT GT
+\p COM#tam vt ENF#part E3P#pers SR#srel PL#part
+
+\ref trtex016Usp03 195
+\t i xok taq chi iitz'.+
+\m i x- ok taq chi iitz'
+\g CONJ COM entrar PL PRE jugar
+\c conj tam vi part prep vi
+\l Y empezaron a jugar.
+\gs GT GT GL GT GT GL
+\p CONJ#conj COM#tam vi PL#part PRE#prep vi
+
+\ref trtex016Usp03 196
+\t I baa iitz' per olb'el chaq neen oor titaw chik man kwa'y.+
+\m i baa iitz' per olbel chaq neen oor ti- taw chik man kwa'y
+\g CONJ baya jugar pero esperar PART INT hora INC llegar PART ART caballo
+\c conj voc vi adv vt part part adv tam vt part art s
+\l Y va de jugar, pero ya estaban esperando cuando llegaba ese caballo.
+\gs GT GL GL GL GL GT GT GL GT GL GT GT GL
+\p CONJ#conj voc vi adv vt PART#part INT#part adv INC#tam vt PART#part ART#art s
+
+\ref trtex016Usp03 197
+\t Ya man kwa'y ta' chki' xtaw no ke ji' chaq tril taq.+
+\m ya man kwa'y ta' chik i' x- taw no ke ji' chaq t- r- il taq
+\g ya ART caballo NEG PART ENF COM llegar no que DEM PART INC E3 ver PL
+\c voc art s part part part tam vt adv part dem part tam pers vt part
+\l Ese caballo ya no llegó, pero cuando vieron:
+\gs GL GT GL GT GT GT GT GL GL GL GT GT GT GT GL GT
+\p voc ART#art s NEG#part PART#part ENF#part COM#tam vt adv part DEM#dem PART#part INC#tam E3#pers vt PL#part
+
+\ref trtex016Usp03 198
+\t Ya jun ra rat chaq tijin chi iitz'.+
+\m ya jun ra rat chaq tijin chi iitz'
+\g ya uno DIM rato PART PROG PRE jugar
+\c voc num part adv part tam prep vi
+\l Ya un buen rato tenia de jugar.
+\gs GL GL GT GL GT GT GT GL
+\p voc num DIM#part adv PART#part PROG#tam PRE#prep vi
+
+\ref trtex016Usp03 199
+\t I chaq ril xk'utun chik jun ra lek'l chij xo'laq+
+\m i chaq r- il x- k'ut -un chik jun ra lek'l chi -j xo'l -aq
+\g CONJ PART E3 ver COM enseñar AP PART uno DIM niño PREP E3S SR PL
+\c conj part pers vt tam vt suf part num part s prep pers srel part
+\l Y cuando vieron aparecio otro patojo entre ellos.
+\gs GT GT GT GL GT GL GT GT GL GT GL GT GT GL GT
+\p CONJ#conj PART#part E3#pers vt COM#tam vt AP#suf PART#part num DIM#part s PREP#prep E3S#pers srel PL#part
+
+\ref trtex016Usp03 200
+\t ra kiyaaqyo'yoj tnatun.+
+\m ra kiyaaqyo'yoj t- natun
+\g DIM rosado INC mirar
+\c part adv tam vi
+\l De color rosado mira. (canche)
+\gs GT GL GT GL
+\p DIM#part adv INC#tam vi
+
+\ref trtex016Usp03 201
+\t I kiyaq ra ritz'iq wi' chaq chijxo'laq.+
+\m i kiyaq ra r- itz'iq wi' chaq chi- -j xo'l -aq
+\g CONJ rojo DIM E3 ropa EXS PART PREP E3S SR PL
+\c conj adj part pers s exist part prep pers srel part
+\l Y rojo su ropita ya estaba entre de ellos.
+\gs GT GL GT GT GL GT GT GT GT GL GT
+\p CONJ#conj adj DIM#part E3#pers s EXS#exist PART#part PREP#prep E3S#pers srel PL#part
+
+\ref trtex016Usp03 202
+\t - I ilman ek'l li oor jun ek'l chaq chik.+
+\m i il -man ekil li oor jun ék'il chaq chik
+\g CONJ ver ART niño DEM ahora uno niño PART PART
+\c conj vt art s dem adv num s part part
+\l Y mira ese patojo ahora ya es un patojo otra vez.
+\gs GT GL GT GL GT GL GL GL GT GT
+\p CONJ#conj vt ART#art s DEM#dem adv num s PART#part PART#part
+
+\ref trtex016Usp03 203
+\t Uuy kap man ek'l ri bee jor chaq kiyaq tnatúnik.+
+\m uuy kap man ek'l ri bee jor chaq kiyaq t- natun -ik
+\g ¡uy! PART ART niño DEM DEM mejor PART rojo INC mirar SC
+\c voc part art s dem dem adv part adj tam vi suf
+\l ¡Uuy miren a este patojo ve, ya es muy rojo sumirada. (ya es muy canche)
+\gs GL GT GT GL GT GT GL GT GL GT GL GT
+\p voc PART#part ART#art s DEM#dem DEM#dem adv PART#part adj INC#tam vi SC#suf
+
+\ref trtex016Usp03 204
+\t Qachope' taq,+
+\m qa- chop -e' taq
+\g E1P agarrar ENF PL
+\c pers vt part part
+\l Lo agarremos.
+\gs GT GL GT GT
+\p E1P#pers vt ENF#part PL#part
+
+\ref trtex016Usp03 205
+\t cha' maq ni'j.+
+\m cha' maq ni'j
+\g decir ART otros
+\c vi art adv
+\l Dijerón los demás.
+\gs GL GT GL
+\p vi ART#art adv
+
+\ref trtex016Usp03 206
+\t Tos qachepe' taq man ri,+
+\m tos qa- chep -e' taq man ri
+\g entonces E1P agarrar ENF PL ART DEM
+\c adv pers vt part part art dem
+\l Entoces agarremos a este.
+\gs GL GT GL GT GT GT GT
+\p adv E1P#pers vt ENF#part PL#part ART#art DEM#dem
+
+\ref trtex016Usp03 207
+\t romb'ej taq,+
+\m romb'ej taq
+\g perseguir PL
+\c vt part
+\l Lo persiguieron.
+\gs GL GT
+\p vt PL#part
+
+\ref trtex016Usp03 208
+\t ta' chki' tijye' rib' tromb'ej taq.+
+\m ta' chk -i' ti- j- ye' r- ib' tromb'ej taq
+\g NEG PART ENF INC E3S dar E3S SR perseguir PL
+\c part part part tam pers vt pers suf vt part
+\l Ya no se dejaba que lo persiguieran.
+\gs GT GT GT GT GT GL GT GT GL GT
+\p NEG#part PART#part ENF#part INC#tam E3S#pers vt E3S#pers SR#suf vt PL#part
+
+\ref trtex016Usp03 209
+\t B'ij chepe' taq xok taq chi iitz' rk'iil.+
+\m b'i -j chep -e' taq x- ok taq chi iitz' r- k'iil
+\g DIR E3S agarrar ENF PL COM entrar PL PRE jugar E3 SR
+\c dir pers vt part part tam vi part prep vi pers srel
+\l Lo querían agarrar y empezó a jugar con ellos.
+\gs GT GT GL GT GT GT GL GT GT GL GT GL
+\p DIR#dir E3S#pers vt ENF#part PL#part COM#tam vi PL#part PRE#prep vi E3#pers srel
+
+\ref trtex016Usp03 210
+\t I... tijtuq taq chib'il rib'aq chi iitz'.+
+\m i ti- j- tuq taq ch- ib'il r- ib' -aq chi iitz'
+\g CONJ INC E3S jalar PL PREP SR E3P SR PL PRE jugar
+\c conj tam pers vt part prep srel pers srel part prep vi
+\l Y lo jaloneaban de jugar con él (lo jaloneaban para jugar con él)
+\gs GT GT GT GL GT GT GT GT GT GT GT GL
+\p CONJ#conj INC#tam E3S#pers vt PL#part PREP#prep SR#srel E3P#pers SR#srel PL#part PRE#prep vi
+
+\ref trtex016Usp03 211
+\t I tjuraj rk'iilaq,+
+\m i t- juraj r- k'iil -aq
+\g CONJ INC jalar E3P SR PL
+\c conj tam vt pers srel part
+\l Y lo jalaban con ellos.
+\gs GT GT GL GT GL GT
+\p CONJ#conj INC#tam vt E3P#pers srel PL#part
+
+\ref trtex016Usp03 212
+\t i baa iitz',+
+\m i baa iitz'
+\g CONJ baya jugar
+\c conj voc vi
+\l Y va de jugar.
+\gs GT GL GL
+\p CONJ#conj voc vi
+
+\ref trtex016Usp03 213
+\t i baa iitz',+
+\m i baa iitz'
+\g CONJ baya jugar
+\c conj voc vi
+\l Y va de jugar.
+\gs GT GL GL
+\p CONJ#conj voc vi
+
+\ref trtex016Usp03 214
+\t i baa iitz' tren taq rk'iil.+
+\m i baa iitz' t- r- en taq r- k'iil
+\g CONJ baya jugar INC E3 hacer PL E3 SR
+\c conj voc vi tam pers prep part pers srel
+\l Y va de jugar estaban con él.
+\gs GT GL GL GT GT GL GT GT GL
+\p CONJ#conj voc vi INC#tam E3#pers prep PL#part E3#pers srel
+
+\ref trtex016Usp03 215
+\t Segur xk'astaj ranmaq.+
+\m segur x- k'asta -j r- ánim -aq
+\g seguro COM aburrirse SC E3P alma PL
+\c adv tam vi suf pers s part
+\l Seguro se aburrieron.
+\gs GL GT GL GT GT GL GT
+\p adv COM#tam vi SC#suf E3P#pers s PL#part
+
+\ref trtex016Usp03 216
+\t -I ooj b'ena mejor tk'am b'i man ek'l ri la jaa,+
+\m i ooj b'e -na mejor t- k'am b'i man ek'l ri la jaa
+\g CONJ nosotros ir PART mejor INC recibir DIR ART niño DEM PRE casa
+\c conj pron vi part adv tam vt dir art s dem prep s
+\l Y nos iremos, mejor llevemos a este patojo a la casa.
+\gs GT GL GL GT GL GT GL GT GT GL GT GT GL
+\p CONJ#conj pron vi PART#part adv INC#tam vt DIR#dir ART#art s DEM#dem PRE#prep s
+
+\ref trtex016Usp03 217
+\t cha' taq.+
+\m cha' taq
+\g decir PL
+\c vi part
+\l Dijeron ellos.
+\gs GL GT
+\p vi PL#part
+
+\ref trtex016Usp03 218
+\t I tijk'am taq xij rechaq,+
+\m i ti- j- k'am taq x- ij rechaq
+\g CONJ INC E3S llevar PL COM decir ellos/ellas
+\c conj tam pers vt part tam vt pron
+\l Y se lo llevan dijeron ellos.
+\gs GT GT GT GL GT GT GL GL
+\p CONJ#conj INC#tam E3S#pers vt PL#part COM#tam vt pron
+
+\ref trtex016Usp03 219
+\t kes man ek'l sach laj q'ab'aq.+
+\m kes man ék'il sach laj q'ab' -aq
+\g que@si ART niño perder PREP mano PL
+\c adv art s vt prep s part
+\l Que si ese patojo se les desaparecio entre las manos de ellos.
+\gs GL GT GL GL GT GL GT
+\p adv ART#art s vt PREP#prep s PL#part
+
+\ref trtex016Usp03 220
+\t Ta' chki' man ek'l.+
+\m ta' chk -i' man ek'l
+\g NEG PART ENF ART niño
+\c part part part art s
+\l Ya no esta ese patojo.
+\gs GT GT GT GT GL
+\p NEG#part PART#part ENF#part ART#art s
+
+\ref trtex016Usp03 221
+\t -Uuy neen chki' moo oori man ek'l li sachki b'ik chik.+
+\m uuy neen chk -i' moo oori man ék'il li sach -(ki) b'ik chik
+\g ¡uuy! INT PART ENF modo ahora ART niño DEM perder *** DIR PART
+\c voc adv part part adv adv art s dem vt *** dir part
+\l ¡Uuy! como es eso que ese patojo se desaparecio otra vez.
+\gs GL GT GT GT GL GL GT GL GT GL logged GT GT
+\p voc INT#adv PART#part ENF#part adv adv ART#art s DEM#dem vt error DIR#dir PART#part
+
+\ref trtex016Usp03 222
+\t I nemoo tqa'an re lajori.+
+\m i ne moo -moo t- qa- 'an re lijori
+\g CONJ INT modo -modo INC E1P hacer SR ahora
+\c conj adv adv adv tam pers vt srel adv
+\l Y ahora como le vamos hacer.
+\gs GT GT GL GL GT GT GL GL GL
+\p CONJ#conj INT#adv adv adv INC#tam E1P#pers vt srel adv
+
+\ref trtex016Usp03 223
+\t I ke man ek'l man tsach b'i chqawch.+
+\m i ke man ek'l man t- sach b'i ch- qa- wch
+\g CONJ que ART niño ART INC perder DIR PREP E1P SR
+\c conj adv art s art tam vt dir prep pers srel
+\l Y que ese patojo se nos desaparecio.
+\gs GT GL GT GL GT GT GL GT GT GT GL
+\p CONJ#conj adv ART#art s ART#art INC#tam vt DIR#dir PREP#prep E1P#pers srel
+
+\ref trtex016Usp03 224
+\t I mejor ooj pechik chweeq'.+
+\m i mejor ooj pe -ch -ik chweeq'
+\g CONJ mejor nosotros venir PREP SC mañana
+\c conj adv pron vi prep suf advç
+\l Y mejor volvemos mañana.
+\gs GT GL GL GL GT GT GL
+\p CONJ#conj adv pron vi PREP#prep SC#suf advç
+
+\ref trtex016Usp03 225
+\t I... chweeq' tqolb'ej,+
+\m i chweeq' t qolb'ej
+\g CONJ mañana INC esperar
+\c conj adv tam vt
+\l Y mañana lo esperamos.
+\gs GT GL GT GL
+\p CONJ#conj adv INC#tam vt
+
+\ref trtex016Usp03 226
+\t na'l man tiyuq chi qaxo'l chik.+
+\m na'l man ti yuq chi qa- xo'l chik
+\g se@ve ART INC llegar PREP E1P SR PART
+\c vi art tam vi prep pers srel part
+\l Se va ver cundo este otra vez entre nosotros.
+\gs GL GT GT GL GT GT GL GT
+\p vi ART#art INC#tam vi PREP#prep E1P#pers srel PART#part
+
+\ref trtex016Usp03 227
+\t Tqachep b'ik+
+\m t- qa- chep b'ik
+\g INC E1P agarrar DIR
+\c tam pers vt dir
+\l Lo agarraremos.
+\gs GT GT GL GT
+\p INC#tam E1P#pers vt DIR#dir
+
+\ref trtex016Usp03 228
+\t tqak'am b'i la jaa+
+\m t- qa- k'am b'i la jaa
+\g INC E1P reciibir DIR PRE casa
+\c tam pers vt dir prep s
+\l Lo llevaremos en la casa.
+\gs GT GT GL GT GT GL
+\p INC#tam E1P#pers vt DIR#dir PRE#prep s
+
+\ref trtex016Usp03 229
+\t rk'i qataat+
+\m r- k'i qa- taat
+\g E3 SR E1P papá
+\c pers srel pers s
+\l Con nuestro papá.
+\gs GT GL GT GL
+\p E3#pers srel E1P#pers s
+
+\ref trtex016Usp03 230
+\t qak'ute' chuch qanaan,+
+\m qa- k'ut -e' ch- uch qa- naan
+\g E1P enseñar ENF PREP SR E1P mamá
+\c pers vt part prep srel pers s
+\l Se lo vamos a enseñar a mamá.
+\gs GT GL GT GT GL GT GL
+\p E1P#pers vt ENF#part PREP#prep srel E1P#pers s
+
+\ref trtex016Usp03 231
+\t cha' taq.+
+\m cha' taq
+\g decir PL
+\c vi pl
+\l Dijeron ellos.
+\gs GL GT
+\p vi PL#pl
+
+\ref trtex016Usp03 232
+\t -A tziyi'n pwes ooj kwin ti jchapik.+
+\m a tzi -yi'n pwes ooj kwin -ti j- chap -ik
+\g CONJ bueno ENF pues nosotros poder INC E3S agarrar SC
+\c conj adv part adv pron vi tam pers vt suf
+\l A esta bien pues, lo lograremos agarrar.
+\gs GT GL GT GL GL GL GT GT GL GT
+\p CONJ#conj adv ENF#part adv pron vi INC#tam E3S#pers vt SC#suf
+
+\ref trtex016Usp03 233
+\t -A ooj kwini'n,+
+\m a ooj kwin -i'n
+\g CONJ nosotros poder ENF
+\c conj pron vi part
+\l A si podemos pues.
+\gs GT GL GL GT
+\p CONJ#conj pron vi ENF#part
+
+\ref trtex016Usp03 234
+\t ooj kwin tqajurerej,+
+\m ooj kwin t- qa- jurere -j
+\g nosotros poder INC E1P arrastrar SC
+\c pron vi tam pers vt suf
+\l A si podremos arrastrarlo.
+\gs GL GL GT GT GL GT
+\p pron vi INC#tam E1P#pers vt SC#suf
+
+\ref trtex016Usp03 235
+\t cha' taq.+
+\m cha' taq
+\g decir PL
+\c vi part
+\l Dijeron:
+\gs GL GT
+\p vi PL#part
+
+\ref trtex016Usp03 236
+\t - Jaan.+
+\m jaan
+\g bueno
+\c adv
+\l Esta bien pues.
+\gs GL
+\p adv
+
+\ref trtex016Usp03 237
+\t Baay entons ooj pee chweeq' mism oor ooj yuq chik.+
+\m baay entons ooj pee chweeq' mism oor ooj yuq chik
+\g baya entonces nosotros venir mañana lo@mismo ahora nosotros llegar PART
+\c voc adv pron vi adv adv conj pron vi part
+\l Vaya entonces nosotros vendremos mañana.
+\gs GL GL GL GL GL GL GL GL GL GT
+\p voc adv pron vi adv adv conj pron vi PART#part
+
+\ref trtex016Usp03 238
+\t - Jaan xmol chik rib'aq+
+\m jaan x- mol chik r- ib' -aq
+\g bueno COM juntar PART E3P SR PL
+\c adv tam vt part dem srel part
+\l Y esta bien se reuniron otra vez.
+\gs GL GT GL GT GT GT GT
+\p adv COM#tam vt PART#part E3P#dem SR#srel PL#part
+
+\ref trtex016Usp03 239
+\t xe' taq chik jun b'esel q'iij chik.+
+\m x- e' taq chik jun b'esel q'iij chik
+\g COM ir PL PART uno ir día PART
+\c tam vi part part num vi s part
+\l Se fueron otra tarde otra vez.
+\gs GT GL GT GT GL GL GL GT
+\p COM#tam vi PL#part PART#part num vi s PART#part
+
+\ref trtex016Usp03 240
+\t X... li iitz' li kla' mism li uxta'j.+
+\m x li iitz' li kla' mism li ux- ta'j
+\g COM DEM jugar DEM allí lomismo DEM SR planicie/llano
+\c tam dem vi dem adv adv dem srel s
+\l A jugar alli mismo en el llanito.
+\gs GT GT GL GT GL GL GT GL GL
+\p COM#tam DEM#dem vi DEM#dem adv adv DEM#dem srel s
+
+\ref trtex016Usp03 241
+\t Ji' chaq tril taq xtaw chik ra lek'l mism.+
+\m ji' chaq t- r- il taq x- taw chik ra lek'l mism
+\g DEM PART INC E3 ver PL COM llegar PART DIM niño lomismo
+\c dem part tam pers vt part tam vt part part s adv
+\l Y cuando vieron llegó otra vez el mismo patojo.
+\gs GT GT GT GT GL GT GT GL GT GT GL GL
+\p DEM#dem PART#part INC#tam E3#pers vt PL#part COM#tam vt PART#part DIM#part s adv
+
+\ref trtex016Usp03 242
+\t Ra lek'l chiki' mism xtaw.+
+\m ra lek'l chik -i' mism x- taw
+\g DIM niño PART ENF lomismo COM llegar
+\c part s part part adv tam vt
+\l El mismo patojito fue el que llegó.
+\gs GT GL GT GT GL GT GL
+\p DIM#part s PART#part ENF#part adv COM#tam vt
+
+\ref trtex016Usp03 243
+\t I toos xpe taq xok taq chi iitz' rk'iil.+
+\m i toos x- pe taq x- ok taq chi iitz' r- k'iil
+\g CONJ entonces COM venir PL COM entrar PL PRE jugar E3 SR
+\c conj adv tam vi part tam vi part prep vi pers srel
+\l Y entonces vinieron empezaron a jugar con él.
+\gs GT GL GT GL GT GT GL GT GT GL GT GL
+\p CONJ#conj adv COM#tam vi PL#part COM#tam vi PL#part PRE#prep vi E3#pers srel
+
+\ref trtex016Usp03 244
+\t Usil qame' b'i lajori si qame' b'i la jaa,+
+\m usiil qa- m -e' b'i lajori si qa- m -e' b'i la jaa
+\g despacio E1P llevar ENF DIR ahora si E1P llevar ENF DIR PRE casa
+\c adv pers vt part dir adv adv pers vt part dir prep s
+\l Poco a poco ahora si lo llevemos a la casa.
+\gs GL GT GL GT GT GL GL GT GL GT GT GT GL
+\p adv E1P#pers vt ENF#part DIR#dir adv adv E1P#pers vt ENF#part DIR#dir PRE#prep s
+
+\ref trtex016Usp03 245
+\t cha' taq cha'.+
+\m cha' taq cha'
+\g decir PL decir
+\c vi part vi
+\l Dijeron dice.
+\gs GL GT GL
+\p vi PL#part vi
+
+\ref trtex016Usp03 246
+\t -Jaan xk'am taq,+
+\m jaan x- k'am taq
+\g esta@bien COM recibir PL
+\c adv tam vt part
+\l Bueno se lo llevaron.
+\gs GL GT GL GT
+\p adv COM#tam vt PL#part
+
+\ref trtex016Usp03 247
+\t jurchuchuj taq+
+\m jurchuchuj taq
+\g jalar@con@fuerza PL
+\c vt part
+\l Lo arrastraron ellos.
+\gs GL GT
+\p vt PL#part
+
+\ref trtex016Usp03 248
+\t re tijtuq rib' laj q'ab'aq.+
+\m re ti- j- tuq r- ib' laj q'ab' -aq
+\g PART INC E3S jalar E3S SR PREP mano PL
+\c part tam pers vt pers srel prep s part
+\l El se jaloneaba de las manos de ellos.
+\gs GT GT GT GL GT GT GT GL GT
+\p PART#part INC#tam E3S#pers vt E3S#pers SR#srel PREP#prep s PL#part
+
+\ref trtex016Usp03 249
+\t I ta' raj tb'ek+
+\m i ta' r- aj t- b'e -k
+\g CONJ NEG E3S -querer INC ir SC
+\c conj part pers vt tam vi suf
+\l Y no se quería ir.
+\gs GT GT GT GL GT GL GT
+\p CONJ#conj NEG#part E3S#pers vt INC#tam vi SC#suf
+
+\ref trtex016Usp03 250
+\t i xjurchuchuj taq b'ik.+
+\m i x- jurchuchúj taq b'ik
+\g CONJ COM jalar@con@fuerza PL DIR
+\c conj tam vt part dir
+\l Y se lo llevaron arrastrando con fuerza.
+\gs GT GT GL GT GT
+\p CONJ#conj COM#tam vt PL#part DIR#dir
+
+\ref trtex016Usp03 251
+\t I jurchuchuj jwi'laq xk'am taq b'ik.+
+\m i jurchuchúj j- wi'l -aq x- k'am taq b'ik
+\g CONJ jalar@con@fuerza E3S SR PL COM recibir PL DIR
+\c conj vt pers srel part tam vt part dir
+\l Y arrastrando se lo llevaron.
+\gs GT GL GT GL GT GT GL GT GT
+\p CONJ#conj vt E3S#pers srel PL#part COM#tam vt PL#part DIR#dir
+
+\ref trtex016Usp03 252
+\t I k'iy rb'ilaq chi riij jun ra anm jun laad.+
+\m i k'iy r- ib' -il -aq chi ri- ij jun ra ánim jun laad
+\g CONJ muchos E3 SR SAB PL PRE E3S SR uno DIM mujer uno lado
+\c conj adv pers srel sabs part prep pers srel num part s num adv
+\l Y eran muchos para llevarlo una mujercita en un lado.
+\gs GT GL GT GL GT GT GT GT GT GL GT GL GL GL
+\p CONJ#conj adv E3#pers srel SAB#sabs PL#part PRE#prep E3S#pers SR#srel num DIM#part s num adv
+
+\ref trtex016Usp03 253
+\t I jun ra wunaq jun laad.+
+\m i jun ra wunaq jun laad
+\g CONJ uno DIM hombre uno lado
+\c conj num part s num adv
+\l Y un varoncito en el otro lado.
+\gs GT GL GT GL GL GL
+\p CONJ#conj num DIM#part s num adv
+
+\ref trtex016Usp03 254
+\t I xk'am taq b'ik.+
+\m i x- k'am taq b'ik
+\g CONJ COM recibir PL DIR
+\c conj tam vt part dir
+\l Y se lo llevaron.
+\gs GT GT GL GT GT
+\p CONJ#conj COM#tam vt PL#part DIR#dir
+
+\ref trtex016Usp03 255
+\t I xaq xtaw taq re chi richooch+
+\m i xaq x- taw taq re chi r- ichooch
+\g CONJ solo COM llegar PL él/ella PRE E3S -casa
+\c conj adv tam vt part pron prep pers s
+\l Y solo llegaron en su casa.
+\gs GT GL GT GL GT GL GT GT GL
+\p CONJ#conj adv COM#tam vt PL#part pron PRE#prep E3S#pers s
+
+\ref trtex016Usp03 256
+\t ya t'ok taq chi jaa,+
+\m ya t'- ok taq chi jaa
+\g ya INC entrar PL PRE casa
+\c voc tam vt part prep s
+\l Ya estaban por entrar en la boca de la casa, (estaban por entrar en la puerta de la casa)
+\gs GL GT GL GT GT GL
+\p voc INC#tam vt PL#part PRE#prep s
+
+\ref trtex016Usp03 257
+\t cha',+
+\m cha'
+\g decir
+\c vi
+\l Dice,
+\gs GL
+\p vi
+
+\ref trtex016Usp03 258
+\t chi richoochaq,+
+\m chi ri- ichooch -aq
+\g PRE DEM -casa PL
+\c prep dem s suf
+\l En la casa de ellos,
+\gs GT GT GL GT
+\p PRE#prep DEM#dem s PL#suf
+
+\ref trtex016Usp03 259
+\t cha'.+
+\m cha'
+\g decir
+\c vi
+\l Dice.
+\gs GL
+\p vi
+
+\ref trtex016Usp03 260
+\t Kwand xpe man, man ek'l xen jun saptq'um.+
+\m kwand x- pet man man ék'il x- en jun
+\g cuando COM venir ART ART niño COM en un
+\c adv tam vi art art s tam prep art
+\l Cuando vino ese patojo hizo un remolino.
+\gs GL GT GL GT GT GL GT GL GL
+\p adv COM#tam vi ART#art ART#art s COM#tam prep art
+
+\ref trtex016Usp03 261
+\t Xk'am b'i kib' tra lek'l,+
+\m x- k'am b'ik kib' tra li - ék'il
+\g COM llevar DIR dos DIM PREP niño
+\c tam vt dir num part prep s
+\l Se llevó a dos de los niños,
+\gs GT GL GT GL GT GT GT GL
+\p COM#tam vt DIR#dir num DIM#part PREP#prep # s
+
+\ref trtex016Usp03 262
+\t ra anm konto jun ra wunaq.+
+\m ra ánim jun ra wunaq
+\g DIM mujer un DIM hombre
+\c part s art part s
+\l A una mujercita a un varón.
+\gs GT GL GL GT GL
+\p DIM#part s art DIM#part s
+
+\ref trtex016Usp03 263
+\t Xk'am b'ik xk'am b'i li teew,+
+\m x- k'am b'ik x- k'am b'ik li teew
+\g COM llevar DIR COM llevar DIR en aire
+\c tam vt dir tam vt dir prep s
+\l Se lo llevó se lo llevó en el viento,
+\gs GT GL GT GT GL GT GL GL
+\p COM#tam vt DIR#dir COM#tam vt DIR#dir prep s
+
+\ref trtex016Usp03 264
+\t ta' na'l la' xe'taqw.+
+\m ta' na'l la'
+\g NEG se@ve en
+\c part vi prep
+\l No se vió a donde se fuerón.
+\gs GT GL GL
+\p NEG#part vi prep
+
+\ref trtex016Usp03 265
+\t Trajpech tra xem taq chi riij,+
+\m t- r- aj- pet -ch tra xem taq chi ri -ij
+\g INC E3 AGT venir MOV DIM viene@de@seguir PL PRE DEM SR
+\c tam pers pref vi mov part vi pl prep dem srel
+\l Los compañeros que estaban atras, (con él/ella)
+\gs GT GT GT GL GT GT GL GT GT GT GT
+\p INC#tam E3#pers AGT#pref vi MOV#mov DIM#part vi PL#pl PRE#prep DEM#dem SR#srel
+
+\ref trtex016Usp03 266
+\t xkan taq,+
+\m x- kan taq
+\g COM quedar PL
+\c tam vi pl
+\l Se quedarón,
+\gs GT GL GT
+\p COM#tam vi PL#pl
+
+\ref trtex016Usp03 267
+\t ta' chki' ta' chki' raaj pechaq.+
+\m ta' ta' raaj pech -aq
+\g NEG NEG tal@vez compañero PL
+\c part part adv s suf
+\l Ya no esta su compañero.
+\gs GT GT GL GL GT
+\p NEG#part NEG#part adv s PL#suf
+
+\ref trtex016Usp03 268
+\t Raj pechaq k'omownaq b'i re man ek'l,+
+\m r- aj pech -aq k'om -ow -naq b'ik re man ek'l
+\g E3S -querer compañero PL llevar AP PP DIR él/ella ART niño
+\c pers vt s part vt suf suf dir pron art s
+\l El compañero que se había llevado a ese patojo.
+\gs GT GL GL GT GL GT GT GT GL GT GL
+\p E3S#pers vt s PL#part vt AP#suf PP#suf DIR#dir pron ART#art s
+
+\ref trtex016Usp03 269
+\t xk'ama' b'ik.+
+\m x- k'am -a' b'ik
+\g COM recibir ENF DIR
+\c tam vt part dir
+\l Se lo llevó. (se llevó a una de las niñas)
+\gs GT GL GT GT
+\p COM#tam vt ENF#part DIR#dir
+
+\ref trtex016Usp03 270
+\t I ya kwand xok taq b'ik ni'j la jaa.+
+\m i ya kwand x- ok taq b'ik ni'j la jaa
+\g CONJ ya cuando COM entrar PL DIR otros PRE casa
+\c conj voc adv tam vi part dir adv prep s
+\l Y cuando estaban ya los otros en la casa.
+\gs GT GL GL GT GL GT GT GL GT GL
+\p CONJ#conj voc adv COM#tam vi PL#part DIR#dir adv PRE#prep s
+
+\ref trtex016Usp03 271
+\t - Xi'j re jqaajaq+
+\m x- i'j re j- qaaj -aq
+\g COM decir él/ella E3P papá PL
+\c tam vt pron pers s part
+\l Le dijieron a su papá.
+\gs GT GL GL GT GL GT
+\p COM#tam vt pron E3P#pers s PL#part
+
+\ref trtex016Usp03 272
+\t ke neen moo tra lek'l k'omownaqch re man ek'l.+
+\m ke neen moo tra lek'l k'am -ow -naq -ch re man ek'l
+\g que INT modo DIM niño recibir AP PP DIR él/ella ART niño
+\c part adv adv part s vt suf suf dir pron art s
+\l Que como los patojitos que traían a ese patojo.
+\gs GL GT GL GT GL GL GT GT GT GL GT GL
+\p part INT#adv adv DIM#part s vt AP#suf PP#suf DIR#dir pron ART#art s
+
+\ref trtex016Usp03 273
+\t Xk'omsaj b'i jwi' man satq'um,+
+\m x- k'om -sáj b'i j- wi' man satq'um
+\g COM recibir PAS DIR E3S SR ART remolino@de@viento
+\c tam vt suf dir pers srel art s
+\l Fue llevado por ese remolino.
+\gs GT GL GT GT GT GL GT GL
+\p COM#tam vt PAS#suf DIR#dir E3S#pers srel ART#art s
+
+\ref trtex016Usp03 274
+\t man ek'l k'omolch jwi'laq.+
+\m man ek'l k'am -ol -ch j- wi'l -aq
+\g ART niño recibir AGT DIR E3S SR PL
+\c art s vt suf dir pers srel part
+\l Ese patojo que traían ellos.
+\gs GT GL GL GT GT GT GL GT
+\p ART#art s vt AGT#suf DIR#dir E3S#pers srel PL#part
+
+\ref trtex016Usp03 275
+\t Xna' jun teew+
+\m x- na' jun teew
+\g COM PART uno aire
+\c tam part num s
+\l Se hizo un viento.
+\gs GT GT GL GL
+\p COM#tam PART#part num s
+
+\ref trtex016Usp03 276
+\t i xk'am b'i tra lek'l.+
+\m i x- k'am b'i tra lek'l
+\g CONJ COM recibir DIR DIM niño
+\c conj tam vt dir part s
+\l Y se llevó a los niños.
+\gs GT GT GL GT GT GL
+\p CONJ#conj COM#tam vt DIR#dir DIM#part s
+
+\ref trtex016Usp03 277
+\t I ta' chki'n tra qapech.+
+\m i ta' chk -i'n tra qa- pech
+\g CONJ NEG TAM ENF DIM E1P compañero
+\c conj part tam part part pers s
+\l Y ya no estan nuestros compañeros.
+\gs GT GT GT GT GT GT GL
+\p CONJ#conj NEG#part TAM#tam ENF#part DIM#part E1P#pers s
+
+\ref trtex016Usp03 278
+\t Xen taq tra lek'l xok taq choq'ej.+
+\m x- en taq tra lek'l x- ok taq ch- oq'e -j
+\g COM hacer PL DIM niño COM entrar PL PREP llorar SC
+\c tam vt part part s tam vi part prep vi suf
+\l Lo que hicieron los niños empezaron a llorar.
+\gs GT GL GT GT GL GT GL GT GT GL GT
+\p COM#tam vt PL#part DIM#part s COM#tam vi PL#part PREP#prep vi SC#suf
+
+\ref trtex016Usp03 279
+\t Ril ta' chki' trajpechaq.+
+\m r- il ta' chk -i' tra- j- pech -aq
+\g E3 ver NEG PART ENF DIM E3S compañero PL
+\c pers vt part part part part pers s part
+\l Vieron que ya no estan sus compañeros.
+\gs GT GL GT GT GT GT GT GL GT
+\p E3#pers vt NEG#part PART#part ENF#part DIM#part E3S#pers s PL#part
+
+\ref trtex016Usp03 280
+\t Xelch jqaaj jchuuchaq.+
+\m x- el -ch j- qaaj j- chuuch -aq
+\g COM salir DIR E3S papá E3S mamá PL
+\c tam vi dir pers s pers s part
+\l Salieron los padres de ellos.
+\gs GT GL GT GT GL GT GL GT
+\p COM#tam vi DIR#dir E3S#pers s E3S#pers s PL#part
+
+\ref trtex016Usp03 281
+\t - Neen k'u xata' taq.+
+\m neen k'u x- a- ta' taq
+\g INT PART COM E2S encontrar PL
+\c adv part tam pers vt part
+\l Y que fue lo que les pasó.
+\gs GT GT GT GT GL GT
+\p INT#adv PART#part COM#tam E2S#pers vt PL#part
+
+\ref trtex016Usp03 282
+\t - Eske wooj uxta'j+
+\m eske w- ooj ux- ta'j
+\g es@que E1P nosotros SR planicie/llano
+\c ad pers pron srel s
+\l Es que estabámos en el llano.
+\gs GL GT GL GL GL
+\p ad E1P#pers pron srel s
+
+\ref trtex016Usp03 283
+\t i ya ójor chaq man titaw qik'il.+
+\m i ya ójor chaq man ti- taw q- ik'il
+\g CONJ ya antiguamente PART ART INC llegar E1P SR
+\c conj voc adv part art tam vt pers srel
+\l Y ya hace ratos que llega con nosotros.
+\gs GT GL GL GT GT GT GL GT GL
+\p CONJ#conj voc adv PART#part ART#art INC#tam vt E1P#pers srel
+
+\ref trtex016Usp03 284
+\t Xena jun ek'l+
+\m x- en a jun ék'il
+\g COM hacer ENF uno niño
+\c tam vt part num s
+\l Se convirtió en un patojo.
+\gs GT GL GT GL GL
+\p COM#tam vt ENF#part num s
+
+\ref trtex016Usp03 285
+\t despwes xen jun kwa'y.+
+\m despwes x- en jun kwa'y
+\g después COM hacer uno caballo
+\c adv tam vt num s
+\l Despues se comvirtió en un caballo.
+\gs GL GT GL GL GL
+\p adv COM#tam vt num s
+
+\ref trtex016Usp03 286
+\t I usil man ek'l xqachomsaj tqachep,+
+\m i usil man ek'l x- qa- chomo -sáj t- qa- chep
+\g CONJ despacio ART niño COM E1P pensar PAS INC E1P agarrar
+\c conj adv art s tam pers vt suf tam pers vt
+\l Y poco a poco pensamos que lo agarraríamos.
+\gs GT GL GT GL GT GT GL GT GT GT GL
+\p CONJ#conj adv ART#art s COM#tam E1P#pers vt PAS#suf INC#tam E1P#pers vt
+
+\ref trtex016Usp03 287
+\t tqak'amch niri tiyuq qak'ute' chawchaq.+
+\m t- qa- k'am -ch niri ti- yuq qa- k'ut -e' ch- aw- ch -aq
+\g INC E1P recibir DIR aqui INC llegar E1P enseñar ENF INC E2P DIR PL
+\c tam pers vt dir adv tam vi pers vt part tam pers dir part
+\l Lo traiamos aquí para enseñarlo a ustedes.
+\gs GT GT GL GT GL GT GL GT GL GT GT GT GT GT
+\p INC#tam E1P#pers vt DIR#dir adv INC#tam vi E1P#pers vt ENF#part INC#tam E2P#pers DIR#dir PL#part
+
+\ref trtex016Usp03 288
+\t I kesi man ek'l ya man tiyuq t'ok niri chuch jaa.+
+\m i ke -si man ek'l ya man ti- yuq t'- ok niri ch- uch jaa
+\g CONJ que -si ART niño ya ART INC llegar INC entrar aqui PREP SR casa
+\c conj adv adv art s voc art tam vt tam vi adv prep srel s
+\l Y que si ese patojo que estava por llegar en el patio de la casa.
+\gs GT GL GL GT GL GL GT GT GL GT GL GL GT GL GL
+\p CONJ#conj adv adv ART#art s voc ART#art INC#tam vt INC#tam vi adv PREP#prep srel s
+
+\ref trtex016Usp03 289
+\t Ya tqakoj chi jaa.+
+\m ya t- qa- koj chi jaa
+\g ya INC E1P meter PRE casa
+\c voc tam pers vt prep s
+\l Ya estava por entrar en la puerta.
+\gs GL GT GT GL GT GL
+\p voc INC#tam E1P#pers vt PRE#prep s
+
+\ref trtex016Usp03 290
+\t Kwand xen jun sutq'um xk'am b'i tra qapech.+
+\m kwand x- en jun sutq'um x- k'am b'i tra qa- pech
+\g cuando COM hacer uno remolino@de@viento COM recibir DIR DIM E1P compañero
+\c adv tam vt num s t vt dir part pers s
+\l Cuando hizo un remolino y se llevó a nuestros compañeritos.
+\gs GL GT GL GL GL GT GL GT GT GT GL
+\p adv COM#tam vt num s COM#t vt DIR#dir DIM#part E1P#pers s
+
+\ref trtex016Usp03 291
+\t - Ay jwelas+
+\m ay (jwelas)
+\g ¡hay! ?
+\c voc ?
+\l - Ay jwelas...
+\gs GL logged
+\p voc error
+
+\ref trtex016Usp03 292
+\t ri' k'u li atitz'an taq laq'aab',+
+\m ri' k'u li at- itz'an taq laq'aab'
+\g DEM PART DEM A2S jugar PL noche
+\c dem part dem pers vt part adv
+\l -¡Es porque juegan por las noches!,
+\gs GT GT GT GT GL GT GL
+\p DEM#dem PART#part DEM#dem A2S#pers vt PL#part adv
+
+\ref trtex016Usp03 293
+\t neen chikon atitz'an taq.+
+\m neen chikon at- itz'an taq
+\g INT servir A2S jugar PL
+\c adv vi pers vt part
+\l Para que sirve que juegan.
+\gs GT GL GT GL GT
+\p INT#adv vi A2S#pers vt PL#part
+
+\ref trtex016Usp03 294
+\t Li man étzeli'n,+
+\m li man étzel -i'n
+\g DEM ART demonio ENF
+\c dem art adj part
+\l Eso es el demonio.
+\gs GT GT GL GT
+\p DEM#dem ART#art adj ENF#part
+
+\ref trtex016Usp03 295
+\t tcha' jqaaj rechaq cha'.+
+\m t- cha' j- qaaj rechaq cha'
+\g INC decir E3S papá ellos/ellas decir
+\c tam vi pers s pron vi
+\l Les decia el padre a ellos dice.
+\gs GT GL GT GL GL GL
+\p INC#tam vi E3S#pers s pron vi
+
+\ref trtex016Usp03 296
+\t - Ji'n per chaq jolin taq chij tokik tra lek'l.+
+\m jii'n per chaq jolin taq chi -j tok -ik tra lek'l
+\g AFI pero PART correr PL PREP E3S buscar SC DIM niño
+\c part adv part vt part prep pers vt suf dim s
+\l - Pero ya estaba corriendo por buscar a los niños.
+\gs GT GL GT GL GT GT GT GL GT GT GL
+\p AFI#part adv PART#part vt PL#part PREP#prep E3S#pers vt SC#suf DIM#dim s
+
+\ref trtex016Usp03 297
+\t Jqaaj chuuch xel chij tokik,+
+\m j- qaaj chuuch x- el chi -j tok -ik
+\g E3S papá mamá COM salir PRE E3S buscar SC
+\c pers s s tam vi prep pers vt suf
+\l El padres de ellos salieron a bscarlos.
+\gs GT GL GL GT GL GT GT GL GT
+\p E3S#pers s s COM#tam vi PRE#prep E3S#pers vt SC#suf
+
+\ref trtex016Usp03 298
+\t ta' chki' taq ra lek'l.+
+\m ta' chk -i' taq ra lek'l
+\g NEG PART ENF PL DIM niño
+\c part part part part part s
+\l Ya no estan los niños.
+\gs GT GT GT GT GT GL
+\p NEG#part PART#part ENF#part PL#part DIM#part s
+
+\ref trtex016Usp03 299
+\t Xk'amsaji' b'ik,+
+\m x- k'am -sáj -i' b'ik
+\g COM recibir PAS ENF DIR
+\c tam vt suf part dir
+\l Se los llevaron.
+\gs GT GL GT GT GT
+\p COM#tam vt PAS#suf ENF#part DIR#dir
+
+\ref trtex016Usp03 300
+\t ta' chki' na'l lamaas xe'taqw.+
+\m ta' chk -i' na'l lamaas xe' -taq -w
+\g NEG PART ENF se@ve donde ir PL PART
+\c part part part vi adv vi part part
+\l Ya no se vio a donde se fueron.
+\gs GT GT GT GL GL GL GT GT
+\p NEG#part PART#part ENF#part vi adv vi PL#part PART#part
+
+\ref trtex016Usp03 301
+\t I ri' k'u li pores ta' mas tzii tra lek'l titz'an taq laq'aab'.+
+\m i r- k'u li pores ta' mas tzii tra lek'l ti- tz'an taq laq'aab'
+\g CONJ DEM PART DEM poreso NEG más bueno DIM niño INC jugar PL noche
+\c conj dem part dem adv part adv adj part s tam vi part adv
+\l Y es por eso pues, que los niños no es bueno que juguen por la noche.
+\gs GT GT GT GT GL GT GL GL GT GL GT GL GT GL
+\p CONJ#conj DEM#dem PART#part DEM#dem adv NEG#part adv adj DIM#part s INC#tam vi PL#part adv
+
+\ref trtex016Usp03 302
+\t Porke ya laq'aab' t'ijtqa'n,+
+\m porke ya laq'aab' t'- ij -tq -a'n
+\g porque ya noche INC decir PL ENF
+\c adv voc adv tam vt part part
+\l Por que ya de noche dicen.
+\gs GL GL GL GT GL GT GT
+\p adv voc adv INC#tam vt PL#part ENF#part
+
+\ref trtex016Usp03 303
+\t ke qamaam qatiit'.+
+\m ke qa- maam qa- tiit'
+\g que E1P abuelo E1P abuela
+\c adv pers s pers s
+\l Que nuestros abuelos.
+\gs GL GT GL GT GL
+\p adv E1P#pers s E1P#pers s
+
+\ref trtex016Usp03 304
+\t Ke ya laq'aab' rechta' chki' Dyoos,+
+\m ke ya laq'aab' r- ech -ta' Dyoos
+\g que ya noche E3S SR NEG Dios
+\c adv voc adv pers srel part s
+\l Que ya de noche ya no es de Dios.
+\gs GL GL GL GT GL GT GL
+\p adv voc adv E3S#pers srel NEG#part s
+
+\ref trtex016Usp03 305
+\t no ke rechaq étzel.+
+\m no ke rechaq étzel
+\g no que ellos/ellas malo
+\c adv part pron adj
+\l Si no que ya es del demonio.
+\gs GL GL GL GL
+\p adv part pron adj
+
+\ref trtex016Usp03 306
+\t Chikchi'tqa'n,+
+\m (chik)- chi' -tq -a'n
+\g *** decir PL ENF
+\c *** vt part part
+\l Asi decían.
+\gs logged GL GT GT
+\p error vt PL#part ENF#part
+
+\ref trtex016Usp03 307
+\t pores ooj lajori,+
+\m pores ooj lijori
+\g por@eso nosotros ahora
+\c adv pron adv
+\l Por eso nosotros ahora.
+\gs GL GL GL
+\p adv pron adv
+
+\ref trtex016Usp03 308
+\t maq tra lek'l+
+\m maq tra lek'l
+\g ART DIM niño
+\c art part s
+\l Los niños.
+\gs GT GT GL
+\p ART#art DIM#part s
+
+\ref trtex016Usp03 309
+\t ta' chki' tyesaj lugar rechaq titz'an taq laq'aab'.+
+\m ta' chk -i' t- ye' -sáj lugar rechaq ti- tz'an taq laq'aab'
+\g NEG PART ENF INC dar PAS lugar ellos/ellas INC jugar PL noche
+\c part part part tam vt suf adv pron tam vi part adv
+\l Ya no se les da lugar a ellos que jueguen por las noches.
+\gs GT GT GT GT GL GT GL GL GT GL GT GL
+\p NEG#part PART#part ENF#part INC#tam vt PAS#suf adv pron INC#tam vi PL#part adv
+
+\ref trtex016Usp03 310
+\t Ta' k'exne' tren suseder ne' oon li.+
+\m ta' k'ex -ne' t- r- en suseder ne' oon li
+\g NEG dolor ENF INC E3 hacer suceder ENF DEM DEM
+\c part adj part tam pers vt vt part dem dem
+\l Derepente que les suceda otro caso igual.
+\gs GT GL GT GT GT GL GL GT GT GT
+\p NEG#part adj ENF#part INC#tam E3#pers vt vt ENF#part DEM#dem DEM#dem
+
+\ref trtex016Usp03 311
+\t I ri' li tinb'an rekomendar iin,+
+\m i r- i'n li t- in- b'an rekomendar iin
+\g CONJ DEM ENF DEM INC A1S hacer recomedar yo
+\c conj dem part dem tam pers vt vt pron
+\l Y eso es lo que yo recomiendo.
+\gs GT GT GT GT GT GT GL GL GL
+\p CONJ#conj DEM#dem ENF#part DEM#dem INC#tam A1S#pers vt vt pron
+
+\ref trtex016Usp03 312
+\t jqaaj chuuch jun.+
+\m j- qaaj chuuch jun
+\g E3S papá mamá uno
+\c pers s s num
+\l Los padres de uno.
+\gs GT GL GL GL
+\p E3S#pers s s num
+
+\ref trtex016Usp03 313
+\t Mit tijye' taq lugar tra lek'l titz'an taq laq'aab'.+
+\m mit ti- j- ye' taq lugar tra lek'l titz'an taq laq'aab'
+\g NEG INC E3S dar PL lugar DIM niño jugar PL noche
+\c part tam pers vt part adv part s vi part adv
+\l Hojalá no den lugar a los niñitos que jueguen de noche.
+\gs GT GT GT GL GT GL GT GL GL GT GL
+\p NEG#part INC#tam E3S#pers vt PL#part adv DIM#part s vi PL#part adv
+
+\ref trtex016Usp03 314
+\t I xaq li k'omo.+
+\m i xaq li k'oom
+\g CONJ PART DEM gracias
+\c conj part dem adv
+\l Y solo eso gracias.
+\gs GT GT GT GL
+\p CONJ#conj PART#part DEM#dem adv
+
+\ref trtex016Usp03 315
+\t 11:20 14/12/05.
+

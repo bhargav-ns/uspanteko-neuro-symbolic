@@ -1,0 +1,3892 @@
+\nom Comentario-violencia
+
+\ref trtex029Usp04 001
+\t Tengo el gusto de entrevistar a don Leandro Chamatun Castro, él es oriundo de aqui de la aldea de Chipaj, la fecha del dia de hoy es 26 de julio del año 2,004. Él tiene abien de relatarnos pasajes de la violencia que SUFrio nuestra gente aqui en esta aldea. Y él autoriza a la OKMA para que se publique en todos los medios el contenido de esta gravación, e sus padres al igual que él son oriundos de esta aldea, dejo en compañia de ustedes adon Leandro Chamatun Castro. If. K'am tzawch qaaj Baldo.+
+
+\ref trtex029Usp04 002
+\t Iin tink'anwaj r-ee r-ee xatpe qik'il niri.+
+\m Iin t- in- k'amwa -j r- e r- e x- at- pet q- ik'il niri
+\g yo INC A1S agradecer SC E3S SREL E3S SREL COM A2S venir E1P SREL aqui
+\c PRON TAM PERS VI SUF PERS SREL PERS SREL TAM PERS VI PERS SREL ADV
+\l Yo agradezco por su venida aquí con nostros.
+\gs GL GL GT GL GL GT GL GT GL GT GT GL GT GL GL
+\p PRON INC#TAM A1S#PERS VI SC#SUF E3S#PERS SREL E3S#PERS SREL COM#TAM A2S#PERS VI E1P#PERS SREL ADV
+
+\ref trtex029Usp04 003
+\t Ke tzii awch jili laj a laj áchak.+
+\m ke tzii aw- ch jili laj a laj a- chaak
+\g que bueno E2S SR. allá PREP a PREP E2S trabajo
+\c PART ADJ PERS SREL ADV PREP PREP PREP PERS S
+\l Que usted esté bien de salud en su trabajo.
+\gs GL GL GT GL GL GT GL GT GT GL
+\p PART ADJ E2S#PERS SREL ADV PREP#PREP PREP PREP#PREP E2S#PERS S
+
+\ref trtex029Usp04 004
+\t I ojala ke tab'an taq seguir rchaak ri r-ee chi' jb'itik qano'j.+
+\m i ojala ke t- a- b'an taq seguir -ir r- chaak ri r- e chi j- b'it -ik qa- no'j
+\g CONJ ojalá que INC E2S hacer PL seguir ITR E3S trabajo DEM E3S SREL PREP E3S levantar SV E1P conocimiento
+\c CONJ ADV PART TAM PERS VT PART VT SUF PERS S DEM PERS SREL PREP PERS VT SUF PERS S
+\l Y ojalá que ustedes hagan lo posible, para seguir este trabajo para levantar nuestros conocimientos.
+\gs GT GL GL GT GT GL GT GL GT GT GL GT GT GL GT GT GL GT GT GL
+\p CONJ#CONJ ADV PART INC#TAM E2S#PERS VT PL#PART VT ITR#SUF E3S#PERS S DEM#DEM E3S#PERS SREL PREP#PREP E3S#PERS VT SV#SUF E1P#PERS S
+
+\ref trtex029Usp04 005
+\t I jb'itik qayoolj+
+\m i j- b'it -ik qa yolj
+\g CONJ E3S levantar SV E1P idioma
+\c CONJ PERS VT SUF PERS S
+\l Y para levantar nuestro idioma.
+\gs GT GT GL GT GT GL
+\p CONJ#CONJ E3S#PERS VT SV#SUF E1P#PERS S
+
+\ref trtex029Usp04 006
+\t loq'laj chaak tin ta'an taq.+
+\m looq'laj chaak tin t- a- b'an taq
+\g santo trabajo PRG INC E2S hacer PL
+\c ADJ S TAM ??? PERS VT PART
+\l El santo trabajo que estan haciendo.
+\gs GL GL GT GT GT GL GT
+\p ADJ S PRG#TAM INC#*** E2S#PERS VT PL#PART
+
+\ref trtex029Usp04 007
+\t I ri li tink'anwaj tzii apetik.+
+\m i ri li t- in- k'amwa -j tzii a- pet -ik
+\g CONJ esto DEM INC A1S agradecer SC bueno E2S venir SV
+\c CONJ DEM DEM TAM PERS VI SUF ADJ PERS VI SUF
+\l Eso es lo yo agradezco que sea bien venido.
+\gs GT GL GT GT GT GL GL GL GT GL GT
+\p CONJ#CONJ DEM DEM#DEM INC#TAM A1S#PERS VI SC#SUF ADJ E2S#PERS VI SV#SUF
+
+\ref trtex029Usp04 008
+\t Iv. K'omo chawe qaaj Liyandro.+
+\m k'amo ch aw- ee qaaj Liyandro
+\g agradece PREP E2S SREL señor Leandro
+\c VT PREP PERS SREL CLAS NOM
+\l Gracias a usted don Leandro.
+\gs GL GT GT GL GL GL
+\p VT PREP#PREP E2S#PERS SREL CLAS NOM
+
+\ref trtex029Usp04 009
+\t If. Ji'n,+
+\m jii'n
+\g si
+\c ADV
+\l Si.
+\gs GL
+\p ADV
+
+\ref trtex029Usp04 010
+\t tos xaq tinyool jun kitz, loke neen q'asal qawi'l+
+\m entoons xaq t- in- yol jun kiitz loke neen q'as -al qa- wi'l
+\g entonces solo INC E1S contar uno poco loque INT pasar ??? E1P SR
+\c ADV PART TAM PERS VT NUM ADV ADV PART VI -PP PERS SREL
+\l Entonces voy a contar un poco lo qe hemos pasado nosotros.
+\gs GL GL GT GT GL GL GL GL GT GL logged GT GL
+\p ADV PART INC#TAM E1S#PERS VT NUM ADV ADV INT#PART VI ??? E1P#PERS SREL
+
+\ref trtex029Usp04 011
+\t oj niri laj qaluwr.+
+\m ooj niri laj qa- luwar
+\g nosotros aqui PREP E1P lugar
+\c PRON ADV PREP PERS S
+\l Nosotros en nuestro lugar.
+\gs GL GL GT GT GL
+\p PRON ADV PREP#PREP E1P#PERS S
+
+\ref trtex029Usp04 012
+\t Re kond jun tiyemp k'ex... r-ee del ochent,+
+\m re kwaand jun tyeemp k'ex r- e del ochent
+\g PART cuándo uno tiempo dolor E3S SREL del ochenta
+\c PART ADV NUM S ADJ PERS SREL SREL NUM
+\l Cuando en aquel tiempo de los años ochenta.
+\gs GT GL GL GL GL GT GL GL GL
+\p PART#PART ADV NUM S ADJ E3S#PERS SREL SREL NUM
+
+\ref trtex029Usp04 013
+\t ochentayun,+
+\m ochentayun
+\g ochenta@y@uno
+\c NUM
+\l Ochenta y uno.
+\gs GL
+\p NUM
+
+\ref trtex029Usp04 014
+\t ochentidos.+
+\m ochenntaydos
+\g ochenta@y@dos
+\c NUM
+\l Ochenta y dos
+\gs GL
+\p NUM
+
+\ref trtex029Usp04 015
+\t Xqaq'asaj jun... k'exlaj qelen.+
+\m x- qa- q'asa -j jun k'ex -laj qleen
+\g COM E1P pasar SC un dolor ITS cosas
+\c TAM PERS VT SUF ART ADJ SUF S
+\l Pasamos un gran dolor.
+\gs GT GT GL GT GL GL GT GL
+\p COM#TAM E1P#PERS VT SC#SUF ART ADJ ITS#SUF S
+
+\ref trtex029Usp04 016
+\t Niri xqila'n puwes,+
+\m niri x- q- il a'n pwees
+\g aqui COM E1P ver ENF pues
+\c ADV TAM PERS VT PART ADV
+\l Aqui y vimos pues.
+\gs GL GT GT GL GT GL
+\p ADV COM#TAM E1P#PERS VT ENF#PART ADV
+
+\ref trtex029Usp04 017
+\t kee ri' jun q'iij li xqata' oj t'el laq laq radiy.+
+\m kee ri' jun q'iij li x- q- ata' oj t'el laq laq radiy
+\g que DEM uno día DEM COM E1P encontrar PRON. salir en en radio
+\c ADV DEM NUM ADV DEM TAM PERS VT PERS VI PREP PREP S
+\gs GL GT GL GL GT GT GT GL GL GL GL GL GL
+\p ADV DEM#DEM NUM ADV DEM#DEM COM#TAM E1P#PERS VT PERS VI PREP PREP S
+
+\ref trtex029Usp04 018
+\t Ke petzeli' jun k'ex.+
+\m ke petz -el -i' jun k'ex
+\g que venir PP ENF uno dolor
+\c PART VI PP PART NUM ADJ
+\l Que viene un dolor.
+\gs GL GL GT GT GL GL
+\p PART VI PP#PP ENF#PART NUM ADJ
+
+\ref trtex029Usp04 019
+\t Per oj ta' tqil,+
+\m per ooj ta' t- q- il
+\g pero E1P NEG INC E1P ver
+\c ADV PERS PART TAM PERS VT
+\l Pero nosotros no vemos.
+\gs GL GT GT GT GT GL
+\p ADV E1P#PERS NEG#PART INC#TAM E1P#PERS VT
+
+\ref trtex029Usp04 020
+\t xaq tqata qe b'ik.+
+\m xaq t- qa- a qe b'ik
+\g solo INC E1P oír solo DIR
+\c PART TAM PERS VT ADV DIR
+\l Solo oímos nada más.
+\gs GL GT GT GL GL GT
+\p PART INC#TAM E1P#PERS VT ADV DIR#DIR
+
+\ref trtex029Usp04 021
+\t Pero jun repent qe xyu' qik'il,+
+\m peer jun derepeent qe x- yu' q- ik'il
+\g pero uno de@repente PART COM llegar E1P SR
+\c ADV NUM ADV PART TAM VI PERS SREL
+\l Pero de repente llegó con nosotos.
+\gs GL GL GL GT GT GL GT GL
+\p ADV NUM ADV PART#PART COM#TAM VI E1P#PERS SREL
+
+\ref trtex029Usp04 022
+\t laj qaluwr.+
+\m laj qa- luwar
+\g PREP E1P lugar
+\c PREP PERS S
+\l En nuestro lugar.
+\gs GT GT GL
+\p PREP#PREP E1P#PERS S
+
+\ref trtex029Usp04 023
+\t Xqil ke juntir loke xensaj,+
+\m x- q- il ke juntiir loke x- b'an -sáj
+\g COM E1P ver que todo loque COM hacer PAS
+\c TAM PERS VT PART ADV ADV TAM VT SUF
+\l Vimos todo lo que se hizo.
+\gs GT GT GL GL GL GL GT GL GT
+\p COM#TAM E1P#PERS VT PART ADV ADV COM#TAM VT PAS#SUF
+
+\ref trtex029Usp04 024
+\t jun repent qe (ti) xok jtorik kistiyan la jaa.+
+\m jun derepeet qe x- ok j- tor -ik kirtyaan la jaa
+\g uno de@repente PART COM empezar E3S abrir SC persona PREP casa
+\c NUM ADV PART TAM VI PERS VT SUF S PREP S
+\l Derepente empezarón a sacar a la gente en las casas.
+\gs GL GL GT GT GL GT GL GT GL GT GL
+\p NUM ADV PART#PART COM#TAM VI E3S#PERS VT SC#SUF S PREP#PREP S
+
+\ref trtex029Usp04 025
+\t Xok taq chi chi (j),+
+\m x- ok taq chi chi
+\g COM empezar PL PREP PREP
+\c TAM VI PL PREP PREP
+\l Empezarón a:
+\gs GT GL GT GT GT
+\p COM#TAM VI PL#PL PREP#PREP PREP#PREP
+
+\ref trtex029Usp04 026
+\t chi ri chaq...+
+\m chi ri chaq
+\g PREP DEM PART
+\c PREP DEM PART
+\l Derepente cuando (empezarón entrar en las casas).
+\gs GT GT GT
+\p PREP#PREP DEM#DEM PART#PART
+
+\ref trtex029Usp04 027
+\t Ri' k'u li xqila' jun istoriya,+
+\m ri' k'u li x- q- il -a' jun istorya
+\g eso@es PART DEM COM E1P ver ENF un historia
+\c DEM PART DEM TAM PERS VT PART ART S
+\l Entonces ya vimos una historia.
+\gs GL GT GT GT GT GL GT GL GL
+\p DEM PART#PART DEM#DEM COM#TAM E1P#PERS VT ENF#PART ART S
+
+\ref trtex029Usp04 028
+\t ri' li istoriya ta' tijin tqata' laq, laq ch'ich'.+
+\m ri' li istorya ta' tijin t- qa- ta' laq laq ch'iich'
+\g eso@es DEM historia NEG PRG INC E1P oír PREP PREP radio
+\c DEM DEM S PART TAM TAM PERS VT PART PART S
+\l Esa historia no lo escuchamos en ningún medio.
+\gs GL GT GL GT GT GT GT GL GT GT GL
+\p DEM DEM#DEM S NEG#PART PRG#TAM INC#TAM E1P#PERS VT PREP#PART PREP#PART S
+
+\ref trtex029Usp04 029
+\t O tijin tqil laq telebisiyon,+
+\m o' tijin t- q- il laq telebision
+\g o PRG INC E1P ver PREP televición
+\c CONJ TAM TAM PERS VT PREP S
+\l O estamos viendo en televión.
+\gs GL GT GT GT GL GT GL
+\p CONJ PRG#TAM INC#TAM E1P#PERS VT PREP#PREP S
+
+\ref trtex029Usp04 030
+\t no ke realmente rk'i qab'aq'wich+
+\m noo ke realmente r- k'i qa- b'aq' -wich
+\g no que realmente E3S SREL E1P pepita ojo
+\c ADV PART ADV PERS SREL PERS S S
+\l No que realmente con nuestros ojos.
+\gs GL GL GL GT GL GT GL GL
+\p ADV PART ADV E3S#PERS SREL E1P#PERS S S
+
+\ref trtex029Usp04 031
+\t oj xqila'.+
+\m ooj x- q- il -a'
+\g PRON COM E1S ver ENF
+\c PERS TAM PERS VT PART
+\l Nosotros vimos.
+\gs GT GT GT GL GT
+\p PRON#PERS COM#TAM E1S#PERS VT ENF#PART
+
+\ref trtex029Usp04 032
+\t Niri loke oj xqaq'asaj niri.+
+\m niri loke ooj x- qa- q'asaj niri
+\g aqui loque nosotros COM E1P pasar aqui
+\c ADV ADV PRON TAM PERS VT ADV
+\l Lo que nosotros pasamos aquí.
+\gs GL GL GL GT GT GL GL
+\p ADV ADV PRON COM#TAM E1P#PERS VT ADV
+
+\ref trtex029Usp04 033
+\t R-ee wi' ni'j anm puwes,+
+\m re wi' nik'ij ánim pwees
+\g PART EXS algunos mujer pues
+\c PART EXS ADV S ADV
+\l E pues hay algunas mujeres.
+\gs GT GT GL GL GL
+\p PART#PART EXS#EXS ADV S ADV
+
+\ref trtex029Usp04 034
+\t kee xk'atsaj rchochaq.+
+\m ke x- k'at -sáj r- ichooch -aq
+\g que COM quemar PAS E3S casa PL
+\c PART TAM VT SUF PERS S SUF
+\l Quemarón sus casas.
+\gs GL GT GL GT GT GL GT
+\p PART COM#TAM VT PAS#SUF E3S#PERS S PL#SUF
+
+\ref trtex029Usp04 035
+\t Per wi' ni'j qawinaq xk'atsaj rchochaq.+
+\m peer wi' nik'ij x- k'at -sáj r- ichooch -aq
+\g pero EXS algunos COM quemar PAS E3S casa PL
+\c ADV EXS ADV TAM VT SUF PERS S PART
+\l Pero hay unos hermanos que les quemarón sus casas.
+\gs GL GT GL GT GL GT GT GL GT
+\p ADV EXS#EXS ADV COM#TAM VT PAS#SUF E3S#PERS S PL#PART
+
+\ref trtex029Usp04 036
+\t Ya kuwando xk'atsaj rchochaq li.+
+\m ya kwand x- k'at -sáj r- ichooch -aq li
+\g ya cuando COM quemar PAS E3S casa PL DEM
+\c VOC ADV TAM VT SUF PERS S PART DEM
+\l Ya cuando les quemaron sus casas entonces.
+\gs GL GL GT GL GT GT GL GT GT
+\p VOC ADV COM#TAM VT PAS#SUF E3S#PERS S PL#PART DEM#DEM
+
+\ref trtex029Usp04 037
+\t Kib,+
+\m kiib'
+\g dos
+\c NUM
+\l Dos.
+\gs GL
+\p NUM
+
+\ref trtex029Usp04 038
+\t uxub' q'iij+
+\m oxib' q'iij
+\g tres día
+\c NUM S
+\l Tres días.
+\gs GL GL
+\p NUM S
+
+\ref trtex029Usp04 039
+\t xkamsaj chik rchjilaq.+
+\m x- kam -sáj chik r- ichijiil -aq
+\g COM morir PAS PART E3S esposo PL
+\c TAM VI SUF PART PERS S PART
+\l Les matarón sus esposos.
+\gs GT GL GT GT GT GL GT
+\p COM#TAM VI PAS#SUF PART#PART E3S#PERS S PL#PART
+
+\ref trtex029Usp04 040
+\t I xkan taq ra ék'el+
+\m i x- kan taq ra ák'el
+\g CONJ COM quedar PL DIM niño
+\c CONJ TAM VI PL PART S
+\l Y se quedarón lo niños.
+\gs GT GT GL GT GT GL
+\p CONJ#CONJ COM#TAM VI PL#PL DIM#PART S
+
+\ref trtex029Usp04 041
+\t ta' chiki' jqaajaq.+
+\m ta' chik -i' j- qaaj -aq
+\g NEG PART ENF E3S papá PL
+\c PART PART PART PERS S PART
+\l Ya no tienen papás.
+\gs GT GT GL GT GL GT
+\p NEG#PART PART#PART ENF#PART E3S#PERS S PL#PART
+
+\ref trtex029Usp04 042
+\t Sib'laj k'ex tij taq+
+\m sib'laj k'ex tij taq
+\g muy dolor comer PL
+\c ITS ADJ VI PL
+\l sufrieron demasiado.
+\gs GL GL GL GT
+\p ITS ADJ VI PL#PL
+
+\ref trtex029Usp04 043
+\t chi ri ree,+
+\m chi ri re
+\g PREP DEM PART
+\c PREP DEM PART
+\l Es que es.
+\gs GT GT GT
+\p PREP#PREP DEM#DEM PART#PART
+
+\ref trtex029Usp04 044
+\t kuwand ra x-k'iy taq.+
+\m kwaand ra x- k'iy taq
+\g cuándo DIM COM crecer PL
+\c ADV PART TAM VI PART
+\l Cuando ellos fuerón creciendo.
+\gs GL GT GT GL GT
+\p ADV DIM#PART COM#TAM VI PL#PART
+
+\ref trtex029Usp04 045
+\t Ri' k'u li kuwando xpe jun...+
+\m ri' k'u li kwand x- pet jun
+\g eso@es PART DEM cuando COM venir uno
+\c DEM PART DEM ADV TAM VI NUM
+\l Y entonces cuando vino un.
+\gs GL GT GT GL GT GL GL
+\p DEM PART#PART DEM#DEM ADV COM#TAM VI NUM
+
+\ref trtex029Usp04 046
+\t Kuwando ty el taq b'i laq b'ee,+
+\m kwand ti- el taq b'ik laq b'ee
+\g cuando INC salir PL DIR PREP camino
+\c ADV TAM VI PART DIR PREP S
+\l Cuando salen en los caminos.
+\gs GL GT GL GT GT GT GL
+\p ADV INC#TAM VI PL#PART DIR#DIR PREP#PREP S
+
+\ref trtex029Usp04 047
+\t wi' ni'j tra ék'el+
+\m wi' nik'ij tra ák'el
+\g EXS algunos DIM niño
+\c EXS ADV PART S
+\l Y hay unos niñitos.
+\gs GT GL GT GL
+\p EXS#EXS ADV DIM#PART S
+
+\ref trtex029Usp04 048a
+\t wi' jqaajaq,+
+\m wi' j- qaaj -aq
+\g EXS E3S papá PL
+\c EXS PERS S PART
+\l Tienen papá
+\gs GT GT GL GT
+\p EXS#EXS E3S#PERS S PL#PART
+
+\ref trtex029Usp04 048b
+\t wi' jchuuchaq+
+\m wi' j- chuuch -aq
+\g EXS E3S mamá PL
+\c EXS PERS S PART
+\l y tienen mamá.
+\gs GT GT GL GT
+\p EXS#EXS E3S#PERS S PL#PART
+
+\ref trtex029Usp04 049
+\t tijtij taq qelen chuch tra ék'el.+
+\m ti- jtij taq qleen chuch tra ák'el
+\g INC E3P PL cosas enfrente@de DIM niño
+\c TAM PERS PART S SREL PART S
+\l Comen cosas delante de los niñitos.
+\gs GT GT GT GL GL GT GL
+\p INC#TAM E3P#PERS PL#PART S SREL DIM#PART S
+
+\ref trtex029Usp04 050
+\t I ri k'u... tra nij chik,+
+\m i ri k'u tra nik'ij chik
+\g CONJ DEM PART DIM otros PART
+\c CONJ DEM PART PART ADV PART
+\l Y los otros.
+\gs GT GT GT GT GL GT
+\p CONJ#CONJ DEM#DEM PART#PART DIM#PART ADV PART#PART
+
+\ref trtex029Usp04 051
+\t tra, tra peep+
+\m tra tra peep
+\g DIM DIM pepe
+\c PART PART S
+\l Y los güerfanitos
+\gs GT GT GL
+\p DIM#PART DIM#PART S
+
+\ref trtex029Usp04 052
+\t ti jtitz ra jq'ab'aq laj b'onxaq.+
+\m ti- j- tiz' ra j- q'aab' -aq laj b'onx -il -aq
+\g INC E3P meter DIM E3S mano PL PREP bolsa SUF PL
+\c TAM PERS VT PART PERS S SUF PREP S SUF PART
+\l Y ellos se meten las manitas entre la bolsa.
+\gs GT GT GL GT GT GL GT GT GL GT GT
+\p INC#TAM E3P#PERS VT DIM#PART E3S#PERS S PL#SUF PREP#PREP S SUF#SUF PL#PART
+
+\ref trtex029Usp04 053
+\t Ta' ni jun sentaw laj b'onxaq,+
+\m ta' ni jun sentaaw laj b'onxil -aq
+\g NEG NEG uno centavo PREP bolsa PL
+\c PART PART NUM S PREP S PART
+\l No tienen ni un solo centavo en la bolsa.
+\gs GT GT GL GL GT GL GT
+\p NEG#PART NEG#PART NUM S PREP#PREP S PL#PART
+
+\ref trtex029Usp04 054
+\t kita' ni jun sentaw laj b'onxaq.+
+\m kita' ni jun sentaaw laj b'onxil -aq
+\g NEG NEG uno centavo PREP bolsa PL
+\c PART PART NUM S PREP S PART
+\l No tienen un solo centavo en la bolsa.
+\gs GT GT GL GL GT GL GT
+\p NEG#PART NEG#PART NUM S PREP#PREP S PL#PART
+
+\ref trtex029Usp04 055
+\t Tz'et, tz'et troqb'ej rib'aq,+
+\m tz'eet tz'et t- r- oq' -b'e -j r- ib' -aq
+\g cierto cierto INC E3S llorar APLI sc. E3S SREL PL
+\c ADV ADV TAM PERS VI SUF SUF PERS SREL PART
+\l De verdad de verdad lloravan.
+\gs GL GL GT GT GL GT GL GT GL GT
+\p ADV ADV INC#TAM E3S#PERS VI APLI#SUF SUF E3S#PERS SREL PL#PART
+
+\ref trtex029Usp04 056
+\t jwi'l, jwi'l ra jb'isaq,+
+\m j- wi'l j- wi'l ra j- b'is -aq
+\g E3S SREL E3S SREL DIM E3S tristeza PL
+\c PERS SREL PERS SREL PART PERS S PART
+\l Por por sus tristezas de ellos.
+\gs GT GL GT GL GT GT GL GT
+\p E3S#PERS SREL E3S#PERS SREL DIM#PART E3S#PERS S PL#PART
+
+\ref trtex029Usp04 057
+\t ta' ra jpuwaqaq.+
+\m ta' ra j- pwaq -aq
+\g NEG DIM E3S dinero PL
+\c PART PART PERS S PART
+\l Por que no tienen sus dinerito.
+\gs GT GT GT GL GT
+\p NEG#PART DIM#PART E3S#PERS S PL#PART
+
+\ref trtex029Usp04 058
+\t Xk'iytqa' tra peep li,+
+\m x- k'iy -tq a' tra peep li
+\g COM crecer PL ENF DIM pepe DEM
+\c TAM VI PART PART PART S DEM
+\l Crecieron estos pepes.(güérfanos)
+\gs GT GL GT GT GT GL GT
+\p COM#TAM VI PL#PART ENF#PART DIM#PART S DEM#DEM
+
+\ref trtex029Usp04 059
+\t xk'iytqan.+
+\m x- k'iy -tq -an
+\g COM crecer PL ENF
+\c TAM VI PART PART
+\l Crecieron ellos.
+\gs GT GL GT GT
+\p COM#TAM VI PL#PART ENF#PART
+
+\ref trtex029Usp04 060
+\t Per xtija' tqa' sib'laj k'ex.+
+\m peer x- tij -a' tq -a' sib'laj k'ex
+\g pero COM comer ENF PL ENF ITS dolor
+\c ADV TAM VT PART PART PART PART ADJ
+\l (pero ellos comieron mucho dolor) Pero ellos SUFieron DEMasiado.
+\gs GL GT GL GL GT GT GT GL
+\p ADV COM#TAM VT ENF#PART PL#PART ENF#PART ITS#PART ADJ
+
+\ref trtex029Usp04 061
+\t I ri' k'u li lojori ta' tsach laj qanm+
+\m i ri' k'u li lajori ta' t- sach laj q- anm
+\g CONJ eso@es PART DEM ahora NEG INC perderse PREP E1P alma
+\c CONJ DEM PART DEM ADV PART TAM VI PREP PERS S
+\l Y ahora eso no se olvida en nuestra alma.
+\gs GT GL GT GT GL GT GT GL GT GT GL
+\p CONJ#CONJ DEM PART#PART DEM#DEM ADV NEG#PART INC#TAM VI PREP#PREP E1P#PERS S
+
+\ref trtex029Usp04 062
+\t lo ke xq'ax niri laj qatilmit.+
+\m loke x- q'ax niri laj qa- tinmit
+\g loque COM pasar aqui PREP E1P pueblo
+\c PART TAM VI ADV PREP PERS S
+\l Lo que pasó en nuestro pueblo.
+\gs GL GT GL GL GT GT GL
+\p PART COM#TAM VI ADV PREP#PREP E1P#PERS S
+
+\ref trtex029Usp04 063
+\t Ta' chiki' realmente+
+\m ta' chik -i' realmente
+\g NEG PART ENF realmente
+\c PART PART PART ADV
+\l Eso realmente no se olvida.
+\gs GT GT GT GL
+\p NEG#PART PART#PART ENF#PART ADV
+
+\ref trtex029Usp04 064
+\t de ke kla' tz'et, tz'et, tz'et tkuxtaj jwi' jun.+
+\m de ke kla' tz'et tz'et tz'et t- kuxta -j j- wi'l jun
+\g de que allí cierto cierto cierto INC recordar SC E3S SREL uno
+\c PART PART ADV ADV ADV ADV TAM VT SUF PERS SREL NUM
+\l De verdad de verdad cuando uno se recuerda.
+\gs GL GL GL GL GL GL GT GL GT GT GL GL
+\p PART PART ADV ADV ADV ADV INC#TAM VT SC#SUF E3S#PERS SREL NUM
+
+\ref trtex029Usp04 065
+\t Ni sikiyer r-aj chik jwaa jun,+
+\m ni sikeer r- aj chik j- waa jun
+\g NEG siquiera E3S querer PART E3S tortilla uno
+\c PART ADV PERS VT PART PERS S PART
+\l Ni siquiera le da ambre a uno.
+\gs GT GL GT GL GT GT GL GL
+\p NEG#PART ADV E3S#PERS VT PART#PART E3S#PERS S PART
+
+\ref trtex029Usp04 066
+\t ni sikiyer treen chik pensar jtiko'n jun.+
+\m ni sikeer t- r- een chik pensar j- tiko'n jun
+\g NEG siquiera COM E3S hacer PART pensar E3S siembra uno
+\c PART ADV TAM PERS VT PART VT PERS S ART
+\l Ni siquiera se recuerda uno de sus siembras.
+\gs GT GL GT GT GL GT GL GT GL GL
+\p NEG#PART ADV COM#TAM E3S#PERS VT PART#PART VT E3S#PERS S ART
+
+\ref trtex029Usp04 067
+\t Ta' chiki' tren pesar jun jtikik ab'iix,+
+\m ta' chik -i' t- r- en pensar jun j- tik -ik ab'iix
+\g NEG PART ENF INC E3S hacer pensar uno E3S sembrar SC milpa
+\c PART PART PART TAM PERS VT VT NUM PERS VT SUF S
+\l Ya no piensa uno ni siquiera sembrar su milpa.
+\gs GT GT GT GT GT GL GL GL GT GL GT GL
+\p NEG#PART PART#PART ENF#PART INC#TAM E3S#PERS VT VT NUM E3S#PERS VT SC#SUF S
+
+\ref trtex029Usp04 068
+\t ta' chiki' tren pensar jun+
+\m ta' chik -i' t- r- en pensar jun
+\g NEG PART ENF INC E3S hacer pensar uno
+\c PART PART PART TAM PERS VT VT NUM
+\l Uno ya no piensa.
+\gs GT GT GT GT GT GL GL GL
+\p NEG#PART PART#PART ENF#PART INC#TAM E3S#PERS VT VT NUM
+
+\ref trtex029Usp04 069
+\t ri, ri, ri, ri jtikik jtikon jun.+
+\m ri ri ri ri j- tikik j- tiko'n jun
+\g PART PART PART PART E3S sembrar E3S siembra uno
+\c PART PART PART PART PERS VT PERS S PART
+\l La siembra de uno.
+\gs GT GT GT GT GT GL GT GL GL
+\p PART#PART PART#PART PART#PART PART#PART E3S#PERS VT E3S#PERS S PART
+
+\ref trtex029Usp04 070
+\t No k jun r-ee nik' qe+
+\m noo ke jun re nik' qe
+\g no que uno PART igual PART
+\c ADV PART NUM PART ADV PART
+\l No que uno es igual que.
+\gs GL GL GL GT GL GT
+\p ADV PART NUM PART#PART ADV PART#PART
+
+\ref trtex029Usp04 071
+\t r-k'i jun tra kirner tzaqal jch'olaq,+
+\m r- k'i jun tra karneero tzaq -al j- ch'ool -aq
+\g E3S SREL uno DIM carnero botar PP E3S estómago PL
+\c PERS SREL PART PART S VT PP PERS S PART
+\l Es como las ovejas que estan asustadas.
+\gs GT GL GL GT GL GL GT GT GL GT
+\p E3S#PERS SREL PART DIM#PART S VT PP#PP E3S#PERS S PL#PART
+
+\ref trtex029Usp04 072
+\t tpe utiw chi rij.+
+\m t- pet utiiw chi r- ij
+\g INC venir coyote PREP E3S SR
+\c TAM VI S PREP PERS SREL
+\l Cuando viene el coyeta detras de él.
+\gs GT GL GL GT GT GL
+\p INC#TAM VI S PREP#PREP E3S#PERS SREL
+
+\ref trtex029Usp04 073
+\t Jinon li xqaq'asoj oj niri laj qaluwar.+
+\m jilon li x- qa- q'aso -j oj niri laj qa- luwar
+\g DEM DEM COM E2P pasar sc. PRON aqui PREP E1P lugar
+\c DEM DEM TAM PERS VT SUF PERS ADV PREP PERS S
+\l Asi fue lo que nosotros pasamos en nuestro lugar.
+\gs GT GT GT GT GL GL GT GL GT GT GL
+\p DEM#DEM DEM#DEM COM#TAM E2P#PERS VT SUF PRON#PERS ADV PREP#PREP E1P#PERS S
+
+\ref trtex029Usp04 074
+\t I mi xi'ta' qik'il oj,+
+\m i ma xi'ta' q- ik'il ooj
+\g CONJ NEG NEG E1P SREL nosotros
+\c CONJ PART PART PERS SREL PRON
+\l Y no solo fue con nosotros.
+\gs GT GT GT GT GL GL
+\p CONJ#CONJ NEG#PART NEG#PART E1P#PERS SREL PRON
+
+\ref trtex029Usp04 075
+\t no ke juntir luwarin,+
+\m noo ke juntiir luwar -i'n
+\g no que todo lugar ENF
+\c ADV PART ADV S PART
+\l No que fue en todos los lugares.
+\gs GL GL GL GL GT
+\p ADV PART ADV S ENF#PART
+
+\ref trtex029Usp04 076
+\t juntir lwari lamas xq'axuw k'ex.+
+\m juntiir luwar -i' lamaas x- q'ax -uw k'ex
+\g todo lugar ENF dónde COM ??? ??? dolor
+\c ADV S PART ADV TAM ??? ??? ADJ
+\l En todos los lugares pasó.
+\gs GL GL GT GL GT logged logged GL
+\p ADV S ENF#PART ADV COM#TAM ??? ??? ADJ
+
+\ref trtex029Usp04 077
+\t Xkan tra peep,+
+\m x- kan tra peep
+\g COM quedar DIM pepe
+\c TAM VI PART S
+\l Quedaron los pepes.(güérfanos)
+\gs GT GL GT GL
+\p COM#TAM VI DIM#PART S
+
+\ref trtex029Usp04 078
+\t xkan yaq anm rk'i tra ék'el.+
+\m x- kan yaq ánim r- k'i tra ák'el
+\g COM quedar los/las mujer E3S SREL DIM niño
+\c TAM VI PL S PERS SREL PART S
+\l Se quedaron mujeres con niños desamparados.
+\gs GT GL GL GL GT GL GT GL
+\p COM#TAM VI PL S E3S#PERS SREL DIM#PART S
+
+\ref trtex029Usp04 079
+\t Neen xen yaq anm,+
+\m neen x- b'an yaq ánim
+\g qué COM hacer los/las mujer
+\c ADV TAM VT PL S
+\l Que hicieron las mujeres.
+\gs GL GT GL GL GL
+\p ADV COM#TAM VT PL S
+
+\ref trtex029Usp04 080
+\t lo ke xen taq,+
+\m lo ke x- b'an taq
+\g lo que COM hacer PL
+\c PART PART TAM VT PL
+\l Lo que hicieron ellas.
+\gs GL GL GT GL GT
+\p PART PART COM#TAM VT PL#PL
+
+\ref trtex029Usp04 081
+\t xok taq li chaak r-ee chaq.+
+\m x- ok taq li chaak r- e chaq
+\g COM empezar PL DEM trabajo E3S SREL PL
+\c TAM VI PL DEM S PERS SREL PART
+\l Comenzaron a trabajar ellas.
+\gs GT GL GT GT GL GT GL GT
+\p COM#TAM VI PL#PL DEM#DEM S E3S#PERS SREL PL#PART
+
+\ref trtex029Usp04 082
+\t Lo k xen taq xok taq li chaak.+
+\m lo ke x- b'an taq x- ok taq li chaak
+\g lo que COM hacer PL COM empezar PL DEM trabajo
+\c PART PART TAM VT PL TAM VI PL DEM S
+\l Lo que ellas hicierón empezarón a trabajar.
+\gs GL GL GT GL GT GT GL GT GT GL
+\p PART PART COM#TAM VT PL#PL COM#TAM VI PL#PL DEM#DEM S
+
+\ref trtex029Usp04 083
+\t I... neen k'u' ajb'enol taq k'ex,+
+\m i neen k'u aj- b'an -ol taq k'ex
+\g CONJ qué PART AGT hacer SAB PL dolor
+\c CONJ ADV PART PREF VT SUF PL ADJ
+\l Y los hacedores del mal. (terroristas)
+\gs GT GL GT GT GL GT GT GL
+\p CONJ#CONJ ADV PART#PART AGT#PREF VT SAB#SUF PL#PL ADJ
+
+\ref trtex029Usp04 084
+\t saber kom laq'ab'in treen taq,+
+\m saber koom laq'aab' -i'n ??? taq
+\g saber como noche ENF ??? PL
+\c ADV PART ADV PART ??? PL
+\l Saber como eso de noche lo hacen.
+\gs GL GL GL GL GT
+\p ADV PART ADV ENF#PART ??? PL#PL
+
+\ref trtex029Usp04 085
+\t laq'ab'i tren taq k'ex.+
+\m laq'aab' -i'n ??? taq k'ex
+\g noche ENF ??? PL dolor
+\c ADV PART ??? PL ADJ
+\l Es de noche cuando hacen el dolor. (denoche cometen el terrorísmo)
+\gs GL GL GT GL
+\p ADV ENF#PART ??? PL#PL ADJ
+
+\ref trtex029Usp04 086
+\t Ta' ni jun tch'eb'o jwich aq,+
+\m ta' ni jun ti- ch'eb' -ow j- wich taq
+\g NEG NEG un INC conocer AP E3S rostro PL
+\c PART PART ART TAM VT SUF PERS S PL
+\l Nadie los reconoce.
+\gs GT GT GL GT GL GT GT GL GT
+\p NEG#PART NEG#PART ART INC#TAM VT AP#SUF E3S#PERS S PL#PL
+
+\ref trtex029Usp04 087
+\t ta' ni jun tiluw jwich aq,+
+\m ta' ni jun j- wich taq
+\g NEG NEG un E3S rostro PL
+\c PART PART ART PERS S PL
+\l Nadie les mira la cara.
+\gs GT GT GL GT GL GT
+\p NEG#PART NEG#PART ART E3S#PERS S PL#PL
+
+\ref trtex029Usp04 088
+\t neen, neen ajb'enol k'ex.+
+\m neen neen aj- b'an -ol k'ex
+\g ??? quien AGT hacer SAB dolor
+\c ??? ADV PREF VT SUF ADJ
+\l Quien es el que hace el daño.
+\gs logged GL GT GL GT GL
+\p ??? ADV AGT#PREF VT SAB#SUF ADJ
+
+\ref trtex029Usp04 089
+\t Ta' ni jun retam.+
+\m ta' ni jun r- etaam
+\g NEG NEG un E3S saber
+\c PART PART ART PERS S
+\l Ninguno sabe. (nadie sabe)
+\gs GT GT GL GT GL
+\p NEG#PART NEG#PART ART E3S#PERS S
+
+\ref trtex029Usp04 090
+\t Iv. Si aj li woron o ri.+
+\m si' aj li woron o' ri
+\g si PART DEM monte o DEM
+\c ADV PART DEM S CONJ DEM
+\l Si son los del monte o son:
+\gs GL GT GT GL GL GT
+\p ADV PART#PART DEM#DEM S CONJ DEM#DEM
+
+\ref trtex029Usp04 091
+\t If. jii,+
+\m jii'
+\g AFI
+\c PART
+\l Si.
+\gs GT
+\p AFI#PART
+
+\ref trtex029Usp04 092
+\t muk're' aj li woron,+
+\m aj li woron
+\g PART en monte
+\c PART PREP S
+\l Saber si son del monte.
+\gs GT GL GL
+\p PART#PART PREP S
+
+\ref trtex029Usp04 093
+\t muk're' aj q'atb'tzij,+
+\m aj
+\g PART
+\c PART
+\l Saber si son las autoridades.
+\gs GT
+\p PART#PART
+
+\ref trtex029Usp04 094
+\t saber neen kitik.+
+\m saber neen
+\g saber como
+\c ADV ADV
+\l Saber quien será.
+\gs GL GL
+\p ADV ADV
+
+\ref trtex029Usp04 095
+\t Kom ta',+
+\m koom ta'
+\g como NEG
+\c PART PART
+\l Como no:
+\gs GL GT
+\p PART NEG#PART
+
+\ref trtex029Usp04 096
+\t ta' ki ta' tkoy... kita' tikutun,+
+\m ta' ki ta' ki -ta' -a' ti- k'ut -un
+\g NEG NEG NEG NEG NEG ENF INC asomar AP
+\c PART PART PART PART PART PART TAM VT SUF
+\l No se ve.
+\gs GT GT GT GT GT GT GL GT GL GT
+\p NEG#PART NEG#PART NEG#PART NEG#PART NEG#PART ENF#PART INC#TAM VT AP#SUF
+
+\ref trtex029Usp04 097
+\t kom laq'ab'in,+
+\m koom laq'aab' -i'n
+\g como noche ENF
+\c PART ADV PART
+\l Como es de noche.
+\gs GL GL GL
+\p PART ADV ENF#PART
+
+\ref trtex029Usp04 098
+\t ni jun tch'eb'saj jwich aq.+
+\m ni jun j- wich taq
+\g NEG un E3S rostro PL
+\c PART ART PERS S PL
+\l Como nadie los reconoce.
+\gs GT GL GT GL GT
+\p NEG#PART ART E3S#PERS S PL#PL
+
+\ref trtex029Usp04 099
+\t I, i ri k'u li jun koxk'ol xq'aax,+
+\m i i ri k'u li jun x- q'ax
+\g CONJ CONJ DEM PART DEM un COM pasar
+\c CONJ CONJ DEM PART DEM ART TAM VI
+\l Y eso es el gran dolor que pasó.
+\gs GT GT GT GT GT GL GT GL
+\p CONJ#CONJ CONJ#CONJ DEM#DEM PART#PART DEM#DEM ART COM#TAM VI
+
+\ref trtex029Usp04 100
+\t xqil li.+
+\m li
+\g DEM
+\c DEM
+\l Lo que vimos.
+\gs GT
+\p DEM#DEM
+
+\ref trtex029Usp04 101
+\t I li xkan laj qanm,+
+\m i li x- kan laj qa- anm
+\g CONJ DEM COM quedar PREP E1P alma
+\c CONJ DEM TAM VI PREP PERS S
+\l Y eso quedó en nuestro corazón.
+\gs GT GT GT GL GT GT GL
+\p CONJ#CONJ DEM#DEM COM#TAM VI PREP#PREP E1P#PERS S
+
+\ref trtex029Usp04 102
+\t kita' tzach.+
+\l Y eso no se olvida.
+
+\ref trtex029Usp04 103
+\t Oj tqayol chik r-ee qalek'wal,+
+\m ooj chik r- e
+\g nosotros PART E3S SR
+\c PRON PART PERS SREL
+\l nosotros vamos a contar eso a nuestros hijos.
+\gs GL GT GT GL
+\p PRON PART#PART E3S#PERS SREL
+
+\ref trtex029Usp04 104
+\t tqayol chik r-ee tra qa,+
+\m ??? chik r- e tra ???
+\g ??? PART SREL DIM PART ???
+\c ??? PART PERS SREL PART ???
+\l Nosotros lo contaremos a nuestros hijos.
+\gs GT GL GT GT
+\p ??? PART#PART PERS DIM#srel PART#PART ???
+
+\ref trtex029Usp04 105
+\t tra qa qech'elxik lo ke xqaq'asaj.+
+\m tra qe lo ke
+\g DIM PART lo que
+\c PART PART PART PART
+\l A nuestras familias de loque pasamos.
+\gs GT GT GL GL
+\p DIM#PART PART#PART PART PART
+
+\ref trtex029Usp04 106
+\t Kiki ta' chiki' tsach,+
+\m ta' chik -i' ti- sach
+\g NEG PART ENF INC olvidar
+\c PART PART PART TAM VT
+\l Eso ya no se olvida.
+\gs GT GT GL GT GL
+\p NEG#PART PART#PART ENF#PART INC#TAM VT
+
+\ref trtex029Usp04 107
+\t kita' chiki' tsach laj qanm.+
+\m chik -i' ti- sach laj
+\g PART ENF INC olvidar PREP
+\c PART PART TAM VT PREP
+\l No se olvida en nuestro corazón.
+\gs GT GL GT GL GT
+\p PART#PART ENF#PART INC#TAM VT PREP#PREP
+
+\ref trtex029Usp04 108
+\t Por ke sib' laj k'ex xqatij.+
+\m por ke seb' laj k'ex
+\g por que ITS PREP dolor
+\c ADV PART PART PREP ADJ
+\l Por que SUFrimos mucho.
+\gs GL GL GT GT GL
+\p ADV PART ITS#PART PREP#PREP ADJ
+
+\ref trtex029Usp04 109
+\t I ri' k'u tra janm,+
+\m i ri' k'u tra
+\g CONJ eso@es PART DIM
+\c CONJ DEM PART PART
+\l Y entonces las mujeres.
+\gs GT GL GT GT
+\p CONJ#CONJ DEM PART#PART DIM#PART
+
+\ref trtex029Usp04 110
+\t lojori wi' ni'j sib' laj k'ex tijtij taq,+
+\m lajori wi' nik'ij seb' laj k'ex taq
+\g ahora EXS otros ITS PREP dolor PL
+\c ADV EXS ADV PART PREP ADJ PL
+\l Y ahora hay algunos que sufren mucho.
+\gs GL GT GL GT GT GL GT
+\p ADV EXS#EXS ADV ITS#PART PREP#PREP ADJ PL#PL
+
+\ref trtex029Usp04 111
+\t xyol taq chuweyn ke,+
+\m x- yol taq ke
+\g COM contar PL que
+\c TAM VT PL PART
+\l Me contaron a mi que.
+\gs GT GL GT GL
+\p COM#TAM VT PL#PL PART
+
+\ref trtex029Usp04 112
+\t ke tijyol taq juntir tal inwi'l.+
+\m ke ti- j- yool taq juntiir in- wi'l
+\g que INC E3S platicar PL todo E1S SR
+\c PART TAM PERS VT PL ADV PERS SREL
+\l Que cuentan todos que he oído yo.
+\gs GL GT GT GL GT GL GT GL
+\p PART INC#TAM E3S#PERS VT PL#PL ADV E1S#PERS SREL
+
+\ref trtex029Usp04 113
+\t Tijyol taq ke wi' nij tra anm,+
+\m ti- j- yol taq ke wi' nik'ij tra ánim
+\g INC E3S contar PL que EXS otros DIM mujer
+\c TAM PERS VT PL PART EXS ADV PART S
+\l Que cuentan que hay algunas mujeres.
+\gs GT GT GL GT GL GT GL GT GL
+\p INC#TAM E3S#PERS VT PL#PL PART EXS#EXS ADV DIM#PART S
+
+\ref trtex029Usp04 114
+\t kita' ra rchochaq kita',+
+\m ra r- ichooch -aq
+\g DIM E3S casa PL
+\c PART PERS S SUF
+\l Que no tiene sus casas.
+\gs GT GT GL GT
+\p DIM#PART E3S#PERS S PL#SUF
+
+\ref trtex029Usp04 115
+\t ra rchochaq kita',+
+\m ra r- ichooch -aq
+\g DIM E3S casa PL
+\c PART PERS S SUF
+\l Sus casas no.
+\gs GT GT GL GT
+\p DIM#PART E3S#PERS S PL#SUF
+
+\ref trtex029Usp04 116
+\t la kita' lamas.+
+\m la lamaas
+\g PREP dónde
+\c PREP ADV
+\l No hay en dnde.
+\gs GT GL
+\p PREP#PREP ADV
+
+\ref trtex029Usp04 117
+\t Por ke wi' nij anm, xtijyol taq jiri aj Jumuq,+
+\m por ke wi' nik'ij ánim taq aj Jumuq
+\g por que EXS algunos mujer PL PART Jumuc
+\c ADV PART EXS ADV S PL PART TOP
+\l Hay unas mujeres que contaron que son de por quí de jumuc.
+\gs GL GL GT GL GL GT GT GL
+\p ADV PART EXS#EXS ADV S PL#PL PART#PART TOP
+
+\ref trtex029Usp04 118
+\t ke tral ajkob'n tqa'n,+
+\m ke tra -l aj- kob'n taq -a'n
+\g que DIM PP GNT coban PL ENF
+\c PART PART SUF PREF TOP PL PART
+\l Que son cobaneritos.
+\gs GL GT GT GT GL GT GL
+\p PART DIM#PART PP#SUF GNT#PREF TOP PL#PL ENF#PART
+
+\ref trtex029Usp04 119
+\t kita' la' kita' la' kita' laj rchoch aq.+
+\m la la' laj r- ichooch taq
+\g PREP en PREP E3S casa PL
+\c PREP PREP PREP PERS S PL
+\l Que no estan en sus casas.
+\gs GT GL GT GT GL GT
+\p PREP#PREP PREP PREP#PREP E3S#PERS S PL#PL
+
+\ref trtex029Usp04 120
+\t Nik qe ra r-chochaq,+
+\m qe ra r- ichooch -aq
+\g PART DIM E3S casa PL
+\c PART PART PERS S SUF
+\l Sus casitas son iguales.
+\gs GT GT GT GL GT
+\p PART#PART DIM#PART E3S#PERS S PL#SUF
+
+\ref trtex029Usp04 121
+\t nik' qe rk'i ra rchoch eek',+
+\m nik' qe r- k'i ra r- ichooch eek'
+\g igual PART E3S SREL DIM E3S casa pollo
+\c ADV PART PERS SREL PART PERS S S
+\l Es igual a una casa de pollo. (gallinero)
+\gs GL GT GT GL GT GT GL GL
+\p ADV PART#PART E3S#PERS SREL DIM#PART E3S#PERS S S
+
+\ref trtex029Usp04 122
+\t jun ra rchoch eek',+
+\m jun ra r- ichooch eek'
+\g un DIM E3S casa pollo
+\c ART PART PERS S S
+\l Una casa de pollo.
+\gs GL GT GT GL GL
+\p ART DIM#PART E3S#PERS S S
+
+\ref trtex029Usp04 123
+\t jun ra nuch' ra,+
+\m jun ra nuuch' ra
+\g un DIM pequeño DIM
+\c ART PART ADJ PART
+\l Una cosa pequeña.
+\gs GL GT GL GT
+\p ART DIM#PART ADJ DIM#PART
+
+\ref trtex029Usp04 124
+\t nuch' ra jaa.+
+\m nuuch' ra jaa
+\g pequeño DIM casa
+\c ADJ PART S
+\l Pequeña la casa.
+\gs GL GT GL
+\p ADJ DIM#PART S
+
+\ref trtex029Usp04 125a
+\t Kita' las twa'x taq,+
+\m la ti- wa'x taq
+\g PREP INC estar PL
+\c PREP TAM VI PL
+\l No hay donde pueden
+\gs GT GT GL GT
+\p PREP#PREP INC#TAM VI PL#PL
+
+\ref trtex029Usp04 125b
+\t ta' naad.+
+\m ta' nada
+\g NEG nada
+\c PART ADV
+\l estar nada.
+\gs GT GL
+\p NEG#PART ADV
+
+\ref trtex029Usp04 126
+\t I kita' ra rulewaq.+
+\m i tra r- uleew -aq
+\g CONJ DIM E3S tierra PL
+\c CONJ PART PERS S SUF
+\l Y ellos no tienen tierra.
+\gs GT GT GT GL GT
+\p CONJ#CONJ DIM#PART E3S#PERS S PL#SUF
+
+\ref trtex029Usp04 127
+\t Kom ajnaj tqa'n,+
+\m koom aj- naj taq -a'n
+\g como GNT lejos PL ENF
+\c PART PREF ADV PL PART
+\l como ellos son de lejos.
+\gs GL GT GL GT GL
+\p PART GNT#PREF ADV PL#PL ENF#PART
+
+\ref trtex029Usp04 128
+\t ji' xpe taq San Pablo Baldiya,+
+\m jii' x- pet taq San Pawlo baldiiy
+\g AFI COM venir PL San Pablo terreno@baldillo
+\c PART TAM VI PL CLAS S S
+\l Son de allá de San Pablo el Baldillo.
+\gs GT GT GL GT GL GL GL
+\p AFI#PART COM#TAM VI PL#PL CLAS S S
+
+\ref trtex029Usp04 129
+\t kla' xoqtaj taq ch.+
+\m kla' x- uqta -j taq ch
+\g allí COM corretear SC PL PREP
+\c ADV TAM VT SUF PL PREP
+\l De allí los corretearon.
+\gs GL GT GL GT GT GT
+\p ADV COM#TAM VT SC#SUF PL#PL PREP#PREP
+
+\ref trtex029Usp04 130
+\t Baay xpe taq xu' xuqej taq li,+
+\m baa x- pet taq x- taq li
+\g baya COM venir PL COM PL en
+\c VOC TAM VI PL TAM PL PREP
+\l Vaya entonces vinieron a quedarse en Jumuc entonces.
+\gs GL GT GL GT GT GT GL
+\p VOC COM#TAM VI PL#PL COM#TAM PL#PL PREP
+
+\ref trtex029Usp04 131
+\t li Jumuq,+
+\m li Jumuq
+\g DEM Jumuc
+\c DEM TOP
+\l En Jumuc.
+\gs GT GL
+\p DEM#DEM TOP
+
+\ref trtex029Usp04 132
+\t Chi Koral.+
+\m chi koraal
+\g PREP corral
+\c PREP S
+\l En chi Corral
+\gs GT GL
+\p PREP#PREP S
+
+\ref trtex029Usp04 133
+\t Kla' xwa'x taq,+
+\m kla' x- wa'x taq
+\g allí COM estar PL
+\c ADV TAM VI PL
+\l Allí estuvierón.
+\gs GL GT GL GT
+\p ADV COM#TAM VI PL#PL
+
+\ref trtex029Usp04 134
+\t per kita' ra rchochaq,+
+\m peer ra r- ichooch -aq
+\g pero DIM E3S casa PL
+\c ADV PART PERS S SUF
+\l Pero no tenía casa.
+\gs GL GT GT GL GT
+\p ADV DIM#PART E3S#PERS S PL#SUF
+
+\ref trtex029Usp04 135
+\t kita' ra rulewaq,+
+\m ra r- uleew -aq
+\g DIM E3S tierra PL
+\c PART PERS S SUF
+\l Pero no tenían tierra.
+\gs GT GT GL GT
+\p DIM#PART E3S#PERS S PL#SUF
+
+\ref trtex029Usp04 136
+\t kita' naad.+
+\m nada
+\g nada
+\c ADV
+\l No hay nada.
+\gs GL
+\p ADV
+
+\ref trtex029Usp04 137
+\t I sub'laj tijtj taq,+
+\m i taq
+\g CONJ PL
+\c CONJ PL
+\l Y como SUFrieron.
+\gs GT GT
+\p CONJ#CONJ PL#PL
+
+\ref trtex029Usp04 138
+\t k'ex ri' k'u li ju jun istorya i,+
+\m k'ex ri' k'u li ju jun istorya li
+\g dolor eso@es PART DEM un un historia DEM
+\c ADJ DEM PART DEM ART ART S DEM
+\l Es doloroso pero es una historia.
+\gs GL GL GT GT GL GL GL GT
+\p ADJ DEM PART#PART DEM#DEM ART ART S DEM#DEM
+
+\ref trtex029Usp04 139
+\t li moo, moo, moo esal ta' qe laq rady.+
+\m li mood mood mood ta' qe laq radyo
+\g DEM modo modo modo NEG PART PREP radio
+\c DEM ADV ADV ADV PART PART PREP S
+\l Eso lo han dicho por radio.
+\gs GT GL GL GL GT GT GT GL
+\p DEM#DEM ADV ADV ADV NEG#PART PART#PART PREP#PREP S
+
+\ref trtex029Usp04 140
+\t Ni petzel taq qe li notisy,+
+\m ni pet taq qe li notisya
+\g no venir PL PART PREP noticia
+\c PART VI PL PART PREP S
+\l Y no es solo noticia.
+\gs GL GL GT GT GT GL
+\p PART VI PL#PL PART#PART PREP#PREP S
+
+\ref trtex029Usp04 141
+\t no ke jun tz'etel tz'et xqila'n.+
+\m noo ke jun tz'eet
+\g no que un verdad
+\c ADV PART ART ADV
+\l Lo vimos.
+\gs GL GL GL GL
+\p ADV PART ART ADV
+
+\ref trtex029Usp04 142
+\t Juntir qawinaqil niri xye tqa kuwent,+
+\m juntiir qa- winaaq -iil niri x- ye' taq kweent
+\g todo E1P hombre SAB aqui COM dar PL cuenta
+\c ADV PERS S SUF ADV TAM VT PL S
+\l Toda nuestra gente se dió cuenta de esto.
+\gs GL GT GL GT GL GT GL GT GL
+\p ADV E1P#PERS S SAB#SUF ADV COM#TAM VT PL#PL S
+
+\ref trtex029Usp04 143
+\t juntir lo ke neen xqaq'asaj juntir.+
+\m juntiir lo ke neen juntiir
+\g todo lo que que todo
+\c ADV PART PART ADV ADV
+\l Todo loque pasamos todos.
+\gs GL GL GL GL GL
+\p ADV PART PART ADV ADV
+
+\ref trtex029Usp04 144
+\t I ri' k'u li oj ta' tsach laj qanm,+
+\m i ri' k'u li ooj ta' ti- sach laj
+\g CONJ eso@es PART DEM nosotros NEG INC olvidar PREP
+\c CONJ DEM PART DEM PRON PART TAM VT PREP
+\l Y eso es loque nosotros no podemos olvidar.
+\gs GT GL GT GT GL GT GT GL GT
+\p CONJ#CONJ DEM PART#PART DEM#DEM PRON NEG#PART INC#TAM VT PREP#PREP
+
+\ref trtex029Usp04 145
+\t lo ke neen xqaq'asaj juntir.+
+\m lo ke neen juntiir
+\g lo que que todo
+\c PART PART ADV ADV
+\l Que fue lo que pasamos. (que fue loque SUFrimos)
+\gs GL GL GL GL
+\p PART PART ADV ADV
+
+\ref trtex029Usp04 146
+\t Tos wi' mas qawinaq xkan taq tra meb'a',+
+\m entoons wi' maas qa- winaaq x- kan taq tra meb'a'
+\g entonces EXS más E1P hombre COM quedar PL DIM pobre
+\c ADV EXS ADV PERS S TAM VI PL PART S
+\l Más de nuestra gente se quedaron desemparados.
+\gs GL GT GL GT GL GT GL GT GT GL
+\p ADV EXS#EXS ADV E1P#PERS S COM#TAM VI PL#PL DIM#PART S
+
+\ref trtex029Usp04 147
+\t kita' chiki' tra rulewaq,+
+\m chik -i' tra r- uleew -aq
+\g PART ENF DIM E3S tierra PL
+\c PART PART PART PERS S SUF
+\l Ya no tienen tierra.
+\gs GT GL GT GT GL GT
+\p PART#PART ENF#PART DIM#PART E3S#PERS S PL#SUF
+
+\ref trtex029Usp04 148
+\t kita' ra rchochaq.+
+\m ra r- ichooch -aq
+\g DIM E3S casa PL
+\c PART PERS S SUF
+\l No tienen casa.
+\gs GT GT GL GT
+\p DIM#PART E3S#PERS S PL#SUF
+
+\ref trtex029Usp04 149
+\t Por jwili' loq'laj k'ex xq'ax,+
+\m por loq'laj k'ex x- q'ax
+\g por santo dolor COM pasar
+\c ADV ADJ ADJ TAM VI
+\l Por el santo mal que pasó.
+\gs GL GL GL GT GL
+\p ADV ADJ ADJ COM#TAM VI
+
+\ref trtex029Usp04 150
+\t sib' laj k'iy tra peep xkan taq+
+\m seb' laj k'ii tra peep x- kan taq
+\g ITS PREP mucho DIM pepe COM quedar PL
+\c PART PREP ADV PART S TAM VI PL
+\l Muchos güérfanos quedarón.
+\gs GT GT GL GT GL GT GL GT
+\p ITS#PART PREP#PREP ADV DIM#PART S COM#TAM VI PL#PL
+
+\ref trtex029Usp04 151
+\t ta' ra rulewaq.+
+\m ta' ra r- uleew -aq
+\g NEG DIM E3S tierra PL
+\c PART PART PERS S SUF
+\l No tienen sus terrenitos.
+\gs GT GT GT GL GT
+\p NEG#PART DIM#PART E3S#PERS S PL#SUF
+
+\ref trtex029Usp04 152
+\t I sub' aj k'iy anm kita' ra rulewaq.+
+\m i sib' aj k'iy ánim ra r- uleew -aq
+\g CONJ ITS PART mucho mujer DIM E3S tierra PL
+\c CONJ PART PART ADV S PART PERS S SUF
+\l Y muchas mujeres no tienen tierra.
+\gs GT GT GT GL GL GT GT GL GT
+\p CONJ#CONJ ITS#PART PART#PART ADV S DIM#PART E3S#PERS S PL#SUF
+
+\ref trtex029Usp04 153
+\t Por ke kita' nin, nin, nin kita'.+
+\m por ke
+\g por que
+\c ADV PART
+\l Por que no tiene.
+\gs GL GL
+\p ADV PART
+
+\ref trtex029Usp04 154
+\t Chiki' richjil aq,+
+\m chik -i' ??? taq
+\g PART ENF ???  PL
+\c PART PART PL
+\l Ya no tienen marido.
+\gs GT GL GT
+\p PART#PART ENF#PART ??? PL#PL
+
+\ref trtex029Usp04 155
+\t ta' chiki' neen,+
+\m ta' chik -i' neen
+\g NEG PART ENF quien
+\c PART PART PART ADV
+\l Ya no hay quien.
+\gs GT GT GL GL
+\p NEG#PART PART#PART ENF#PART ADV
+
+\ref trtex029Usp04 156
+\t t-cha' r-ee chaq.+
+\m ti- cha' r- e chaq
+\g INC dice E3S SREL PART
+\c TAM VI PERS SREL PART
+\l No hay nadie que responda por ellas.
+\gs GT GL GT GL GT
+\p INC#TAM VI E3S#PERS SREL PART#PART
+
+\ref trtex029Usp04 157
+\t Wi' ni'j xk'at rchochaq,+
+\m wi' nik'ij x- k'at r- ichooch -aq
+\g EXS otros COM quemar E3S casa PL
+\c EXS ADV TAM VT PERS S SUF
+\l Y hay algunas que les quemarón sus casas.
+\gs GT GL GT GL GT GL GT
+\p EXS#EXS ADV COM#TAM VT E3S#PERS S PL#SUF
+
+\ref trtex029Usp04 158
+\t xkan taq,+
+\m x- kan taq
+\g COM quedar PL
+\c TAM VI PL
+\l Se quedarón.
+\gs GT GL GT
+\p COM#TAM VI PL#PL
+
+\ref trtex029Usp04 159
+\t xk'at jq'unikaq.+
+\m x- k'at
+\g COM quemar
+\c TAM VT
+\gs GT GL
+\p COM#TAM VT
+
+\ref trtex029Usp04 160
+\t Xk'at ra ra jkaa'aq,+
+\m x- k'at ra ra j- kaa' -aq
+\g COM quemar DIM DIM E3S piedra@de@moler PL
+\c TAM VT PART PART PERS S SUF
+\l Se quemo sus piedras de moler.
+\gs GT GL GT GT GT GL GT
+\p COM#TAM VT DIM#PART DIM#PART E3S#PERS S PL#SUF
+
+\ref trtex029Usp04 161
+\t xk'at ra, ra, ra, ra xk'at ra qelen r-ee chaq+
+\m x- k'at ra ra ra ra x- k'at ra qleen r- e chaq
+\g COM quemar DIM DIM DIM DIM COM quemar DIM cosas E3S SREL PL
+\c TAM VT PART PART PART PART TAM VT PART S PERS SREL PART
+\l Se quemó sus cocitas de ellos.
+\gs GT GL GT GT GT GT GT GL GT GL GT GL GT
+\p COM#TAM VT DIM#PART DIM#PART DIM#PART DIM#PART COM#TAM VT DIM#PART S E3S#PERS SREL PL#PART
+
+\ref trtex029Usp04 162
+\t la jaa juntir.+
+\m la jaa juntiir
+\g PREP casa todo
+\c PREP S ADV
+\l En la casa todo.
+\gs GT GL GL
+\p PREP#PREP S ADV
+
+\ref trtex029Usp04 163
+\t Wi' ra ki... rixim aq+
+\m wi'l ra taq
+\g SREL DIM PL
+\c SREL PART PL
+\l Tenían sus frijoles ??? y su maíz.
+\gs GL GT GT
+\p SREL DIM#PART PL#PL
+
+\ref trtex029Usp04 164
+\t xk'at ra rixim aq.+
+\m x- k'at ra taq
+\g COM quemar DIM PL
+\c TAM VT PART PL
+\l Se les quemo su maicito.
+\gs GT GL GT GT
+\p COM#TAM VT DIM#PART PL#PL
+
+\ref trtex029Usp04 165
+\t Xk'at ra, ra, ra jkinaq'aq.+
+\m x- k'at ra ra ra j- kinaq' -aq
+\g COM quemar DIM DIM DIM E3S fríjol PL
+\c TAM VT PART PART PART PERS S SUF
+\l Se quemo su frijolito.
+\gs GT GL GT GT GT GT GL GT
+\p COM#TAM VT DIM#PART DIM#PART DIM#PART E3S#PERS S PL#SUF
+
+\ref trtex029Usp04 166
+\t Xkan taq li b'ee.+
+\m x- kan taq li b'ee
+\g COM quedar PL en camino
+\c TAM VI PL PREP S
+\l Se quemaron en el camino.
+\gs GT GL GT GL GL
+\p COM#TAM VI PL#PL PREP S
+
+\ref trtex029Usp04 167
+\t I ru k'u li lojori tz'etel tz'ij xqaya kuwent re+
+\m i k'u li lajori tziij
+\g CONJ PART PREP ahora palabra
+\c CONJ PART PREP ADV S
+\l Y entonces de verdad nostros ya dimos.
+\gs GT GT GT GL GL
+\p CONJ#CONJ PART#PART PREP#PREP ADV S
+
+\ref trtex029Usp04 168
+\t lo ke xq'asaj qawinaq.+
+\m lo ke x- q'ax -sáj qa- winaaq
+\g lo que COM pasar PAS E1P hombre
+\c PART PART TAM VI SUF PERS S
+\l Lo que SUFrió nuestra gente.
+\gs GL GL GT GL GT GT GL
+\p PART PART COM#TAM VI PAS#SUF E1P#PERS S
+
+\ref trtex029Usp04 169
+\t Jun tijb'al k'eex, kita' chiki' utziil,+
+\m jun tij -b'il k'eex chik -i' utz -iil
+\g un comer INS trueque PART ENF bueno SAB
+\c ART VT SUF S PART PART ADV SUF
+\l Un SUFrimiento ya no avía nada de bueno.
+\gs GL GL GT GL GT GL GL GT
+\p ART VT INS#SUF S PART#PART ENF#PART ADV SAB#SUF
+
+\ref trtex029Usp04 170
+\t ta' chiki' tren jun.+
+\m ta' chik -i' ??? jun
+\g NEG PART ENF ???  un
+\c PART PART PART ??? ART
+\l Ya no hace uno.
+\gs GT GT GL GL
+\p NEG#PART PART#PART ENF#PART ??? ART
+
+\ref trtex029Usp04 171
+\t Oj xqaya... xqila'n,+
+\m ooj
+\g nosotros
+\c PRON
+\l Nosotros dimos y vimos.
+\gs GL
+\p PRON
+
+\ref trtex029Usp04 172
+\t juntir loke ne moo xq'asaj qawinaq.+
+\m juntiir loke neen mood x- q'ax -sáj
+\g todo loque que modo COM pasar PAS
+\c ADV ADV ADV ADV TAM VI SUF
+\l Todo lo que pasó nuestra gente.
+\gs GL GL GL GL GT GL GT
+\p ADV ADV ADV ADV COM#TAM VI PAS#SUF
+
+\ref trtex029Usp04 173
+\t I tijyol taq chi qe oj tambyeen,+
+\m i ti- j- yol taq chi qe ooj tambyeen
+\g CONJ INC E3S contar PL PREP PART nosotros también
+\c CONJ TAM PERS VT PL PREP PART PRON ADV
+\l Y todo lo que cuentan a nosotros tambien.
+\gs GT GT GT GL GT GT GT GL GL
+\p CONJ#CONJ INC#TAM E3S#PERS VT PL#PL PREP#PREP PART#PART PRON ADV
+
+\ref trtex029Usp04 174
+\t tijyol taq juntir sub' laj k'ex xqaq'asaj+
+\m ti- j- yol taq juntiir sib' laj k'ex
+\g INC E3S contar PL todo ITS PREP dolor
+\c TAM PERS VT PL ADV PART PREP ADJ
+\l Cuentan todo el dolor que pasarón.
+\gs GT GT GL GT GL GT GT GL
+\p INC#TAM E3S#PERS VT PL#PL ADV ITS#PART PREP#PREP ADJ
+
+\ref trtex029Usp04 175
+\t oj juntir.+
+\m ooj juntiir
+\g nosotros todo
+\c PRON ADV
+\l Todos nosotros.
+\gs GL GL
+\p PRON ADV
+
+\ref trtex029Usp04 176
+\t I ri' k'u li lojori laj qanm,+
+\m i ri' k'u li lajori laj
+\g CONJ eso@es PART DEM ahora PREP
+\c CONJ DEM PART DEM ADV PREP
+\l Y eso es lo que ahora lo tenemos en nuestro corazón.
+\gs GT GL GT GT GL GT
+\p CONJ#CONJ DEM PART#PART DEM#DEM ADV PREP#PREP
+
+\ref trtex029Usp04 177
+\t ta' chiki' tisach.+
+\m ta' chik -i' ti- sach
+\g NEG PART ENF INC olvidar
+\c PART PART PART TAM VT
+\l Eso no se olvida.
+\gs GT GT GL GT GL
+\p NEG#PART PART#PART ENF#PART INC#TAM VT
+
+\ref trtex029Usp04 178
+\t Il xen taq r-ee chótix tambyeen,+
+\m il x- b'an taq r- e chotx tambyeen
+\g ver COM hacer PL E3S SREL iglesia también
+\c VT TAM VT PL PERS SREL S ADV
+\l Ya ve lo que hicieron con la iglesia tambien.
+\gs GL GT GL GT GT GL GL GL
+\p VT COM#TAM VT PL#PL E3S#PERS SREL S ADV
+
+\ref trtex029Usp04 179
+\t xtz'apiri' chótix.+
+\m chotx
+\g iglesia
+\c S
+\l Se cerro la iglesia.
+\gs GL
+\p S
+
+\ref trtex029Usp04 180
+\t Xij taq lojori el ke ti el,+
+\m taq lajori el ke el
+\g PL ahora salir que salir
+\c PL ADV VI PART VI
+\l Dijeron que se cierre la iglesia.
+\gs GT GL GL GL GL
+\p PL#PL ADV VI PART VI
+
+\ref trtex029Usp04 181
+\t ke wi', wi' tb'i qate' laj chótix,+
+\m ke wi' wi' ti- b'ik ??? laj chotx
+\g que EXS EXS INC DIR ??? PREP iglesia
+\c PART EXS EXS TAM DIR ??? PREP S
+\l Que se va a oír cosas en la iglesia.
+\gs GL GT GT GT GT GT GL
+\p PART EXS#EXS EXS#EXS INC#TAM DIR#DIR ??? PREP#PREP S
+
+\ref trtex029Usp04 182
+\t tqab'ana' k'ex r-ee chaq.+
+\m ti- qa- b'an -a' k'ex r- e chaq
+\g INC E1P hacer ENF dolor E3S SREL PART
+\c TAM PERS VT PART ADJ PERS SREL PART
+\l Y les hacemos daño.
+\gs GT GT GL GL GL GT GL GT
+\p INC#TAM E1P#PERS VT ENF#PART ADJ E3S#PERS SREL PART#PART
+
+\ref trtex029Usp04 183
+\t Juntir qawinaq xtzaq jch'olaq,+
+\m juntiir qa- winaaq x- tzaq j- ch'ool -aq
+\g todo E1P hombre COM caerse E3S estómago PL
+\c ADV PERS S TAM VI PERS S SUF
+\l Todos se asustaron.
+\gs GL GT GL GT GL GT GL GT
+\p ADV E1P#PERS S COM#TAM VI E3S#PERS S PL#SUF
+
+\ref trtex029Usp04 184
+\t xtz'apiri' chótix.+
+\m chotx
+\g iglesia
+\c S
+\l Se cerró la iglesia.
+\gs GL
+\p S
+
+\ref trtex029Usp04 185
+\t I... ta' chiki' ni jun tchakun laj chótix.+
+\m i ta chik -i' ni jun ti- chaak -un laj chotx
+\g CONJ NEG PART ENF NEG uno INC trabajo AP PREP iglesia
+\c CONJ PART PART PART PART NUM TAM S SUF PREP S
+\l Ya no avía quien trabajaba en la iglesia.
+\gs GT GT GT GL GT GL GT GL GT GT GL
+\p CONJ#CONJ NEG#PART PART#PART ENF#PART NEG#PART NUM INC#TAM S AP#SUF PREP#PREP S
+
+\ref trtex029Usp04 186
+\t Per el ke ta'saj kla',+
+\m peer el ke ta' -sáj kla'
+\g pero el que encontrar PAS allí
+\c ADV ART PART VT SUF ADV
+\l Por que el es encontrado allí.
+\gs GL GL GL GL GT GL
+\p ADV ART PART VT PAS#SUF ADV
+
+\ref trtex029Usp04 187
+\t ti tk'atsaji'n,+
+\m ti- k'at -sáj -i'n
+\g INC quemar PAS ENF
+\c TAM VT SUF PART
+\l Es quemado.
+\gs GT GL GT GL
+\p INC#TAM VT PAS#SUF ENF#PART
+
+\ref trtex029Usp04 188
+\t tb'ensaji' k'ex r-ee.+
+\m ti- b'an -sáj -i' k'ex r- e
+\g INC hacer PAS ENF dolor E3S SR
+\c TAM VT SUF PART ADJ PERS SREL
+\l Se le hace daño.
+\gs GT GL GT GL GL GT GL
+\p INC#TAM VT PAS#SUF ENF#PART ADJ E3S#PERS SREL
+
+\ref trtex029Usp04 189
+\t Tos kla' ta' chiki' luwar,+
+\m entoons kla' ta' chik -i' luwar
+\g entonces allí NEG PART ENF lugar
+\c ADV ADV PART PART PART S
+\l entonces allí ya no lugar.
+\gs GL GL GT GT GL GL
+\p ADV ADV NEG#PART PART#PART ENF#PART S
+
+\ref trtex029Usp04 190
+\t kla' xtz'apir.+
+\m kla'
+\g allí
+\c ADV
+\l Allí se cerró.
+\gs GL
+\p ADV
+
+\ref trtex029Usp04 191
+\t I ta' chik i' ta' chiki'.+
+\m i ta' chik -i' ta' chik -i'
+\g CONJ NEG PART ENF NEG PART ENF
+\c CONJ PART PART PART PART PART PART
+\l Y ya no ya no.
+\gs GT GT GT logged GL GT GT GL
+\p CONJ#CONJ NEG#PART PART#PART ENF#PART NEG#PART PART#PART ENF#PART
+
+\ref trtex029Usp04 192
+\t Keresir ke, ke xirij ke xij r-ee chaq ke tichupi' relijion li.+
+\m ke- ??? ke ke ??? ke ??? r- e chaq ke ti- chup -i' relijyoon li
+\g que ??? que que ??? que ??? E3S SREL PART que INC apagar ENF religión DEM
+\c PART ??? PART PART ??? PART ??? PERS SREL PART PART TAM VI PART S DEM
+\l Quiere decir que dijerón ellos que esa religión se iva a terminar.
+\gs GL GL GL GT GL GT GL GT GL GL GL GT
+\p PART ??? PART PART ??? PART ??? E3S#PERS SREL PART#PART PART INC#TAM VI ENF#PART S DEM#DEM
+
+\ref trtex029Usp04 193
+\t Per kita' xchup,+
+\m per x- chup
+\g pero COM apagar
+\c ADV TAM VI
+\l Pero no se terminó.
+\gs GL GT GL
+\p ADV COM#TAM VI
+
+\ref trtex029Usp04 194
+\t neen k'u chak li ta' xchup.+
+\m neen k'u chaak li ta' x- chup
+\g que PART trabajo DEM NEG COM apagar
+\c ADV PART S DEM PART TAM VT
+\l Por que será que no se terminó.
+\gs GL GT GL GT GT GT GL
+\p ADV PART#PART S DEM#DEM NEG#PART COM#TAM VT
+
+\ref trtex029Usp04 195
+\t Por ke li qajawl,+
+\m por ke li qajaw -l
+\g por que DEM dueño PP
+\c ADV PART DEM S SUF
+\l Por que nuestro señor.
+\gs GL GL GT GL GT
+\p ADV PART DEM#DEM S PP#SUF
+
+\ref trtex029Usp04 196
+\t puwes r-ee li,+
+\m pwees r- e li
+\g pues E3S SREL DEM
+\c ADV PERS SREL DEM
+\l pues eso es.
+\gs GL GT GL GT
+\p ADV E3S#PERS SREL DEM#DEM
+
+\ref trtex029Usp04 197
+\t r-ee li xka... r-ee chaq+
+\m r- e li x- ka' r- e chaq
+\g E3S SREL en COM PART E3S SREL PART
+\c PERS SREL PREP TAM PART PERS SREL PART
+\l Eso es de.
+\gs GT GL GL GT GT GT GL GT
+\p E3S#PERS SREL PREP COM#TAM PART#PART E3S#PERS SREL PART#PART
+
+\ref trtex029Usp04 198
+\t xij taq ke ti kis kistyan.+
+\m taq ke k'is kirtyaan
+\g PL que terminar persona
+\c PL PART VT S
+\l Ellos pensarón que se terminava la gente.
+\gs GT GL GL GL
+\p PL#PL PART VT S
+
+\ref trtex029Usp04 199
+\t Per kita' xk'is.+
+\m peer x- k'is
+\g pero COM terminar
+\c ADV TAM VT
+\l Pero no se terminó.
+\gs GL GT GL
+\p ADV COM#TAM VT
+
+\ref trtex029Usp04 200
+\t Kom wi' qaaj Diyoos ke reex,+
+\m koom wi' qaaj Dyoos ke r- ???
+\g como EXS señor Dios que E3S ???
+\c PART EXS CLAS S PART PERS ???
+\l Como existe nuetro padre Dios él.
+\gs GL GT GL GL GL GT logged
+\p PART EXS#EXS CLAS S PART E3S#PERS ???
+
+\ref trtex029Usp04 201
+\t xtowa' relk'uwal juntir,+
+\m juntiir
+\g todo
+\c ADV
+\l Ayudó a todos sus hijos.
+\gs GL
+\p ADV
+
+\ref trtex029Usp04 202
+\t ke m kita' xk'is yo'l na, yo'l na.+
+\m ke x- k'is yo'l na yo'l na
+\g que COM terminar vivir PART vivir PART
+\c PART TAM VT VI PART VI PART
+\l Que no se terminó que todavía estan vivos.
+\gs GL GT GL GL GT GL GT
+\p PART COM#TAM VT VI PART#PART VI PART#PART
+
+\ref trtex029Usp04 203
+\t I ri' k'u li.+
+\m i ri' k'u li
+\g CONJ eso@es PART DEM
+\c CONJ DEM PART DEM
+\l Y eso es.
+\gs GT GL GT GT
+\p CONJ#CONJ DEM PART#PART DEM#DEM
+
+\ref trtex029Usp04 204
+\t I xij taq r-ee, r-ee qawinaq juntir,+
+\m i taq r- e r- e qa- winaaq juntiir
+\g CONJ PL E3S SREL E3S SREL E1P hombre todo
+\c CONJ PL PERS SREL PERS SREL PERS S ADV
+\l Y eso dijerón a toda nuestra gente todo.
+\gs GT GT GT GL GT GL GT GL GL
+\p CONJ#CONJ PL#PL E3S#PERS SREL E3S#PERS SREL E1P#PERS S ADV
+
+\ref trtex029Usp04 205
+\t ke ta' chiki' ni jun tyolow laj yolj.+
+\m ke ta' chik -i' ni jun ti- yolow laj yool -j
+\g que NEG PART ENF NEG un INC platicar PREP idioma SC
+\c PART PART PART PART PART ART TAM VI PREP S SUF
+\l Que ya no quedara nadie que hablara en su idioma.
+\gs GL GT GT GL GT GL GT GL GT GL GT
+\p PART NEG#PART PART#PART ENF#PART NEG#PART ART INC#TAM VI PREP#PREP S SC#SUF
+
+\ref trtex029Usp04 206
+\t Ke tiyolow na li k'exlan,+
+\m ke ti- yolow na li kaxlan
+\g que INC platicar PART en palabra
+\c PART TAM VI PART PREP S
+\l Que teniamos que hablar en castilla.
+\gs GL GT GL GT GL GL
+\p PART INC#TAM VI PART#PART PREP S
+
+\ref trtex029Usp04 207
+\t li k'axlan.+
+\m li kaxlan
+\g en palabra
+\c PREP S
+\l En castilla.
+\gs GL GL
+\p PREP S
+
+\ref trtex029Usp04 208
+\t Por ke sii tita'saj,+
+\m por ke si ti- ta -sáj
+\g por que si INC oir PAS
+\c ADV PART ADV TAM VT SUF
+\l Para que así ya no se oye.
+\gs GL GL GL GT GL GT
+\p ADV PART ADV INC#TAM VT PAS#SUF
+
+\ref trtex029Usp04 209
+\t lo ke neen tijyol.+
+\m lo ke neen ti- j- yol
+\g lo que que INC E3S contar
+\c PART PART ADV TAM PERS VT
+\l Lo que cuentan.
+\gs GL GL GL GT GT GL
+\p PART PART ADV INC#TAM E3S#PERS VT
+
+\ref trtex029Usp04 210
+\t Qawinaq tyolow tqa' laj yoljaq.+
+\m qa- winaaq ti- yolow taq laj yool -j -aq
+\g E1P hombre INC platicar PL PREP idioma SC PL
+\c PERS S TAM VI PL PREP S SUF SUF
+\l Nuestra gente siempre habla en su idioma.
+\gs GT GL GT GL GT GT GL GT GT
+\p E1P#PERS S INC#TAM VI PL#PL PREP#PREP S SC#SUF PL#SUF
+
+\ref trtex029Usp04 211
+\t Pero tqe jasjan taq,+
+\m peer ti- qe jasjan taq
+\g pero INC PART secretiar PL
+\c ADV TAM PART VI PL
+\l Pero sisecretean.
+\gs GL GT GT GL GT
+\p ADV INC#TAM PART#PART VI PL#PL
+
+\ref trtex029Usp04 212
+\t ta' chiki' kow tich'aw taq.+
+\m ta' chik -i' koow ti- ch'aw taq
+\g NEG PART ENF duro@fuerte INC hablar PL
+\c PART PART PART ADJ TAM VI PL
+\l Ya no hablan en voz alta.
+\gs GT GT GL GL GT GL GT
+\p NEG#PART PART#PART ENF#PART ADJ INC#TAM VI PL#PL
+
+\ref trtex029Usp04 213
+\t Por ke ya wi' nik chaq,+
+\m por ke ya wi' nik' chaq
+\g por que ya EXS igual PL
+\c ADV PART VOC EXS ADV PART
+\l Por que ya hay otros.
+\gs GL GL GL GT GL GT
+\p ADV PART VOC EXS#EXS ADV PL#PART
+
+\ref trtex029Usp04 214
+\t ke wi' ke, ke ta' chiki' luwar tyolow taq li+
+\m ke wi' ke ke ta' chik -i' luwar ti- yolow taq li
+\g que EXS que que NEG PART ENF lugar INC platicar PL DEM
+\c PART EXS PART PART PART PART PART S TAM VI PL DEM
+\l Que hay algunos que ya hablan en sus idomas.
+\gs GL GT GL GL GT GT GL GL GT GL GT GT
+\p PART EXS#EXS PART PART NEG#PART PART#PART ENF#PART S INC#TAM VI PL#PL DEM#DEM
+
+\ref trtex029Usp04 215
+\t kow laj yoljaq.+
+\m kow laj yol -j -aq
+\g duro@fuerte PREP idioma SC PL
+\c ADJ PREP S SUF SUF
+\l Ya no hablan recio en su idioma.
+\gs GL GT GL GT GT
+\p ADJ PREP#PREP S SC#SUF PL#SUF
+
+\ref trtex029Usp04 216
+\t No k chu'sil chaq tyolow taq.+
+\m noo ke ch- usiil chaq ti- yolow taq
+\g no que INC poco@a@poco PART INC platicar PL
+\c ADV PART TAM ADV PART TAM VI PL
+\l No ya plátican muy despacio.
+\gs GL GL GT GL GT GT GL GT
+\p ADV PART INC#TAM ADV PART#PART INC#TAM VI PL#PL
+
+\ref trtex029Usp04 217
+\t I kom qayolji'n kita' saach.+
+\m i koom qa- yol -j -i'n kita' saach
+\g CONJ como E1P idioma SC ENF NEG perder
+\c CONJ PART PERS S SUF PART PART VI
+\l Y como es nuestro idioma no se pierde.
+\gs GT GL GT GL GT GL GL
+\p CONJ#CONJ PART E1P#PERS S SC#SUF ENF#PART NEG#PART VI
+
+\ref trtex029Usp04 218a
+\t I qayolj ta' xchup,+
+\m i qa- yol -j ta' x- chup
+\g CONJ E1P idioma SC NEG COM apagar
+\c CONJ PERS S SUF PART TAM VT
+\l Y nuestro idioma no se apagó, (no se extinguió)
+\gs GT GT GL GT GT GT GL
+\p CONJ#CONJ E1P#PERS S SC#SUF NEG#PART COM#TAM VT
+
+\ref trtex029Usp04 218b
+\t lojori yo'l na qayolj.+
+\m lajori yo'l na qa- yol -j
+\g ahora vivo PART E1P idioma SC
+\c ADV ADJ PART PERS S SUF
+\l Y ahora todavía esta vivo nuestro idioma,
+\gs GL GL GT GT GL GT
+\p ADV ADJ PART#PART E1P#PERS S SC#SUF
+
+\ref trtex029Usp04 218c
+\t I lojori chaq ne' xpaax jwich qayolj.+
+\m i lajori chaq ne' j- wich qa- yol -j
+\g CONJ ahora PART NEG E3S SREL E1P idioma SC
+\c CONJ ADV PART PART PERS SREL PERS S SUF
+\l ahora florecio nuestro idioma.
+\gs GT GL GT GT GT GL GT GL GT
+\p CONJ#CONJ ADV PART#PART NEG#PART E3S#PERS SREL E1P#PERS S SC#SUF
+
+\ref trtex029Usp04 219
+\t Lojori juntir niri Chipaj.+
+\m lajori juntiir niri Chipaj
+\g ahora todo aqui Chipaj
+\c ADV ADV ADV TOP
+\l Ahora aquí en Chipaj.
+\gs GL GL GL GL
+\p ADV ADV ADV TOP
+
+\ref trtex029Usp04 220
+\t Las Pakayas,+
+\m la Pakayas
+\g la Pacayas
+\c ART TOP
+\l Las Pacayas.
+\gs GL GL
+\p ART TOP
+
+\ref trtex029Usp04 221
+\t qes wi' jnimal qayolj.+
+
+\ref trtex029Usp04 222
+\t Kla' li qes sub'laj k'iy,+
+\m kla' li qas sib' -l -a' -j k'ii
+\g allí DEM ITS muy PP ENF SC mucho
+\c ADV DEM ITS ITS SUF PART SUF ADV
+\l Allí es en donde hay muchos.
+\gs GL GT GT GL GT GL GT GL
+\p ADV DEM#DEM ITS#ITS ITS PP#SUF ENF#PART SC#SUF ADV
+
+\ref trtex029Usp04 223
+\t lojori xpaxini' qayolj.+
+\m lajori x- pax -i'n -i' qa- yol -j
+\g ahora COM abundar ENF ENF E1P idioma SC
+\c ADV TAM VI PART PART PERS S SUF
+\l Ahora ya abundó nuestro idioma.
+\gs GL GT GL GL GL GT GL GT
+\p ADV COM#TAM VI ENF#PART ENF#PART E1P#PERS S SC#SUF
+
+\ref trtex029Usp04 224
+\t Kita' xchup qayolj aj wi' na.+
+\m x- chup qa- yol -j aj wi' na
+\g COM apagar E1P idioma SC PART EXS PART
+\c TAM VI PERS S SUF PART EXS PART
+\l No se extingüió esta todavía.
+\gs GT GL GT GL GT GT GT GT
+\p COM#TAM VI E1P#PERS S SC#SUF PART#PART EXS#EXS PART#PART
+
+\ref trtex029Usp04 225
+\t I lojori oj tukuwin ti b'ik+
+\m i lajori ooj ti- kwin ti' b'ik
+\g CONJ ahora nosotros INC poder ??? DIR
+\c CONJ ADV PRON TAM VI ??? DIR
+\l Y ahora que pudieramos hacerlo.
+\gs GT GL GL GT GL logged GT
+\p CONJ#CONJ ADV PRON INC#TAM VI ??? DIR#DIR
+
+\ref trtex029Usp04 226
+\t tqab'it mas jwich qayolj.+
+\m t- qa- b'it maas j- wich qa- yol -j
+\g INC E1P levantar más E3S SREL E1P idioma SC
+\c TAM PERS VT ADV PERS SREL PERS S SUF
+\l Que levantáramos más nuestro idioma.
+\gs GT GT GL GL GT GL GT GL GT
+\p INC#TAM E1P#PERS VT ADV E3S#PERS SREL E1P#PERS S SC#SUF
+
+\ref trtex029Usp04 227
+\t I ri' k'u li jun, jun utz'il r-ee qatilmit.+
+\m i ri' k'u li jun jun utz -iil r- e qa- tinmit
+\g CONJ eso@es PART DEM un un bueno SAB E3S SREL E1P pueblo
+\c CONJ DEM PART DEM ART ART ADV SUF PERS SREL PERS S
+\l Y eso pues sería un bien para nuestro pueblo.
+\gs GT GL GT GT GL GL GL GT GT GL GT GL
+\p CONJ#CONJ DEM PART#PART DEM#DEM ART ART ADV SAB#SUF E3S#PERS SREL E1P#PERS S
+
+\ref trtex029Usp04 228
+\t Tqab'ij oji' aj tilmit,+
+\m ??? ooj -i' aj tinmit
+\g ??? nosotros ENF PART pueblo
+\c ??? PRON PART PART S
+\l Somos del pueblo.
+\gs GL GL GT GL
+\p ??? PRON ENF#PART PART#PART S
+
+\ref trtex029Usp04 229
+\t per ta' chiki' oj kuwin oj yolow qes sib'laj jsuk'lal qayolj.+
+\m peer ta' chik -i' ooj kwin ooj yolow qas j- suk' -l -aal qa- yol -j
+\g pero NEG PART ENF nosotros poder nosotros platicar ITS E3S recto PP SAB E1P idioma SC
+\c ADV PART PART PART PRON VI PRON VI ITS PERS ADJ SUF SUF PERS S SUF
+\l Pero ya no podemos hablar correctamente nuestro idioma.
+\gs GL GT GT GL GL GL GL GL GT GT GL GT GT GT GL GT
+\p ADV NEG#PART PART#PART ENF#PART PRON VI PRON VI ITS#ITS E3S#PERS ADJ PP#SUF SAB#SUF E1P#PERS S SC#SUF
+
+\ref trtex029Usp04 230
+\t R-ee, r-ee qayolj neen k'u' jchak li,+
+\m r- e r- e qa- yol -j neen k'u j- chaak li
+\g E3S SREL E3S SREL E1P idioma SC que PART E3S trabaj DEM
+\c PERS SREL PERS SREL PERS S SUF ADV PART PERS S DEM
+\l De nuestro idioma por que será eso.
+\gs GT GL GT GL GT GL GT GL GT GT GL GT
+\p E3S#PERS SREL E3S#PERS SREL E1P#PERS S SC#SUF ADV PART#PART E3S#PERS S DEM#DEM
+
+\ref trtex029Usp04 231
+\t kita' ni jun tk'utu chi qawch.+
+\m ni jun chi
+\g NEG un PREP
+\c PART ART PREP
+\l No quien nos enseña.
+\gs GT GL GT
+\p NEG#PART ART PREP#PREP
+
+\ref trtex029Usp04 232
+\t Oond wi' ti jun oj ti.. ojtijoj li,+
+\m donde wi' jun ooj oj- tijo -j li
+\g donde EXS uno nosotros A1P enseñar SC en
+\c ADV EXS NUM PRON PERS VT SUF PREP
+\l En donde algüien nos eseñe.
+\gs GL GT GL GL GT GL GT GL
+\p ADV EXS#EXS NUM PRON A1P#PERS VT SC#SUF PREP
+
+\ref trtex029Usp04 233
+\t li chusili' tqab'it jwich qayolj.+
+\m li ch- usiil -i'n t- qa- b'it j- wich qa- yol -j
+\g DEM INC poco@a@poco ENF INC E1P levantar E3S SREL E1P idioma SC
+\c DEM TAM ADV PART TAM PERS VT PERS SREL PERS S SUF
+\l Entonces poco a poco levantaríamos nuestro idioma.
+\gs GT GT GL GL GT GT GL GT GL GT GL GT
+\p DEM#DEM INC#TAM ADV ENF#PART INC#TAM E1P#PERS VT E3S#PERS SREL E1P#PERS S SC#SUF
+
+\ref trtex029Usp04 234
+\t I ri' k'u' li oj ke chqaj wi' b'i wnaaw,+
+\m i ri' k'u li ooj ke wi' b'ik
+\g CONJ eso@es PART DEM nosotros que EXS DIR
+\c CONJ DEM PART DEM PRON PART EXS DIR
+\l Y nosotros lo que queremos es que alguien lo vaya hacer.
+\gs GT GL GT GT GL GL GT GT
+\p CONJ#CONJ DEM PART#PART DEM#DEM PRON PART EXS#EXS DIR#DIR
+
+\ref trtex029Usp04 235
+\t wi't b'i neen tch'aw chi qij.+
+\m b'ik neen ti- ch'aw chi qe -ij
+\g DIR quien INC hablar PREP ??? ???
+\c DIR ADV TAM VI PREP ??? ???
+\gs GT GL GT GL GT logged logged
+\p DIR#DIR ADV INC#TAM VI PREP#PREP ??? ???
+
+\ref trtex029Usp04 236a
+\t Ke oj qatijoj r-ee qalk'wal+
+\m ke ooj qa- tijo -j r- e q- alk'waal
+\g que nosotros E1P enseñar SC E3S SREL E1P hijo
+\c PART PRON PERS VT SUF PERS SREL PERS S
+\l Que nosotros enseñemos a nuestros hijos. a nuestros hijos
+\gs GL GL GT GL GT GT GL GT GL
+\p PART PRON E1P#PERS VT SC#SUF E3S#PERS SREL E1P#PERS S
+
+\ref trtex029Usp04 236b
+\t oo qech'elxik chik,+
+\m o' -ow qe -ech'elxik chik
+\g o AP ??? ??? PART
+\c CONJ SUF ??? ??? PART
+\l o par nuestros hijos.
+\gs GL GT logged logged GT
+\p CONJ AP#SUF ??? ??? PART#PART
+
+\ref trtex029Usp04 237
+\t r-ee uj ko... b'itik qayolj.+
+\m r- e ooj k'u b'it -ik qa- yol -j
+\g E3S SREL nosotros PART levantar SC E1P idioma SC
+\c PERS SREL PRON PART VT SUF PERS S SUF
+\l Para que nosotros levantemos nuestro idioma.
+\gs GT GL GL GT GL GT GT GL GT
+\p E3S#PERS SREL PRON PART#PART VT SC#SUF E1P#PERS S SC#SUF
+
+\ref trtex029Usp04 238
+\t Tisuk'maji'n+
+\l Se enderesa.
+
+\ref trtex029Usp04 239
+\t rii oj kuwina,+
+\m ri ooj kwin -a'
+\g DEM nosotros poder ENF
+\c DEM PRON VI PART
+\l De seguro lo tenemos que lograr.
+\gs GT GL GL GL
+\p DEM#DEM PRON VI ENF#PART
+
+\ref trtex029Usp04 240
+\t pero wi' neen tich'aw chi qij.+
+\m peer wi' neen ti- ch'aw chi qe -ij
+\g pero EXS que INC hablar PREP ??? ???
+\c ADV EXS ADV TAM VI PREP ??? ???
+\l Pero hay quien nos respalda.
+\gs GL GT GL GT GL GT logged logged
+\p ADV EXS#EXS ADV INC#TAM VI PREP#PREP ??? ???
+
+\ref trtex029Usp04 241
+\t Witii ajk'omol taq b'ee+
+\m aj- k'am -ol taq b'e
+\g AGT guiar SAB PL camino
+\c PREF VT SUF PL S
+\l Si ubiera un nuestro guía.
+\gs GT GL GT GT GL
+\p AGT#PREF VT SAB#SUF PL#PL S
+
+\ref trtex029Usp04 242
+\t qetz tkuwin taq,+
+\m qas ti- kwin taq
+\g ITS INC poder PL
+\c ITS TAM VI PL
+\l Que de verdad pueden.
+\gs GT GT GL GT
+\p ITS#ITS INC#TAM VI PL#PL
+
+\ref trtex029Usp04 243
+\t oj t'o' taq tqab'it juwich qayolj, qayolj.+
+\m ooj t'o' taq ti- qa- b'it j- wiich qa- yol -j qa- yol -j
+\g nosotros ayudar PL INC E1P levantar E3S SREL E1P idioma SC E1P idioma SC
+\c PRON VT PL TAM PERS VT PERS SREL PERS S SUF PERS S SUF
+\l Que nos ayuden a levantar nuestro idioma.
+\gs GL GL GT GT GT GL GT GL GT GL GT GT GL GT
+\p PRON VT PL#PL INC#TAM E1P#PERS VT E3S#PERS SREL E1P#PERS S SC#SUF E1P#PERS S SC#SUF
+
+\ref trtex029Usp04 244
+\t Kita' tichupk qayolj,+
+\m ti- chup -ik qa- yol -j
+\g INC apagar SC E1P idioma SC
+\c TAM VI SUF PERS S SUF
+\l Que no se extingüe nuestro idioma.
+\gs GT GL GT GT GL GT
+\p INC#TAM VI SC#SUF E1P#PERS S SC#SUF
+
+\ref trtex029Usp04 245
+\t tik'iyeri'n, tnimani'n,+
+\m ti- k'iy -er -i'n ???
+\g INC abundar ITR ENF ???
+\c TAM VI SUF PART ???
+\l Abunda se fortalece.
+\gs GT GL GT GL
+\p INC#TAM VI ITR#SUF ENF#PART ???
+
+\ref trtex029Usp04 246
+\t ri' k'u' li oj chqaj tqab'an niri.+
+\m ri' k'u li ooj ti- qa- b'an niri
+\g eso@es PART DEM nosotros INC E1P hacer aqui
+\c DEM PART DEM PRON TAM PERS VT ADV
+\l Eso es lo que nosotros queremos hacer aquí.
+\gs GL GT GT GL GT GT GL GL
+\p DEM PART#PART DEM#DEM PRON INC#TAM E1P#PERS VT ADV
+
+\ref trtex029Usp04 247
+\t Tqab'it juwich qayolj,+
+\m ti- qa- b'it j- wiich qa- yol -j
+\g INC E1P levantar E3S SREL E1P idioma SC
+\c TAM PERS VT PERS SREL PERS S SUF
+\l Queremos levantar el espiritu de nuestro idioma.
+\gs GT GT GL GT GL GT GL GT
+\p INC#TAM E1P#PERS VT E3S#PERS SREL E1P#PERS S SC#SUF
+
+\ref trtex029Usp04 248
+\t tqab'an, tqab'an juwa'x+
+\m ti- qa- b'an ti- qa- b'an j- wa'x
+\g INC E1P hacer INC E1P hacer E3S componer/arreglar
+\c TAM PERS VT TAM PERS VT PERS VI
+\l Lo arreglamos.
+\gs GT GT GL GT GT GL GT GL
+\p INC#TAM E1P#PERS VT INC#TAM E1P#PERS VT E3S#PERS VI
+
+\ref trtex029Usp04 249
+\t tqasuk'usaj.+
+\l Lo endeeresamos.
+
+\ref trtex029Usp04 250
+\t Por ke oj ta' chiki' qetz... ta' chiki' oj kuwin,+
+\m por ke ooj ta' chik -i' qas ta' chik -i' ooj kwin
+\g por que nosotros NEG PART ENF ITS NEG PART ENF nosotros poder
+\c ADV PART PRON PART PART PART ITS PART PART PART PRON VI
+\l Por que nosotros casi ya no podemos bien.
+\gs GL GL GL GT GT GL GT GT GT GL GL GL
+\p ADV PART PRON NEG#PART PART#PART ENF#PART ITS#ITS NEG#PART PART#PART ENF#PART PRON VI
+
+\ref trtex029Usp04 251
+\t qetz oj yolow,+
+\m qas ooj yolow
+\g ITS nosotros platicar
+\c ITS PRON VI
+\l Ya no platicamos.
+\gs GT GL GL
+\p ITS#ITS PRON VI
+
+\ref trtex029Usp04 252
+\t qetz jsuk'lal qayolj.+
+\m qas j- suk' -l -aal qa- yol -j
+\g ITS E3S recto PP SAB E1P idioma SC
+\c ITS PERS ADJ SUF SUF PERS S SUF
+\l Lo correcto de nuestro idioma.
+\gs GT GT GL GT GT GT GL GT
+\p ITS#ITS E3S#PERS ADJ PP#SUF SAB#SUF E1P#PERS S SC#SUF
+
+\ref trtex029Usp04 253
+\t Ya chaq t qayuj jpam.+
+\m ya chaq qa- yuj j- pam
+\g ya PART E1P revolver E3S SR
+\c VOC PART PERS VT PERS SREL
+\l Ya lo revolvemos todo.
+\gs GL GT GT GL GT GL
+\p VOC PART#PART E1P#PERS VT E3S#PERS SREL
+
+\ref trtex029Usp04 254
+\t I oj ri' chiqaj oj ri tqasuk'usaj,+
+\m i ooj ri' ooj ri
+\g CONJ nosotros eso@es nosotros DEM
+\c CONJ PRON DEM PRON DEM
+\l Lo que nosotros queremos es enderesarlo.
+\gs GT GL GL GL GT
+\p CONJ#CONJ PRON DEM PRON DEM#DEM
+
+\ref trtex029Usp04 255
+\t tqab'an juwa'x qayolj.+
+\m ti- qa- b'an j- wa'x qa- yol -j
+\g INC E1P hacer E3S componer/arreglar E1P idioma SC
+\c TAM PERS VT PERS VI PERS S SUF
+\l Arreglar nuestro idioma.
+\gs GT GT GL GT GL GT GL GT
+\p INC#TAM E1P#PERS VT E3S#PERS VI E1P#PERS S SC#SUF
+
+\ref trtex029Usp04 256
+\t Kita' tichup jinom,+
+\m ti- chup
+\g INC apagar
+\c TAM VT
+\l No se extingüe tambien.
+\gs GT GL
+\p INC#TAM VT
+
+\ref trtex029Usp04 257
+\t pcha' xen taq r-ee loq'laj ch'ab'el,+
+\m x- b'an taq r- e loq'laj
+\g COM hacer PL E3S SREL santo
+\c TAM VT PL PERS SREL ADJ
+\l Asi como le hicieron la santa religión.
+\gs GT GL GT GT GL GL
+\p COM#TAM VT PL#PL E3S#PERS SREL ADJ
+
+\ref trtex029Usp04 258
+\t xij taq ke tichupi' ch'ab'el.+
+\m ??? taq ke ti- chup -i' ???
+\g ??? PL que INC apagar ENF ???
+\c ??? PL PART TAM VT PART ???
+\l Asi como dijeron que se terminaría la religión.
+\gs GT GL GT GL GL
+\p ??? PL#PL PART INC#TAM VT ENF#PART ???
+
+\ref trtex029Usp04 259
+\t Per kita xchup.+
+\m per x- chup
+\g pero COM apagar
+\c ADV TAM VT
+\l Pero no se apagó.
+\gs GL GT GL
+\p ADV COM#TAM VT
+
+\ref trtex029Usp04 260
+\t I lojori aj wi' na,+
+\m i lajori aj wi' na
+\g CONJ ahora PART EXS PART
+\c CONJ ADV PART EXS PART
+\l Y ahora está todavía.
+\gs GT GL GT GT GT
+\p CONJ#CONJ ADV PART#PART EXS#EXS PART#PART
+
+\ref trtex029Usp04 261
+\t lojori ya nik' qe rk'i jun, jun, jun qelen xpaxini'n.+
+\m lajori ya nik' qe r- k'i jun jun jun qleen x- pax -i'n -i'n
+\g ahora ya igual@a PART E3S SREL un un un cosas COM abundar ENF ENF
+\c ADV VOC ADJ PART PERS SREL ART ART ART S TAM VI PART PART
+\l Pero ahora es igual como una cosa que abundó o prosperó.
+\gs GL GL GL GT GT GL GL GL GL GL GT GL GL GL
+\p ADV VOC ADJ PART#PART E3S#PERS SREL ART ART ART S COM#TAM VI ENF#PART ENF#PART
+
+\ref trtex029Usp04 262
+\t Sub' laj k'iy qawinaq titaw taq laj chótix,+
+\m sib' laj k'ii qa- winaaq ti- taw taq laj chotx
+\g ITS PREP mucho E1P hombre INC llegar PL PREP iglesia
+\c PART PREP ADV PERS S TAM VT PL PREP S
+\l Mucho de nuestra gente llegan a la iglesia.
+\gs GT GT GL GT GL GT GL GT GT GL
+\p ITS#PART PREP#PREP ADV E1P#PERS S INC#TAM VT PL#PL PREP#PREP S
+
+\ref trtex029Usp04 263
+\t ti noji' chótix.+
+\m ??? noj -i'n chotx
+\g ??? llenar ENF iglesia
+\c ??? VI PART S
+\l Se llena la iglesia.
+\gs GL GL GL
+\p ??? VI ENF#PART S
+
+\ref trtex029Usp04 264
+\t I ri' k'u' li onde.+
+\m i ri' k'u li donde
+\g CONJ eso@es PART DEM donde
+\c CONJ DEM PART DEM ADV
+\l Y eso es donde.
+\gs GT GL GT GT GL
+\p CONJ#CONJ DEM PART#PART DEM#DEM ADV
+
+\ref trtex029Usp04 265
+\t I ji' k'u on li ri' jcholaj li,+
+\m i jii' k'u li ri' j- cholaj li
+\g CONJ AFI PART DEM eso@es E3S manera DEM
+\c CONJ PART PART DEM DEM PERS ADV DEM
+\l Y así es su manera.
+\gs GT GT GT GT GL GT GL GT
+\p CONJ#CONJ AFI#PART PART#PART DEM#DEM DEM E3S#PERS ADV DEM#DEM
+
+\ref trtex029Usp04 266
+\t oj ti ojkuwin, oj chi jb'itik qayolj.+
+\m ooj ti' oj- kwin ooj chi j- b'it -ik qa- yol -j
+\g nosotros ??? A1P poder nosotros PREP E3S levantar SC E1P idioma SC
+\c PRON ??? PERS VI PRON PREP PERS VT SUF PERS S SUF
+\l Ojalá que pudieramos levantar nuestro idioma.
+\gs GL logged GT GL GL GT GT GL GT GT GL GT
+\p PRON ??? A1P#PERS VI PRON PREP#PREP E3S#PERS VT SC#SUF E1P#PERS S SC#SUF
+
+\ref trtex029Usp04 267
+\t Kita' oj k'ixib' chi jb'ij qayolj.+
+\m ooj k'íxib' chi j- b'iij qa- yol -j
+\g nosotros vergüenza PREP E3S decir E1P idioma SC
+\c PRON S PREP PERS VT PERS S SUF
+\l No nos de vergüenza de decir nuestro dioma.
+\gs GL GL GT GT GL GT GL GT
+\p PRON S PREP#PREP E3S#PERS VT E1P#PERS S SC#SUF
+
+\ref trtex029Usp04 268
+\t Por ke oji' ajtilmit.+
+\m por ke ooj -i'n aj- tinmit
+\g por que nosotros ENF GNT pueblo
+\c ADV PART PRON PART PREF S
+\l Por que somos del pueblo.
+\gs GL GL GL GL GT GL
+\p ADV PART PRON ENF#PART GNT#PREF S
+
+\ref trtex029Usp04 269
+\t I tik'utuni' ke oji', oji', oji', oji' natural,+
+\m i ti- k'utun -i'n ke oj -i'n oj -i' ooj -i' oj -i' natural
+\g CONJ INC aparecerse ENF que somos ENF somos ENF ??? ??? ??? ENF natural
+\c CONJ TAM VI PART PART ADV PART ADV PART ??? ??? ??? PART S
+\l Y se ve que somos indígenas.
+\gs GT GT GL GL GL GL GL GL GL logged logged logged GL GL
+\p CONJ#CONJ INC#TAM VI ENF#PART PART ADV ENF#PART ADV ENF#PART ??? ??? ??? ENF#PART S
+
+\ref trtex029Usp04 270
+\t oji', oji' relk'wal tilmit.+
+\m oj -i' oj -i' ??? tinmit
+\g somos ENF somos ENF ??? pueblo
+\c ADV PART ADV PART ??? S
+\l Somos hijos del ??? pueblo.
+\gs GL GL GL GL GL
+\p ADV ENF#PART ADV ENF#PART ??? S
+
+\ref trtex029Usp04 271
+\t Ta' luwar t qab'ij ke oji' mosib'.+
+\m ta' luwar qa- b'iij ke oj -i' mosiib' -ib'
+\g NEG lugar E1P decir que somos ENF ladinos PL
+\c PART S PERS VT PART ADV PART S SUF
+\l No podemos decir que somos ladinos.
+\gs GT GL GT GL GL GL GL GL GT
+\p NEG#PART S E1P#PERS VT PART ADV ENF#PART S PL#SUF
+
+\ref trtex029Usp04 272
+\t Por ke tkutuni'n ke oji' natural.+
+\m por ke ti- k'ut -un -i'n ke oj -i' natural
+\g por que INC enseñar AP ENF que somos ENF natural
+\c ADV PART TAM VT SUF PART PART ADV PART S
+\l Por que se ve que somos naturales.
+\gs GL GL GT GL GT GL GL GL GL GL
+\p ADV PART INC#TAM VT AP#SUF ENF#PART PART ADV ENF#PART S
+
+\ref trtex029Usp04 273
+\t Antons ri' k'u li rejwex tqab'an jwa'x qayolj,+
+\m antonses ri' k'u li rejwex ti- qa- b'an j- wa'x qa- yol -j
+\g entonces eso@es PART DEM necesidad INC E1P hacer E3S componer/arreglar E1P idioma SC
+\c ADV DEM PART DEM S TAM PERS VT PERS VI PERS S SUF
+\l Entonces es necesario que arreglemos nuestro idioma.
+\gs GL GL GT GT GL GT GT GL GT GL GT GL GT
+\p ADV DEM PART#PART DEM#DEM S INC#TAM E1P#PERS VT E3S#PERS VI E1P#PERS S SC#SUF
+
+\ref trtex029Usp04 274
+\t rejwex tpaxin qayolj,+
+\m rejwex ti- pax -i'n qa- yol -j
+\g necesidad INC abundar ENF E1P idioma SC
+\c S TAM VI PART PERS S SUF
+\l Es necesario que floresca nuestro idioma.
+\gs GL GT GL GL GT GL GT
+\p S INC#TAM VI ENF#PART E1P#PERS S SC#SUF
+
+\ref trtex029Usp04 275
+\t tqak'ut chuch q-elk'wal.+
+\m ti- qa- k'ut chuch
+\g INC E1P enseñar enfrente@de
+\c TAM PERS VT SREL
+\l Enseñemos anuestros hijos.
+\gs GT GT GL GL
+\p INC#TAM E1P#PERS VT SREL
+
+\ref trtex029Usp04 276
+\t T qab'ij r-ee chaq ke met tyolow taq li k'axlan,+
+\m taqa- b'iij r- e chaq ke mat ti- yolow taq li kaxlan
+\g E1P decir E3S SREL PART que PART INC platicar PL DEM ladino
+\c PERS VT PERS SREL PART PART PART TAM VI PL DEM S
+\l Les decimos a ellos que ojalá que no hablen en castellano.
+\gs GT GL GT GL GT GL GT GT GL GT GT GL
+\p E1P#PERS VT E3S#PERS SREL PART#PART PART PART#PART INC#TAM VI PL#PL DEM#DEM S
+
+\ref trtex029Usp04 277
+\t no ke yow... yolow taq laj qayolj.+
+\m noo ke ??? -ow yolow taq laj qa- yol -j
+\g no que ??? AP platicar PL PREP E1P idioma SC
+\c ADV PART ??? SUF VI PL PREP PERS S SUF
+\l No hablan en el idioma de:
+\gs GL GL logged GT GL GT GT GT GL GT
+\p ADV PART ??? AP#SUF VI PL#PL PREP#PREP E1P#PERS S SC#SUF
+
+\ref trtex029Usp04 278
+\t Oj ta' ojk'ixib',+
+\m oj ta' oj- k'íxib'
+\g nosotros NEG A1P vergüenza
+\c PRON PART PERS S
+\l Nosotros no tenemos vergüenza.
+\gs GL GT GT GL
+\p PRON NEG#PART A1P#PERS S
+
+\ref trtex029Usp04 279
+\t onkesey chuch ni'j, ni'j aj k'axlan+
+\m enkeseey chuch nik'ij nik'ij aj kaxlan
+\g aunque@sea enfrente@de algunos algunos PART ladino
+\c ADV SREL ADV ADV PART S
+\l Aún que sea delante de algunos castellanos.
+\gs GL GL GL GL GT GL
+\p ADV SREL ADV ADV PART#PART S
+
+\ref trtex029Usp04 280
+\t ni'j mosib' oj ook chi yoloj+
+\m nik'ij oj ok chi
+\g algunos nosotros entrar PREP
+\c ADV PRON VI PREP
+\l Unos ladinos empezamos a platicar.
+\gs GL GL GL GT
+\p ADV PRON VI PREP#PREP
+
+\ref trtex029Usp04 281
+\t laj qayolj.+
+\m laj qa- yol -j
+\g PREP E1P idioma SC
+\c PREP PERS S SUF
+\l En nuestro idioma.
+\gs GT GT GL GT
+\p PREP#PREP E1P#PERS S SC#SUF
+
+\ref trtex029Usp04 282
+\t Kom qayolji'n+
+\m koom qa- yol -j -i'n
+\g como E1P idioma SC ENF
+\c PART PERS S SUF PART
+\l Como es nuestro idioma.
+\gs GL GT GL GT GL
+\p PART E1P#PERS S SC#SUF ENF#PART
+
+\ref trtex029Usp04 283
+\t oj ojkwin oj yolow rk'ilaq.+
+\m oj oj- kwin oj yolow r- k'il -aq
+\g nosotros A1P poder nosotros platicar E3S SREL PL
+\c PRON PERS VI PRON VI PERS SREL SUF
+\l Empezamos a platicar con elllos.
+\gs GL GT GL GL GL GT GL GT
+\p PRON A1P#PERS VI PRON VI E3S#PERS SREL PL#SUF
+
+\ref trtex029Usp04 284
+\t Peroo rechaq qik'il oj ta' tikwin tyolow taq.+
+\m peer -ow rechaq q- ik'iil oj ta' ti- kwin ti- yolow taq
+\g pero AP ellos/ellas E1P SR:con nosotros NEG INC poder INC platicar PL
+\c ADV SUF PRON PERS SREL PRON PART TAM VI TAM VI PL
+\l Pero ellos con nosotros no pueden platicar.
+\gs GL GT GL GT GL GL GT GT GL GT GL GT
+\p ADV AP#SUF PRON E1P#PERS SREL PRON NEG#PART INC#TAM VI INC#TAM VI PL#PL
+
+\ref trtex029Usp04 285
+\t Entons oj wi' na mas jnimal qa, qa qano'j.+
+\m entoons oj wi' na maas j- nim -aal qe qe qa- no'j
+\g entonces nosotros EXS PART más E3S grande SAB PART PART E1P conocimiento
+\c ADV PRON EXS PART ADV PERS ADJ SUF PART PART PERS S
+\l Entonces nosotros tenemos la mayor PARTa de conocimiento.
+\gs GL GL GT GT GL GT GL GT GT GT GT GL
+\p ADV PRON EXS#EXS PART#PART ADV E3S#PERS ADJ SAB#SUF PART#PART PART#PART E1P#PERS S
+
+\ref trtex029Usp04 286
+\t Oj ojyolowi' li, li k'iche' tzij,+
+\m oj oj- yolow -i' li li k'iche' tziij
+\g nosotros A1P platicar ENF en en Quiché palabra
+\c PRON PERS VI PART PREP PREP S S
+\l Nosotros hablamos en Quiché.
+\gs GL GT GL GL GL GL GL GL
+\p PRON A1P#PERS VI ENF#PART PREP PREP S S
+
+\ref trtex029Usp04 287
+\t oj yolowi' tra k'itj li k'axlan,+
+\m oj yolow -i'n tra k'itij li kaxlan
+\g nosotros platicar ENF DIM poco DEM ladino
+\c PRON VI PART PART ADV DEM S
+\l Nosotros hablamos un poco en castellano.
+\gs GL GL GL GT GL GT GL
+\p PRON VI ENF#PART DIM#PART ADV DEM#DEM S
+
+\ref trtex029Usp04 288
+\t ojkwini'n tqata'n.+
+\m oj- kwin -i'n ???
+\g A1P poder ENF ???
+\c PERS VI PART ???
+\l Podemos y oímos.
+\gs GT GL GL
+\p A1P#PERS VI ENF#PART ???
+
+\ref trtex029Usp04 289
+\t Puwes ri' k'u li+
+\m pwees ri' k'u li
+\g pues eso@es PART DEM
+\c ADV DEM PART DEM
+\l Pues eso es.
+\gs GL GL GT GT
+\p ADV DEM PART#PART DEM#DEM
+
+\ref trtex029Usp04 290
+\t oj ti oj kwin chi jnimirsaj qayolj,+
+\m oj ti' oj kwin chi j- nim -ir -sáj qa- yol -j
+\g nosotros ??? nosotros poder PREP E3S grande ITR PAS E1P idioma SC
+\c PRON ??? PRON VI PREP PERS ADJ SUF SUF PERS S SUF
+\l Como no podemos a engrandecer nuesstro idioma.
+\gs GL logged GL GL GT GT GL GT GT GT GL GT
+\p PRON ??? PRON VI PREP#PREP E3S#PERS ADJ ITR#SUF PAS#SUF E1P#PERS S SC#SUF
+
+\ref trtex029Usp04 291
+\t tqab'an jwa'x.+
+\m ti- qa- b'an j- wa'x
+\g INC E1P hacer E3S componer/arreglar
+\c TAM PERS VT PERS VI
+\l Lo arregalmos.
+\gs GT GT GL GT GL
+\p INC#TAM E1P#PERS VT E3S#PERS VI
+
+\ref trtex029Usp04 292
+\t Chi jk'utik ri' li sub' laj nim laj utziil tb'ensaj r-ee,+
+\m chi j- k'ut -ik ri' li sib' laj nim laj utz -iil ti- b'an -sáj r- e
+\g PREP E3S enseñar SC eso@es en ITS PREP grande PREP bueno SAB INC hacer PAS E3S SR
+\c PREP PERS VT SUF DEM PREP PART PREP ADJ PREP ADV SUF TAM VT SUF PERS SREL
+\l Enseñarlo eso sería un gran veneficio que se le hace.
+\gs GT GT GL GT GL GL GT GT GL GT GL GT GT GL GT GT GL
+\p PREP#PREP E3S#PERS VT SC#SUF DEM PREP ITS#PART PREP#PREP ADJ PREP#PREP ADV SAB#SUF INC#TAM VT PAS#SUF E3S#PERS SREL
+
+\ref trtex029Usp04 293
+\t r-ee qatilmit.+
+\m r- e qa- tinmit
+\g E3S SREL E1P pueblo
+\c PERS SREL PERS S
+\l Para nuestro pueblo.
+\gs GT GL GT GL
+\p E3S#PERS SREL E1P#PERS S
+
+\ref trtex029Usp04 294
+\t Ri' k'u li kom ójor taq tzij+
+\m ri' k'u li koom ójor taq tzij
+\g eso@es PART DEM como antiguamente PL palabra
+\c DEM PART DEM PART ADV PL S
+\l Eso es y como antes.
+\gs GL GT GT GL GL GT GL
+\p DEM PART#PART DEM#DEM PART ADV PL#PL S
+
+\ref trtex029Usp04 295
+\t tijb'ij taq puwes.+
+\m taq pwees
+\g PL pues
+\c PL ADV
+\l Como dicen pues.
+\gs GT GL
+\p PL#PL ADV
+
+\ref trtex029Usp04 296
+\t Ke kita' ni jun ti, ti kita' eskuwela,+
+\m ke ni jun ti' eskweel
+\g que NEG un ??? escuela
+\c PART PART ART ??? S
+\l Que antes no avía escuela.
+\gs GL GT GL logged GL
+\p PART NEG#PART ART ??? S
+
+\ref trtex029Usp04 297
+\t cha'.+
+\m cha'
+\g dice
+\c VI
+\l Dice.
+\gs GL
+\p VI
+
+\ref trtex029Usp04 298
+\t Kita' nada,+
+\m nada
+\g nada
+\c ADV
+\l No hay nada.
+\gs GL
+\p ADV
+
+\ref trtex029Usp04 299
+\t kita' neen tk'utuw.+
+\m neen ti- k'ut -yu' -w
+\g quien INC enseñar llegar MOV
+\c ADV TAM VT VI SUF
+\l No hay quien enseñe.
+\gs GL GT GL GT GL GT
+\p ADV INC#TAM VT VI MOV#SUF
+
+\ref trtex029Usp04 300
+\t Juntir qawinaq kita' retam tijsik'ij taq jwich wuj.+
+\m juntiir qa- winaaq r- etaam taq j- wiich wuuj
+\g todo E1P persona E3S saber PL E3S SREL papel
+\c ADV PERS S PERS S PL PERS SREL S
+\l Toda nuestra gente no sabía leer el papel.
+\gs GL GT GL GT GL GT GT GL GL
+\p ADV E1P#PERS S E3S#PERS S PL#PL E3S#PERS SREL S
+
+\ref trtex029Usp04 301
+\t Kita' retam,+
+\m r- etaam
+\g E3S saber
+\c PERS S
+\l No sabían.
+\gs GT GL
+\p E3S#PERS S
+
+\ref trtex029Usp04 302
+\t kita' retamaq ti, ti tijk'am taq jun chaak.+
+\m r- etaam -aq ti' ti- j- k'am taq jun chaak
+\g E3S saber PL ??? INC E3S recibir PL un trabajo
+\c PERS S SUF ??? TAM PERS VT PL ART S
+\l No sabían recibir un trabjo.
+\gs GT GL GT logged GT GT GL GT GL GL
+\p E3S#PERS S PL#SUF ??? INC#TAM E3S#PERS VT PL#PL ART S
+
+\ref trtex029Usp04 303
+\t Wi' mas chaak tb'an,+
+\m wi' maas chaak ti- b'an
+\g EXS más trabajo INC hacer
+\c EXS ADV S TAM VT
+\l Hay mucho trabajo por hacer.
+\gs GT GL GL GT GL
+\p EXS#EXS ADV S INC#TAM VT
+
+\ref trtex029Usp04 304
+\t jno mat cha' laj chótix.+
+\m jono mat cha' laj chotx
+\g cualquier@parte PART decir PREP iglesia
+\c ADV PART VI PREP S
+\l En cualquier lugar tampoco en la iglesia.
+\gs GL GT GL GT GL
+\p ADV PART#PART VI PREP#PREP S
+
+\ref trtex029Usp04 305
+\t Ojinom mat cha' li, li, li, li laq qalugr laj qakomunida.+
+\m mat cha' li li li li la qa- luwar laj qa- komunida
+\g PART decir en en en en PREP E1P lugar PREP E1P comunidad
+\c PART VI PREP PREP PREP PREP PREP PERS S PREP PERS S
+\l Mucho menos en nuestras comunidades.
+\gs GT GL GL GL GL GL GT GT GL GT GT GL
+\p PART#PART VI PREP PREP PREP PREP PREP#PREP E1P#PERS S PREP#PREP E1P#PERS S
+
+\ref trtex029Usp04 306
+\t Wi' mas chaak kita' loq'.+
+\m wi' maas chaak looq'
+\g EXS más trabajo posible
+\c EXS ADV S ADV
+\l Hay mucho trabajo que no se puede.
+\gs GT GL GL GL
+\p EXS#EXS ADV S ADV
+
+\ref trtex029Usp04 307
+\t Por ke kita' retam jun,+
+\m por ke r- etaam jun
+\g por que E3S saber un
+\c ADV PART PERS S ART
+\l Por que no sabe uno.
+\gs GL GL GT GL GL
+\p ADV PART E3S#PERS S ART
+
+\ref trtex029Usp04 308
+\t kita' qetam tqasik'ij jwich wuj.+
+\m q- etaam j- wiich wuuj
+\g E1P saber E3S SREL papel
+\c PERS S PERS SREL S
+\l No sabemos leer el papel.
+\gs GT GL GT GL GL
+\p E1P#PERS S E3S#PERS SREL S
+
+\ref trtex029Usp04 309
+\t I ontii oj kuwin ti b'ik tqila'n.+
+\m i oj kwin ti' b'ik
+\g CONJ nosotros poder ??? DIR
+\c CONJ PRON VI ??? DIR
+\l Y ojlá que pudieramos leer.
+\gs GT GL GL logged GT
+\p CONJ#CONJ PRON VI ??? DIR#DIR
+
+\ref trtex029Usp04 310
+\t Puwes ke, ke jun chaak rejuwexi' retam jun tlatun.+
+\m pwees ke ke jun chaak r- ??? -i' r- etaam jun ???
+\g pues que que un trabajo E3S ??? ENF E3S saber un ???
+\c ADV PART PART ART S PERS ??? PART PERS S ART ???
+\l Pues un trabajo es necesario saber leer.
+\gs GL GL GL GL GL GT logged GL GT GL GL
+\p ADV PART PART ART S E3S#PERS ??? ENF#PART E3S#PERS S ART ???
+
+\ref trtex029Usp04 311
+\t Wi' laj chótix,+
+\m wi' laj chotx
+\g EXS PREP iglesia
+\c EXS PREP S
+\l Hay en la iglesia.
+\gs GT GT GL
+\p EXS#EXS PREP#PREP S
+
+\ref trtex029Usp04 312
+\t wi' mas chaak r-ee.+
+\m wi' maas chaak r- e
+\g EXS más trabajo E3S SR
+\c EXS ADV S PERS SREL
+\l Hay mucho trabajo para eso.
+\gs GT GL GL GT GL
+\p EXS#EXS ADV S E3S#PERS SREL
+
+\ref trtex029Usp04 313
+\t Wi' r-ee katekista,+
+\m wi' r- e katekista
+\g EXS E3S SREL catequista
+\c EXS PERS SREL S
+\l Hay para catequistas.
+\gs GT GT GL GL
+\p EXS#EXS E3S#PERS SREL S
+
+\ref trtex029Usp04 314
+\t cha',+
+\m cha'
+\g dice
+\c VI
+\l Dice.
+\gs GL
+\p VI
+
+\ref trtex029Usp04 315
+\t wi' r-ee direktiba,+
+\m wi' r- e direktiba
+\g EXS E3S SREL directiva
+\c EXS PERS SREL S
+\l Hay para directivos.
+\gs GT GT GL GL
+\p EXS#EXS E3S#PERS SREL S
+
+\ref trtex029Usp04 316
+\t cha'.+
+\m cha'
+\g dice
+\c VI
+\l Dice.
+\gs GL
+\p VI
+
+\ref trtex029Usp04 317
+\t Wi' ni'j tijye' taq klas r-ee, r-ee, r-ee, r-ee primera komuyon.+
+\m wi' nik'ij ti- j- ye' taq klas r- e r- e r- e r- e primera komunyoon
+\g EXS algunos INC E3S dar PL clase E3S SREL E3S SREL E3S SREL E3S SREL primera comunión
+\c EXS ADV TAM PERS VT PL S PERS SREL PERS SREL PERS SREL PERS SREL NUM S
+\l Claces de primera comunión.
+\gs GT GL GT GT GL GT GL GT GL GT GL GT GL GT GL GL GL
+\p EXS#EXS ADV INC#TAM E3S#PERS VT PL#PL S E3S#PERS SREL E3S#PERS SREL E3S#PERS SREL E3S#PERS SREL NUM S
+
+\ref trtex029Usp04 318
+\t R-ee konfirmasiyón,+
+\m r- e konfirmasyoon
+\g E3S SREL confirmación
+\c PERS SREL S
+\l Para confirmación.
+\gs GT GL GL
+\p E3S#PERS SREL S
+
+\ref trtex029Usp04 319
+\t cha',+
+\m cha'
+\g dice
+\c VI
+\l Dice.
+\gs GL
+\p VI
+
+\ref trtex029Usp04 320
+\t r-ee matrimoyo,+
+\m r- e matrimonyo
+\g E3S SREL matrimonio
+\c PERS SREL S
+\l Para matrimonio.
+\gs GT GL GL
+\p E3S#PERS SREL S
+
+\ref trtex029Usp04 321
+\t r-ee bawtism juntir.+
+\m r- e bawtism juntiir
+\g E3S SREL bautismo todo
+\c PERS SREL S ADV
+\l Para bautismo todo.
+\gs GT GL GL GL
+\p E3S#PERS SREL S ADV
+
+\ref trtex029Usp04 322
+\t Per li ri, ri tinjsik'ij taq na bibla,+
+\m peer li ri ri taq na biblya
+\g pero DEM PART DEM PL PART biblia
+\c ADV DEM PART DEM PL PART S
+\l Pero ellos tienen que leer la biblia.
+\gs GL GT GT GT GT GT GL
+\p ADV DEM#DEM PART#PART DEM#DEM PL#PL PART#PART S
+
+\ref trtex029Usp04 323
+\t ti na chakun taq na.+
+\m na chaak -un taq na
+\g PART trabajo AP PL PART
+\c PART S SUF PL PART
+\l Tienen que trabajar ellos.
+\gs GT GL GT GT GT
+\p PART#PART S AP#SUF PL#PL PART#PART
+
+\ref trtex029Usp04 324
+\t Chi rij loq'laj tiyoox wuj juntir.+
+\m chi' loq'laj tyóox wuuj juntiir
+\g SREL santo santo papel todo
+\c SREL ADJ S S ADV
+\l Por el santo papel todos.
+\gs GL GL GL GL GL
+\p SREL ADJ S S ADV
+
+\ref trtex029Usp04 325
+\t I i si jun ta' retam kla' li taqe reya'j.+
+\m i i si jun ta' r- etaam kla' li rayee -j
+\g CONJ CONJ si un NEG E3S saber allí DEM desearlo SC
+\c CONJ CONJ ADV ART PART PERS S ADV DEM VT SUF
+\l Y si uno no sabe de pues que lo deseamos.
+\gs GT GT GL GL GT GT GL GL GT GL GT
+\p CONJ#CONJ CONJ#CONJ ADV ART NEG#PART E3S#PERS S ADV DEM#DEM VT SC#SUF
+
+\ref trtex029Usp04 326
+\t I neen k'u' jchak,+
+\m i neen k'u j- chaak
+\g CONJ que PART E3S trabajo
+\c CONJ ADV PART PERS S
+\l Y para que sirve.
+\gs GT GL GT GT GL
+\p CONJ#CONJ ADV PART#PART E3S#PERS S
+
+\ref trtex029Usp04 327
+\t jwili' ójor taq qaqaaj qachuuch kikita'.+
+\m ójor taq qa- chuuch
+\g antiguamente PL E1P mamá
+\c ADV PL PERS S
+\l Por nuestros antiguos padres no.
+\gs GL GT GT GL
+\p ADV PL#PL E1P#PERS S
+
+\ref trtex029Usp04 328
+\t Kom r-ee ch aq ta' retam tijsik'ij taq jwich wuj.+
+\m koom r- e chi taq ta' r- etaam taq j- wiich wuuj
+\g como E3S SREL PREP PL NEG E3S saber PL E3S SREL papel
+\c PART PERS SREL PREP PL PART PERS S PL PERS SREL S
+\l Como ellos no saben leer el papel.
+\gs GL GT GL GT GT GT GT GL GT GT GL GL
+\p PART E3S#PERS SREL PREP#PREP PL#PL NEG#PART E3S#PERS S PL#PL E3S#PERS SREL S
+
+\ref trtex029Usp04 329
+\t I qe oj ta' xojwa'x le skwel,+
+\m i qe oj ta' x- oj- wa'x li eskweel
+\g CONJ PART nosotros NEG COM A1P estar en escuela
+\c CONJ PART PRON PART TAM PERS VI PREP S
+\l Y nosotros no estuvimos en la escuela.
+\gs GT GT GL GT GT GT GL GL GL
+\p CONJ#CONJ PART#PART PRON NEG#PART COM#TAM A1P#PERS VI PREP S
+
+\ref trtex029Usp04 330
+\t kita' xojwa'x le skwel,+
+\m x- oj- wa'x li eskweel
+\g COM A1P estar en escuela
+\c TAM PERS VI PREP S
+\l No estuvimos en la escuela.
+\gs GT GT GL GL GL
+\p COM#TAM A1P#PERS VI PREP S
+
+\ref trtex029Usp04 331
+\t kita' qachomb'al,+
+\m qa- chomb'al
+\g E1P pensamiento
+\c PERS S
+\l No tenemos nuestro conocimientos.
+\gs GT GL
+\p E1P#PERS S
+
+\ref trtex029Usp04 332
+\t kita' neen qetam.+
+\m neen q- etaam
+\g qué E1P saber
+\c ADV PERS S
+\l No sabemos nada.
+\gs GL GT GL
+\p ADV E1P#PERS S
+
+\ref trtex029Usp04 333
+\t I Aj ri' lojori tikuxtaj qawi'l+
+\m i aj ri' lajori ti- kuxta -j qa- wi'l
+\g CONJ PART eso@es ahora INC recordar SC E1P SR
+\c CONJ PART DEM ADV TAM VT SUF PERS SREL
+\l Asta ahora que nos recordamos.
+\gs GT GT GL GL GT GL GT GT GL
+\p CONJ#CONJ PART#PART DEM ADV INC#TAM VT SC#SUF E1P#PERS SREL
+
+\ref trtex029Usp04 334
+\t o tqila'n neen k'u' jchak,+
+\m o' neen k'u j- chaak
+\g o qué PART E3S trabajo
+\c CONJ ADV PART PERS S
+\l Ya estamos viendo la utilidad.
+\gs GL GL GT GT GL
+\p CONJ ADV PART#PART E3S#PERS S
+
+\ref trtex029Usp04 335
+\t ri, ri, ri, ri loq'laj eskwel aj ri' tkuxtaj qawi'l.+
+\m ri ri ri ri loq'laj eskweel aj ri' ti- kuxta -j qa- wi'l
+\g PART PART PART DEM santo escuela PART eso@es INC recordar SC E1P SR
+\c PART PART PART DEM ADJ S PART DEM TAM VT SUF PERS SREL
+\l La santa escuela asta ahora nos recordamos de el.
+\gs GT GT GT GT GL GL GT GL GT GL GT GT GL
+\p PART#PART PART#PART PART#PART DEM#DEM ADJ S PART#PART DEM INC#TAM VT SC#SUF E1P#PERS SREL
+
+\ref trtex029Usp04 336
+\t Per kita' chiki' luwar,+
+\m peer NEG chik -i' luwar
+\g pero PART PART ENF lugar
+\c ADV PART PART PART S
+\l Pero ya no se puede.
+\gs GL GT GL GL
+\p ADV NEG#PART PART#PART ENF#PART S
+
+\ref trtex029Usp04 337
+\t ya, ya oj chaq ri'j,+
+\m ya ya oj chaq ri'j
+\g ya ya nosotros PL viejo
+\c VOC VOC PRON PART S
+\l Ya estamos viejos.
+\gs GL GL GL GT GL
+\p VOC VOC PRON PL#PART S
+
+\ref trtex029Usp04 338
+\t ta' chiki' oj kwin.+
+\m ta' chik -i' oj kwin
+\g NEG PART ENF nosotros poder
+\c PART PART PART PRON VI
+\l Ya no podemos.
+\gs GT GT GL GL GL
+\p NEG#PART PART#PART ENF#PART PRON VI
+
+\ref trtex029Usp04 339
+\t Neen, neen k'u moo+
+\m neen neen k'u mood
+\g como como PART modo
+\c ADV ADV PART ADV
+\l Pero como ya no se puede.
+\gs GL GL GT GL
+\p ADV ADV PART#PART ADV
+
+\ref trtex029Usp04 340
+\t r-ee, r-ee, r-ee jun chaak tqak'am.+
+\m r- e r- e r- e jun chaak ti- qa- k'am
+\g E3S SREL E3S SREL E3S SREL un trabajo INC E1P recibir
+\c PERS SREL PERS SREL PERS SREL ART S TAM PERS VT
+\l Para recibir un trabajo.
+\gs GT GL GT GL GT GL GL GL GT GT GL
+\p E3S#PERS SREL E3S#PERS SREL E3S#PERS SREL ART S INC#TAM E1P#PERS VT
+
+\ref trtex029Usp04 341
+\t Kita', kita' tijna'w,+
+\l Ya no se puede.
+
+\ref trtex029Usp04 342
+\t oor oj xaq qachaak+
+\m oor oj xaq qa- chaak
+\g hora nosotros solo E1P trabajo
+\c ADV PRON PART PERS S
+\l Ahora nosotros solamente nuestro trabajo.
+\gs GL GL GL GT GL
+\p ADV PRON PART E1P#PERS S
+
+\ref trtex029Usp04 343
+\t oj xaq ch asroon,+
+\m oj xaq chi asroon
+\g nosotros solo PREP azadon
+\c PRON PART PREP S
+\l Nosotros solo con azadón.
+\gs GL GL GT GL
+\p PRON PART PREP#PREP S
+
+\ref trtex029Usp04 344
+\t xaq chi moor.+
+\m xaq chi moor
+\g solo PREP machete
+\c PART PREP S
+\l Solo con machete.
+\gs GL GT GL
+\p PART PREP#PREP S
+
+\ref trtex029Usp04 345
+\t I sib'laj tqakos qib'.+
+\m i ti- qa- kos
+\g CONJ INC E1P cansar
+\c CONJ TAM PERS VI
+\l Y como nos cansamos.
+\gs GT GT GT GL
+\p CONJ#CONJ INC#TAM E1P#PERS VI
+
+\ref trtex029Usp04 346
+\t I kita' nad t qach'ek,+
+\m i nada qa- ch'ek
+\g CONJ nada E1P ganar
+\c CONJ ADV PERS VT
+\l Y no ganamos nada.
+\gs GT GL GT GL
+\p CONJ#CONJ ADV E1P#PERS VT
+
+\ref trtex029Usp04 347
+\t sib' laj k'ex tqatij.+
+\m seb' laj k'ex
+\g ITS PREP dolor
+\c PART PREP ADJ
+\l Y como SUFrimos.
+\gs GT GT GL
+\p ITS#PART PREP#PREP ADJ
+
+\ref trtex029Usp04 348
+\t I kita' naa t qach'ek,+
+\m i nada qa- ch'ek
+\g CONJ nada E1P ganar
+\c CONJ ADV PERS VT
+\l Y no ganamos nada.
+\gs GT GL GT GL
+\p CONJ#CONJ ADV E1P#PERS VT
+
+\ref trtex029Usp04 349
+\t kita' xaq tqakamsaj qib' li chaak.+
+\m xaq ti- qa- kam -sáj li chaak
+\g solo INC E1P morir PAS en trabajo
+\c PART TAM PERS VI SUF PREP S
+\l No solo nos matamos en el trabajo.
+\gs GL GT GT GL GT GL GL
+\p PART INC#TAM E1P#PERS VI PAS#SUF PREP S
+
+\ref trtex029Usp04 350
+\t Lajori oj rijeb' jwi'l chaak mas tqakos qib' li chaak.+
+\m lajori oj j- wi'l chaak maas ti- qa- kos qib' li chaak
+\g ahora nosotros E3S SREL trabajo más INC E1P cansar ??? en trabajo
+\c ADV PRON PERS SREL S ADV TAM PERS VI ??? PREP S
+\l Nos envejecemos muy rápido por el trabajo nos cansamos mucho.
+\gs GL GL GT GL GL GL GT GT GL logged GL GL
+\p ADV PRON E3S#PERS SREL S ADV INC#TAM E1P#PERS VI ??? PREP S
+
+\ref trtex029Usp04 351
+\t Por ke jwili, jwili kita',+
+\m por ke j- wi'l -i'n j- wi'l -i'n kita'
+\g por que E3S SREL ENF E3S SREL ENF NEG
+\c ADV PART PERS SREL PART PERS SREL PART PART
+\l Por que por que no:
+\gs GL GL GT GL GL GT GL GL
+\p ADV PART E3S#PERS SREL ENF#PART E3S#PERS SREL ENF#PART NEG#PART
+
+\ref trtex029Usp04 352
+\t kita' qa kita' qetam tqasik'ij jwich wuj.+
+\m qe q- etaam j- wiich wuuj
+\g ??? E1P saber E3S SREL papel
+\c ??? PERS S PERS SREL S
+\l Por que no sabemos leer.
+\gs logged GT GL GT GL GL
+\p ??? E1P#PERS S E3S#PERS SREL S
+
+\ref trtex029Usp04 353
+\t Tons ri' k'u li.+
+\m entoons ri' k'u li
+\g entonces eso@es PART DEM
+\c ADV DEM PART DEM
+\l Entonces eso es.
+\gs GL GL GT GT
+\p ADV DEM PART#PART DEM#DEM
+
+\ref trtex029Usp04 354
+\t I laq,+
+\m i laq
+\g CONJ PREP
+\c CONJ PREP
+\l Y en.
+\gs GT GT
+\p CONJ#CONJ PREP#PREP
+
+\ref trtex029Usp04 355
+\t laj qakomunidad wi' chaak ti, ti ti ye'saj chi qe.+
+\m laj qa- komunida wi' chaak ti' ye' -sáj chi qe
+\g PREP E1P comunidad EXS trabajo ??? dar PAS PREP PART
+\c PREP PERS S EXS S ??? VT SUF PREP PART
+\l En nuestra comunidad hay trabajo que nos dan.
+\gs GT GT GL GT GL logged GL GT GT GT
+\p PREP#PREP E1P#PERS S EXS#EXS S ??? VT PAS#SUF PREP#PREP PART#PART
+
+\ref trtex029Usp04 356
+\t Jii pcha' r-ee komo jun komitee,+
+\m jii' r- e koom jun komitee
+\g AFI E3S SREL como un comite
+\c PART PERS SREL PART ART S
+\l Asi como de un comité.
+\gs GT GT GL GL GL GL
+\p AFI#PART E3S#PERS SREL PART ART S
+
+\ref trtex029Usp04 357
+\t r-ee jun alkald awsiliyar,+
+\m r- e jun alkalde awsilyaar
+\g E3S SREL un alcalde auxiliar
+\c PERS SREL ART S S
+\l Para alcalde auxiliar.
+\gs GT GL GL GL GL
+\p E3S#PERS SREL ART S S
+
+\ref trtex029Usp04 358
+\t r-ee jun qelen chik tijya' taq chi qe,+
+\m r- e jun qleen chik ti- j- ya' taq chi'
+\g E3S SREL un cosas PART INC E3S dar PL PREP
+\c PERS SREL ART S PART TAM PERS VT PL PREP
+\gs GT GL GL GL GT GT GT GL GT GT
+\p E3S#PERS SREL ART S PART#PART INC#TAM E3S#PERS VT PL#PL PREP#PREP
+
+\ref trtex029Usp04 359
+\t li, li, li, li komunidad.+
+\m li li li li komunida
+\g en en en en comunidad
+\c PREP PREP PREP PREP S
+\l En la comunidad.
+\gs GL GL GL GL GL
+\p PREP PREP PREP PREP S
+
+\ref trtex029Usp04 360
+\t Ta' luwar oj chaakun,+
+\m ta' luwar ooj chaak -un
+\g NEG lugar nosotros trabajo AP
+\c PART S PRON S SUF
+\l No podemos trabajar.
+\gs GT GL GL GL GT
+\p NEG#PART S PRON S AP#SUF
+
+\ref trtex029Usp04 361
+\t por ke kita' oj, oj, oj, oj qasik'ij jwich wuj.+
+\m por ke oj ooj ooj ooj j- wiich wuuj
+\g por que nosotros nosotros nosotros nosotros E3S SREL papel
+\c ADV PART PRON PRON PRON PRON PERS SREL S
+\l Por que no sabemos leer los papeles.
+\gs GL GL GL GL GL GL GT GL GL
+\p ADV PART PRON PRON PRON PRON E3S#PERS SREL S
+
+\ref trtex029Usp04 362
+\t I tijya' taq jun wuj chi qe.+
+\m i t- j- ye' taq jun wuuj chi
+\g CONJ INC E3S dar PL un papel PREP
+\c CONJ TAM PERS VT PL ART S PREP
+\l Y nos dan un papel a nosotros.
+\gs GT GT GT GL GT GL GL GT
+\p CONJ#CONJ INC#TAM E3S#PERS VT PL#PL ART S PREP#PREP
+
+\ref trtex029Usp04 363
+\t Tqila' jwich loq'laj wuj,+
+\m j- wiich loq'laj wuuj
+\g E3S SREL santo papel
+\c PERS SREL ADJ S
+\l Miramos el santo papel.
+\gs GT GL GL GL
+\p E3S#PERS SREL ADJ S
+
+\ref trtex029Usp04 364
+\t per ta' qetam tqasik'ij.+
+\m peer ta' q- etaam
+\g pero NEG E1P saber
+\c ADV PART PERS S
+\l Pero no sabemos leerlo.
+\gs GL GT GT GL
+\p ADV NEG#PART E1P#PERS S
+
+\ref trtex029Usp04 365
+\t Tos ri' k'u li rejwex ke jinompcha' qab'anik oj,+
+\m entoons ri' k'u li rejwex ke qa- b'an -ik ooj
+\g entonces eso@es PART DEM necesidad que E1P hacer SC nosotros
+\c ADV DEM PART DEM S PART PERS VT SUF PRON
+\l Entonces así es que es necesario, asi como nosotros.
+\gs GL GL GT GT GL GL GT GL GT GL
+\p ADV DEM PART#PART DEM#DEM S PART E1P#PERS VT SC#SUF PRON
+
+\ref trtex029Usp04 366
+\t wi' tne' tb'itu jwich qayol.+
+\m wi' ti- ne' ??? j- wiich qa- yol
+\g EXS INC NEG ??? E3S SREL E1P idioma
+\c EXS TAM PART ??? PERS SREL PERS S
+\l Ojalá que ubiera alquien que levante nuestro idioma.
+\gs GT GT GT GT GL GT GL
+\p EXS#EXS INC#TAM NEG#PART ??? E3S#PERS SREL E1P#PERS S
+
+\ref trtex029Usp04 367
+\t Puwes oj loke chqaj oj,+
+\m pwees oj loke oj
+\g pues nosotros loque nosotros
+\c ADV PRON ADV PRON
+\l Pues nosotros queremos.
+\gs GL GL GL GL
+\p ADV PRON ADV PRON
+
+\ref trtex029Usp04 368
+\t tqetmaj sik'ij jwich qayolj.+
+\m j- wiich qa- yol -j
+\g E3S SREL E1P idioma SC
+\c PERS SREL PERS S SUF
+\l Quisieramos saber leer nuestro idioma.
+\gs GT GL GT GL GT
+\p E3S#PERS SREL E1P#PERS S SC#SUF
+
+\ref trtex029Usp04 369
+\t Por ke qayolj k'exi' jtz'ib'aj.+
+\m por ke qa- yol -j k'ex -i' ???
+\g por que E1P idioma SC dolor ENF ???
+\c ADV PART PERS S SUF ADJ PART ???
+\l Por que nuestro idioma cuesta escribirlo.
+\gs GL GL GT GL GT GL GL
+\p ADV PART E1P#PERS S SC#SUF ADJ ENF#PART ???
+
+\ref trtex029Usp04 370
+\t K'exi' jsik'ij jwich.+
+\m k'ex -i'n ??? j- wiich
+\g dolor ENF ??? E3S SR
+\c ADJ PART ??? PERS SREL
+\l Cuesta leerlo.
+\gs GL GL GT GL
+\p ADJ ENF#PART ??? E3S#PERS SREL
+
+\ref trtex029Usp04 371
+\t Pero oj tijoj,+
+\m peer ooj tijo -j
+\g pero nosotros enseñar SC
+\c ADV PRON VT SUF
+\l Pero si nos enseñan.
+\gs GL GL GL GT
+\p ADV PRON VT SC#SUF
+
+\ref trtex029Usp04 372
+\t oj kwini'n qes tinb'an tantiyar iin.+
+\m ooj kwin -i'n qas ti- in- b'an tantyar iin
+\g nosotros poder ENF ITS INC E1S hacer tantear yo
+\c PRON VI PART ITS TAM PERS VT VT PRON
+\l Podemos digo yo.
+\gs GL GL GL GT GT GT GL GL GL
+\p PRON VI ENF#PART ITS#ITS INC#TAM E1S#PERS VT VT PRON
+
+\ref trtex029Usp04 373
+\t Oj kwini'n+
+\m ooj kwin -i'n
+\g nosotros poder ENF
+\c PRON VI PART
+\l Podemos hombre.
+\gs GL GL GL
+\p PRON VI ENF#PART
+
+\ref trtex029Usp04 374
+\t per wi' neen oj tijon.+
+\m peer wi' neen oj tijon
+\g pero EXS quien nosotros enseñar
+\c ADV EXS ADV PRON VT
+\l Pero que aya quien nos enseñe.
+\gs GL GT GL GL GL
+\p ADV EXS#EXS ADV PRON VT
+
+\ref trtex029Usp04 375
+\t Per rejwexi' ajk'amol taq qab'ee.+
+\m peer rejwex -i' aj- k'am -ool taq qa- b'e
+\g pero necesidad ENF AGT guiar SAB PL E1P camino
+\c ADV S PART PREF VT SUF PL PERS S
+\l Pero es necesario que tengamos un dirigente. (un güía)
+\gs GL GL GL GT GL GT GT GT GL
+\p ADV S ENF#PART AGT#PREF VT SAB#SUF PL#PL E1P#PERS S
+
+\ref trtex029Usp04 376
+\t Si m kita' neen, neen oj tuk'u.+
+\m si ma neen neen ooj
+\g si PART quien quien nosotros
+\c ADV PART ADV ADV PRON
+\l Si no hay quien nos empuje.
+\gs GL GT GL GL GL
+\p ADV PART#PART ADV ADV PRON
+
+\ref trtex029Usp04 377
+\t Kita' neen ti, ti oj tow tra k'itja',+
+\m neen ti' ooj tra k'itij -a'
+\g quien ??? nosotros DIM poco ENF
+\c ADV ??? PRON PART ADV PART
+\l No hay quien nos ayude un poco.
+\gs GL logged GL GT GL GL
+\p ADV ??? PRON DIM#PART ADV ENF#PART
+
+\ref trtex029Usp04 378
+\t kita' ojkwin, kita' ojkwin.+
+\m oj- kwin oj- kwin
+\g A1P poder A1P poder
+\c PERS VI PERS VI
+\l No hay quien nos ayude.
+\gs GT GL GT GL
+\p A1P#PERS VI A1P#PERS VI
+
+\ref trtex029Usp04 379
+\t Por ke niri tqila' oj ke si qayolj t chkoni'n,+
+\m por ke niri ooj ke si qa- yol -j chikon -i'n
+\g por que aqui nosotros que si E1P idioma SC servir ENF
+\c ADV PART ADV PRON PART ADV PERS S SUF VI PART
+\l Porque aquí vemos nosotros que nuestro idioma es necesario.
+\gs GL GL GL GL GL GL GT GL GT GL GL
+\p ADV PART ADV PRON PART ADV E1P#PERS S SC#SUF VI PART#ENF
+
+\ref trtex029Usp04 380
+\t oj kwini'n chi jyolik qayolj.+
+\m oj kwin -i'n chi j- yol -ik qa- yol -j
+\g nosotros poder ENF PREP E3S plática SC E1P idioma SC
+\c PRON VI PART PREP PERS S SUF PERS S SUF
+\l Podemos hablar nuestro idioma.
+\gs GL GL GL GT GT GL GT GT GL GT
+\p PRON VI ENF#PART PREP#PREP E3S#PERS S SC#SUF E1P#PERS S SC#SUF
+
+\ref trtex029Usp04 381
+\t Per ta' oj kwin chi jtz'ib'aj,+
+\m per ta' oj kwin chi
+\g pero NEG nosotros poder PREP
+\c ADV PART PRON VI PREP
+\l Pero no podemos escribirlo.
+\gs GL GT GL GL GT
+\p ADV NEG#PART PRON VI PREP#PREP
+
+\ref trtex029Usp04 382
+\t kita' ojkwin chi jtz'ib'aj.+
+\m oj- kwin chi
+\g A1P poder PREP
+\c PERS VI PREP
+\l No podemos escribirlo.
+\gs GT GL GT
+\p A1P#PERS VI PREP#PREP
+
+\ref trtex029Usp04 383
+\t Ri' k'u li tijb'ij taq, taq ra peep xkan taq.+
+\m ri' k'u li taq taq ra peep x- kan taq
+\g eso@es PART DEM PL PL DIM pepe COM quedar PL
+\c DEM PART DEM PL PL PART S TAM VI PL
+\l Eso es loque dicen los güérfanos.
+\gs GL GT GT GT GT GT GL GT GL GT
+\p DEM PART#PART DEM#DEM PL#PL PL#PL DIM#PART S COM#TAM VI PL#PL
+
+\ref trtex029Usp04 384
+\t Lojori oj chi qaj tqatijoj qib' r-ee laj qayolj,+
+\m lajori oj chi qib' r- e laj qa- yol -j
+\g ahora nosotros PREP ??? E3S SREL PREP E1P idioma SC
+\c ADV PRON PREP ??? PERS SREL PREP PERS S SUF
+\l Ahora nosotros queremos aprender nuestro idioma.
+\gs GL GL GT logged GT GL GT GT GL GT
+\p ADV PRON PREP#PREP ??? E3S#PERS SREL PREP#PREP E1P#PERS S SC#SUF
+
+\ref trtex029Usp04 385
+\t cha' taq,+
+\m cha' taq
+\g dice PL
+\c VI PL
+\l Dicen ellos.
+\gs GL GT
+\p VI PL#PL
+
+\ref trtex029Usp04 386
+\t oj chqaj tqatijoj qib'.+
+\m oj qib'
+\g nosotros ???
+\c PRON ???
+\l Nosotros queremos a prender.
+\gs GL logged
+\p PRON ???
+
+\ref trtex029Usp04 387
+\t Chqaj tqab'an jwa'x,+
+\m ti- qa- b'an j- wa'x
+\g INC E1P hacer E3S componer/arreglar
+\c TAM PERS VT PERS VI
+\l Queremos areglarlo.
+\gs GT GT GL GT GL
+\p INC#TAM E1P#PERS VT E3S#PERS VI
+
+\ref trtex029Usp04 388
+\t tqa tqatok neen tqab'an,+
+\m neen ti- qa- b'an
+\g que INC E1P hacer
+\c ADV TAM PERS VT
+\l Buscamos que hacer.
+\gs GL GT GT GL
+\p ADV INC#TAM E1P#PERS VT
+
+\ref trtex029Usp04 389
+\t ri' tk'u oj wi'tnen tch'aw chi qij oj+
+\m ri' ti- k'u oj ti- ch'aw chi qe -ij oj
+\g eso@es INC PART nosotros INC hablar PREP ??? ??? nosotros
+\c DEM TAM PART PRON TAM VI PREP ??? ??? PRON
+\l Si ubiera quien nos diera un apoyo.
+\gs GL GT GT GL GT GL GT logged logged GL
+\p DEM INC#TAM PART#PART PRON INC#TAM VI PREP#PREP ??? ??? PRON
+
+\ref trtex029Usp04 390
+\t t qatijoji' qib',+
+\m qa- tijo -j -i' ???
+\g E1P aprender SC ENF ??? 
+\c PERS VT SUF PART ??? 
+\l Nosotros vamos aprender.
+\gs GT GL GT GL
+\p E1P#PERS VT SC#SUF ENF#PART ??? 
+
+\ref trtex029Usp04 391
+\t cha'.+
+\m cha'
+\g dice
+\c VI
+\l Dicen.
+\gs GL
+\p VI
+
+\ref trtex029Usp04 392
+\t Kita' retam tijsik'ij taq jwich wuj.+
+\m r- etaam taq j- wiich wuuj
+\g E3S saber PL E3S SREL papel
+\c PERS S PL PERS SREL S
+\l No saben leer el papel.
+\gs GT GL GT GT GL GL
+\p E3S#PERS S PL#PL E3S#PERS SREL S
+
+\ref trtex029Usp04 393
+\t Kom tra peep.+
+\m koom tra peep
+\g como DIM pepe
+\c PART PART S
+\l Como son güérfanos.
+\gs GL GT GL
+\p PART DIM#PART S
+
+\ref trtex029Usp04 394a
+\t Antons xij taq.+
+\m antonses xílij taq
+\g entonces adentro PL
+\c ADV SREL PL
+\gs GL GL GT
+\p ADV SREL PL#PL
+
+\ref trtex029Usp04 394b
+\t Lojori oj chqaj tqasik'ij jwich wuj,+
+\m ajori oj j- wiich wuuj
+\g ahora nosotros E3S SREL papel
+\c ADV PRON PERS SREL S
+\l Nosotros queremos a leer.
+\gs GL GL GT GL GL
+\p ADV PRON E3S#PERS SREL S
+
+\ref trtex029Usp04 395
+\t wi' tineen tk'utuw chqawch.+
+\m wi' ti- neen
+\g EXS INC quien
+\c EXN TAM ADV
+\l Que si ubiera quien nos enseñe.
+\gs GT GT GL
+\p EXS#EXS INC#TAM ADV
+
+\ref trtex029Usp04 396
+\t Per kom oj kita' ta'l qawi'l neen ku li+
+\m peer koom oj neen k'u li
+\g pero como nosotros quien PART DEM
+\c ADV PART PRON ADV PART DEM
+\l Pero como nosotros no hemos encontrado que es.
+\gs GL GL GL GL GT GT
+\p ADV PART PRON ADV PART#PART DEM#DEM
+
+\ref trtex029Usp04 397
+\t ti, ti ch'aw chi qij r-ee, r-ee oj t'o' taq.+
+\m ch'aw chi r- e r- e oj t'o' taq
+\g hablar PREP E3S SREL E3S SREL nosotros ayudar PL
+\c VI PREP PERS SREL PERS SREL PRON VT PL
+\l Si alguien nos ayudara.
+\gs GL GT GT GL GT GL GL GL GT
+\p VI PREP#PREP E3S#PERS SREL E3S#PERS SREL PRON VT PL#PL
+
+\ref trtex029Usp04 398
+\t Porke r-ee tb'it jun kitz qano'j,+
+\m porke r- e ti- b'it jun kitz qa- no'j
+\g porque E3S SREL INC levantar uno poco E1P conocimiento
+\c ADV PERS SREL TAM VT NUM ADV PERS S
+\l Para que se levante un poco nuestros conocimientos.
+\gs GL GT GL GT GL GL GL GT GL
+\p ADV E3S#PERS SREL INC#TAM VT NUM ADV E1P#PERS S
+
+\ref trtex029Usp04 399
+\t oj kwin ke tqa, tqa, tqa b'it+
+\m oj kwin ke taq taq taq b'it
+\g nosotros poder que PL PL PL levantar
+\c PRON VI PART PL PL PL VT
+\l Si pudieramos levantarlo.
+\gs GL GL GL GT GT GT GL
+\p PRON VI PART PL#PL PL#PL PL#PL VT
+
+\ref trtex029Usp04 400
+\t tqanimirsaj jwich qayolj.+
+\m ti- qa- nim -ir -sáj j- wiich qa- yol -j
+\g INC E1P grande ITR PAS E3S SREL E1P idioma SC
+\c TAM PERS ADJ SUF SUF PERS SREL PERS S SUF
+\l Engrandecer el idioma.
+\gs GT GT GL GT GT GT GL GT GL GT
+\p INC#TAM E1P#PERS ADJ ITR#SUF PAS#SUF E3S#PERS SREL E1P#PERS S SC#SUF
+
+\ref trtex029Usp04 401
+\t Tqab'an jwa'x juntir+
+\m ti- qa- b'an j- wa'x juntiir
+\g INC E1P hacer E3S componer/arreglar todo
+\c TAM PERS VT PERS VI ADV
+\l Para areglarlo todo.
+\gs GT GT GL GT GL GL
+\p INC#TAM E1P#PERS VT E3S#PERS VI ADV
+
+\ref trtex029Usp04 402
+\t ri' sub'laj tzii,+
+\m ri' tzii
+\g eso@es bueno
+\c DEM ADJ
+\l ESo sería lo major.
+\gs GL GL
+\p DEM ADJ
+
+\ref trtex029Usp04 403
+\t cha'.+
+\m cha'
+\g dice
+\c VI
+\l Dice.
+\gs GL
+\p VI
+
+\ref trtex029Usp04 404
+\t kwand jun tikwin chi jtz'ib'aj jyolj.+
+\m kwand jun ti- kwin chi j- yol -j
+\g cuando un INC poder PREP E3S idioma SC
+\c ADV ART TAM VI PREP PERS S SUF
+\l Cuando uno puede escribir su idioma.
+\gs GL GL GT GL GT GT GL GT
+\p ADV ART INC#TAM VI PREP#PREP E3S#PERS S SC#SUF
+
+\ref trtex029Usp04 405
+\t Jun oji' ajtilmit tqab'ij,+
+\m jun oj -i' aj- tinmit ???
+\g un somos ENF GNT pueblo ??? 
+\c ART ADV PART PREF S ??? 
+\l Uno dice que somos del pueblo.
+\gs GL GL GL GT GL
+\p ART ADV ENF#PART GNT#PREF S ???
+
+\ref trtex029Usp04 406
+\t oji' ajtilimit.+
+\m oj -i' aj- tinmit
+\g somos ENF GNT pueblo
+\c ADV PART PREF S
+\l Y somos del pueblo.
+\gs GL GL GT GL
+\p ADV ENF#PART GNT#PREF S
+
+\ref trtex029Usp04 407
+\t Per kita', kita' chiki' oj kwin tqatz'ib'aj qayolj.+
+\m peer kita' kita' chik -i' oj kwin ??? qa- yol -j
+\g pero NEG NEG PART ENF nosotros poder ??? E1P idioma SC
+\c ADV PART PART PART PART PRON VI ??? PERS S SUF
+\l Pero no podemos escribir nuestro idioma.
+\gs GL GT GL GL GL GT GL GT
+\p ADV NEG#PART NEG#PART PART#PART ENF#PART PRON VI ??? E1P#PERS S SC#SUF
+
+\ref trtex029Usp04 408
+\t I kita' chiki' qetz oj kwin tqasuk'saj b'yeen.+
+\m i kita' chik -i' qas oj kwin ??? byeen
+\g CONJ NEG PART ENF ITS nosotros poder ??? bien
+\c CONJ PART PART PART ITS PRON VI ??? ADV
+\l Y ya no podemos enderezarlo bien.
+\gs GT GT GL GT GL GL GL
+\p CONJ#CONJ NEG#PART PART#PART ENF#PART ITS#ITS PRON VI ??? ADV
+
+\ref trtex029Usp04 409
+\t Ri' k'u li lojori chqaj oj ke wi' tene' tch'aw chi qij.+
+\m ri' k'u li lajori oj ke wi' tan -e' ti- ch'aw chi qe -ij
+\g eso@es PART DEM ahora nosotros que EXS tramo SC INC hablar PREP ??? ???
+\c DEM PART DEM ADV PRON PART EXS MED SUF TAM VI PREP ??? ???
+\l Y ahora lo queremos es que ubiera quien por nosotros.
+\gs GL GT GT GL GL GL GT GL GT GT GL GT logged logged
+\p DEM PART#PART DEM#DEM ADV PRON PART EXS#EXS MED SC#SUF INC#TAM VI PREP#PREP ??? ???
+
+\ref trtex029Usp04 410
+\t Pwes (q'oo...) no pcha' qech'elxik,+
+\m pwees ??? noo ??? ???
+\g pues ??? no ??? ???
+\c ADV ??? ADV ??? ???
+\l Pues asi como nuestros hermanos.
+\gs GL GL
+\p ADV ??? ADV ??? ???
+
+\ref trtex029Usp04 411
+\t aj Xetlox,+
+\m aj Xe'tloox
+\g PART Las@pacayas
+\c PART TOP
+\l Los de las pacayas.
+\gs GT GL
+\p PART#PART TOP
+
+\ref trtex029Usp04 412
+\t ajniri ajb'aa q'anchelaj,+
+\m aj- niri aj- b'aa
+\g GNT aqui GNT cabeza
+\c PREF ADV PREF S
+\l Los de aquí de el pinal.
+\gs GT GL GT GL
+\p GNT#PREF ADV GNT#PREF S
+
+\ref trtex029Usp04 413
+\t tqamulaj qib'.+
+\l Nos eunimos.
+
+\ref trtex029Usp04 414
+\t Wi' t k'u jun, jun, jun ajk'omol taq b'ee.+
+\m wi' k'u jun jun jun aj- k'am -ol taq b'e
+\g EXS PART un un un AGT guiar SAB PL camino
+\c EXS PART ART ART ART PREF VT SUF PL S
+\l Si ubiera un nuestro güía.
+\gs GT GT GL GL GL GT GL GT GT GL
+\p EXS#EXS PART#PART ART ART ART AGT#PREF VT SAB#SUF PL#PL S
+
+\ref trtex029Usp04 415a
+\t Puwes ke, ke oj t'o' taq r-ee tqa tqakojtne'+
+\m pwees ke ke ooj t'o' taq r- e taq
+\g pues que que nosotros ayudar PL E3S SREL ???
+\c ADV PART PART PRON VT PL PERS SREL ???
+\l Pues que nos ayuden para poner.
+\gs GL GL GL GL GL GT GT GL logged
+\p ADV PART PART PRON VT PL#PL E3S#PERS SREL ???
+
+\ref trtex029Usp04 415b
+\t tra, tra, tra, traa sentro eskritur.+
+\m tra tra tra tra sentro eskritur
+\g DIM DIM DIM DIM centro escritura
+\c PART PART PART PART S S
+\l Los centros de escritura.
+\gs GT GT GT GT GL GL
+\p DIM#PART DIM#PART DIM#PART DIM#PART S S
+
+\ref trtex029Usp04 416
+\t Puwes ke r-ee, r-ee, r-ee tqatijoj qib'+
+\m pwees ke r- e r- e r- e
+\g pues que E3S SREL E3S SREL E3S SR
+\c ADV PART PERS SREL PERS SREL PERS SREL
+\l Pues asi vamos aprender.
+\gs GL GL GT GL GT GL GT GL
+\p ADV PART E3S#PERS SREL E3S#PERS SREL E3S#PERS SREL
+
+\ref trtex029Usp04 417
+\t ri' li jun utzil,+
+\m ri' li jun utz -il
+\g eso@es DEM un bueno SAB
+\c DEM DEM ART ADV SUF
+\l Eso es un bien.
+\gs GL GT GL GL GT
+\p DEM DEM#DEM ART ADV SAB#SUF
+
+\ref trtex029Usp04 418
+\t ri' li ju jb'itb'el qa qayolj.+
+\m ri' li ju j- b'it -b'il qe qa- yol -j
+\g eso@es DEM un E3S levantar INS ??? E1P idioma SC
+\c DEM DEM ART PERS VT SUF ??? PERS S SUF
+\l Eso sería como la manera de levantar nuestro idioma.
+\gs GL GT GL GT GL GT logged GT GL GT
+\p DEM DEM#DEM ART E3S#PERS VT INS#SUF ??? E1P#PERS S SC#SUF
+
+\ref trtex029Usp04 419
+\t Por ke qetami'n ke, ke, ke ójor taq tzij.+
+\m por ke qa- etaam -i'n ke ke ke ójor taq tzij
+\g por que E1P saber ENF que que que antiguamente PL palabra
+\c ADV PART PERS S PART PART PART PART ADV PL S
+\l Porque sabemos que en la antigüedad.
+\gs GL GL GT GL GL GL GL GL GL GT GL
+\p ADV PART E1P#PERS S ENF#PART PART PART PART ADV PL#PL S
+
+\ref trtex029Usp04 420
+\t Niri tqaya' kwenta pwes,+
+\m niri kweent pwees
+\g aqui cuenta pues
+\c ADV S ADV
+\l Aquí nos damos cuenta pues.
+\gs GL GL GL
+\p ADV S ADV
+
+\ref trtex029Usp04 421
+\t ke kita', kita', kita' ni kita' qetam+
+\m ke ni q- etam
+\g que NEG E1P conocimiento
+\c PART PART PERS S
+\l Que no sabemos.
+\gs GL GT GT GL
+\p PART NEG#PART E1P#PERS S
+
+\ref trtex029Usp04 422
+\t oj yolow li k'axlan tzij.+
+\m ooj yolow li kaxlan tzij
+\g nosotros platicar DEM ladino palabra
+\c PRON VI DEM S S
+\l No hablamos en castellano.
+\gs GL GL GT GL GL
+\p PRON VI DEM#DEM S S
+
+\ref trtex029Usp04 423
+\t Kita' qetam, chusil, chusil, chusil xqetmaji' oj yolow.+
+\m q- etaam ch- usiil ch- usiil ch- usiil oj yolow
+\g E1P saber INC poco@a@poco INC poco@a@poco INC poco@a@poco nosotros platicar
+\c PERS S TAM ADV TAM ADV TAM ADV PRON VI
+\l No sabíamos pero poco a poco aprendimos hablar.
+\gs GT GL GT GL GT GL GT GL GL GL
+\p E1P#PERS S INC#TAM ADV INC#TAM ADV INC#TAM ADV PRON VI
+
+\ref trtex029Usp04 424
+\t Per kita' qes oj kwin,+
+\m peer qas oj kwin
+\g pero ITS nosotros poder
+\c ADV ITS PRON VI
+\l Pero no muy podemos.
+\gs GL GT GL GL
+\p ADV ITS#ITS PRON VI
+
+\ref trtex029Usp04 425
+\t qes qasuk'usaj rk'axlan tzij.+
+\m qas r- kaxlan tzij
+\g ITS E3S ladino palabra
+\c ITS PERS S S
+\l Enderezar el castellano.
+\gs GT GT GL GL
+\p ITS#ITS E3S#PERS S S
+
+\ref trtex029Usp04 426
+\t Kom kita', kita' neen kita', kita' xqatijoj qiyeqib' l eskwela,+
+\m koom kita' kita' neen kita' kita' ??? qa- ye' -aq -iib' li eskweel
+\g como NEG NEG quien NEG NEG ??? E1P dar PL RFX en escuela
+\c PART PART PART ADV PART PART ??? PERS VT SUF RFX PREP S
+\l Como no aprendimos, no nos dejamos en la escuela.
+\gs GL GL GT GL GT GL GL GL
+\p PART NEG#PART NEG#PART ADV NEG#PART NEG#PART ??? E1P#PERS VT PL#SUF RFX#RFX PREP S
+
+\ref trtex029Usp04 427
+\t ta' nad.+
+\m ta' nada
+\g NEG nada
+\c PART ADV
+\l No hay nada.
+\gs GT GL
+\p NEG#PART ADV
+
+\ref trtex029Usp04 428
+\t Tos ri' k'u li oj tichokoni' qawi'l,+
+\m entoons ri' k'u li oj qa- wi'l
+\g entonces eso@es PART DEM nosotros E1P SR
+\c ADV DEM PART DEM PRON PERS SREL
+\l Entonces a nosotros nos sirbe.
+\gs GL GL GT GT GL GT GL
+\p ADV DEM PART#PART DEM#DEM PRON E1P#PERS SREL
+
+\ref trtex029Usp04 429
+\t ticholoni' qawi'l.+
+\m qa- wi'l
+\g E1P SR
+\c PERS SREL
+\l Nos sirbe a nosotros.
+\gs GT GL
+\p E1P#PERS SREL
+
+\ref trtex029Usp04 430
+\t Tos ri' k'u li ke b'enol qawi'l. Pwes kee oj ojchakun juntir. I ri' k'u li, pwes ke, ke si no ta' tzii oj tqa koj saq'oril. Porke wi' jun, jun istorya tijyol taq, chi rij jun, jun wunaq ójor, cha'. Nota esto es una brebe información sobre pasajes sobre la violencia y PARTes del idioma Uspanteko y es de 18 minuto y 33 segundos.
+\m entoons ri' k'u li ke b'an -ol qa- wi'l pwees ke oj oj- chaak -un juntiir i ri' k'u li pwees ke ke si noo ta' tzii oj taq koj saq'or -iil porke wi' jun jun istorya ti- j- yol taq chi jun jun wunaq ójor cha'
+\g entonces eso@es PART DEM que hacer SAB E1P SREL pues que nosotros A1P trabajo AP todo CONJ eso@es PART DEM pues que que si no NEG bueno nosotros PL meter perezoso SAB porque EXS un un historia INC E3S contar PL PREP un un hombre antiguamente dice
+\c ADV DEM PART DEM PART VT SUF PERS SREL ADV PART PRON PERS S SUF ADV CONJ DEM PART DEM ADV PART PART ADV ADV PART ADJ PRON PL VT ADJ SUF ADV EXS ART ART S TAM PERS VT PL PREP ART ART S ADV VI
+\l Entonces eso es loque hemos hecho, pues que nosotros todos le trabajamos, no es bueno que nosotros le hacemos caso a la perza, poque hay una historia que cuenta de un hombre ante dice:
+\gs GL GL GT GT GL GL GT GT GL GL GL GL GT GL GT GL GT GL GT GT GL GL GL GL GL GT GL GL GT GL GL GT GL GT GL GL GL GT GT GL GT GT GL GL GL GL GL
+\p ADV DEM PART#PART DEM#DEM PART VT SAB#SUF E1P#PERS SREL ADV PART PRON A1P#PERS S AP#SUF ADV CONJ#CONJ DEM PART#PART DEM#DEM ADV PART PART ADV ADV NEG#PART ADJ PRON PL#PL VT ADJ SAB#SUF ADV EXS#EXS ART ART S INC#TAM E3S#PERS VT PL#PL PREP#PREP ART ART S ADV VI

@@ -1,0 +1,540 @@
+teacher - F1 score: 0.6469048501086749 
+ Accuracy score: 0.6937149601652405 
+ Train data size: 1 
+ Penalty : 1 
+ Loss Balancer : 1
+ ========================================= 
+student - F1 score: 0.6155787290505524 
+ Accuracy score: 0.6813219238713485 
+ Train data size: 1 
+ Penalty : 1 
+ Loss Balancer : 1
+ ========================================= 
+teacher - F1 score: 0.6270762961782557 
+ Accuracy score: 0.6884036588964296 
+ Train data size: 1 
+ Penalty : 1 
+ Loss Balancer : 0.75
+ ========================================= 
+student - F1 score: 0.6246528868086645 
+ Accuracy score: 0.6851578636766008 
+ Train data size: 1 
+ Penalty : 1 
+ Loss Balancer : 0.75
+ ========================================= 
+teacher - F1 score: 0.6236211020655531 
+ Accuracy score: 0.6836825022130422 
+ Train data size: 1 
+ Penalty : 1 
+ Loss Balancer : 0.5
+ ========================================= 
+student - F1 score: 0.6306297696403662 
+ Accuracy score: 0.6823546768958395 
+ Train data size: 1 
+ Penalty : 1 
+ Loss Balancer : 0.5
+ ========================================= 
+teacher - F1 score: 0.6377659513239335 
+ Accuracy score: 0.6891413396282089 
+ Train data size: 1 
+ Penalty : 1 
+ Loss Balancer : 0.25
+ ========================================= 
+student - F1 score: 0.6324840199112142 
+ Accuracy score: 0.6898790203599882 
+ Train data size: 1 
+ Penalty : 1 
+ Loss Balancer : 0.25
+ ========================================= 
+teacher - F1 score: 0.6402970374542164 
+ Accuracy score: 0.6870758335792269 
+ Train data size: 1 
+ Penalty : 1 
+ Loss Balancer : 0
+ ========================================= 
+student - F1 score: 0.6233191175658908 
+ Accuracy score: 0.6807317792859251 
+ Train data size: 1 
+ Penalty : 1 
+ Loss Balancer : 0
+ ========================================= 
+teacher - F1 score: 0.6312243294481876 
+ Accuracy score: 0.687961050457362 
+ Train data size: 1 
+ Penalty : 0.5 
+ Loss Balancer : 1
+ ========================================= 
+student - F1 score: 0.6042249497030517 
+ Accuracy score: 0.6732074358217763 
+ Train data size: 1 
+ Penalty : 0.5 
+ Loss Balancer : 1
+ ========================================= 
+teacher - F1 score: 0.6353165662023817 
+ Accuracy score: 0.6866332251401593 
+ Train data size: 1 
+ Penalty : 0.5 
+ Loss Balancer : 0.75
+ ========================================= 
+student - F1 score: 0.6298302719517487 
+ Accuracy score: 0.683830038359398 
+ Train data size: 1 
+ Penalty : 0.5 
+ Loss Balancer : 0.75
+ ========================================= 
+teacher - F1 score: 0.6388598886672275 
+ Accuracy score: 0.6903216287990558 
+ Train data size: 1 
+ Penalty : 0.5 
+ Loss Balancer : 0.5
+ ========================================= 
+student - F1 score: 0.6357727053919363 
+ Accuracy score: 0.6894364119209206 
+ Train data size: 1 
+ Penalty : 0.5 
+ Loss Balancer : 0.5
+ ========================================= 
+teacher - F1 score: 0.6407270674180474 
+ Accuracy score: 0.6944526408970197 
+ Train data size: 1 
+ Penalty : 0.5 
+ Loss Balancer : 0.25
+ ========================================= 
+student - F1 score: 0.6415564281847406 
+ Accuracy score: 0.686043080554736 
+ Train data size: 1 
+ Penalty : 0.5 
+ Loss Balancer : 0.25
+ ========================================= 
+teacher - F1 score: 0.6362223248112409 
+ Accuracy score: 0.6844201829448214 
+ Train data size: 1 
+ Penalty : 0.5 
+ Loss Balancer : 0
+ ========================================= 
+student - F1 score: 0.6362921471693035 
+ Accuracy score: 0.6878135143110062 
+ Train data size: 1 
+ Penalty : 0.5 
+ Loss Balancer : 0
+ ========================================= 
+teacher - F1 score: 0.6403448381794277 
+ Accuracy score: 0.6891413396282089 
+ Train data size: 1 
+ Penalty : 0 
+ Loss Balancer : 1
+ ========================================= 
+student - F1 score: 0.6061220330779884 
+ Accuracy score: 0.6757155503098259 
+ Train data size: 1 
+ Penalty : 0 
+ Loss Balancer : 1
+ ========================================= 
+teacher - F1 score: 0.6392167556834089 
+ Accuracy score: 0.6858955444083801 
+ Train data size: 1 
+ Penalty : 0 
+ Loss Balancer : 0.75
+ ========================================= 
+student - F1 score: 0.6267522409171437 
+ Accuracy score: 0.6839775745057539 
+ Train data size: 1 
+ Penalty : 0 
+ Loss Balancer : 0.75
+ ========================================= 
+teacher - F1 score: 0.6391707318002202 
+ Accuracy score: 0.6878135143110062 
+ Train data size: 1 
+ Penalty : 0 
+ Loss Balancer : 0.5
+ ========================================= 
+student - F1 score: 0.6344666036978307 
+ Accuracy score: 0.6777810563588079 
+ Train data size: 1 
+ Penalty : 0 
+ Loss Balancer : 0.5
+ ========================================= 
+teacher - F1 score: 0.646713569347234 
+ Accuracy score: 0.6866332251401593 
+ Train data size: 1 
+ Penalty : 0 
+ Loss Balancer : 0.25
+ ========================================= 
+student - F1 score: 0.6168485906638193 
+ Accuracy score: 0.6826497491885511 
+ Train data size: 1 
+ Penalty : 0 
+ Loss Balancer : 0.25
+ ========================================= 
+teacher - F1 score: 0.6362370261897992 
+ Accuracy score: 0.6811743877249926 
+ Train data size: 1 
+ Penalty : 0 
+ Loss Balancer : 0
+ ========================================= 
+student - F1 score: 0.6394046684026492 
+ Accuracy score: 0.6854529359693124 
+ Train data size: 1 
+ Penalty : 0 
+ Loss Balancer : 0
+ ========================================= 
+teacher - F1 score: 0.6236193455543132 
+ Accuracy score: 0.6788138093832989 
+ Train data size: 0.7 
+ Penalty : 1 
+ Loss Balancer : 1
+ ========================================= 
+student - F1 score: 0.5922289587035152 
+ Accuracy score: 0.6670109176748303 
+ Train data size: 0.7 
+ Penalty : 1 
+ Loss Balancer : 1
+ ========================================= 
+teacher - F1 score: 0.6333541776184067 
+ Accuracy score: 0.6788138093832989 
+ Train data size: 0.7 
+ Penalty : 1 
+ Loss Balancer : 0.75
+ ========================================= 
+student - F1 score: 0.6186087412977344 
+ Accuracy score: 0.6808793154322809 
+ Train data size: 0.7 
+ Penalty : 1 
+ Loss Balancer : 0.75
+ ========================================= 
+teacher - F1 score: 0.6289871126410969 
+ Accuracy score: 0.6814694600177044 
+ Train data size: 0.7 
+ Penalty : 1 
+ Loss Balancer : 0.5
+ ========================================= 
+student - F1 score: 0.6248414437558119 
+ Accuracy score: 0.682797285334907 
+ Train data size: 0.7 
+ Penalty : 1 
+ Loss Balancer : 0.5
+ ========================================= 
+teacher - F1 score: 0.6341487827937601 
+ Accuracy score: 0.6864856889938035 
+ Train data size: 0.7 
+ Penalty : 1 
+ Loss Balancer : 0.25
+ ========================================= 
+student - F1 score: 0.6308672318491757 
+ Accuracy score: 0.6820596046031278 
+ Train data size: 0.7 
+ Penalty : 1 
+ Loss Balancer : 0.25
+ ========================================= 
+teacher - F1 score: 0.6299449716658165 
+ Accuracy score: 0.6830923576276188 
+ Train data size: 0.7 
+ Penalty : 1 
+ Loss Balancer : 0
+ ========================================= 
+student - F1 score: 0.6293888739157782 
+ Accuracy score: 0.6740926526999115 
+ Train data size: 0.7 
+ Penalty : 1 
+ Loss Balancer : 0
+ ========================================= 
+teacher - F1 score: 0.633327774995713 
+ Accuracy score: 0.6792564178223665 
+ Train data size: 0.7 
+ Penalty : 0.5 
+ Loss Balancer : 1
+ ========================================= 
+student - F1 score: 0.6040350079051077 
+ Accuracy score: 0.6690764237238124 
+ Train data size: 0.7 
+ Penalty : 0.5 
+ Loss Balancer : 1
+ ========================================= 
+teacher - F1 score: 0.6201445957944559 
+ Accuracy score: 0.6729123635290646 
+ Train data size: 0.7 
+ Penalty : 0.5 
+ Loss Balancer : 0.75
+ ========================================= 
+student - F1 score: 0.6137903623283781 
+ Accuracy score: 0.6770433756270287 
+ Train data size: 0.7 
+ Penalty : 0.5 
+ Loss Balancer : 0.75
+ ========================================= 
+teacher - F1 score: 0.6226982936553378 
+ Accuracy score: 0.6779285925051638 
+ Train data size: 0.7 
+ Penalty : 0.5 
+ Loss Balancer : 0.5
+ ========================================= 
+student - F1 score: 0.6275794075136212 
+ Accuracy score: 0.6811743877249926 
+ Train data size: 0.7 
+ Penalty : 0.5 
+ Loss Balancer : 0.5
+ ========================================= 
+teacher - F1 score: 0.6316332501477716 
+ Accuracy score: 0.6804367069932133 
+ Train data size: 0.7 
+ Penalty : 0.5 
+ Loss Balancer : 0.25
+ ========================================= 
+student - F1 score: 0.624322596615835 
+ Accuracy score: 0.6779285925051638 
+ Train data size: 0.7 
+ Penalty : 0.5 
+ Loss Balancer : 0.25
+ ========================================= 
+teacher - F1 score: 0.620413917995942 
+ Accuracy score: 0.6763056948952494 
+ Train data size: 0.7 
+ Penalty : 0.5 
+ Loss Balancer : 0
+ ========================================= 
+student - F1 score: 0.6308689165810466 
+ Accuracy score: 0.6724697550899971 
+ Train data size: 0.7 
+ Penalty : 0.5 
+ Loss Balancer : 0
+ ========================================= 
+teacher - F1 score: 0.6294659596468969 
+ Accuracy score: 0.6764532310416052 
+ Train data size: 0.7 
+ Penalty : 0 
+ Loss Balancer : 1
+ ========================================= 
+student - F1 score: 0.5966678751678569 
+ Accuracy score: 0.668338742992033 
+ Train data size: 0.7 
+ Penalty : 0 
+ Loss Balancer : 1
+ ========================================= 
+teacher - F1 score: 0.6347839412915185 
+ Accuracy score: 0.6819120684567719 
+ Train data size: 0.7 
+ Penalty : 0 
+ Loss Balancer : 0.75
+ ========================================= 
+student - F1 score: 0.62065018335907 
+ Accuracy score: 0.6779285925051638 
+ Train data size: 0.7 
+ Penalty : 0 
+ Loss Balancer : 0.75
+ ========================================= 
+teacher - F1 score: 0.6276560968259465 
+ Accuracy score: 0.6804367069932133 
+ Train data size: 0.7 
+ Penalty : 0 
+ Loss Balancer : 0.5
+ ========================================= 
+student - F1 score: 0.6172101626203967 
+ Accuracy score: 0.67984656240779 
+ Train data size: 0.7 
+ Penalty : 0 
+ Loss Balancer : 0.5
+ ========================================= 
+teacher - F1 score: 0.6344354346632959 
+ Accuracy score: 0.6764532310416052 
+ Train data size: 0.7 
+ Penalty : 0 
+ Loss Balancer : 0.25
+ ========================================= 
+student - F1 score: 0.6321135312884331 
+ Accuracy score: 0.6847152552375332 
+ Train data size: 0.7 
+ Penalty : 0 
+ Loss Balancer : 0.25
+ ========================================= 
+teacher - F1 score: 0.6352104914894305 
+ Accuracy score: 0.6833874299203305 
+ Train data size: 0.7 
+ Penalty : 0 
+ Loss Balancer : 0
+ ========================================= 
+student - F1 score: 0.6262838286099635 
+ Accuracy score: 0.6665683092357627 
+ Train data size: 0.7 
+ Penalty : 0 
+ Loss Balancer : 0
+ ========================================= 
+teacher - F1 score: 0.5992131447653952 
+ Accuracy score: 0.660224254942461 
+ Train data size: 0.35 
+ Penalty : 1 
+ Loss Balancer : 1
+ ========================================= 
+student - F1 score: 0.5480369969031973 
+ Accuracy score: 0.6317497786957804 
+ Train data size: 0.35 
+ Penalty : 1 
+ Loss Balancer : 1
+ ========================================= 
+teacher - F1 score: 0.609588320268461 
+ Accuracy score: 0.6590439657716141 
+ Train data size: 0.35 
+ Penalty : 1 
+ Loss Balancer : 0.75
+ ========================================= 
+student - F1 score: 0.5911205438569448 
+ Accuracy score: 0.6571259958689879 
+ Train data size: 0.35 
+ Penalty : 1 
+ Loss Balancer : 0.75
+ ========================================= 
+teacher - F1 score: 0.6037807310884845 
+ Accuracy score: 0.6630274417232221 
+ Train data size: 0.35 
+ Penalty : 1 
+ Loss Balancer : 0.5
+ ========================================= 
+student - F1 score: 0.5932182227661089 
+ Accuracy score: 0.6605193272351726 
+ Train data size: 0.35 
+ Penalty : 1 
+ Loss Balancer : 0.5
+ ========================================= 
+teacher - F1 score: 0.611775944943722 
+ Accuracy score: 0.660224254942461 
+ Train data size: 0.35 
+ Penalty : 1 
+ Loss Balancer : 0.25
+ ========================================= 
+student - F1 score: 0.6153607099626663 
+ Accuracy score: 0.6599291826497492 
+ Train data size: 0.35 
+ Penalty : 1 
+ Loss Balancer : 0.25
+ ========================================= 
+teacher - F1 score: 0.6040990286515161 
+ Accuracy score: 0.6599291826497492 
+ Train data size: 0.35 
+ Penalty : 1 
+ Loss Balancer : 0
+ ========================================= 
+student - F1 score: 0.5903997482837566 
+ Accuracy score: 0.6515196223074653 
+ Train data size: 0.35 
+ Penalty : 1 
+ Loss Balancer : 0
+ ========================================= 
+teacher - F1 score: 0.601034746936341 
+ Accuracy score: 0.660224254942461 
+ Train data size: 0.35 
+ Penalty : 0.5 
+ Loss Balancer : 1
+ ========================================= 
+student - F1 score: 0.5626937443616626 
+ Accuracy score: 0.6447329595750959 
+ Train data size: 0.35 
+ Penalty : 0.5 
+ Loss Balancer : 1
+ ========================================= 
+teacher - F1 score: 0.615882799895688 
+ Accuracy score: 0.6568309235762761 
+ Train data size: 0.35 
+ Penalty : 0.5 
+ Loss Balancer : 0.75
+ ========================================= 
+student - F1 score: 0.588137332283804 
+ Accuracy score: 0.6605193272351726 
+ Train data size: 0.35 
+ Penalty : 0.5 
+ Loss Balancer : 0.75
+ ========================================= 
+teacher - F1 score: 0.5981387591133807 
+ Accuracy score: 0.6588964296252582 
+ Train data size: 0.35 
+ Penalty : 0.5 
+ Loss Balancer : 0.5
+ ========================================= 
+student - F1 score: 0.5899942634650964 
+ Accuracy score: 0.6587488934789023 
+ Train data size: 0.35 
+ Penalty : 0.5 
+ Loss Balancer : 0.5
+ ========================================= 
+teacher - F1 score: 0.6055620796488863 
+ Accuracy score: 0.660224254942461 
+ Train data size: 0.35 
+ Penalty : 0.5 
+ Loss Balancer : 0.25
+ ========================================= 
+student - F1 score: 0.6086499170365268 
+ Accuracy score: 0.6529949837710239 
+ Train data size: 0.35 
+ Penalty : 0.5 
+ Loss Balancer : 0.25
+ ========================================= 
+teacher - F1 score: 0.608444503652012 
+ Accuracy score: 0.6665683092357627 
+ Train data size: 0.35 
+ Penalty : 0.5 
+ Loss Balancer : 0
+ ========================================= 
+student - F1 score: 0.603010194522828 
+ Accuracy score: 0.6594865742106816 
+ Train data size: 0.35 
+ Penalty : 0.5 
+ Loss Balancer : 0
+ ========================================= 
+teacher - F1 score: 0.5998697527903096 
+ Accuracy score: 0.6609619356742402 
+ Train data size: 0.35 
+ Penalty : 0 
+ Loss Balancer : 1
+ ========================================= 
+student - F1 score: 0.5565690408105309 
+ Accuracy score: 0.6395691944526409 
+ Train data size: 0.35 
+ Penalty : 0 
+ Loss Balancer : 1
+ ========================================= 
+teacher - F1 score: 0.6069667995183385 
+ Accuracy score: 0.6541752729418707 
+ Train data size: 0.35 
+ Penalty : 0 
+ Loss Balancer : 0.75
+ ========================================= 
+student - F1 score: 0.6021263767331702 
+ Accuracy score: 0.6606668633815285 
+ Train data size: 0.35 
+ Penalty : 0 
+ Loss Balancer : 0.75
+ ========================================= 
+teacher - F1 score: 0.6108796748873879 
+ Accuracy score: 0.6627323694305105 
+ Train data size: 0.35 
+ Penalty : 0 
+ Loss Balancer : 0.5
+ ========================================= 
+student - F1 score: 0.6078307928214693 
+ Accuracy score: 0.6358807907937445 
+ Train data size: 0.35 
+ Penalty : 0 
+ Loss Balancer : 0.5
+ ========================================= 
+teacher - F1 score: 0.6040302067505982 
+ Accuracy score: 0.660224254942461 
+ Train data size: 0.35 
+ Penalty : 0 
+ Loss Balancer : 0.25
+ ========================================= 
+student - F1 score: 0.6064738536441793 
+ Accuracy score: 0.6637651224550015 
+ Train data size: 0.35 
+ Penalty : 0 
+ Loss Balancer : 0.25
+ ========================================= 
+teacher - F1 score: 0.6084254141293013 
+ Accuracy score: 0.6614045441133077 
+ Train data size: 0.35 
+ Penalty : 0 
+ Loss Balancer : 0
+ ========================================= 
+student - F1 score: 0.6050832788234778 
+ Accuracy score: 0.6566833874299204 
+ Train data size: 0.35 
+ Penalty : 0 
+ Loss Balancer : 0
+ ========================================= 
