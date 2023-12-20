@@ -8,8 +8,6 @@ To train the teacher-student network, install all the packages in requirements.t
 pip install requirements.txt
 ```
 
-**Switch to the legacy implementation branch by running ```git checkout legacy```.**
-
 Then, navigate to ```neural-LSTM/legacy_implementation/ ``` and simply run ```python main.py```. This will run all the code using the uspanteoko_data.csv file located in the data directory.
 
 The main.py file is super unreadable and messy at the moment. It has data encoding, training, evaluation, and model saving in the same script. This was done for the purpose of submitting a simple batch job on a CURC GPU.
